@@ -1,3 +1,7 @@
+from typing import Union
+from typing import NewType
+from typing import Dict
+
 from lxml import html
 
 from httpx import Client
@@ -5,23 +9,26 @@ from httpx import Client
 from bs4 import BeautifulSoup
 
 
-STATUS_CODE:dict = {
+Request = NewType("Request", Client)
+Parsed = NewType("Parsed", html)
+HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
+
+STATUS_CODE:Dict[str, int] = {
 	"OK": 200
 }
 
 class ReadFromWeb:
 	
 	@classmethod
-	def read(cls, url:str):
+	def read(cls, url:str) -> HTMLParsed | None:
 		with Client() as client:
-			data = ""
 		
-			response = client.get(url)
+			response:Request = client.get(url)
 
 			if response.status_code == STATUS_CODE['OK']:
-				data = html.fromstring(response.text)
+				data:Parsed = html.fromstring(response.text)
 
-				html_parsed = BeautifulSoup( html.tostring(data), 'lxml')
+				html_parsed:HTMLParsed = BeautifulSoup( html.tostring(data), 'lxml')
 				
 				return html_parsed
 			
