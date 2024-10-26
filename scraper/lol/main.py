@@ -13,7 +13,7 @@ URLS:dict = {
 }
 
 
-class ScraperLOL(BaseScrape):
+class ScraperLOL:
 
 	@classmethod
 	def scraper(cls):
