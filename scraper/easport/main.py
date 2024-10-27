@@ -12,6 +12,9 @@ from bs4 import BeautifulSoup
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
 from utils.main import ReadFromFile
+from utils.main import ReadFromWeb
+
+
 
 URL:Dict[str, str] = {
 	'easport': 'https://www.ea.com/es-es',
@@ -40,27 +43,35 @@ class ScraperEASport:
 			print(f"Descripcion: {noticia.find('ea-tile-copy').string.strip()}")
 			print()
 	
+	@classmethod
+	def novedades(cls):
+		data = ReadFromFile.read(os.path.join(cls.PATH, 'novedades.html'))
+		html_parsed = BeautifulSoup(data, 'lxml')
+
+		container = html_parsed.find('ea-box-set')
+		juegos_destacados = []
+		
+		for novedad in container.css.select('ea-container  ea-game-box[slot="game-box"]'):
+			juegos_destacados.append({
+				'img': novedad.get('background-image'),
+				'titulo': novedad.get('main-link-title'),
+				'url': f"{'https://www.ea.com'}{novedad.get('main-link-url')}"
+			})
+
+
+		if juegos_destacados:
+			for juego in juegos_destacados:
+				print(juego['img'])
+				print(juego['titulo'])
+				print(juego['url'])
+				print()
+
+
 
 	@classmethod
 	def scraper(cls):
-		cls.noticias()
-
-		"""
-		path = os.path.join(BASE, 'data', 'easport', 'easport.html')
-		data = ReadFromFile.read(path)
-
-		html_parsed = BeautifulSoup(data, 'lxml')
-
-		container = html_parsed.find('ea-box-set', unresolved=True, attrs={'spacing-top': 'none'})
-
-		print("Juegos destacados")
-		for destacados in container.find_all('ea-container', slot='container'):
-			juego = destacados.find('ea-game-box')
-			print(juego.get('main-link-title'))
-			print(juego.get('background-image'))
-			print(f"{'https://www.ea.com'}{juego.get('main-link-url')}")
-			print()
-		"""
+		#cls.noticias()
+		cls.novedades()
 
 	@classmethod
 	def download(cls):
