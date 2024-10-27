@@ -1,5 +1,5 @@
 import os
-
+import sys
 from typing import Dict
 
 import httpx
@@ -8,6 +8,9 @@ from lxml import html
 
 from bs4 import BeautifulSoup
 
+
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(BASE)
 from utils.main import ReadFromFile
 
 URL:Dict[str, str] = {
@@ -19,7 +22,6 @@ URL:Dict[str, str] = {
 	'gratuitos': 'https://www.ea.com/es-es/games/library/freetoplay'
 }
 
-BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 class ScraperEASport:
 
 	@classmethod
@@ -32,7 +34,7 @@ class ScraperEASport:
 		container = html_parsed.find('ea-box-set', unresolved=True, attrs={'spacing-top': 'none'})
 
 		for destacados in container.find_all('ea-container', slot='container'):
-			print(destacados['ea-game-box '].get('background-image'))
+			print(destacados.find('ea-game-box').get('main-link-title'))
 
 
 
