@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 from typing import Dict
 
 import httpx
@@ -20,7 +21,6 @@ URL:Dict[str, str] = {
 	'noticias': 'https://www.ea.com/es-es/news',
 	'novedades': 'https://www.ea.com/es-es/games',
 	'proximamente' : 'https://www.ea.com/es-es/games/coming-soon',
-	'ofertas': 'https://www.ea.com/es-es/sales/deals',
 	'gratuitos': 'https://www.ea.com/es-es/games/library/freetoplay'
 }
 
@@ -108,12 +108,6 @@ class ScraperEASport:
 			print(prox_juego)
 			print("\n\n")
 
-
-	@classmethod
-	def ofertas(cls):
-		data = ReadFromFile.read(os.path.join(cls.PATH, 'ofertas.html'))
-		html_parsed = BeautifulSoup(data, 'lxml')
-
 	@classmethod
 	def gratuitos(cls):
 		data = ReadFromFile.read(os.path.join(cls.PATH, 'gratuitos.html'))
@@ -133,8 +127,7 @@ class ScraperEASport:
 		#cls.noticias()
 		#cls.novedades()
 		#cls.proximamente()
-		cls.gratuitos()
-
+		#cls.gratuitos()
 
 	@classmethod
 	def download(cls):
