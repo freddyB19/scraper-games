@@ -40,8 +40,10 @@ class ReadFromFile:
 
 	@classmethod
 	def read(cls, path_file):
-		data = None
+		data: HTMLParsed | None = None
 		with open(path_file, 'r') as file:
-			data = file.read()
+			file = file.read()
+
+			data = BeautifulSoup( file, 'lxml')
 
 		return data
