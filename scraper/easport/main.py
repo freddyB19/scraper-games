@@ -123,11 +123,44 @@ class ScraperEASport:
 
 
 	@classmethod
+	def actualizaciones(cls):
+		data = ReadFromFile.read(os.path.join(cls.PATH, 'easport.html'))
+		html_parsed = BeautifulSoup(data, 'lxml')
+
+		container = html_parsed.find('template')
+
+		tabs = container.find_all('ea-tab')
+		post_atc = container.find_all('ea-section', attrs={'spacing-top': "medium"})
+
+		lista_actualizaciones= []
+		for post_tag, post_info in zip(tabs, post_atc):
+			#print(post_tag.string.strip())
+
+			data = []
+			for nota in  post_info.find_all('ea-container', slot="container"):
+				data.append({
+					'titulo': nota.find('h3').string.strip() if nota.find('h3') else 'null',
+					'informacioón': [info.string.strip() for info in nota.find_all('div')],
+					'detalle': nota.find('ea-tile-copy', slot='copy').string.strip(),
+					'url': nota.find('ea-tile-copy', slot='copy').string.strip(),
+					'imagen': nota.find('ea-tile').get('media')
+				})
+
+			lista_actualizaciones.append({
+				post_tag.string.strip(): data
+			})
+			
+		if lista_actualizaciones:
+			for act in lista_actualizaciones:
+				print(act)
+
+	@classmethod
 	def scraper(cls):
 		#cls.noticias()
 		#cls.novedades()
 		#cls.proximamente()
 		#cls.gratuitos()
+		cls.actualizaciones()
 
 	@classmethod
 	def download(cls):
