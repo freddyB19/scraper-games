@@ -34,13 +34,19 @@ class ScraperEASport:
 
 		container = html_parsed.find('ea-grid')
 
+		lista_noticias = []
+
 		for noticia in container.css.select('ea-container  ea-tile[slot="tile"]'):
-			print(f"Imagen: {noticia.get('media')}")
-			print(f"Titulo: {noticia.get('title-text')}")
 			extra = noticia.find_all('div')
-			print(f"Tag: {extra[0].string.strip()} -- Fecha: {extra[1].string.strip()}")
-			print(f"Descripcion: {noticia.find('ea-tile-copy').string.strip()}")
-			print()
+
+			lista_noticias.append({
+				'imagen': noticia.get('media'),
+				'titulo': noticia.get('title-text'),
+				'etiqueta': extra[0].string.strip(),
+				'fecha': extra[1].string.strip(),
+				'descripcion': noticia.find('ea-tile-copy').string.strip()
+			})
+		return lista_noticias
 	
 	@classmethod
 	def novedades(cls):
@@ -59,12 +65,7 @@ class ScraperEASport:
 			})
 
 
-		if juegos_destacados:
-			for juego in juegos_destacados:
-				print(juego['img'])
-				print(juego['titulo'])
-				print(juego['url'])
-				print()
+		return juegos_destacados
 
 
 	@classmethod
@@ -103,23 +104,27 @@ class ScraperEASport:
 					'genero': generos
 				})
 
- 
-		for prox_juego in lista_proximamente:
-			print(prox_juego)
-			print("\n\n")
-
+		
+		return lista_proximamente
+		
 	@classmethod
 	def gratuitos(cls):
 		data = ReadFromFile.read(os.path.join(cls.PATH, 'gratuitos.html'))
 		html_parsed = BeautifulSoup(data, 'lxml')
 
 		container = html_parsed.find('ea-box-set', layout="3up")
+
+		lista_juegos_gratiutios = []
+
 		for post in container.css.select('ea-container[filter-key="All"] ea-game-box'):
-			print(post.get('main-link-title'))
-			print(f"{'https://www.ea.com'}{post.get('main-link-url')}")
-			print(post.get('background-image'))
-			print(post.get('logo-url'))
-			print()
+			lista_juegos_gratiutios.append({
+				'titulo': post.get('main-link-title'),
+				'url': f"{'https://www.ea.com'}{post.get('main-link-url')}",
+				'imagen': post.get('background-image'),
+				'logo': post.get('logo-url')
+			})
+
+		return lista_juegos_gratiutios
 
 
 	@classmethod
@@ -132,35 +137,45 @@ class ScraperEASport:
 		tabs = container.find_all('ea-tab')
 		post_atc = container.find_all('ea-section', attrs={'spacing-top': "medium"})
 
-		lista_actualizaciones= []
+		lista_actualizaciones = []
+		etiquetas = []
 		for post_tag, post_info in zip(tabs, post_atc):
-			#print(post_tag.string.strip())
 
 			data = []
 			for nota in  post_info.find_all('ea-container', slot="container"):
 				data.append({
 					'titulo': nota.find('h3').string.strip() if nota.find('h3') else 'null',
-					'informacioón': [info.string.strip() for info in nota.find_all('div')],
+					'información': [info.string.strip() for info in nota.find_all('div')],
 					'detalle': nota.find('ea-tile-copy', slot='copy').string.strip(),
 					'url': nota.find('ea-tile-copy', slot='copy').string.strip(),
 					'imagen': nota.find('ea-tile').get('media')
 				})
 
-			lista_actualizaciones.append({
-				post_tag.string.strip(): data
-			})
+			etiquetas += [{'etiqueta': post_tag.string.strip(), 'info': data}]
+
+		lista_actualizaciones.append({ 'etiqueta': etiquetas})
 			
-		if lista_actualizaciones:
-			for act in lista_actualizaciones:
-				print(act)
+		return lista_actualizaciones
+
 
 	@classmethod
 	def scraper(cls):
-		#cls.noticias()
-		#cls.novedades()
-		#cls.proximamente()
-		#cls.gratuitos()
-		cls.actualizaciones()
+		noticias = cls.noticias()
+		novedades = cls.novedades()
+		proximamente = cls.proximamente()
+		gratuitos = cls.gratuitos()
+		actualizaciones = cls.actualizaciones()
+
+		easport = {
+			'noticias': noticias,
+			'novedades': novedades,
+			'proximamente': proximamente,
+			'gratuitos': gratuitos,
+			'actualizaciones': actualizaciones,
+
+		}
+		with open(os.path.join(BASE, 'results', 'easport.json'), 'a') as file:
+			json.dump(easport, file, indent=4)
 
 	@classmethod
 	def download(cls):
