@@ -54,7 +54,8 @@ class ScraperEASport:
 			juegos_destacados.append({
 				'img': novedad.get('background-image'),
 				'titulo': novedad.get('main-link-title'),
-				'url': f"{'https://www.ea.com'}{novedad.get('main-link-url')}"
+				'url': f"{'https://www.ea.com'}{novedad.get('main-link-url')}",
+				'url-logo': novedad.get('logo-url')
 			})
 
 
@@ -109,10 +110,30 @@ class ScraperEASport:
 
 
 	@classmethod
+	def ofertas(cls):
+		data = ReadFromFile.read(os.path.join(cls.PATH, 'ofertas.html'))
+		html_parsed = BeautifulSoup(data, 'lxml')
+
+	@classmethod
+	def gratuitos(cls):
+		data = ReadFromFile.read(os.path.join(cls.PATH, 'gratuitos.html'))
+		html_parsed = BeautifulSoup(data, 'lxml')
+
+		container = html_parsed.find('ea-box-set', layout="3up")
+		for post in container.css.select('ea-container[filter-key="All"] ea-game-box'):
+			print(post.get('main-link-title'))
+			print(f"{'https://www.ea.com'}{post.get('main-link-url')}")
+			print(post.get('background-image'))
+			print(post.get('logo-url'))
+			print()
+
+
+	@classmethod
 	def scraper(cls):
 		#cls.noticias()
 		#cls.novedades()
-		cls.proximamente()
+		#cls.proximamente()
+		cls.gratuitos()
 
 
 	@classmethod
