@@ -10,10 +10,13 @@ from lxml import html
 from bs4 import BeautifulSoup
 
 
+
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
 from utils.main import ReadFromFile
 from utils.main import ReadFromWeb
+
+from easport.pages.noticias import NoticiasEASport
 
 
 URL:Dict[str, str] = {
@@ -29,8 +32,7 @@ class ScraperEASport:
 
 	@classmethod
 	def noticias(cls):
-		data = ReadFromFile.read(os.path.join(cls.PATH, 'noticias.html'))
-		html_parsed = BeautifulSoup(data, 'lxml')
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'noticias.html'))
 
 		container = html_parsed.find('ea-grid')
 
@@ -50,10 +52,10 @@ class ScraperEASport:
 	
 	@classmethod
 	def novedades(cls):
-		data = ReadFromFile.read(os.path.join(cls.PATH, 'novedades.html'))
-		html_parsed = BeautifulSoup(data, 'lxml')
-
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'novedades.html'))
+	
 		container = html_parsed.find('ea-box-set')
+		
 		juegos_destacados = []
 		
 		for novedad in container.css.select('ea-container  ea-game-box[slot="game-box"]'):
@@ -70,10 +72,8 @@ class ScraperEASport:
 
 	@classmethod
 	def proximamente(cls):
-		data = ReadFromFile.read(os.path.join(cls.PATH, 'proximamente.html'))
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'proximamente.html'))
 		
-		html_parsed = BeautifulSoup(data, 'lxml')
-
 		container = html_parsed.css.select('ea-section[layout="50:50"] ea-section-column[slot="section-column"]')
 
 		lista_proximamente = []
@@ -109,8 +109,7 @@ class ScraperEASport:
 		
 	@classmethod
 	def gratuitos(cls):
-		data = ReadFromFile.read(os.path.join(cls.PATH, 'gratuitos.html'))
-		html_parsed = BeautifulSoup(data, 'lxml')
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'gratuitos.html'))
 
 		container = html_parsed.find('ea-box-set', layout="3up")
 
@@ -129,8 +128,7 @@ class ScraperEASport:
 
 	@classmethod
 	def actualizaciones(cls):
-		data = ReadFromFile.read(os.path.join(cls.PATH, 'easport.html'))
-		html_parsed = BeautifulSoup(data, 'lxml')
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'easport.html'))
 
 		container = html_parsed.find('template')
 
@@ -160,7 +158,8 @@ class ScraperEASport:
 
 	@classmethod
 	def scraper(cls):
-		noticias = cls.noticias()
+		#noticias = cls.noticias()
+		noticias = NoticiasEASport.scrap(html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'easport.html')))
 		novedades = cls.novedades()
 		proximamente = cls.proximamente()
 		gratuitos = cls.gratuitos()
