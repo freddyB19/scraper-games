@@ -17,6 +17,8 @@ from utils.main import ReadFromFile
 from utils.main import ReadFromWeb
 
 from easport.pages.noticias import NoticiasEASport
+from easport.pages.novedades import NovedadesEASport
+
 
 
 URL:Dict[str, str] = {
@@ -159,8 +161,14 @@ class ScraperEASport:
 	@classmethod
 	def scraper(cls):
 		#noticias = cls.noticias()
-		noticias = NoticiasEASport.scrap(html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'easport.html')))
-		novedades = cls.novedades()
+		noticias = NoticiasEASport.scrap(
+			html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'easport.html'))
+		)	
+		#novedades = cls.novedades()
+		novedades = NovedadesEASport.scrap(
+			html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'novedades.html'))
+		)
+
 		proximamente = cls.proximamente()
 		gratuitos = cls.gratuitos()
 		actualizaciones = cls.actualizaciones()
