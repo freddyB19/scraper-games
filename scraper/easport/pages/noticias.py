@@ -1,8 +1,22 @@
+from typing import List
+from typing import Dict
+
+from bs4 import BeautifulSoup
+
+HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
+
 
 class NoticiasEASport:
 	@classmethod
-	def scrap(cls, html_data):
+	def scrap(cls, html_data: HTMLParsed | None = None) -> str | List[Dict[str, str]]:
+		
+		if html_data is None:
+			return "Error File"
+
 		container = html_data.find('ea-grid')
+
+		if not container:
+			return "Error"
 
 		lista_noticias = []
 
