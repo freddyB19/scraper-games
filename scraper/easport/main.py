@@ -18,7 +18,9 @@ from utils.main import ReadFromWeb
 
 from easport.pages.noticias import NoticiasEASport
 from easport.pages.novedades import NovedadesEASport
+from easport.pages.gratuitos import JuegoGratuitosEASport
 from easport.pages.proximamente import ProximamenteEASport
+
 
 
 URL:Dict[str, str] = {
@@ -173,7 +175,13 @@ class ScraperEASport:
 		proximamente = ProximamenteEASport.scrap(
 			html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'proximamente.html'))
 		)
-		gratuitos = cls.gratuitos()
+		
+		#gratuitos = cls.gratuitos()
+		gratuitos = JuegoGratuitosEASport.scrap(
+			html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'gratuitos.html'))
+		)
+
+		
 		actualizaciones = cls.actualizaciones()
 
 		easport = {
@@ -185,7 +193,7 @@ class ScraperEASport:
 
 		}
 
-		print(easport['proximamente'])
+		print(easport['gratuitos'])
 
 		"""
 		with open(os.path.join(BASE, 'results', 'easport.json'), 'a') as file:
