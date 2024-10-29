@@ -1,9 +1,14 @@
+from typing import List
+from typing import Dict
+from typing import NewType
+
+from bs4 import BeautifulSoup
 
 
 class LOLNewsNotesPage:
 
 	@classmethod
-	def scrap(cls, html_data):
+	def scrap(cls, html_data:HTMLParsed | None = None) -> str | List[Dict[str, str]]:
 
 		if html_data is None:
 			return "Error File"
@@ -28,4 +33,4 @@ class LOLNewsNotesPage:
 				"detalle": info.css.select('div[data-testid="rich-text-html"] > div')[0].string.strip()
 			})
 
-		return lista_info if lista_info else []
+		return lista_info
