@@ -1,5 +1,7 @@
 from typing import List
 from typing import Dict
+from typing import NewType
+
 
 from bs4 import BeautifulSoup
 
