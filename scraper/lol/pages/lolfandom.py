@@ -1,9 +1,16 @@
+from typing import List
+from typing import Dict
+from typing import NewType
 
+from bs4 import BeautifulSoup
+
+
+HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
 
 class LOLFandomPage:
 
 	@classmethod
-	def scrap(cls, html_data):
+	def scrap(cls, html_data:HTMLParsed | None = None) -> str | List[Dict[str, str]]:
 
 		if html_data is None:
 			return "Error File"
@@ -45,7 +52,12 @@ class LOLFandomPage:
 			
 			estadisticas = enumerate(filas)
 
-			champion_estadisticas = list(map(lambda data: (tags_estadisticas[str(data[0])], data[1].string.strip()) if data[1].string else (tags_estadisticas[str(data[0])], "") , estadisticas))
+			champion_estadisticas = list(
+				map(
+					lambda data: (tags_estadisticas[str(data[0])], data[1].string.strip()) if data[1].string else (tags_estadisticas[str(data[0])], ""), 
+					estadisticas
+				)
+			)
 			
 			heroe = {
 				'nombre': fila.find('span', style=True).string.strip(),
@@ -56,4 +68,4 @@ class LOLFandomPage:
 
 			tabla.append(heroe)
 
-		return tabla if tabla else []
+		return tabla
