@@ -1,7 +1,15 @@
+from typing import List
+from typing import Dict
+from typing import NewType
+
+from bs4 import BeautifulSoup
+
+
+HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
 
 class LOLChampionsPage:
 	@classmethod
-	def scrap(cls, html_data):
+	def scrap(cls, html_data:HTMLParsed | None = None) -> str | List[Dict[str, str]]:
 
 		if html_data is None:
 			return "Error File"
@@ -25,5 +33,5 @@ class LOLChampionsPage:
 				'champion': champion.strip()
 			})
 		
-		return champions if champions else []
+		return champions
 
