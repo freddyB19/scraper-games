@@ -20,6 +20,8 @@ from easport.pages.noticias import NoticiasEASport
 from easport.pages.novedades import NovedadesEASport
 from easport.pages.gratuitos import JuegoGratuitosEASport
 from easport.pages.proximamente import ProximamenteEASport
+from easport.pages.actualizaciones import ActualizacionesEASport
+
 
 
 
@@ -180,9 +182,11 @@ class ScraperEASport:
 		gratuitos = JuegoGratuitosEASport.scrap(
 			html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'gratuitos.html'))
 		)
-
 		
-		actualizaciones = cls.actualizaciones()
+		#actualizaciones = cls.actualizaciones()
+		actualizaciones = ActualizacionesEASport.scrap(
+			html_data = ReadFromFile.read(os.path.join(BASE, 'data', 'easport', 'easport.html'))
+		)
 
 		easport = {
 			'noticias': noticias,
@@ -193,7 +197,7 @@ class ScraperEASport:
 
 		}
 
-		print(easport['gratuitos'])
+		print(easport['actualizaciones'])
 
 		"""
 		with open(os.path.join(BASE, 'results', 'easport.json'), 'a') as file:
