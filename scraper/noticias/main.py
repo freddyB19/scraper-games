@@ -25,8 +25,10 @@ class ScraperNoticias:
 	PATH = os.path.join(BASE, 'data', 'noticias')
 	
 	@classmethod
-	def elnacional_tecnologia(cls):
-		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'elnacional_tecnologia.html'))
+	def elnacional(cls):
+		#html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'elnacional_tecnologia.html'))
+
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'elnacional_ia.html'))
 
 		if html_parsed is not None:
 			contenido_principal = html_parsed.find('div', class_ = 'module-category')
