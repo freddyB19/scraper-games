@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 
 import httpx
 from lxml import html
@@ -39,14 +40,17 @@ class ScraperNoticias:
 			no, protocolo, ruta = contenido_principal.find('div', class_='background-image').get('style').partition("https://")
 			imagen = protocolo + ruta
 
-			print(" +--- Noticia Principal ---+")
-			print(f"[+] Url : {url}")
-			print(f"[+] Titulo : {titulo}")
-			print(f"[+] Categoria : {categoria}")
-			print(f"[+] Fecha : {fecha}")
-			print(f"[+] Imagen : {imagen}")
-			print(" +--- --------------- ---+")
+			noticias = {
+				'principal': {
+					'titulo': titulo,
+					'url': url,
+					'categoria': categoria,
+					'fecha': fecha,
+					'imagen': imagen,
+				}
+			}
 
+			notas = []
 			for articulo in html_parsed.find_all('div', class_ = 'article'):
 				imagen = articulo.css.select('div[class="image"] a img')[0].get("src")
 				url = articulo.css.select('div[class="image"] a')[0].get("href")
@@ -55,17 +59,20 @@ class ScraperNoticias:
 				fecha = articulo.css.select('div[class="meta"] time')[0].string.strip()
 				extra = articulo.css.select('div[class="extract"] a')[0].string.strip()
 
-				print(f"...[-] Imagen: {imagen}")
-				print(f"...[-] Url: {url}")
-				print(f"...[-] Titulo: {titulo}")
-				print(f"...[-] Meta: {meta}")
-				print(f"...[-] fecha: {fecha}")
-				print(f"...[-] Extra: {extra}")
+				notas.append({
+					'titulo': titulo,
+					'url': url,
+					'imagen': imagen,
+					'meta': meta,
+					'fecha': fecha,
+					'extra': extra,
+				})
 
-				print("-----------------")
 
-				print()
+			noticias['notas'] = notas
 
+			with open(os.path.join(cls.PATH, 'elnacional_ia.json'), 'a') as archivo:
+				json.dump(noticias, archivo, indent=4)
 
 		else:
 			print(f"[-] Error: {html_parsed}")
@@ -192,10 +199,10 @@ class ScraperNoticias:
 
 	@classmethod
 	def scraper(cls):
-		#cls.elnacional()
+		cls.elnacional()
 		#cls.decrypt()
 		#cls.lanacion()
-		cls.marca()
+		#cls.marca()
 
 
 
