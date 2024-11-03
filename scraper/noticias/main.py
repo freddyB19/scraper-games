@@ -96,7 +96,7 @@ class ScraperNoticias:
 			print(f"[+] Imagen: {img}")
 			print(f"[+] Categoria: {categoria}")
 			print(f"[+] Titulo: {titulo}")
-			print(f"[+] Url: {url}")
+			print(f"[+] Url: {URL['decrypt_ia']}{url}") #URL['decrypt']
 			print(f"[+] Descripcion: {descripcion}")
 			print(f"[+] Fecha: {fecha}")
 
@@ -113,7 +113,7 @@ class ScraperNoticias:
 				meta = articulo.css.select('time[class*="inline-flex"] span')[0].string.strip()
 
 				print(f"\t[--] Categoria: {categoria}")
-				print(f"\t[--] Url: {url}")
+				print(f"\t[--] Url: {URL['decrypt_ia']}{url}")  #URL['decrypt']
 				print(f"\t[--] Titulo: {titulo}")
 				print(f"\t[--] Fecha : {fecha}")
 				print(f"\t[--] Meta : {meta}")
@@ -131,7 +131,7 @@ class ScraperNoticias:
 
 				print(f"\t[---] Fecha : {fecha}")
 				print(f"\t[---] Categoria : {categoria}")
-				print(f"\t[---] Url : {url}")
+				print(f"\t[---] Url : {URL['decrypt_ia']}{url}")  #URL['decrypt']
 				print(f"\t[---] Titulo : {titulo}")
 				print(f"\t[---] Descripcion : {descripcion}")
 				print(f"\t[---] Meta : {meta}")
@@ -139,10 +139,40 @@ class ScraperNoticias:
 				print("\n\n")
 
 
+
+	@classmethod
+	def lanacion(cls):
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'lanacion.html'))
+
+		if html_parsed is not None:
+			articulos = html_parsed.find("div", class_="row-gap-tablet-3")
+
+			for articulo in articulos.find_all('article', class_="mod-article"):
+				url = articulo.css.select('div[class="content-media"] a')[0].get('href')
+				imagen = articulo.css.select('div[class="content-media"] img[class="com-image"]')[0].get('src')
+				fecha = articulo.css.select('section[class="mod-description"] time')[0].string.strip()
+				titulo = [
+					articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].string.strip()
+					if articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].string
+					else None
+				][0]
+				url_link = articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].get("href")
+
+				print(f"[+] Url: {URL['lanacion']}{url[1:]}")
+				print(f"[+] Imagen: {imagen}")
+				print(f"[+] Fecha: {fecha}")
+				print(f"[+] Titulo: {titulo}")
+				print(f"[+] URL link: {url_link}")
+
+				print("\n\n")
+
+
 	@classmethod
 	def scraper(cls):
-		#cls.elnacional_tecnologia()
-		cls.decrypt()
+		#cls.elnacional()
+		#cls.decrypt()
+		cls.lanacion()
+
 
 
 	@classmethod 
