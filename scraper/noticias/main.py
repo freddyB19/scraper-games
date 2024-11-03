@@ -172,6 +172,8 @@ class ScraperNoticias:
 		if html_parsed is not None:
 			articulos = html_parsed.find("div", class_="row-gap-tablet-3")
 
+			notas = []
+
 			for articulo in articulos.find_all('article', class_="mod-article"):
 				url = articulo.css.select('div[class="content-media"] a')[0].get('href')
 				imagen = articulo.css.select('div[class="content-media"] img[class="com-image"]')[0].get('src')
@@ -183,16 +185,17 @@ class ScraperNoticias:
 				][0]
 				url_link = articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].get("href")
 
-				print(f"[+] Url: {URL['lanacion']}{url[1:]}")
-				print(f"[+] Imagen: {imagen}")
-				print(f"[+] Fecha: {fecha}")
-				print(f"[+] Titulo: {titulo}")
-				print(f"[+] URL link: {url_link}")
+				notas.append({
+					'titulo': titulo,
+					'url': f"{URL['lanacion']}{url[1:]}",
+					'imagen': imagen,
+					'fecha': fecha,
+					'url_link': url_link,
+				})
 
-				print("\n\n")
 
 			with open(os.path.join(cls.PATH, 'lanacion.json'), 'a') as archivo:
-				json.dump(noticias, archivo, indent=4)
+				json.dump({'notas': notas}, archivo, indent=4)
 
 
 	@classmethod
@@ -221,8 +224,8 @@ class ScraperNoticias:
 	@classmethod
 	def scraper(cls):
 		#cls.elnacional()
-		cls.decrypt()
-		#cls.lanacion()
+		#cls.decrypt()
+		cls.lanacion()
 		#cls.marca()
 
 
