@@ -168,10 +168,34 @@ class ScraperNoticias:
 
 
 	@classmethod
+	def marca(cls):
+		html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'marca.html'))
+
+		if html_parsed is not None:
+			articulos = html_parsed.find('div', class_="ue-l-cover-grid__column size8of12")
+
+			for articulo in articulos.css.select('div[class*="ue-l-cover-grid__unit"] article[class*="ue-c-cover-content"]'):
+				imagen = articulo.find('img').get('src')
+				meta = articulo.find('span', class_="ue-c-cover-content__kicker").string.strip()
+				url = articulo.find('a', class_="ue-c-cover-content__link").get('href')
+				titulo = articulo.find('h2', class_="ue-c-cover-content__headline").string.strip()
+				autor = articulo.find('span', class_='hidden-content').next_sibling.strip()
+
+				print(f"[+] Imagen: {imagen}")
+				print(f"[+] Meta: {meta}")
+				print(f"[+] URL: {url}")
+				print(f"[+] Titulo: {titulo}")
+				print(f"[+] Autor: {autor}")
+
+				print("\n")
+
+
+	@classmethod
 	def scraper(cls):
 		#cls.elnacional()
 		#cls.decrypt()
-		cls.lanacion()
+		#cls.lanacion()
+		cls.marca()
 
 
 
