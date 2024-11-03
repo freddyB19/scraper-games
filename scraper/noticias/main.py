@@ -88,7 +88,7 @@ class ScraperNoticias:
 		if html_parsed is not None:
 			noticia_principal = html_parsed.find('article', class_ = 'h-full')
 
-			img = noticia_principal.find('img').get('src')
+			imagen = noticia_principal.find('img').get('src')
 			categoria = noticia_principal.css.select('a div[class*="text-cc-pink-2"] span')[0].string.strip()
 			titulo = noticia_principal.css.select(
 				'h3[class*="font-akzidenz-grotes"] > a[class*="linkbox__overlay"]'
@@ -99,15 +99,21 @@ class ScraperNoticias:
 			descripcion = noticia_principal.css.select('p[class*="mt-1 gg-dark:text-neutral-100"]')[0].string.strip()
 			fecha = noticia_principal.css.select('footer div[class="mt-2 md:mt-4"] time')[0].string.strip()
 
+			noticias = {
+				'principal': {
+					'titulo': titulo,
+					'url': f"{URL['decrypt_ia']}{url}",
+					'categoria': categoria,
+					'imagen': imagen,
+					'descripcion': descripcion,
+					'fecha': fecha,
 
-			print(f"[+] Imagen: {img}")
-			print(f"[+] Categoria: {categoria}")
-			print(f"[+] Titulo: {titulo}")
-			print(f"[+] Url: {URL['decrypt_ia']}{url}") #URL['decrypt']
-			print(f"[+] Descripcion: {descripcion}")
-			print(f"[+] Fecha: {fecha}")
+				}
+			}
 
-
+			
+			notas_cortas = []
+			
 			for articulo in html_parsed.css.select('article[class="w-full"] article[class="linkbox flex space-x-3"]'):
 				categoria = articulo.find('p', class_='text-cc-pink-2').string.strip()
 				url = articulo.find('a', class_='linkbox__overlay').get('href')
@@ -119,14 +125,17 @@ class ScraperNoticias:
 				fecha =  articulo.css.select('time[class!="inline-flex items-center gap-x-1"]')[0].string.strip()
 				meta = articulo.css.select('time[class*="inline-flex"] span')[0].string.strip()
 
-				print(f"\t[--] Categoria: {categoria}")
-				print(f"\t[--] Url: {URL['decrypt_ia']}{url}")  #URL['decrypt']
-				print(f"\t[--] Titulo: {titulo}")
-				print(f"\t[--] Fecha : {fecha}")
-				print(f"\t[--] Meta : {meta}")
+				notas_cortas.append({
+					'titulo': titulo,
+					'url': f"{URL['decrypt_ia']}{url}",
+					'categoria': categoria,
+					'fecha': fecha,
+					'meta': meta,
+				})
 
-				print("\n\n")
-
+			
+			notas_extensas = []
+			
 			for articulo in html_parsed.css.select('article[class*="max-w-[764px]"] > article'):
 				fecha = articulo.css.select('h4')[0].string.strip()
 
@@ -136,15 +145,24 @@ class ScraperNoticias:
 				descripcion = articulo.find('p', class_="gg-dark:text-neutral-100").string.strip()
 				meta = articulo.css.select('footer p[class*="flex"] time > span')[0].string.strip()
 
-				print(f"\t[---] Fecha : {fecha}")
-				print(f"\t[---] Categoria : {categoria}")
-				print(f"\t[---] Url : {URL['decrypt_ia']}{url}")  #URL['decrypt']
-				print(f"\t[---] Titulo : {titulo}")
-				print(f"\t[---] Descripcion : {descripcion}")
-				print(f"\t[---] Meta : {meta}")
+				notas_extensas.append({
+					'titulo': titulo,
+					'url': f"{URL['decrypt_ia']}{url}",
+					'categoria': categoria,
+					'fecha': fecha,
+					'meta': meta,
+					'descripcion': descripcion,
+				})
 
-				print("\n\n")
 
+
+			noticias['notas'] = {
+				'cortas': notas_cortas,
+				'extensas': notas_extensas
+			}
+
+			with open(os.path.join(cls.PATH, 'decrypt.json'), 'a') as archivo:
+				json.dump(noticias, archivo, indent=4)
 
 
 	@classmethod
@@ -173,6 +191,9 @@ class ScraperNoticias:
 
 				print("\n\n")
 
+			with open(os.path.join(cls.PATH, 'lanacion.json'), 'a') as archivo:
+				json.dump(noticias, archivo, indent=4)
+
 
 	@classmethod
 	def marca(cls):
@@ -199,8 +220,8 @@ class ScraperNoticias:
 
 	@classmethod
 	def scraper(cls):
-		cls.elnacional()
-		#cls.decrypt()
+		#cls.elnacional()
+		cls.decrypt()
 		#cls.lanacion()
 		#cls.marca()
 
