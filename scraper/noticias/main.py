@@ -205,6 +205,7 @@ class ScraperNoticias:
 		if html_parsed is not None:
 			articulos = html_parsed.find('div', class_="ue-l-cover-grid__column size8of12")
 
+			notas = []
 			for articulo in articulos.css.select('div[class*="ue-l-cover-grid__unit"] article[class*="ue-c-cover-content"]'):
 				imagen = articulo.find('img').get('src')
 				meta = articulo.find('span', class_="ue-c-cover-content__kicker").string.strip()
@@ -212,21 +213,24 @@ class ScraperNoticias:
 				titulo = articulo.find('h2', class_="ue-c-cover-content__headline").string.strip()
 				autor = articulo.find('span', class_='hidden-content').next_sibling.strip()
 
-				print(f"[+] Imagen: {imagen}")
-				print(f"[+] Meta: {meta}")
-				print(f"[+] URL: {url}")
-				print(f"[+] Titulo: {titulo}")
-				print(f"[+] Autor: {autor}")
+				notas.append({
+					'titulo': titulo,
+					'url': url,
+					'imagen': imagen,
+					'Meta': meta,
+					'autor': autor,
+				})
 
-				print("\n")
+			with open(os.path.join(cls.PATH, 'marca.json'), 'a') as archivo:
+				json.dump({'notas': notas}, archivo, indent=4)
 
 
 	@classmethod
 	def scraper(cls):
 		#cls.elnacional()
 		#cls.decrypt()
-		cls.lanacion()
-		#cls.marca()
+		#cls.lanacion()
+		cls.marca()
 
 
 
