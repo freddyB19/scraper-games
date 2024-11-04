@@ -25,52 +25,48 @@ URL = {
 
 
 class ScraperNoticias:
-	PATH = os.path.join(BASE, 'data', 'noticias')
-	
+
 	@classmethod
 	def scraper(cls):
 
 		marca = MarcaNoticias.scrap( 
-			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'marca.html'))
-		)
-		
-		lanacion = LaNacionNoticias.scrap(
-			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'lanacion.html')), 
-			url_root = URL['lanacion']
+			html_parsed = ReadFromWeb.read(URL['marca'])
 		)
 
+		lanacion = LaNacionNoticias.scrap(
+			html_parsed = ReadFromWeb.read(URL['lanacion']),
+			url_root = 'https://www.lanacion.com.ar/'
+		)
+		
 		decrypt_tecnologia = DecryptNoticias.scrap(
-			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'decrypt.html')),
-			url_root = URL['decrypt']
+			html_parsed = ReadFromWeb.read(URL['decrypt']),
+			url_root = 'https://decrypt.co'
 		)
 
 		decrypt_ia = DecryptNoticias.scrap(
-			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'decrypt_ia.html')),
-			url_root = URL['decrypt_ia']
+			html_parsed = ReadFromWeb.read(URL['decrypt_ia']),
+			url_root = 'https://decrypt.co'
 		)
 
 		elnacional_tecnologia = ElNacionalNoticias.scrap(
-			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'elnacional_tecnologia.html')),
+			html_parsed = ReadFromWeb.read(URL['elnacional_tecnologia']),
 			url_root = URL['elnacional_tecnologia']
 		)
 		
 		elnacional_ia = ElNacionalNoticias.scrap(
-			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'elnacional_ia.html')),
+			html_parsed = ReadFromWeb.read(URL['elnacional_ia']),
 			url_root = URL['elnacional_ia']
 		)
 
-		noticias = {
+		return {
 			'marca': marca,
 			'lanacion': lanacion,
 			'decrypt_tecnologia': decrypt_tecnologia,
 			'decrypt_ia': decrypt_ia,
 			'elnacional_tecnologia': elnacional_tecnologia,
 			'elnacional_ia': elnacional_ia,
-
 		}
 
-		with open(os.path.join(cls.PATH, 'noticias.json'), 'a') as archivo:
-				json.dump(noticias, archivo, indent=4)
 
 def main():
 	ScraperNoticias.scraper()
