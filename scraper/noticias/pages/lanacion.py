@@ -28,7 +28,10 @@ class LaNacionNoticias:
 			titulo = [
 				articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].string.strip()
 				if articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].string
-				else None
+				else [
+					str(articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].contents[0]), 
+					articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].contents[1]
+				]
 			][0]
 			url_link = articulo.css.select('h2[class*="com-title"] a[class="com-link"]')[0].get("href")
 
