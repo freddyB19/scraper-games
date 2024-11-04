@@ -10,10 +10,10 @@ sys.path.append(BASE)
 from utils.main import ReadFromWeb
 from utils.main import ReadFromFile
 
-from pages.marca import MarcaNoticias
-from pages.decrypt import DecryptNoticias
-from pages.lanacion import LaNacionNoticias
-from pages.elnacional import ElNacionalNoticias
+from noticias.pages.marca import MarcaNoticias
+from noticias.pages.decrypt import DecryptNoticias
+from noticias.pages.lanacion import LaNacionNoticias
+from noticias.pages.elnacional import ElNacionalNoticias
 
 
 URL:Dict[str, str] = {
