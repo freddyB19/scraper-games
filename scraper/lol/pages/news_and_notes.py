@@ -4,6 +4,7 @@ from typing import NewType
 
 from bs4 import BeautifulSoup
 
+HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
 
 class LOLNewsNotesPage:
 
