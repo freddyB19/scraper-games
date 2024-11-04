@@ -12,6 +12,11 @@ sys.path.append(BASE)
 from utils.main import ReadFromWeb
 from utils.main import ReadFromFile
 
+
+from pages.marca import MarcaNoticias
+from pages.lanacion import LaNacionNoticias
+
+
 URL = {
 	'elnacional_tecnologia': 'https://www.elnacional.com/tecnologia/' ,
 	'elnacional_ia': 'https://www.elnacional.com/inteligencia-artificial/?utm_source=menu&utm_medium=recirculation&utm_campaign=internal_links',
@@ -230,9 +235,12 @@ class ScraperNoticias:
 		#cls.elnacional()
 		#cls.decrypt()
 		#cls.lanacion()
-		cls.marca()
+		#cls.marca()
 
 
+		#print(MarcaNoticias.scrap( html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'marca.html'))))
+		#print(LaNacionNoticias.scrap(html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'lanacion.html')), url_root = URL['lanacion']))
+		
 
 	@classmethod 
 	def download(cls):
