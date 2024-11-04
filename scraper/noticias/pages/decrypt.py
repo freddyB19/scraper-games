@@ -15,7 +15,11 @@ class DecryptNoticias:
 	def scrap(cls, html_parsed: HTMLParsed | None = None, url_root: str = "") -> str | ResponseDecrypt:
 		if html_parsed is None:
 			return "Error File"
+		
 		noticia_principal = html_parsed.find('article', class_ = 'h-full')
+
+		if noticia_principal is None:
+			return "Error"
 
 		imagen = noticia_principal.find('img').get('src')
 		categoria = noticia_principal.css.select('a div[class*="text-cc-pink-2"] span')[0].string.strip()
