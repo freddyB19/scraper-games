@@ -16,6 +16,8 @@ from utils.main import ReadFromFile
 from pages.marca import MarcaNoticias
 from pages.decrypt import DecryptNoticias
 from pages.lanacion import LaNacionNoticias
+from pages.elnacional import ElNacionalNoticias
+
 
 
 
@@ -243,7 +245,7 @@ class ScraperNoticias:
 		#print(MarcaNoticias.scrap( html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'marca.html'))))
 		#print(LaNacionNoticias.scrap(html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'lanacion.html')), url_root = URL['lanacion']))
 
-
+		"""
 		print(DecryptNoticias.scrap(
 			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'decrypt_ia.html')),
 			url_root = URL['decrypt_ia']
@@ -252,6 +254,17 @@ class ScraperNoticias:
 		print(DecryptNoticias.scrap(
 			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'decrypt.html')),
 			url_root = URL['decrypt']
+		))
+		"""
+		
+		print(ElNacionalNoticias.scrap(
+			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'elnacional_tecnologia.html')),
+			url_root = URL['elnacional_tecnologia']
+		))
+	
+		print(ElNacionalNoticias.scrap(
+			html_parsed = ReadFromFile.read(os.path.join(cls.PATH, 'elnacional_ia.html')),
+			url_root = URL['elnacional_ia']
 		))
 
 	
