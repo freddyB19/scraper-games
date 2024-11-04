@@ -1,6 +1,8 @@
 import os
 import sys
-import json
+from typing import Dict
+from typing import List
+
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
@@ -14,7 +16,7 @@ from pages.lanacion import LaNacionNoticias
 from pages.elnacional import ElNacionalNoticias
 
 
-URL = {
+URL:Dict[str, str] = {
 	'elnacional_tecnologia': 'https://www.elnacional.com/tecnologia/' ,
 	'elnacional_ia': 'https://www.elnacional.com/inteligencia-artificial/?utm_source=menu&utm_medium=recirculation&utm_campaign=internal_links',
 	'lanacion': 'https://www.lanacion.com.ar/tema/videojuegos-tid48572/', 
@@ -27,7 +29,7 @@ URL = {
 class ScraperNoticias:
 
 	@classmethod
-	def scraper(cls):
+	def scraper(cls) -> Dict[str, Dict | List[Dict]]:
 
 		marca = MarcaNoticias.scrap( 
 			html_parsed = ReadFromWeb.read(URL['marca'])
