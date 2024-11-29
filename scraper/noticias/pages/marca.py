@@ -33,7 +33,7 @@ class MarcaNoticias:
 				'titulo': titulo,
 				'url': url,
 				'imagen': imagen,
-				'Meta': meta,
+				'meta': meta,
 				'autor': autor,
 			})
 
