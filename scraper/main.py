@@ -12,9 +12,9 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 def main():
 
 	results = [
-		{'page': {'name': 'lol', 'info': ScraperLOL.scraper()}},
-		{'page': {'name': 'easport', 'info': ScraperEASport.scraper()}},
-		{'page': {'name': 'noticias', 'info': ScraperNoticias.scraper()}},
+		{'pagina': {'nombre': 'lol', 'info': ScraperLOL.scraper()}},
+		{'pagina': {'nombre': 'easport', 'info': ScraperEASport.scraper()}},
+		{'pagina': {'nombre': 'noticias', 'info': ScraperNoticias.scraper()}},
 
 	]
 
