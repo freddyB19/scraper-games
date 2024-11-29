@@ -11,11 +11,12 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 
 def main():
 
-	results = {
-		'lol': ScraperLOL.scraper(),
-		'easport': ScraperEASport.scraper(),
-		'noticias': ScraperNoticias.scraper()
-	}
+	results = [
+		{'page': {'name': 'lol', 'info': ScraperLOL.scraper()}},
+		{'page': {'name': 'easport', 'info': ScraperEASport.scraper()}},
+		{'page': {'name': 'noticias', 'info': ScraperNoticias.scraper()}},
+
+	]
 
 	with open(os.path.join(BASE, 'results', 'result.json'), 'a') as file:
 		json.dump(results, file, indent=4)
