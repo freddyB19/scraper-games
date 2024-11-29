@@ -60,15 +60,14 @@ class ScraperNoticias:
 			url_root = URL['elnacional_ia']
 		)
 
-		return {
-			'marca': marca,
-			'lanacion': lanacion,
-			'decrypt_tecnologia': decrypt_tecnologia,
-			'decrypt_ia': decrypt_ia,
-			'elnacional_tecnologia': elnacional_tecnologia,
-			'elnacional_ia': elnacional_ia,
-		}
-
+		return [
+			{'nombre': 'marca', 'pagina': marca},
+			{'nombre': 'lanacion', 'pagina': lanacion},
+			{'nombre': 'decrypt_tecnologia', 'pagina': decrypt_tecnologia},
+			{'nombre': 'decrypt_ia', 'pagina': decrypt_ia},
+			{'nombre': 'elnacional_tecnologia', 'pagina': elnacional_tecnologia},
+			{'nombre': 'elnacional_ia', 'pagina': elnacional_tecnologia}
+		]
 
 def main():
 	ScraperNoticias.scraper()
