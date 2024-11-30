@@ -23,7 +23,7 @@ class NovedadesEASport:
 		
 		for novedad in container.css.select('ea-container  ea-game-box[slot="game-box"]'):
 			juegos_destacados.append({
-				'img': novedad.get('background-image'),
+				'imagen': novedad.get('background-image'),
 				'titulo': novedad.get('main-link-title'),
 				'url': f"{'https://www.ea.com'}{novedad.get('main-link-url')}",
 				'url-logo': novedad.get('logo-url')
