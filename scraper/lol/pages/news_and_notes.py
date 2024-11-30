@@ -28,7 +28,7 @@ class LOLNewsNotesPage:
 			lista_info.append({
 				"titulo": info.get("aria-label"),
 				"url": info.get("href"),
-				"image": info.find('img', attrs={"data-testid": "mediaImage"}).get("src"),
+				"imagen": info.find('img', attrs={"data-testid": "mediaImage"}).get("src"),
 				"categoria": categoria.string.strip() if categoria is not None else None,
 				"fecha": info.css.select('div > time')[0].get('datetime'),
 				"detalle": info.css.select('div[data-testid="rich-text-html"] > div')[0].string.strip()
