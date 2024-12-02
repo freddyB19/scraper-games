@@ -31,7 +31,7 @@ class ActualizacionesEASport:
 			for nota in  post_info.find_all('ea-container', slot="container"):
 				data.append({
 					'titulo': nota.find('h3').string.strip() if nota.find('h3') else 'null',
-					'información': [info.string.strip() for info in nota.find_all('div')],
+					'informacion': [info.string.strip() for info in nota.find_all('div')],
 					'detalle': nota.find('ea-tile-copy', slot='copy').string.strip(),
 					'url': nota.find('ea-cta', intent="news").get('link-url'),
 					'imagen': nota.find('ea-tile').get('media')
