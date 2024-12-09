@@ -26,7 +26,7 @@ class NovedadesEASport:
 				'imagen': novedad.get('background-image'),
 				'titulo': novedad.get('main-link-title'),
 				'url': f"{'https://www.ea.com'}{novedad.get('main-link-url')}",
-				'url-logo': novedad.get('logo-url')
+				'url_logo': novedad.get('logo-url')
 			})
 
 
