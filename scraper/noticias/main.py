@@ -18,7 +18,7 @@ from noticias.pages.elnacional import ElNacionalNoticias
 
 URL:Dict[str, str] = {
 	'elnacional_tecnologia': 'https://www.elnacional.com/tecnologia/' ,
-	'elnacional_ia': 'https://www.elnacional.com/inteligencia-artificial/?utm_source=menu&utm_medium=recirculation&utm_campaign=internal_links',
+	'elnacional_ia': 'https://www.elnacional.com/inteligencia-artificial/',
 	'lanacion': 'https://www.lanacion.com.ar/tema/videojuegos-tid48572/', 
 	'marca': 'https://www.marca.com/videojuegos/juegos.html?intcmp=MENUMIGA&s_kw=juegos',
 	'decrypt': 'https://decrypt.co/es/news/technology',
@@ -66,7 +66,7 @@ class ScraperNoticias:
 			{'nombre': 'decrypt_tecnologia', 'pagina': decrypt_tecnologia},
 			{'nombre': 'decrypt_ia', 'pagina': decrypt_ia},
 			{'nombre': 'elnacional_tecnologia', 'pagina': elnacional_tecnologia},
-			{'nombre': 'elnacional_ia', 'pagina': elnacional_tecnologia}
+			{'nombre': 'elnacional_ia', 'pagina': elnacional_ia}
 		]
 
 def main():
