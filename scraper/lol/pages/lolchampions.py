@@ -9,7 +9,7 @@ HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
 
 class LOLChampionsPage:
 	@classmethod
-	def scrap(cls, html_data:HTMLParsed | None = None) -> str | List[Dict[str, str]]:
+	def scrap(cls, html_data:HTMLParsed | None = None, url_root: str = "") -> str | List[Dict[str, str]]:
 
 		if html_data is None:
 			return "Error File"
@@ -28,7 +28,7 @@ class LOLChampionsPage:
 			champion = card.find('div', attrs={"data-testid": "card-title"}).string
 
 			champions.append({
-				'url': url,
+				'url': f"{url_root}{url}",
 				'image': image,
 				'champion': champion.strip()
 			})
