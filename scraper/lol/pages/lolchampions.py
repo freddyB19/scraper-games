@@ -29,7 +29,7 @@ class LOLChampionsPage:
 
 			champions.append({
 				'url': f"{url_root}{url}",
-				'image': image,
+				'imagen': image,
 				'champion': champion.strip()
 			})
 		
