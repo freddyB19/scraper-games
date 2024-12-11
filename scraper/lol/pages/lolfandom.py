@@ -58,11 +58,15 @@ class LOLFandomPage:
 					estadisticas
 				)
 			)
+
+			url_imagen = fila.find('img').get('data-src')
+
+			imagen_info = url_imagen.partition(".png")
 			
 			heroe = {
 				'nombre': fila.find('span', style=True).string.strip(),
 				'url': f"{url_root}{fila.find('a', title=True).get('href')}",
-				'imagen': fila.find('img').get('data-src'),
+				'imagen': f"{imagen_info[0]}{imagen_info[1]}" if imagen_info[1] != '' else imagen_info[0],
 				'estadisticas': champion_estadisticas 
 			}
 
