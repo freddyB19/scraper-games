@@ -24,10 +24,19 @@ class ScraperLOL:
 
 	@classmethod
 	def scraper(cls) -> Dict[str, str]:
-		champions:Union[str, ResultScraper] = LOLChampionsPage.scrap(html_data = ReadFromWeb.read(URLS['lolchampions']))
-		estadisticas:Union[str, ResultScraper] = LOLFandomPage.scrap(html_data = ReadFromWeb.read(URLS['lolfandom']))
+		champions:Union[str, ResultScraper] = LOLChampionsPage.scrap(
+			html_data = ReadFromWeb.read(URLS['lolchampions']),
+			url_root = "https://www.leagueoflegends.com"
+		)
+		estadisticas:Union[str, ResultScraper] = LOLFandomPage.scrap(
+			html_data = ReadFromWeb.read(URLS['lolfandom']),
+			url_root = "https://leagueoflegends.fandom.com"
+		)
 		noticias:Union[str, ResultScraper] = LOLNewsNotesPage.scrap(html_data = ReadFromWeb.read(URLS['lolnews']))
-		notas:Union[str, ResultScraper] = LOLNewsNotesPage.scrap(html_data = ReadFromWeb.read(URLS['lolnotas']))
+		notas:Union[str, ResultScraper] = LOLNewsNotesPage.scrap(
+			html_data = ReadFromWeb.read(URLS['lolnotas']),
+			url_root = "https://www.leagueoflegends.com"
+		)
 
 		return {
 			'champions': champions,
