@@ -9,7 +9,7 @@ HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
 class LOLNewsNotesPage:
 
 	@classmethod
-	def scrap(cls, html_data:HTMLParsed | None = None) -> str | List[Dict[str, str]]:
+	def scrap(cls, html_data:HTMLParsed | None = None, url_root: str = "") -> str | List[Dict[str, str]]:
 
 		if html_data is None:
 			return "Error File"
@@ -27,7 +27,7 @@ class LOLNewsNotesPage:
 			
 			lista_info.append({
 				"titulo": info.get("aria-label"),
-				"url": info.get("href"),
+				"url": f"{url_root}{info.get('href')}" if url_root else info.get('href'),
 				"imagen": info.find('img', attrs={"data-testid": "mediaImage"}).get("src"),
 				"categoria": categoria.string.strip() if categoria is not None else None,
 				"fecha": info.css.select('div > time')[0].get('datetime'),
