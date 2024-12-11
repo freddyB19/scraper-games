@@ -10,7 +10,7 @@ HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
 class LOLFandomPage:
 
 	@classmethod
-	def scrap(cls, html_data:HTMLParsed | None = None) -> str | List[Dict[str, str]]:
+	def scrap(cls, html_data:HTMLParsed | None = None, url_root: str = "") -> str | List[Dict[str, str]]:
 
 		if html_data is None:
 			return "Error File"
@@ -61,8 +61,8 @@ class LOLFandomPage:
 			
 			heroe = {
 				'nombre': fila.find('span', style=True).string.strip(),
-				'url': fila.find('a', title=True).get('href'),
-				'img': fila.find('img').get('data-src'),
+				'url': f"{url_root}{fila.find('a', title=True).get('href')}",
+				'imagen': fila.find('img').get('data-src'),
 				'estadisticas': champion_estadisticas 
 			}
 
