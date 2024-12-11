@@ -2,14 +2,17 @@ from typing import List
 from typing import Dict
 from typing import NewType
 
-from bs4 import BeautifulSoup
+from collections import defaultdict
 
+from bs4 import BeautifulSoup
 
 HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
 
 class LOLChampionsPage:
 	@classmethod
-	def scrap(cls, html_data:HTMLParsed | None = None, url_root: str = "") -> str | List[Dict[str, str]]:
+	def scrap(cls, html_data:HTMLParsed | None = None, champions_imagen:dict = {}, url_root: str = "") -> str | List[Dict[str, str]]:
+
+		players = defaultdict(lambda: 'null', champions_imagen)
 
 		if html_data is None:
 			return "Error File"
@@ -24,13 +27,13 @@ class LOLChampionsPage:
 		for card in container.find_all('a'):
 
 			url = card.get('href')
-			image = card.find('img').get('src')
-			champion = card.find('div', attrs={"data-testid": "card-title"}).string
+			champion = card.find('div', attrs={"data-testid": "card-title"}).string.strip()
+			imagen = players[champion]
 
 			champions.append({
 				'url': f"{url_root}{url}",
-				'imagen': image,
-				'champion': champion.strip()
+				'imagen': imagen,
+				'champion': champion
 			})
 		
 		return champions
