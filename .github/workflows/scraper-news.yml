@@ -1,8 +1,8 @@
 name: Scraper News
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   build:
