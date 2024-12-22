@@ -18,7 +18,7 @@ def main():
 
 	]
 
-	with open(os.path.join(BASE, 'results', 'result.json'), 'a') as file:
+	with open(os.path.join(BASE, 'results', 'result.json'), 'w+') as file:
 		json.dump(results, file, indent=4)
 	
 
