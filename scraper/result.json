@@ -12401,11 +12401,18 @@
                     "nombre": "marca",
                     "pagina": [
                         {
-                            "titulo": "Desde el Space Invaders hasta PS5 Pro, as\u00ed han sido los regalos de navidad gaming durante\u00a0la\u00a0historia",
+                            "titulo": "De la Magnavox a la PS5 Pro, los regalos gaming que llevan 50 a\u00f1os siendo los reyes de la Navidad",
                             "url": "https://www.marca.com/videojuegos/juegos/2024/12/24/676928f8e2704e1f248b4577.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/23/17349513203555.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfResaca de Navidad? Te proponemos diez planazos para hacer con familia o aislarte\u00a0del\u00a0mundo",
+                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/25/676a9741ca4741dd098b457a.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/24/17350393807817.jpg",
+                            "meta": "Juegos",
+                            "autor": "REDACCI\u00d3N MARCA GAMING"
                         },
                         {
                             "titulo": "\"Bro, me trajiste un juego bugueado\": El problema de una madre para entender la carta de su hijo\u00a0a\u00a0Pap\u00e1 Noel",
@@ -12742,13 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/11/17339214583242.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Con vuestros votos hab\u00e9is elegido al GOTY de 2024 y este es el resultado",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/11/675981a622601d120d8b4596.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/11/17339196641642.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12756,9 +12756,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Videojuego gratis de hoy 24 de diciembre en Epic Games: solo hay que reclamarlo",
+                            "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-24-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid24122024/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-24-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "24 de diciembre de 2024",
+                            "url_link": "/tecnologia/videojuego-gratis-de-hoy-24-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid24122024/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 22 de diciembre",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-22-de-diciembre-nid23122024/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
                             "fecha": "23 de diciembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-22-de-diciembre-nid23122024/"
                         },
@@ -12990,13 +12997,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
                             "fecha": "4 de noviembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-03-de-noviembre-nid04112024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 31 de octubre en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-31-de-octubre-en-epic-games-solo-hay-que-nid31102024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "31 de octubre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-31-de-octubre-en-epic-games-solo-hay-que-nid31102024/"
                         }
                     ]
                 },
@@ -13105,15 +13105,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Editor de Video con IA de Meta Llegar\u00e1 a Instagram para Hacerte Cuestionar lo Que es Real",
-                            "url": "https://decrypt.co/es/298445/editor-de-video-con-ia-de-meta-llegara-a-instagram-para-hacerte-cuestionar-lo-que-es-real",
+                            "titulo": "Nvidia Mejora su Computadora de IA Jetson de Bajo Costo\u2014M\u00e1s Potencia a Mitad de Precio",
+                            "url": "https://decrypt.co/es/298976/nvidia-mejora-su-computadora-de-ia-jetson-de-bajo-costo-mas-potencia-a-mitad-de-precio",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/photo-collage.png-1-gID_7.png@webp",
-                            "descripcion": "Meta traer\u00e1 sus trucos de video con IA a Instagram, con nuevas funciones que permitir\u00e1n a los usuarios modificar sus videos simplemente usando texto para modificar im\u00e1genes\u2014desde agregar objetos hasta cambiar fondos, y hacer pr\u00e1cticamente cualquier cosa que puedas imaginar.\n\"Estoy muy emocionado con Movie Gen, nuestro modelo de investigaci\u00f3n de IA temprano que te permitir\u00e1 cambiar casi cualquier aspecto de tus videos con un simple comando de texto\", dijo el director de Instagram Adam Mosseri en...",
-                            "fecha": "Dec 21, 2024"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-19-143851-gID_7.png@webp",
+                            "descripcion": "Traemos buenas noticias para los desarrolladores y aficionados de la IA: Nvidia acaba de hacer mucho m\u00e1s econ\u00f3mica la construcci\u00f3n de robots, drones, c\u00e1maras inteligentes y otros dispositivos impulsados por IA que necesitan un cerebro. La nueva Jetson Orin Nano Super de la compa\u00f1\u00eda, anunciada el martes y disponible ahora, incorpora m\u00e1s potencia de procesamiento que su predecesor mientras cuesta la mitad, $249.\nLa computadora del tama\u00f1o de la palma de la mano ofrece un aumento de rendimiento del...",
+                            "fecha": "Dec 24, 2024"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Editor de Video con IA de Meta Llegar\u00e1 a Instagram para Hacerte Cuestionar lo Que es Real",
+                                    "url": "https://decrypt.co/es/298445/editor-de-video-con-ia-de-meta-llegara-a-instagram-para-hacerte-cuestionar-lo-que-es-real",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Dec 21, 2024",
+                                    "meta": "3 min lectura"
+                                },
                                 {
                                     "titulo": "Lleg\u00f3 la Navidad: Google y xAI de Elon Musk Liberan sus \u00daltimos Modelos de IA",
                                     "url": "https://decrypt.co/es/297304/feliz-navidad-google-y-xai-de-elon-musk-liberan-sus-ultimos-modelos-de-ia",
@@ -13148,16 +13155,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 13, 2024",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Gran Actualizaci\u00f3n de IA de Apple Para iPhone, iPad y Mac Finalmente Est\u00e1 Disponible",
                                     "url": "https://decrypt.co/es/296388/gran-actualizacion-de-ia-de-apple-para-iphone-ipad-y-mac-finalmente-esta-disponible",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 12, 2024",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Apple lanz\u00f3 el mi\u00e9rcoles la actualizaci\u00f3n m\u00e1s esperada para sus sistemas operativos m\u00f3viles y de escritorio, entregando finalmente una serie de nuevas funciones de inteligencia artificial que prometen desbloquear la tecnolog\u00eda de vanguardia de OpenAI.\nSi bien los usuarios probaron una peque\u00f1a muestra de \"Apple Intelligence\" en octubre, hasta ahora, tanto consumidores como cr\u00edticos han estado poco impresionados.\nEl lanzamiento de iOS 18.2, iPadOS 18.2 y MacOS Sequoia 15.2 introduce varias funcion..."
+                                },
                                 {
                                     "titulo": "Nuevo Chip Willow de Google Acelera la Llegada del Mercado de Computaci\u00f3n Cu\u00e1ntica: Expertos",
                                     "url": "https://decrypt.co/es/295819/nuevo-chip-willow-de-google-acelera-la-llegada-del-mercado-de-computacion-cuantica-expertos",
@@ -13189,14 +13197,6 @@
                                     "fecha": "Dec 4, 2024",
                                     "meta": "3 min lectura",
                                     "descripcion": "Los legisladores est\u00e1n analizando m\u00e1s de cerca la influencia de la inteligencia artificial (IA) en sectores cr\u00edticos con la introducci\u00f3n de la Ley de IA de 2024, un proyecto de ley bipartidista que busca evaluar el impacto de la IA en los servicios financieros y la vivienda.\nLa Representante Maxine Waters (D-CA) y el Presidente del Comit\u00e9 de Servicios Financieros de la C\u00e1mara, Patrick McHenry (R-NC), presentaron el proyecto de ley, dirigiendo a los reguladores federales a examinar c\u00f3mo la inteli..."
-                                },
-                                {
-                                    "titulo": "Tokens de Virtuals Protocol en Base se Disparan Ante Demanda de Agentes de IA",
-                                    "url": "https://decrypt.co/es/294227/tokens-de-virtuals-protocol-en-base-se-disparan-ante-demanda-de-agentes-de-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 2, 2024",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "El valor del ecosistema de Virtuals Protocol aument\u00f3 un 28% durante el \u00faltimo d\u00eda, llevando la capitalizaci\u00f3n total de mercado de los tokens de la blockchain Base a 1.900 millones de d\u00f3lares, seg\u00fan CoinGecko.\nEl token nativo del Virtuals Protocol, VIRTUAL, se cotiza actualmente a 1,38 d\u00f3lares\u2014tras un aumento de casi 29% en las \u00faltimas 24 horas y 161% durante la \u00faltima semana. Ha establecido un m\u00e1ximo hist\u00f3rico en el proceso, entrando en las 100 principales criptomonedas por capitalizaci\u00f3n de mer..."
                                 }
                             ]
                         }
@@ -13216,7 +13216,7 @@
                             {
                                 "titulo": "As\u00ed es como la industria m\u00f3vil se est\u00e1 adaptando a los requerimientos de sostenibilidad",
                                 "url": "https://www.elnacional.com/tecnologia/asi-es-como-la-industria-movil-se-esta-adaptando-a-los-requerimientos-de-sostenibilidad/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/laptop-2298286_1280.png",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 21, 2024",
                                 "extra": "El mundo enfrenta cada vez m\u00e1s desaf\u00edos medioambientales, por lo que la adopci\u00f3n de requerimientos de sostenibilidad ha dejado de\u2026"
@@ -13224,7 +13224,7 @@
                             {
                                 "titulo": "La demanda global impulsa el desarrollo del talento en tecnolog\u00edas de informaci\u00f3n en Am\u00e9rica Latina",
                                 "url": "https://www.elnacional.com/tecnologia/la-demanda-global-impulsa-el-desarrollo-del-talento-en-tecnologias-de-informacion-en-america-latina/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-tecnologia.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 21, 2024",
                                 "extra": "El sector de las tecnolog\u00edas de informaci\u00f3n, en constante expansi\u00f3n, representa una oportunidad para las inversiones, y se proyecta que\u2026"
@@ -13232,7 +13232,7 @@
                             {
                                 "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
                                 "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 20, 2024",
                                 "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
@@ -13240,7 +13240,7 @@
                             {
                                 "titulo": "Sombra en Google Street View resolvi\u00f3 un crimen en Espa\u00f1a",
                                 "url": "https://www.elnacional.com/tecnologia/sombra-en-google-street-view-resolvio-un-crimen-en-espana/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Google-street-View.gif",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 19, 2024",
                                 "extra": "No es una serie de misterio o ficci\u00f3n. La fr\u00eda mirada de una c\u00e1mara digital se convirti\u00f3 en el testigo\u2026"
@@ -13248,7 +13248,7 @@
                             {
                                 "titulo": "Xmail: \u00bfel fin del reinado de Gmail?",
                                 "url": "https://www.elnacional.com/tecnologia/xmail-el-fin-del-reinado-de-gmail/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Elon-Musk-Xmail-X.jpg",
                                 "meta": "APP",
                                 "fecha": "diciembre 18, 2024",
                                 "extra": "\u00bfImaginan tener una direcci\u00f3n de correo electr\u00f3nico @x.com? Esta podr\u00eda ser una realidad muy pronto.\u00a0\u00a0Elon Musk, el visionario detr\u00e1s de\u2026"
@@ -13256,7 +13256,7 @@
                             {
                                 "titulo": "Los mensajes directos de Instagram ya pueden programarse",
                                 "url": "https://www.elnacional.com/tecnologia/instagram-ya-permite-programar-mensajes-directos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-17-073526.png",
                                 "meta": "APP",
                                 "fecha": "diciembre 17, 2024",
                                 "extra": "Instagram\u00a0trae novedades: la red social comenz\u00f3 a implementar una nueva funci\u00f3n para programar el env\u00edo de mensajes directos (DM). De\u2026"
@@ -13264,7 +13264,7 @@
                             {
                                 "titulo": "El iPad plegable de Apple ser\u00e1 una realidad en 2028",
                                 "url": "https://www.elnacional.com/tecnologia/el-ipad-plegable-de-apple-sera-una-realidad-en-2028/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/EuropaPress_6409006_modelo_ipad_air.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 16, 2024",
                                 "extra": "Apple lanzar\u00e1 un nuevo iPad plegable en 2028. Seg\u00fan el portal de Bloomberg, llegar\u00e1 al mercado como parte de una\u2026"
@@ -13272,7 +13272,7 @@
                             {
                                 "titulo": "Ca\u00edda global de Meta: Whatsapp, Instagram y Facebook  reportan problemas",
                                 "url": "https://www.elnacional.com/tecnologia/caida-global-de-meta-whatsapp-instagram-y-facebook-reportan-problemas/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/WhatsApp-1.jpg",
                                 "meta": "APP",
                                 "fecha": "diciembre 11, 2024",
                                 "extra": "Las principales redes sociales de Meta, Instagram, WhatsApp y Facebook, presentaron este mi\u00e9rcoles una interrupci\u00f3n global, que dej\u00f3 a millones\u2026"
@@ -13280,7 +13280,7 @@
                             {
                                 "titulo": "Reddit revoluciona la experiencia de b\u00fasqueda con tecnolog\u00eda de IA",
                                 "url": "https://www.elnacional.com/tecnologia/reddit-revoluciona-la-experiencia-de-busqueda-con-tecnologia-de-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/08/Reddit-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 9, 2024",
                                 "extra": "La plataforma Reddit anunci\u00f3 el lanzamiento de una innovadora herramienta de b\u00fasqueda llamada Reddit Answers, basada en inteligencia artificial (IA),\u2026"
@@ -13288,7 +13288,7 @@
                             {
                                 "titulo": "Altavoces con IA: m\u00e1s inteligentes, menos seguros",
                                 "url": "https://www.elnacional.com/tecnologia/altavoces-con-ia-mas-inteligentes-menos-seguros/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-alexa.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 6, 2024",
                                 "extra": "Cuando se trata de tecnolog\u00eda para hogares inteligentes, la promesa de la IA generativa parece sacada de una novela de\u2026"
