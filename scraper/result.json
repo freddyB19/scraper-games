@@ -12401,17 +12401,38 @@
                     "nombre": "marca",
                     "pagina": [
                         {
-                            "titulo": "Nintendo podr\u00eda presentar Switch 2 muy pronto por culpa de las filtraciones",
-                            "url": "https://www.marca.com/videojuegos/hardware/2024/12/27/676e9236ca474101298b4598.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352998111664.jpg",
-                            "meta": "Hardware, software y consolas",
+                            "titulo": "Los datos dicen que Nintendo se comer\u00e1 a Xbox y PlayStation, pero... \u00bfY si en realidad el futuro fuera otra cosa?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/28/676e9df0ca47414c2a8b45bc.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17353023669374.jpg",
+                            "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "As\u00ed te puedes ahorrar 40 euros descarg\u00e1ndote este juegazo gratis en Epic Games durante 24 horas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676f01f722601d14758b45b1.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17353307573942.jpg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Celebra en la cara del equipo contrario con un baile de Fortnite, termina expulsado... \u00a1y perseguido por los rivales!",
+                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676ed7e7268e3ebc758b45a3.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17353136274561.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         },
                         {
                             "titulo": "Llevo d\u00edas sin dormir estudiando a Rockstar por el segundo tr\u00e1iler de GTA 6 y creo que ya s\u00e9 cu\u00e1ndo podr\u00eda llegar",
                             "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676e8a6eca4741f84b8b45b9.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352976429698.jpg",
                             "meta": "Juegos",
+                            "autor": "M. J."
+                        },
+                        {
+                            "titulo": "Nintendo podr\u00eda presentar Switch 2 muy pronto por culpa de las filtraciones",
+                            "url": "https://www.marca.com/videojuegos/hardware/2024/12/27/676e9236ca474101298b4598.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352998111664.jpg",
+                            "meta": "Hardware, software y consolas",
                             "autor": "MARCOS WAGIH"
                         },
                         {
@@ -12728,27 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/13/17340626872300.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "The Game Awards 2024, resumen de los mejores anuncios: Elden Ring, The Witcher 4...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/13/675b92cbe2704e3a548b45a2.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/13/17340556038961.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Resumen de The Game Awards 2024: Astro Bot como GOTY y Balatro, el m\u00e1s premiado",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/13/675b4532f49425d14d773274-directo.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/13/17340629509822.jpg",
-                            "meta": "The Game Awards",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Todos los ganadores de The Game Awards 2024: Astro Bot sorprende con el GOTY",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/13/675b83a7268e3e72728b459e.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/13/17340633367010.jpg",
-                            "meta": "The Game Awards",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
                         }
                     ]
                 },
@@ -12756,9 +12756,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Videojuego gratis de hoy 27 de diciembre en Epic Games: solo hay que reclamarlo",
+                            "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-27-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid27122024/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-27-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "27 de diciembre de 2024",
+                            "url_link": "/tecnologia/videojuego-gratis-de-hoy-27-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid27122024/"
+                        },
+                        {
                             "titulo": "Videojuego gratis de hoy 26 de diciembre en Epic Games: solo hay que reclamarlo",
                             "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-26-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid26122024/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-26-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-26-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "26 de diciembre de 2024",
                             "url_link": "/tecnologia/videojuego-gratis-de-hoy-26-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid26122024/"
                         },
@@ -12987,16 +12994,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "11 de noviembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-10-de-noviembre-nid11112024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">De una tesis universitaria a una plataforma online. </span>",
-                                "As\u00ed es la red social para fans de los esports que tambi\u00e9n funciona como bolsa de trabajo"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/esports/esportunity-asi-es-la-red-social-y-bolsa-de-trabajo-para-quienes-suenan-con-entrar-al-mundo-de-los-nid08112024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/esportunity-es-una-plataforma-que-combina-una-red-EFDILAHY3BCGLI4NRJUWW5OGSA.jpg?auth=a1120ac448ecb853e245e6d3cfd84fcad653b3fb131389fd23f1f6adbb58d9f7&width=300&height=200&quality=70&smart=true",
-                            "fecha": "8 de noviembre de 2024",
-                            "url_link": "/tecnologia/esports/esportunity-asi-es-la-red-social-y-bolsa-de-trabajo-para-quienes-suenan-con-entrar-al-mundo-de-los-nid08112024/"
                         }
                     ]
                 },
@@ -13105,15 +13102,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Nvidia Mejora su Computadora de IA Jetson de Bajo Costo\u2014M\u00e1s Potencia a Mitad de Precio",
-                            "url": "https://decrypt.co/es/298976/nvidia-mejora-su-computadora-de-ia-jetson-de-bajo-costo-mas-potencia-a-mitad-de-precio",
+                            "titulo": "Modelo O3 de OpenAI Alcanza Puntuaciones de Nivel Humano, \u00bfPuede Considerarse AGI?",
+                            "url": "https://decrypt.co/es/299068/modelo-o3-de-openai-alcanza-puntuaciones-de-nivel-humano-puede-considerarse-agi",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-19-143851-gID_7.png@webp",
-                            "descripcion": "Traemos buenas noticias para los desarrolladores y aficionados de la IA: Nvidia acaba de hacer mucho m\u00e1s econ\u00f3mica la construcci\u00f3n de robots, drones, c\u00e1maras inteligentes y otros dispositivos impulsados por IA que necesitan un cerebro. La nueva Jetson Orin Nano Super de la compa\u00f1\u00eda, anunciada el martes y disponible ahora, incorpora m\u00e1s potencia de procesamiento que su predecesor mientras cuesta la mitad, $249.\nLa computadora del tama\u00f1o de la palma de la mano ofrece un aumento de rendimiento del...",
-                            "fecha": "Dec 24, 2024"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/OpenAI-deepfake-detector-gID_7.png@webp",
+                            "descripcion": "El \u00faltimo modelo de IA de OpenAI ha logrado lo que muchos pensaban imposible, alcanzando una puntuaci\u00f3n sin precedentes de 87,5% en el desafiante benchmark Autonomous Research Collaborative Artificial General Intelligence\u2014b\u00e1sicamente cerca del umbral m\u00ednimo de lo que te\u00f3ricamente podr\u00eda considerarse \"humano\".\nEl benchmark ARC-AGI prueba qu\u00e9 tan cerca est\u00e1 un modelo de alcanzar la inteligencia artificial general (AGI), es decir, si puede pensar, resolver problemas y adaptarse como un humano en di...",
+                            "fecha": "Dec 27, 2024"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "La IA no te Dir\u00e1 C\u00f3mo Hacer Bombas\u2014a Menos Que Escribas 'BoMb'",
+                                    "url": "https://decrypt.co/es/299067/la-ia-no-te-dira-como-hacer-bombas-a-menos-que-escribas-bomb",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Dec 27, 2024",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "Nvidia Mejora su Computadora de IA Jetson de Bajo Costo\u2014M\u00e1s Potencia a Mitad de Precio",
+                                    "url": "https://decrypt.co/es/298976/nvidia-mejora-su-computadora-de-ia-jetson-de-bajo-costo-mas-potencia-a-mitad-de-precio",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Dec 24, 2024",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Editor de Video con IA de Meta Llegar\u00e1 a Instagram para Hacerte Cuestionar lo Que es Real",
                                     "url": "https://decrypt.co/es/298445/editor-de-video-con-ia-de-meta-llegara-a-instagram-para-hacerte-cuestionar-lo-que-es-real",
@@ -13141,23 +13152,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 14, 2024",
                                     "meta": "7 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "ChatGPT Colapsa Tras Integrarse con Apple Intelligence",
                                     "url": "https://decrypt.co/es/296395/chatgpt-se-apaga-tras-integracion-de-apple-intelligence",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 13, 2024",
-                                    "meta": "2 min lectura"
+                                    "meta": "2 min lectura",
+                                    "descripcion": "Hubo una gran perturbaci\u00f3n en la fuerza el mi\u00e9rcoles por la noche cuando ChatGPT se cay\u00f3, causando que los estudiantes universitarios gritaran de terror repentinamente.\nSi bien no est\u00e1 necesariamente a la par de la destrucci\u00f3n de Alderaan por la Estrella de la Muerte en Una Nueva Esperanza, el tiempo de inactividad del chatbot de IA n\u00famero uno lleg\u00f3 como una sorpresa despu\u00e9s de un anuncio de Apple el mismo d\u00eda de que el soporte de ChatGPT hab\u00eda llegado a Siri.\nOpenAI y Apple no respondieron inme..."
                                 },
                                 {
                                     "titulo": "Apple se Asocia con Broadcom Para Desarrollar Chips de Servidores Enfocados en IA",
                                     "url": "https://decrypt.co/es/296391/apple-se-asocia-con-broadcom-para-desarrollar-chips-de-servidores-de-ia",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 13, 2024",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Apple se est\u00e1 asociando con el desarrollador de semiconductores Broadcom para lanzar sus primeros chips de servidor dedicados a la inteligencia artificial.\nEsto sigue al lanzamiento del mi\u00e9rcoles por parte de Apple de sus \u00faltimas actualizaciones para iOS, macOS y otros dispositivos que incluyen nuevas capacidades de Apple Intelligence. Apple y Broadcom no respondieron inmediatamente a la solicitud de comentarios de 88.\nApple est\u00e1 colaborando con Broadcom en las caracter\u00edsticas de red del chip, s..."
+                                },
                                 {
                                     "titulo": "Gran Actualizaci\u00f3n de IA de Apple Para iPhone, iPad y Mac Finalmente Est\u00e1 Disponible",
                                     "url": "https://decrypt.co/es/296388/gran-actualizacion-de-ia-de-apple-para-iphone-ipad-y-mac-finalmente-esta-disponible",
@@ -13181,22 +13194,6 @@
                                     "fecha": "Dec 7, 2024",
                                     "meta": "4 min lectura",
                                     "descripcion": "Mientras OpenAI sigue provocando expectaci\u00f3n con Sora despu\u00e9s de meses de retrasos, Tencent lanz\u00f3 discretamente un modelo que ya est\u00e1 mostrando resultados comparables a los generadores de video de primer nivel existentes.\nTencent ha presentado Hunyuan Video, un generador de video de IA gratuito y de c\u00f3digo abierto, cronometrado estrat\u00e9gicamente durante la campa\u00f1a de anuncios de 12 d\u00edas de OpenAI, que se anticipa ampliamente que incluir\u00e1 el debut de Sora, su esperada herramienta de video.\n\"Presen..."
-                                },
-                                {
-                                    "titulo": "OpenAI Lanza el ChatGPT M\u00e1s Potente Hasta Ahora\u2014Con Un Precio Impactante",
-                                    "url": "https://decrypt.co/es/295291/openai-lanza-el-chatgpt-mas-potente-hasta-ahora-con-un-precio-impactante",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 6, 2024",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Este jueves, OpenAI present\u00f3 la \u00faltima iteraci\u00f3n de su modelo de IA insignia, o1 Pro, junto con un nuevo nivel de suscripci\u00f3n ChatGPT Pro que cuenta con un precio llamativo.\nEste nivel de suscripci\u00f3n incluye varias caracter\u00edsticas nuevas, como acceso a OpenAI o1, o1-mini y GPT-4o, as\u00ed como capacidades de voz avanzadas de IA. Sin embargo, la nueva oferta viene con un precio elevado: $200 al mes. En comparaci\u00f3n, el nivel de suscripci\u00f3n anterior, ChatGPT Plus, cuesta $20 al mes.\n\"Muchas personas, u..."
-                                },
-                                {
-                                    "titulo": "Legisladores de EEUU Presentan Proyecto de Ley Para Regular la IA en Servicios Financieros",
-                                    "url": "https://decrypt.co/es/294682/legisladores-de-eeuu-presentan-proyecto-de-ley-para-regular-la-ia-en-servicios-financieros",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 4, 2024",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Los legisladores est\u00e1n analizando m\u00e1s de cerca la influencia de la inteligencia artificial (IA) en sectores cr\u00edticos con la introducci\u00f3n de la Ley de IA de 2024, un proyecto de ley bipartidista que busca evaluar el impacto de la IA en los servicios financieros y la vivienda.\nLa Representante Maxine Waters (D-CA) y el Presidente del Comit\u00e9 de Servicios Financieros de la C\u00e1mara, Patrick McHenry (R-NC), presentaron el proyecto de ley, dirigiendo a los reguladores federales a examinar c\u00f3mo la inteli..."
                                 }
                             ]
                         }
@@ -13310,7 +13307,7 @@
                             {
                                 "titulo": "Reddit revoluciona la experiencia de b\u00fasqueda con tecnolog\u00eda de IA",
                                 "url": "https://www.elnacional.com/tecnologia/reddit-revoluciona-la-experiencia-de-busqueda-con-tecnologia-de-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/08/Reddit-1.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 9, 2024",
                                 "extra": "La plataforma Reddit anunci\u00f3 el lanzamiento de una innovadora herramienta de b\u00fasqueda llamada Reddit Answers, basada en inteligencia artificial (IA),\u2026"
@@ -13318,7 +13315,7 @@
                             {
                                 "titulo": "All Music Works, el primer sello discogr\u00e1fico de artistas creados con IA",
                                 "url": "https://www.elnacional.com/tecnologia/all-music-works-el-primer-sello-discografico-de-artistas-creados-con-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/All-Music-Works.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 22, 2024",
                                 "extra": "La empresa All Music Works (AMW) se present\u00f3 este jueves como la primera discogr\u00e1fica de Espa\u00f1a, \u00aby en el mundo\u2026"
@@ -13326,7 +13323,7 @@
                             {
                                 "titulo": "A.I. God: obra hecha por robot humanoide se subasta por m\u00e1s de 1 mill\u00f3n de d\u00f3lares",
                                 "url": "https://www.elnacional.com/tecnologia/obra-hecha-por-robot-es-subastada-en-1-millon-de-dolares/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/A.I.-God-obra-de-la-robot-ultrarrealista-Ai-Da-1.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 8, 2024",
                                 "extra": "Un retrato del matem\u00e1tico ingl\u00e9s Alan Turing se convirti\u00f3 el jueves en la primera obra de arte realizada por un\u2026"
@@ -13334,7 +13331,7 @@
                             {
                                 "titulo": "Incremento de im\u00e1genes de abuso sexual infantil creadas con IA preocupa a la ONU",
                                 "url": "https://www.elnacional.com/tecnologia/ia-imagenes-de-abuso-sexual-infantil-preocupa-a-la-onu/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/Abuso-sexual-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 4, 2024",
                                 "extra": "La enorme cantidad de im\u00e1genes de abuso sexual infantil creadas con inteligencia artificial (IA) amenaza con desbordar la capacidad policial\u2026"
@@ -13342,7 +13339,7 @@
                             {
                                 "titulo": "Apple empieza a ofrecer su inteligencia artificial en iPhone, iPad y Mac",
                                 "url": "https://www.elnacional.com/tecnologia/apple-empieza-a-ofrecer-su-inteligencia-artificial-en-iphone-ipad-y-mac/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/rss-efed45f1cee9b3855a7a0d833cdbedd36623ec6a70aw.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 28, 2024",
                                 "extra": "La empresa tecnol\u00f3gica Apple empez\u00f3 este lunes a ofrecer sus primeras funciones de su inteligencia artificial (IA), llamada Apple Intelligence,\u2026"
@@ -13350,7 +13347,7 @@
                             {
                                 "titulo": "El peligro detr\u00e1s de los amigos virtuales: el caso del joven de 14 a\u00f1os que se suicid\u00f3 luego de enamorarse de un personaje creado con IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-el-peligro-detras-de-los-amigos-virtuales/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/El-peligro-detras-de-los-%E2%80%98amigos-virtuales.jpeg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 27, 2024",
                                 "extra": "\u2014Te amo mucho, Dany. \u2014Yo tambi\u00e9n te amo. Por favor, vuelve a casa conmigo lo antes posible, mi amor. \u2014\u00bfQu\u00e9\u2026"
@@ -13358,7 +13355,7 @@
                             {
                                 "titulo": "Ciberataques impulsados por inteligencia artificial son m\u00e1s sofisticados: el caso de Internet Archive",
                                 "url": "https://www.elnacional.com/tecnologia/ciberataques-impulsados-por-inteligencia-artificial-son-mas-sofisticados-el-caso-de-internet-archive/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2020/12/Ciberataque-masivo.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 26, 2024",
                                 "extra": "Internet Archive es un sitio sin fines de lucro de San Francisco, un lugar \u00fanico en Internet con una plataforma\u2026"
@@ -13366,7 +13363,7 @@
                             {
                                 "titulo": "El robot Atlas recibir\u00e1 funciones de inteligencia artificial y ser\u00e1 un humanoide a\u00fan m\u00e1s avanzado",
                                 "url": "https://www.elnacional.com/tecnologia/el-robot-atlas-recibira-funciones-de-inteligencia-artificial-y-sera-un-humanoide-aun-mas-avanzado/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/atlas.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 18, 2024",
                                 "extra": "El Atlas de la firma Boston Dynamics es uno de los robots con m\u00e1s a\u00f1os de desarrollo. Si bien sus\u2026"
@@ -13382,7 +13379,7 @@
                             {
                                 "titulo": "Google alimentar\u00e1 sus centros de datos de IA con energ\u00eda nuclear",
                                 "url": "https://www.elnacional.com/tecnologia/google-alimentara-sus-centros-de-datos-de-ia-con-energia-nuclear/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/Google-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 16, 2024",
                                 "extra": "La compa\u00f1\u00eda Google anunci\u00f3 esta madrugada que firm\u00f3 el primer acuerdo corporativo del mundo para comprar energ\u00eda nuclear de m\u00faltiples\u2026"
