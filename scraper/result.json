@@ -12756,9 +12756,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Videojuego gratis de hoy 28 de diciembre en Epic Games: solo hay que reclamarlo",
+                            "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-28-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid28122024/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-28-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "28 de diciembre de 2024",
+                            "url_link": "/tecnologia/videojuego-gratis-de-hoy-28-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid28122024/"
+                        },
+                        {
                             "titulo": "Videojuego gratis de hoy 27 de diciembre en Epic Games: solo hay que reclamarlo",
                             "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-27-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid27122024/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-27-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-27-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "27 de diciembre de 2024",
                             "url_link": "/tecnologia/videojuego-gratis-de-hoy-27-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid27122024/"
                         },
@@ -12987,13 +12994,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "14 de noviembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-14-de-noviembre-en-epic-games-solo-hay-que-nid14112024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 10 de noviembre",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-10-de-noviembre-nid11112024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
-                            "fecha": "11 de noviembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-10-de-noviembre-nid11112024/"
                         }
                     ]
                 },
@@ -13211,6 +13211,14 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Entran en vigor las nuevas normas de la UE sobre cargadores universales",
+                                "url": "https://www.elnacional.com/tecnologia/entran-en-vigor-las-nuevas-normas-de-la-ue-sobre-cargadores-universales/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/AFP__20241228__36RL9TX__v1__HighRes__FilesEuChargers.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "diciembre 28, 2024",
+                                "extra": "Las nuevas normas de la Uni\u00f3n Europea (UE), que exigen que todos aparatos electr\u00f3nicos usen el mismo tipo de cargador\u2026"
+                            },
+                            {
                                 "titulo": "Google eliminar\u00e1 cuentas inactivas en 2025: \u00bfc\u00f3mo evitarlo?",
                                 "url": "https://www.elnacional.com/tecnologia/google-eliminara-cuentas-inactivas-en-2025-como-evitarlo/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Google.jpg",
@@ -13281,14 +13289,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 16, 2024",
                                 "extra": "Apple lanzar\u00e1 un nuevo iPad plegable en 2028. Seg\u00fan el portal de Bloomberg, llegar\u00e1 al mercado como parte de una\u2026"
-                            },
-                            {
-                                "titulo": "Ca\u00edda global de Meta: Whatsapp, Instagram y Facebook  reportan problemas",
-                                "url": "https://www.elnacional.com/tecnologia/caida-global-de-meta-whatsapp-instagram-y-facebook-reportan-problemas/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/WhatsApp-1.jpg",
-                                "meta": "APP",
-                                "fecha": "diciembre 11, 2024",
-                                "extra": "Las principales redes sociales de Meta, Instagram, WhatsApp y Facebook, presentaron este mi\u00e9rcoles una interrupci\u00f3n global, que dej\u00f3 a millones\u2026"
                             }
                         ]
                     }
@@ -13307,7 +13307,7 @@
                             {
                                 "titulo": "Reddit revoluciona la experiencia de b\u00fasqueda con tecnolog\u00eda de IA",
                                 "url": "https://www.elnacional.com/tecnologia/reddit-revoluciona-la-experiencia-de-busqueda-con-tecnologia-de-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/08/Reddit-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 9, 2024",
                                 "extra": "La plataforma Reddit anunci\u00f3 el lanzamiento de una innovadora herramienta de b\u00fasqueda llamada Reddit Answers, basada en inteligencia artificial (IA),\u2026"
@@ -13315,7 +13315,7 @@
                             {
                                 "titulo": "All Music Works, el primer sello discogr\u00e1fico de artistas creados con IA",
                                 "url": "https://www.elnacional.com/tecnologia/all-music-works-el-primer-sello-discografico-de-artistas-creados-con-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/All-Music-Works.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 22, 2024",
                                 "extra": "La empresa All Music Works (AMW) se present\u00f3 este jueves como la primera discogr\u00e1fica de Espa\u00f1a, \u00aby en el mundo\u2026"
@@ -13323,7 +13323,7 @@
                             {
                                 "titulo": "A.I. God: obra hecha por robot humanoide se subasta por m\u00e1s de 1 mill\u00f3n de d\u00f3lares",
                                 "url": "https://www.elnacional.com/tecnologia/obra-hecha-por-robot-es-subastada-en-1-millon-de-dolares/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/A.I.-God-obra-de-la-robot-ultrarrealista-Ai-Da-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 8, 2024",
                                 "extra": "Un retrato del matem\u00e1tico ingl\u00e9s Alan Turing se convirti\u00f3 el jueves en la primera obra de arte realizada por un\u2026"
@@ -13331,7 +13331,7 @@
                             {
                                 "titulo": "Incremento de im\u00e1genes de abuso sexual infantil creadas con IA preocupa a la ONU",
                                 "url": "https://www.elnacional.com/tecnologia/ia-imagenes-de-abuso-sexual-infantil-preocupa-a-la-onu/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/Abuso-sexual-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 4, 2024",
                                 "extra": "La enorme cantidad de im\u00e1genes de abuso sexual infantil creadas con inteligencia artificial (IA) amenaza con desbordar la capacidad policial\u2026"
@@ -13339,7 +13339,7 @@
                             {
                                 "titulo": "Apple empieza a ofrecer su inteligencia artificial en iPhone, iPad y Mac",
                                 "url": "https://www.elnacional.com/tecnologia/apple-empieza-a-ofrecer-su-inteligencia-artificial-en-iphone-ipad-y-mac/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/rss-efed45f1cee9b3855a7a0d833cdbedd36623ec6a70aw.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 28, 2024",
                                 "extra": "La empresa tecnol\u00f3gica Apple empez\u00f3 este lunes a ofrecer sus primeras funciones de su inteligencia artificial (IA), llamada Apple Intelligence,\u2026"
@@ -13347,7 +13347,7 @@
                             {
                                 "titulo": "El peligro detr\u00e1s de los amigos virtuales: el caso del joven de 14 a\u00f1os que se suicid\u00f3 luego de enamorarse de un personaje creado con IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-el-peligro-detras-de-los-amigos-virtuales/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/El-peligro-detras-de-los-%E2%80%98amigos-virtuales.jpeg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 27, 2024",
                                 "extra": "\u2014Te amo mucho, Dany. \u2014Yo tambi\u00e9n te amo. Por favor, vuelve a casa conmigo lo antes posible, mi amor. \u2014\u00bfQu\u00e9\u2026"
@@ -13355,7 +13355,7 @@
                             {
                                 "titulo": "Ciberataques impulsados por inteligencia artificial son m\u00e1s sofisticados: el caso de Internet Archive",
                                 "url": "https://www.elnacional.com/tecnologia/ciberataques-impulsados-por-inteligencia-artificial-son-mas-sofisticados-el-caso-de-internet-archive/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2020/12/Ciberataque-masivo.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 26, 2024",
                                 "extra": "Internet Archive es un sitio sin fines de lucro de San Francisco, un lugar \u00fanico en Internet con una plataforma\u2026"
@@ -13363,7 +13363,7 @@
                             {
                                 "titulo": "El robot Atlas recibir\u00e1 funciones de inteligencia artificial y ser\u00e1 un humanoide a\u00fan m\u00e1s avanzado",
                                 "url": "https://www.elnacional.com/tecnologia/el-robot-atlas-recibira-funciones-de-inteligencia-artificial-y-sera-un-humanoide-aun-mas-avanzado/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/atlas.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 18, 2024",
                                 "extra": "El Atlas de la firma Boston Dynamics es uno de los robots con m\u00e1s a\u00f1os de desarrollo. Si bien sus\u2026"
@@ -13379,7 +13379,7 @@
                             {
                                 "titulo": "Google alimentar\u00e1 sus centros de datos de IA con energ\u00eda nuclear",
                                 "url": "https://www.elnacional.com/tecnologia/google-alimentara-sus-centros-de-datos-de-ia-con-energia-nuclear/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/Google-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 16, 2024",
                                 "extra": "La compa\u00f1\u00eda Google anunci\u00f3 esta madrugada que firm\u00f3 el primer acuerdo corporativo del mundo para comprar energ\u00eda nuclear de m\u00faltiples\u2026"
