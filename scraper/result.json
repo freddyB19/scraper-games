@@ -12401,6 +12401,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Hemos calculado cu\u00e1nto costar\u00eda tener todas las skins de Fortnite y vas a tener que ahorrar much\u00edsimo dinero para tenerlas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/30/676d6f7922601dc5398b456f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/26/17352392610367.jpg",
+                            "meta": "Fortnite",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Nunca debes hacer esto cerca de tu consola PS5, Xbox o Switch si no quieres romperla antes de tiempo",
+                            "url": "https://www.marca.com/videojuegos/hardware/2024/12/30/67727a8eca47411c248b4578.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/30/17355556525865.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Los datos dicen que Nintendo se comer\u00e1 a Xbox y PlayStation, pero... \u00bfY si en realidad el futuro fuera otra cosa?",
                             "url": "https://www.marca.com/videojuegos/juegos/2024/12/28/676e9df0ca47414c2a8b45bc.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17353023669374.jpg",
@@ -12735,20 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/13/17340653814994.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00a1Salta la sorpresa! Ni Wukong, ni Final Fantasy: Astro Bot se lleva el GOTY 2024",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/13/675bb3c9e2704ea73f8b4595.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/13/17340635748707.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "De los creadores de Uncharted nos llega el tr\u00e1iler m\u00e1s asombroso de los TGA: Intergalactic",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/13/675bb1c6e2704ed92d8b4595.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/13/17340626872300.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12756,9 +12756,23 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 29 de diciembre",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-diciembre-nid30122024/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "30 de diciembre de 2024",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-diciembre-nid30122024/"
+                        },
+                        {
+                            "titulo": "Videojuego gratis de hoy 29 de diciembre en Epic Games: solo hay que reclamarlo",
+                            "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-29-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid29122024/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-29-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "29 de diciembre de 2024",
+                            "url_link": "/tecnologia/videojuego-gratis-de-hoy-29-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid29122024/"
+                        },
+                        {
                             "titulo": "Videojuego gratis de hoy 28 de diciembre en Epic Games: solo hay que reclamarlo",
                             "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-28-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid28122024/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-28-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-28-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "28 de diciembre de 2024",
                             "url_link": "/tecnologia/videojuego-gratis-de-hoy-28-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid28122024/"
                         },
@@ -12980,20 +12994,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/el-premio-a-los-mejores-videojuegos-del-ano-los-DDG3NMPQFVBMHDBYHHXXHW6KA4.jpg?auth=28b5550a4123a27cfc0dfef93618f550dfda2c861ee02790e7750a6ee057ef89&width=300&height=200&quality=70&smart=true",
                             "fecha": "19 de noviembre de 2024",
                             "url_link": "/tecnologia/game-awards-2024-estos-son-todos-los-juegos-candidatos-al-premio-a-lo-mejor-del-ano-nid19112024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 17 de noviembre",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-17-de-noviembre-nid18112024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
-                            "fecha": "18 de noviembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-17-de-noviembre-nid18112024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 14 de noviembre en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-14-de-noviembre-en-epic-games-solo-hay-que-nid14112024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "14 de noviembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-14-de-noviembre-en-epic-games-solo-hay-que-nid14112024/"
                         }
                     ]
                 },
@@ -13211,9 +13211,25 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Qu\u00e9 se espera en 2025 de la inteligencia artificial, el avance que marc\u00f3 un antes y un despu\u00e9s en la historia de la tecnolog\u00eda",
+                                "url": "https://www.elnacional.com/bbc-news-mundo/que-se-espera-en-2025-de-la-inteligencia-artificial-el-avance-que-marco-un-antes-y-un-despues-en-la-historia-de-la-tecnologia/",
+                                "imagen": null,
+                                "meta": "BBC News Mundo",
+                                "fecha": "diciembre 29, 2024",
+                                "extra": "La inteligencia artificial (IA) est\u00e1 marcando un antes y un despu\u00e9s en la historia de la tecnolog\u00eda, y 2025 traer\u00e1\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfPor qu\u00e9 recomiendan reiniciar tu celular una vez a la semana?",
+                                "url": "https://www.elnacional.com/tecnologia/por-que-recomiendan-reiniciar-tu-celular-una-vez-a-la-semana/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/reiniciar-celular-jpeg.webp",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "diciembre 29, 2024",
+                                "extra": "En nuestra vida cotidiana, los\u00a0celulares\u00a0se han vuelto una extensi\u00f3n para nuestras actividades, por lo que es fundamental darles el mantenimiento\u2026"
+                            },
+                            {
                                 "titulo": "Entran en vigor las nuevas normas de la UE sobre cargadores universales",
                                 "url": "https://www.elnacional.com/tecnologia/entran-en-vigor-las-nuevas-normas-de-la-ue-sobre-cargadores-universales/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/AFP__20241228__36RL9TX__v1__HighRes__FilesEuChargers.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 28, 2024",
                                 "extra": "Las nuevas normas de la Uni\u00f3n Europea (UE), que exigen que todos aparatos electr\u00f3nicos usen el mismo tipo de cargador\u2026"
@@ -13221,7 +13237,7 @@
                             {
                                 "titulo": "Google eliminar\u00e1 cuentas inactivas en 2025: \u00bfc\u00f3mo evitarlo?",
                                 "url": "https://www.elnacional.com/tecnologia/google-eliminara-cuentas-inactivas-en-2025-como-evitarlo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Google.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 26, 2024",
                                 "extra": "A partir de 2025, Google comenzar\u00e1 a eliminar las cuentas inactivas durante periodos prolongados en sus diferentes servicios. Entre los\u2026"
@@ -13229,7 +13245,7 @@
                             {
                                 "titulo": "Google anuncia Gemini 2.0 y se anticipa a la era de los agentes de inteligencia artificial",
                                 "url": "https://www.elnacional.com/tecnologia/google-anuncia-gemini-2-0-y-se-anticipa-a-la-era-de-los-agentes-de-inteligencia-artificial/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/12/gemini.jpeg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 21, 2024",
                                 "extra": "Al igual que OpenAI, Meta, Amazon, entre otras compa\u00f1\u00edas avanzan en el desarrollo de sus LLMs, Google contin\u00faa incorporando mejoras\u2026"
@@ -13237,7 +13253,7 @@
                             {
                                 "titulo": "As\u00ed es como la industria m\u00f3vil se est\u00e1 adaptando a los requerimientos de sostenibilidad",
                                 "url": "https://www.elnacional.com/tecnologia/asi-es-como-la-industria-movil-se-esta-adaptando-a-los-requerimientos-de-sostenibilidad/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/laptop-2298286_1280.png",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 21, 2024",
                                 "extra": "El mundo enfrenta cada vez m\u00e1s desaf\u00edos medioambientales, por lo que la adopci\u00f3n de requerimientos de sostenibilidad ha dejado de\u2026"
@@ -13245,7 +13261,7 @@
                             {
                                 "titulo": "La demanda global impulsa el desarrollo del talento en tecnolog\u00edas de informaci\u00f3n en Am\u00e9rica Latina",
                                 "url": "https://www.elnacional.com/tecnologia/la-demanda-global-impulsa-el-desarrollo-del-talento-en-tecnologias-de-informacion-en-america-latina/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-tecnologia.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 21, 2024",
                                 "extra": "El sector de las tecnolog\u00edas de informaci\u00f3n, en constante expansi\u00f3n, representa una oportunidad para las inversiones, y se proyecta que\u2026"
@@ -13253,7 +13269,7 @@
                             {
                                 "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
                                 "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 20, 2024",
                                 "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
@@ -13261,7 +13277,7 @@
                             {
                                 "titulo": "Sombra en Google Street View resolvi\u00f3 un crimen en Espa\u00f1a",
                                 "url": "https://www.elnacional.com/tecnologia/sombra-en-google-street-view-resolvio-un-crimen-en-espana/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Google-street-View.gif",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 19, 2024",
                                 "extra": "No es una serie de misterio o ficci\u00f3n. La fr\u00eda mirada de una c\u00e1mara digital se convirti\u00f3 en el testigo\u2026"
@@ -13269,26 +13285,10 @@
                             {
                                 "titulo": "Xmail: \u00bfel fin del reinado de Gmail?",
                                 "url": "https://www.elnacional.com/tecnologia/xmail-el-fin-del-reinado-de-gmail/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Elon-Musk-Xmail-X.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "diciembre 18, 2024",
                                 "extra": "\u00bfImaginan tener una direcci\u00f3n de correo electr\u00f3nico @x.com? Esta podr\u00eda ser una realidad muy pronto.\u00a0\u00a0Elon Musk, el visionario detr\u00e1s de\u2026"
-                            },
-                            {
-                                "titulo": "Los mensajes directos de Instagram ya pueden programarse",
-                                "url": "https://www.elnacional.com/tecnologia/instagram-ya-permite-programar-mensajes-directos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-17-073526.png",
-                                "meta": "APP",
-                                "fecha": "diciembre 17, 2024",
-                                "extra": "Instagram\u00a0trae novedades: la red social comenz\u00f3 a implementar una nueva funci\u00f3n para programar el env\u00edo de mensajes directos (DM). De\u2026"
-                            },
-                            {
-                                "titulo": "El iPad plegable de Apple ser\u00e1 una realidad en 2028",
-                                "url": "https://www.elnacional.com/tecnologia/el-ipad-plegable-de-apple-sera-una-realidad-en-2028/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/EuropaPress_6409006_modelo_ipad_air.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "diciembre 16, 2024",
-                                "extra": "Apple lanzar\u00e1 un nuevo iPad plegable en 2028. Seg\u00fan el portal de Bloomberg, llegar\u00e1 al mercado como parte de una\u2026"
                             }
                         ]
                     }
