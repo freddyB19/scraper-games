@@ -8,7 +8,7 @@ Este scraper que está diseñado en python con BeautifulSoup, permite obtener in
   - Decrypt
   - El Nacional
 
-2. Webs sobre vidfeojuegos (por ahora):
+2. Webs sobre videojuegos (por ahora):
   - Easport
   - League of Legends
 ```
