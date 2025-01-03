@@ -12401,6 +12401,34 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Soy experto en ordenadores, y si no quieres complicarte, esto es lo mejor que puedes hacer al comprar un PC",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/03/67616e79ca4741d5138b4585.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358982647897.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "M. J."
+                        },
+                        {
+                            "titulo": "\"Switch 2 ser\u00e1 superior a PS4 Pro en muchos aspectos\", la nueva consola de Nintendo podr\u00eda ir a por todas",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/03/6777b24222601d346c8b457f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358975795991.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\"Es aleatorio\", jugador de Animal Crossing logra un hito incre\u00edble en su isla por accidente",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/02/67765ce922601da00a8b45a3.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358102018819.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Si no sabes qu\u00e9 regalar por Reyes, estos packs gaming son la soluci\u00f3n perfecta",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/02/677695a922601daa2f8b4590.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358248034636.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "M. J."
+                        },
+                        {
                             "titulo": "Calendario de Pok\u00e9mon TCG Pocket en enero: Nuevos eventos, competiciones PVP, cartas especiales...",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/02/67766fdd22601df2748b457a.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358150205385.jpg",
@@ -12412,13 +12440,6 @@
                             "url": "https://www.marca.com/videojuegos/hardware/2025/01/02/6776624422601d687c8b45c6.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358116166130.jpg",
                             "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Jugador de Animal Crossing: New horizons consigue la mejor isla posible y revela que el sistema de calificaci\u00f3n \"parece aleatorio\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/02/67765ce922601da00a8b45a3.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358102018819.jpg",
-                            "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
@@ -12728,27 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/19/17345994423430.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "TOTW 13 de EA Sports FC 25: Rodrygo comanda el equipo de la semana",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/18/6762f5f946163ffb6f8b4592.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/18/17345476169009.jpg",
-                            "meta": "EA FC 25",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Lo acusaron de machista y de racista, pero en realidad es uno de los mejores RPG de la d\u00e9cada y tendr\u00e1 secuela",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/18/67629b44268e3ebd068b45bf.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/18/17345152612432.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Rubius abre en directo una de las cartas m\u00e1s caras y codiciadas de Pok\u00e9mon JCC",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/17/676154c8268e3ea46a8b45b2.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/17/17344328448744.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12756,9 +12756,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Videojuego gratis de hoy 2 de enero en Epic Games: solo hay que reclamarlo",
+                            "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-1-de-enero-en-epic-games-solo-hay-que-reclamarlo-nid02012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-02-de-enero-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "2 de enero de 2025",
+                            "url_link": "/tecnologia/videojuego-gratis-de-hoy-1-de-enero-en-epic-games-solo-hay-que-reclamarlo-nid02012025/"
+                        },
+                        {
                             "titulo": "Videojuego gratis de hoy 31 de diciembre en Epic Games: solo hay que reclamarlo",
                             "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-31-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid31122024/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-31-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-31-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "31 de diciembre de 2024",
                             "url_link": "/tecnologia/videojuego-gratis-de-hoy-31-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid31122024/"
                         },
@@ -12981,13 +12988,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
                             "fecha": "25 de noviembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-24-de-noviembre-nid25112024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 21 de noviembre en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-21-de-noviembre-en-epic-games-solo-hay-que-nid21112024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "21 de noviembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-21-de-noviembre-en-epic-games-solo-hay-que-nid21112024/"
                         }
                     ]
                 },
