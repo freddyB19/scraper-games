@@ -12401,6 +12401,27 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Un juego de PS1 me ha recordado porque llevamos toda la vida pegados a una PlayStation",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/04/6776cb83e2704e934e8b4574.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358384948353.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\"B\u00e1sicamente anunci\u00e9 Minecraft 2\", el creador del juego original confirma que har\u00e1 una segunda parte",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/04/6778f50622601d625b8b45a9.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/04/17359806340215.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni Kirby, ni Donkey Kong: el personaje de Nintendo que sorprendi\u00f3 con su propio juego revolucionario",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/04/6777a6fe22601ddd208b459b.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358970832575.jpg",
+                            "meta": "Juegos",
+                            "autor": "M. J."
+                        },
+                        {
                             "titulo": "Soy experto en ordenadores, y si no quieres complicarte, esto es lo mejor que puedes hacer al comprar un PC",
                             "url": "https://www.marca.com/videojuegos/hardware/2025/01/03/67616e79ca4741d5138b4585.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358982647897.jpg",
@@ -12728,27 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/19/17346046378490.jpg",
                             "meta": "Hardware, software y consolas",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfQuieres ser imparable en Pok\u00e9mon TCG Pocket? Esta es la clave de 'La isla singular' para ganar tus partidas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/19/6763ee0b22601dbf4d8b4584.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/19/17346020914294.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
-                        },
-                        {
-                            "titulo": "Llega la colaboraci\u00f3n m\u00e1s loca de Fortnite: \u00bfC\u00f3mo se puede conseguir la skin de Skibidi Toilet?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/19/6763e8e2268e3e85658b456d.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/19/17346012653955.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "C\u00f3mo conseguir gratis la skin de Snoop Dogg navide\u00f1o en Fortnite",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/19/6763e3b0268e3ec57b8b4574.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/19/17345994423430.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12756,9 +12756,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Lanzamientos de videojuegos en Enero de 2025 en Steam: esta es la lista",
+                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-enero-de-2025-en-steam-esta-es-la-lista-nid03012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/lanzamientos-de-videojuegos-en-enero-de-2025-en-4USXPZ3G4NGHLEIKBBM4B37L4E.jpg?auth=93a7ce966f9fd5c06a309a8a9c9d70db0912505910f44e58dfe8b59f98c77426&width=300&height=200&quality=70&smart=true",
+                            "fecha": "3 de enero de 2025",
+                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-enero-de-2025-en-steam-esta-es-la-lista-nid03012025/"
+                        },
+                        {
                             "titulo": "Videojuego gratis de hoy 2 de enero en Epic Games: solo hay que reclamarlo",
                             "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-1-de-enero-en-epic-games-solo-hay-que-reclamarlo-nid02012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/videojuego-gratis-de-hoy-02-de-enero-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-02-de-enero-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "2 de enero de 2025",
                             "url_link": "/tecnologia/videojuego-gratis-de-hoy-1-de-enero-en-epic-games-solo-hay-que-reclamarlo-nid02012025/"
                         },
@@ -12981,13 +12988,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/desde-el-22-de-noviembre-hasta-el-2-de-diciembre-3P73SCDC6FDPLDF7W4PG5UKIMU.png?auth=fee44a395f2affe6f44075439ec5233268280674f4ef517ae24946df9d25781a&width=300&height=200&quality=70&smart=true",
                             "fecha": "25 de noviembre de 2024",
                             "url_link": "/estados-unidos/deals-black-friday-2024-las-ofertas-mas-esperadas-de-playstation-para-este-viernes-negro-en-eeuu-nid22112024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 24 de noviembre",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-24-de-noviembre-nid25112024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
-                            "fecha": "25 de noviembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-24-de-noviembre-nid25112024/"
                         }
                     ]
                 },
@@ -13197,11 +13197,11 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "El Apple Macintosh de 1984: desmontando mitos de un icono tecnol\u00f3gico en su 40\u00a0cumplea\u00f1os",
-                            "url": "https://www.elnacional.com/tecnologia/el-apple-macintosh-de-1984-desmontando-mitos-de-un-icono-tecnologico-en-su-40-cumpleanos/",
+                            "titulo": "\u00bfC\u00f3mo encontrar la papelera de WhatsApp con conversaciones y archivos?",
+                            "url": "https://www.elnacional.com/tecnologia/como-encontrar-la-papelera-de-whatsapp-con-conversaciones-y-archivos/",
                             "categoria": "TECNOLOGIA",
-                            "fecha": "diciembre 27, 2024",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/afp-apple-macintosh.jpg"
+                            "fecha": "enero 3, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/WhatsApp.jpg"
                         },
                         "notas": [
                             {
@@ -13227,6 +13227,14 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 28, 2024",
                                 "extra": "Las nuevas normas de la Uni\u00f3n Europea (UE), que exigen que todos aparatos electr\u00f3nicos usen el mismo tipo de cargador\u2026"
+                            },
+                            {
+                                "titulo": "El Apple Macintosh de 1984: desmontando mitos de un icono tecnol\u00f3gico en su 40\u00a0cumplea\u00f1os",
+                                "url": "https://www.elnacional.com/tecnologia/el-apple-macintosh-de-1984-desmontando-mitos-de-un-icono-tecnologico-en-su-40-cumpleanos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/afp-apple-macintosh.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "diciembre 27, 2024",
+                                "extra": "Steve Jobs present\u00f3 el Macintosh en enero de 1984 como una herramienta revolucionaria destinada a acercar la inform\u00e1tica a la\u2026"
                             },
                             {
                                 "titulo": "Google eliminar\u00e1 cuentas inactivas en 2025: \u00bfc\u00f3mo evitarlo?",
@@ -13275,14 +13283,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 19, 2024",
                                 "extra": "No es una serie de misterio o ficci\u00f3n. La fr\u00eda mirada de una c\u00e1mara digital se convirti\u00f3 en el testigo\u2026"
-                            },
-                            {
-                                "titulo": "Xmail: \u00bfel fin del reinado de Gmail?",
-                                "url": "https://www.elnacional.com/tecnologia/xmail-el-fin-del-reinado-de-gmail/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Elon-Musk-Xmail-X.jpg",
-                                "meta": "APP",
-                                "fecha": "diciembre 18, 2024",
-                                "extra": "\u00bfImaginan tener una direcci\u00f3n de correo electr\u00f3nico @x.com? Esta podr\u00eda ser una realidad muy pronto.\u00a0\u00a0Elon Musk, el visionario detr\u00e1s de\u2026"
                             }
                         ]
                     }
