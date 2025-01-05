@@ -12401,6 +12401,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Este truco del mando de PS5 puede mejorar tu punter\u00eda en los juegos de acci\u00f3n",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/05/6777d44646163f4b2d8b456e.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17359063225959.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "M. J."
+                        },
+                        {
                             "titulo": "Un juego de PS1 me ha recordado porque llevamos toda la vida pegados a una PlayStation",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/04/6776cb83e2704e934e8b4574.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358384948353.jpg",
@@ -12742,13 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/18/17345184703171.jpg",
                             "meta": "Hardware, software y consolas",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Novedades en torno a la Switch 2: podr\u00eda inspirarse en este detalle de los PCs port\u00e1tiles",
-                            "url": "https://www.marca.com/videojuegos/hardware/2024/12/19/6763f761268e3e3b648b4576.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/19/17346046378490.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12995,15 +12995,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Hackeos DeFi se han \"Convertido en un Trabajo de Tiempo Completo\": Fundador de ImmuneFi",
-                            "url": "https://decrypt.co/es/295496/hackeos-defi-se-han-convertido-en-un-trabajo-de-tiempo-completo-fundador-de-immunefi",
+                            "titulo": "AiXBT: El Influencer de IA que Est\u00e1 Revolucionando el Ecosistema Cripto",
+                            "url": "https://decrypt.co/es/299606/aixbt-el-influencer-de-ia-que-esta-revolucionando-el-ecosistema-cripto",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Hacker-in-Red-shutterstock_2249685481-gID_7.jpg@webp",
-                            "descripcion": "Los hackeos de finanzas descentralizadas (DeFi) se han convertido en un \"trabajo de tiempo completo\" para los atacantes profesionales, seg\u00fan el fundador de la firma de seguridad blockchain ImmuneFi.\nHablando con Decrypt en el Web Summit 2024, el fundador de ImmuneFi, Mitchell Amador, dijo que los hackeos de DeFi se han convertido en \"un negocio infinitamente sostenible y viable\", aunque el ecosistema cripto es \"indudablemente\" m\u00e1s seguro.\nSeg\u00fan, Amador, los hackers de DeFi, est\u00e1n \"buscando causa...",
-                            "fecha": "Dec 9, 2024"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/aixbt-pepe-pfp-gID_7.jpg@webp",
+                            "descripcion": "Durante a\u00f1os, los usuarios de criptomonedas e IA han buscado combinar ambas tecnolog\u00edas emergentes en productos mayores que la suma de sus partes: agentes aut\u00f3nomos capaces de tomar decisiones a nivel humano y gastar dinero digital para completar tareas complejas. En 2024, estos elevados sue\u00f1os comenzaron a hacerse realidad.\nTodav\u00eda queda un largo camino por recorrer, por supuesto. Los agentes de IA impulsados por criptomonedas capaces de completar funciones humanas intrincadas a\u00fan est\u00e1n en plen...",
+                            "fecha": "Jan 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Hackeos DeFi se han \"Convertido en un Trabajo de Tiempo Completo\": Fundador de ImmuneFi",
+                                    "url": "https://decrypt.co/es/295496/hackeos-defi-se-han-convertido-en-un-trabajo-de-tiempo-completo-fundador-de-immunefi",
+                                    "categoria": "Technology",
+                                    "fecha": "Dec 9, 2024",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Supercomputador M\u00e1s R\u00e1pido del Mundo Ejecuta \u2018Proyecto Manhattan Virtual\u2019 Para Probar Armas Nucleares",
                                     "url": "https://decrypt.co/es/293453/supercomputador-mas-rapido-del-mundo-ejecuta-proyecto-manhattan-virtual-para-probar-armas-nucleares",
@@ -13038,16 +13045,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Oct 27, 2024",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Improbable, Desarrollador de Otherside de Bored Apes, Crear\u00e1 la Blockchain de Capa 1 Somnia",
                                     "url": "https://decrypt.co/es/288479/improbable-desarrollador-de-otherside-de-bored-apes-creara-la-blockchain-de-capa-1-somnia",
                                     "categoria": "Technology",
                                     "fecha": "Oct 27, 2024",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "La starttup de tecnolog\u00eda gaming Improbable, ha anunciado planes para desarrollar su propia blockchain de capa 1, Somnia, la cual la empresa afirma procesar\u00e1 m\u00e1s de 400.000 transacciones por segundo.\nSomnia, que planea lanzarse en devnet en las pr\u00f3ximas semanas, ha \"resuelto el problema de escalabilidad que durante mucho tiempo ha obstaculizado la tecnolog\u00eda blockchain\", afirm\u00f3 Herman Narula, fundador y CEO de Improbable, en un comunicado. A\u00f1adi\u00f3 que la empresa aprovech\u00f3 su \"conocimiento de los..."
+                                },
                                 {
                                     "titulo": "Descubre Estos Aud\u00edfonos Ecol\u00f3gicos de $20 Que Compiten Con Grandes Marcas",
                                     "url": "https://decrypt.co/es/287852/descubre-estos-audifonos-ecologicos-de-20-que-compiten-con-grandes-marcas",
@@ -13079,14 +13087,6 @@
                                     "fecha": "Oct 5, 2024",
                                     "meta": "5 min lectura",
                                     "descripcion": "La comunidad de Solana busc\u00f3 defenderse el mi\u00e9rcoles despu\u00e9s de que clips que circulaban en Twitter (tambi\u00e9n conocido como X) amplificaran las cr\u00edticas del ex contratista de inteligencia estadounidense y denunciante Edward Snowden, arrojando controversia sobre la red de capa-1 de alta velocidad.\n\"Mucha gente, y no quiero dar nombres, en Solana, est\u00e1n tomando buenas ideas y simplemente van y dicen, 'Bueno, \u00bfqu\u00e9 tal si centralizamos todo? Ser\u00e1 m\u00e1s r\u00e1pido, ser\u00e1 m\u00e1s eficiente, [y] ser\u00e1 m\u00e1s barato'\",..."
-                                },
-                                {
-                                    "titulo": "Apple y Starlink Est\u00e1n 'Literalmente Salvando Vidas' Durante la Crisis del Hurac\u00e1n Helene",
-                                    "url": "https://decrypt.co/es/284458/apple-y-starlink-estan-literalmente-salvando-vidas-durante-la-crisis-del-huracan-helene",
-                                    "categoria": "Technology",
-                                    "fecha": "Oct 3, 2024",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Los usuarios de Apple iPhone con modelos m\u00e1s recientes pueden utilizar tecnolog\u00eda satelital para enviar mensajes cuando los servicios celulares y WiFi est\u00e1n ca\u00eddos, gracias a una nueva funci\u00f3n en iOS 18 que, seg\u00fan los residentes, est\u00e1 \"literalmente salvando vidas\" en Carolina del Norte, devastada por las inundaciones.\nAlgunos 400.000 residentes all\u00ed est\u00e1n sin energ\u00eda el\u00e9ctrica ni servicio de tel\u00e9fono celular, ya que el hurac\u00e1n Helene ha dejado cantidades b\u00edblicas de lluvia en el estado.\nPero las..."
                                 }
                             ]
                         }
@@ -13205,6 +13205,14 @@
                         },
                         "notas": [
                             {
+                                "titulo": "\u00abMe ahorr\u00e9 miles de d\u00f3lares\u00bb: el boom de las app para intercambiar tu casa en vacaciones",
+                                "url": "https://www.elnacional.com/bbc-news-mundo/vacaciones-el-boom-de-las-app-para-intercambiar-tu-casa/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Apps.png",
+                                "meta": "BBC News Mundo",
+                                "fecha": "enero 4, 2025",
+                                "extra": "Invitar a un extra\u00f1o a quedarse en tu casa puede parecer lo opuesto a unas vacaciones relajantes, pero para algunos\u2026"
+                            },
+                            {
                                 "titulo": "Qu\u00e9 se espera en 2025 de la inteligencia artificial, el avance que marc\u00f3 un antes y un despu\u00e9s en la historia de la tecnolog\u00eda",
                                 "url": "https://www.elnacional.com/bbc-news-mundo/que-se-espera-en-2025-de-la-inteligencia-artificial-el-avance-que-marco-un-antes-y-un-despues-en-la-historia-de-la-tecnologia/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/inteligencia-artificial.jpg",
@@ -13275,14 +13283,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 20, 2024",
                                 "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
-                            },
-                            {
-                                "titulo": "Sombra en Google Street View resolvi\u00f3 un crimen en Espa\u00f1a",
-                                "url": "https://www.elnacional.com/tecnologia/sombra-en-google-street-view-resolvio-un-crimen-en-espana/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Google-street-View.gif",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "diciembre 19, 2024",
-                                "extra": "No es una serie de misterio o ficci\u00f3n. La fr\u00eda mirada de una c\u00e1mara digital se convirti\u00f3 en el testigo\u2026"
                             }
                         ]
                     }
