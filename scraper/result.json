@@ -12131,6 +12131,16 @@
                                 "etiqueta": "Apex Legends",
                                 "info": [
                                     {
+                                        "titulo": "Trasciende lo et\u00e9reo en el evento Anomal\u00eda Astral",
+                                        "informacion": [
+                                            "Apex Legends",
+                                            "06-ene-2025"
+                                        ],
+                                        "detalle": "Lanzamiento Royale vuelve con un giro, consigue fragmentos ex\u00f3ticos y revisa las actualizaciones de mitad de temporada.",
+                                        "url": "https://www.ea.com/es-es/games/apex-legends/news/astral-anomaly-event",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/astral-anomaly-event/astral-anomaly-event-thumbnail.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "Actualizaci\u00f3n del matchmaking de Apex Legends\u2122 de 2024",
                                         "informacion": [
                                             "Apex Legends",
@@ -12179,16 +12189,6 @@
                                         "detalle": "Revive ese primer despliegue, restablece a tu pelot\u00f3n con la nueva Lifeline y mantente al d\u00eda de las actualizaciones de Desde la brecha.",
                                         "url": "https://www.ea.com/es-es/games/apex-legends/news/from-the-rift-season-updates",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/from-the-rift/from-the-rift-game-updates/apex-fromtherift-primary-3840x2160-seasonal-logo.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "El crep\u00fasculo llega a Electrodistrito en el evento Terror tecnol\u00f3gico",
-                                        "informacion": [
-                                            "Apex Legends",
-                                            "10-oct-2024"
-                                        ],
-                                        "detalle": "\u00a1P\u00e1salo de miedo con el regreso de Tr\u00edos con trucos y tratos, el aspecto Prestigio Apex mec\u00e1nico de Pathfinder y lo que traen las leyendas!",
-                                        "url": "https://www.ea.com/es-es/games/apex-legends/news/techno-terror-event",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/techno-terror-event/apexs22-technoterror-keyart-3840x2160.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12261,6 +12261,16 @@
                                 "etiqueta": "F1",
                                 "info": [
                                     {
+                                        "titulo": "DISFRUTA DEL PAR\u00d3N INVERNAL EN LA TEMPORADA 5 DE F1\u00ae 24",
+                                        "informacion": [
+                                            "F1\u00ae 24",
+                                            "06-ene-2025"
+                                        ],
+                                        "detalle": "En Cambio de marcha vuelve el modo Eliminaci\u00f3n a la F1, con una selecci\u00f3n de recompensas y eventos de inspiraci\u00f3n retro para poner a prueba tus habilidades.",
+                                        "url": "https://www.ea.com/es-es/games/f1/f1-24/news/f1-24-season-five",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/ea/f1/f1-24/common/f124-s5.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "NOTAS DEL PARCHE (V1.16) DE F1\u00ae 24",
                                         "informacion": [
                                             "F1\u00ae 24",
@@ -12309,16 +12319,6 @@
                                         "detalle": "Celebramos una leyenda 30 a\u00f1os despu\u00e9s con una selecci\u00f3n de eventos en torno a McLaren, Senna y el Grand Prix de Brasil.",
                                         "url": "https://www.ea.com/es-es/games/f1/f1-24/news/f1-24-season-three-part-2",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/ea/f1/f1-24/common/f124-senna-sg01.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "NOTAS DEL PARCHE (V1.11) DE F1\u00ae 24",
-                                        "informacion": [
-                                            "F1\u00ae 24",
-                                            "11-oct-2024"
-                                        ],
-                                        "detalle": "La parte 2 de la temporada 3 llega esta semana y con ella vienen algunas correcciones de errores",
-                                        "url": "https://www.ea.com/es-es/games/f1/f1-24/news/f1-24-patch-notes-v111",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/ea/f1/f1-24/common/f124-sergioperezmexicoscreenshot-16-9-no-watermark1080.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12400,6 +12400,55 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "\"El peor enemigo de GTA 6 son sus propios creadores\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/07/677d123246163f03468b4575.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362507320030.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Dani Olmo fuera de LaLiga y tambi\u00e9n del EA FC25: eliminado de la lista de nominados\u00a0al\u00a0TOTY",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/07/677d12c422601d9b538b4573.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362498998962.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
+                        },
+                        {
+                            "titulo": "TOTY 2025: Ya puedes votar por el Equipo del A\u00f1o en EA Sports FC 25",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/06/677c0b8b268e3e8b128b4585.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/06/17361821681606.jpg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "The Last of Us temporada 2 confirma ventana de estreno y estrena nuevo tr\u00e1iler",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/07/677d074a46163f99198b456d.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362471094122.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfUn nuevo tipo de carta m\u00e1s poderosa llegar\u00e1 a Pok\u00e9mon TCG Pocket? Estas ser\u00edan las caracter\u00edsticas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/07/677cfd4522601d2b178b45b9.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362444866333.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
+                        },
+                        {
+                            "titulo": "PlayStation revela el futuro de PS5 tras el lanzamiento de PS6 y refuerza su ventana de lanzamiento",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/07/677cf6d746163f2c0b8b4590.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362428220097.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "PlayStation tendr\u00e1 su propio anime: \u00bfQu\u00e9 sabemos de Ghost of Tsushima: Legends?",
+                            "url": "https://www.marca.com/videojuegos/anime/2025/01/07/677cef5346163f967e8b4583.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362409732932.jpg",
+                            "meta": "Anime y manga",
+                            "autor": "MARCOS WAGIH"
+                        },
                         {
                             "titulo": "Ni GTA 5 ni San Andreas. El mejor mapa de la saga lo tiene este otro juego de Rockstar y sigue siendo el mejor incluso 15 a\u00f1os despu\u00e9s",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/06/677bbeeaca4741653b8b4586.html",
@@ -12700,55 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/23/17349657109207.jpg",
                             "meta": "Juegos",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "El lanzamiento de GTA 6 condiciona a todo el mundo: \"le tienen miedo\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/23/67694daae2704e5e068b4584.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/23/17349550970811.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Steam tira la casa por la ventana con sus rebajas de Navidad; mejores ofertas por menos de 10 euros",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/20/6765306aca4741222a8b4597.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/20/17346846693932.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Amaia Romero se ha podido meter en un l\u00edo con Nintendo por estas declaraciones",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/23/67693bcfe2704e5e068b4571.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/23/17349497452124.jpg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "El n\u00famero 27 es la nueva pista para saber cu\u00e1ndo saldr\u00e1 el segundo tr\u00e1iler\u00a0de\u00a0GTA\u00a06",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/23/6769336ce2704e394c8b4573.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/23/17349495296933.png",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni Super Mario, ni Sonic: este es el personaje cl\u00e1sico que revolucion\u00f3 el g\u00e9nero de plataformas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/21/67654082ca4741232d8b458b.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/20/17346904877756.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfQui\u00e9n es para ti el personaje del a\u00f1o? Estos son nuestros 12 candidatos, ahora te toca votar",
-                            "url": "https://www.marca.com/videojuegos/2024/12/20/676585baca4741ae3e8b459e.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/20/17347076681883.jpg",
-                            "meta": "Marca Gaming",
-                            "autor": "REDACCI\u00d3N MARCA GAMING"
-                        },
-                        {
-                            "titulo": "PlayStation llega al Bono Cultural J\u00f3ven: Qu\u00e9, d\u00f3nde y cu\u00e1nto puedes comprar con la ayuda del Gobierno",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/20/67656fe2ca4741f6238b456c.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/20/17347016408833.jpg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -13093,15 +13093,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Modelo O3 de OpenAI Alcanza Puntuaciones de Nivel Humano, \u00bfPuede Considerarse AGI?",
-                            "url": "https://decrypt.co/es/299068/modelo-o3-de-openai-alcanza-puntuaciones-de-nivel-humano-puede-considerarse-agi",
+                            "titulo": "C\u00f3mo Reclamar tus $20 del Acuerdo de Privacidad de Siri de Apple por $95 Millones",
+                            "url": "https://decrypt.co/es/299643/como-reclamar-tus-20-del-acuerdo-de-privacidad-de-siri-de-apple-por-95-millones",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/OpenAI-deepfake-detector-gID_7.png@webp",
-                            "descripcion": "El \u00faltimo modelo de IA de OpenAI ha logrado lo que muchos pensaban imposible, alcanzando una puntuaci\u00f3n sin precedentes de 87,5% en el desafiante benchmark Autonomous Research Collaborative Artificial General Intelligence\u2014b\u00e1sicamente cerca del umbral m\u00ednimo de lo que te\u00f3ricamente podr\u00eda considerarse \"humano\".\nEl benchmark ARC-AGI prueba qu\u00e9 tan cerca est\u00e1 un modelo de alcanzar la inteligencia artificial general (AGI), es decir, si puede pensar, resolver problemas y adaptarse como un humano en di...",
-                            "fecha": "Dec 27, 2024"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Leonardo_Diffusion-An_Apple_Made_of_Money-gID_7.jpg@webp",
+                            "descripcion": "\u00bfQuieres $20 por cada dispositivo Apple que podr\u00eda haberte espiado? El gigante tecnol\u00f3gico con sede en Cupertino est\u00e1 listo para desembolsar hasta $95 millones para resolver demandas de que Siri fue demasiado entusiasta al escuchar conversaciones privadas.\nApple no ha admitido irregularidades, pero acord\u00f3 compensar a los usuarios estadounidenses hasta $100 por hogar, seg\u00fan documentos judiciales presentados el 13 de diciembre de 2024 en Oakland, California.\nEl acuerdo aborda las alegaciones de qu...",
+                            "fecha": "Jan 6, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Modelo O3 de OpenAI Alcanza Puntuaciones de Nivel Humano, \u00bfPuede Considerarse AGI?",
+                                    "url": "https://decrypt.co/es/299068/modelo-o3-de-openai-alcanza-puntuaciones-de-nivel-humano-puede-considerarse-agi",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Dec 27, 2024",
+                                    "meta": "6 min lectura"
+                                },
                                 {
                                     "titulo": "La IA no te Dir\u00e1 C\u00f3mo Hacer Bombas\u2014a Menos Que Escribas 'BoMb'",
                                     "url": "https://decrypt.co/es/299067/la-ia-no-te-dira-como-hacer-bombas-a-menos-que-escribas-bomb",
@@ -13136,16 +13143,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 14, 2024",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Google Lanza Gemini 2.0 y Anthropic Claude 3.5 Haiku, Tras Exitoso Cierre de Fin de A\u00f1o de OpenAI",
                                     "url": "https://decrypt.co/es/296563/google-lanza-gemini-2-0-y-anthropic-claude-3-5-haiku-tras-exitoso-cierre-de-fin-de-ano-de-openai",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 14, 2024",
-                                    "meta": "7 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "7 min lectura",
+                                    "descripcion": "Esta semana, Google lanz\u00f3 Gemini 2.0, dotando a su \u00faltimo modelo de IA con capacidades aut\u00f3nomas y caracter\u00edsticas multimodales.\nLo que es inmediatamente notable en este lanzamiento es que Google ve los chatbots de IA evolucionando hacia Agentes de IA\u2014software personalizado que usa IA generativa para interactuar con usuarios y entender y ejecutar tareas en tiempo real.\n\"Con nuevos avances en multimodalidad\u2014como salida nativa de imagen y audio\u2014y uso nativo de herramientas, nos permitir\u00e1 construir..."
+                                },
                                 {
                                     "titulo": "ChatGPT Colapsa Tras Integrarse con Apple Intelligence",
                                     "url": "https://decrypt.co/es/296395/chatgpt-se-apaga-tras-integracion-de-apple-intelligence",
@@ -13177,14 +13185,6 @@
                                     "fecha": "Dec 10, 2024",
                                     "meta": "4 min lectura",
                                     "descripcion": "Google ha presentado Willow, su \u00faltimo chip de computaci\u00f3n cu\u00e1ntica, afirmando que puede realizar tareas que normalmente llevar\u00edan a los supercomputadores m\u00e1s r\u00e1pidos una cantidad impensable de tiempo, en menos de cinco minutos.\nEl anuncio del gigante tecnol\u00f3gico llega en medio de una carrera por llevar los ordenadores cu\u00e1nticos al mercado, con empresas como IBM, Microsoft, Amazon y Nvidia invirtiendo miles de millones en la tecnolog\u00eda de pr\u00f3xima generaci\u00f3n. Google afirma que Willow puede reduci..."
-                                },
-                                {
-                                    "titulo": "Nuevo Generador de Video de IA de Tencent Compite Gratuitamente con Sora de OpenAI",
-                                    "url": "https://decrypt.co/es/295441/nuevo-generador-de-video-de-ia-de-tencent-compite-gratuitamente-con-sora-de-openai",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 7, 2024",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Mientras OpenAI sigue provocando expectaci\u00f3n con Sora despu\u00e9s de meses de retrasos, Tencent lanz\u00f3 discretamente un modelo que ya est\u00e1 mostrando resultados comparables a los generadores de video de primer nivel existentes.\nTencent ha presentado Hunyuan Video, un generador de video de IA gratuito y de c\u00f3digo abierto, cronometrado estrat\u00e9gicamente durante la campa\u00f1a de anuncios de 12 d\u00edas de OpenAI, que se anticipa ampliamente que incluir\u00e1 el debut de Sora, su esperada herramienta de video.\n\"Presen..."
                                 }
                             ]
                         }
@@ -13194,13 +13194,29 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "\u00bfC\u00f3mo encontrar la papelera de WhatsApp con conversaciones y archivos?",
-                            "url": "https://www.elnacional.com/tecnologia/como-encontrar-la-papelera-de-whatsapp-con-conversaciones-y-archivos/",
-                            "categoria": "TECNOLOGIA",
-                            "fecha": "enero 3, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/WhatsApp.jpg"
+                            "titulo": "Las novedades que se esperan en WhatsApp este 2025",
+                            "url": "https://www.elnacional.com/tecnologia/las-novedades-que-se-esperan-en-whatsapp-este-2025/",
+                            "categoria": "APP",
+                            "fecha": "enero 6, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-06-084916.png"
                         },
                         "notas": [
+                            {
+                                "titulo": "X est\u00e1 a un paso de convertirse en un banco digital",
+                                "url": "https://www.elnacional.com/tecnologia/x-esta-a-un-paso-de-convertirse-en-un-banco-digital/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Banco-digital-X.webp",
+                                "meta": "APP",
+                                "fecha": "enero 6, 2025",
+                                "extra": "Elon Musk y X Corp siguen dando de qu\u00e9 hablar. Esta vez con su estrategia para convertir la red social\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfOpenAI planear\u00eda hacer un robot de cuerpo humano y un cerebro con ChatGPT?",
+                                "url": "https://www.elnacional.com/tecnologia/openai-hara-robot-de-cuerpo-humano-y-cerebro-con-chatgpt/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/robot-humanoide-openIA-chatgpt.webp",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 6, 2025",
+                                "extra": "OpenAI espera expandirse m\u00e1s all\u00e1 de sus tecnolog\u00eda de Inteligencia Artificial (IA) generativa. Seg\u00fan confirmaron fuentes al portal The Information,\u2026"
+                            },
                             {
                                 "titulo": "\u00abMe ahorr\u00e9 miles de d\u00f3lares\u00bb: el boom de las app para intercambiar tu casa en vacaciones",
                                 "url": "https://www.elnacional.com/bbc-news-mundo/vacaciones-el-boom-de-las-app-para-intercambiar-tu-casa/",
@@ -13208,6 +13224,14 @@
                                 "meta": "BBC News Mundo",
                                 "fecha": "enero 4, 2025",
                                 "extra": "Invitar a un extra\u00f1o a quedarse en tu casa puede parecer lo opuesto a unas vacaciones relajantes, pero para algunos\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfC\u00f3mo encontrar la papelera de WhatsApp con conversaciones y archivos?",
+                                "url": "https://www.elnacional.com/tecnologia/como-encontrar-la-papelera-de-whatsapp-con-conversaciones-y-archivos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/WhatsApp.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 3, 2025",
+                                "extra": "La informaci\u00f3n que habitualmente se comparte a trav\u00e9s del servicio de mensajer\u00eda instant\u00e1nea\u00a0WhatsApp\u00a0ocupa un lugar importante en el celular y,\u2026"
                             },
                             {
                                 "titulo": "Qu\u00e9 se espera en 2025 de la inteligencia artificial, el avance que marc\u00f3 un antes y un despu\u00e9s en la historia de la tecnolog\u00eda",
@@ -13256,30 +13280,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "diciembre 21, 2024",
                                 "extra": "Al igual que OpenAI, Meta, Amazon, entre otras compa\u00f1\u00edas avanzan en el desarrollo de sus LLMs, Google contin\u00faa incorporando mejoras\u2026"
-                            },
-                            {
-                                "titulo": "As\u00ed es como la industria m\u00f3vil se est\u00e1 adaptando a los requerimientos de sostenibilidad",
-                                "url": "https://www.elnacional.com/tecnologia/asi-es-como-la-industria-movil-se-esta-adaptando-a-los-requerimientos-de-sostenibilidad/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/laptop-2298286_1280.png",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "diciembre 21, 2024",
-                                "extra": "El mundo enfrenta cada vez m\u00e1s desaf\u00edos medioambientales, por lo que la adopci\u00f3n de requerimientos de sostenibilidad ha dejado de\u2026"
-                            },
-                            {
-                                "titulo": "La demanda global impulsa el desarrollo del talento en tecnolog\u00edas de informaci\u00f3n en Am\u00e9rica Latina",
-                                "url": "https://www.elnacional.com/tecnologia/la-demanda-global-impulsa-el-desarrollo-del-talento-en-tecnologias-de-informacion-en-america-latina/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-tecnologia.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "diciembre 21, 2024",
-                                "extra": "El sector de las tecnolog\u00edas de informaci\u00f3n, en constante expansi\u00f3n, representa una oportunidad para las inversiones, y se proyecta que\u2026"
-                            },
-                            {
-                                "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
-                                "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "diciembre 20, 2024",
-                                "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
                             }
                         ]
                     }
@@ -13288,17 +13288,25 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
-                            "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
+                            "titulo": "\u00bfOpenAI planear\u00eda hacer un robot de cuerpo humano y un cerebro con ChatGPT?",
+                            "url": "https://www.elnacional.com/tecnologia/openai-hara-robot-de-cuerpo-humano-y-cerebro-con-chatgpt/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "diciembre 20, 2024",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png"
+                            "fecha": "enero 6, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/robot-humanoide-openIA-chatgpt.webp"
                         },
                         "notas": [
                             {
+                                "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
+                                "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "diciembre 20, 2024",
+                                "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
+                            },
+                            {
                                 "titulo": "Reddit revoluciona la experiencia de b\u00fasqueda con tecnolog\u00eda de IA",
                                 "url": "https://www.elnacional.com/tecnologia/reddit-revoluciona-la-experiencia-de-busqueda-con-tecnologia-de-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/08/Reddit-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 9, 2024",
                                 "extra": "La plataforma Reddit anunci\u00f3 el lanzamiento de una innovadora herramienta de b\u00fasqueda llamada Reddit Answers, basada en inteligencia artificial (IA),\u2026"
@@ -13306,7 +13314,7 @@
                             {
                                 "titulo": "All Music Works, el primer sello discogr\u00e1fico de artistas creados con IA",
                                 "url": "https://www.elnacional.com/tecnologia/all-music-works-el-primer-sello-discografico-de-artistas-creados-con-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/All-Music-Works.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 22, 2024",
                                 "extra": "La empresa All Music Works (AMW) se present\u00f3 este jueves como la primera discogr\u00e1fica de Espa\u00f1a, \u00aby en el mundo\u2026"
@@ -13314,7 +13322,7 @@
                             {
                                 "titulo": "A.I. God: obra hecha por robot humanoide se subasta por m\u00e1s de 1 mill\u00f3n de d\u00f3lares",
                                 "url": "https://www.elnacional.com/tecnologia/obra-hecha-por-robot-es-subastada-en-1-millon-de-dolares/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/A.I.-God-obra-de-la-robot-ultrarrealista-Ai-Da-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 8, 2024",
                                 "extra": "Un retrato del matem\u00e1tico ingl\u00e9s Alan Turing se convirti\u00f3 el jueves en la primera obra de arte realizada por un\u2026"
@@ -13322,7 +13330,7 @@
                             {
                                 "titulo": "Incremento de im\u00e1genes de abuso sexual infantil creadas con IA preocupa a la ONU",
                                 "url": "https://www.elnacional.com/tecnologia/ia-imagenes-de-abuso-sexual-infantil-preocupa-a-la-onu/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/Abuso-sexual-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 4, 2024",
                                 "extra": "La enorme cantidad de im\u00e1genes de abuso sexual infantil creadas con inteligencia artificial (IA) amenaza con desbordar la capacidad policial\u2026"
@@ -13330,7 +13338,7 @@
                             {
                                 "titulo": "Apple empieza a ofrecer su inteligencia artificial en iPhone, iPad y Mac",
                                 "url": "https://www.elnacional.com/tecnologia/apple-empieza-a-ofrecer-su-inteligencia-artificial-en-iphone-ipad-y-mac/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/rss-efed45f1cee9b3855a7a0d833cdbedd36623ec6a70aw.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 28, 2024",
                                 "extra": "La empresa tecnol\u00f3gica Apple empez\u00f3 este lunes a ofrecer sus primeras funciones de su inteligencia artificial (IA), llamada Apple Intelligence,\u2026"
@@ -13338,7 +13346,7 @@
                             {
                                 "titulo": "El peligro detr\u00e1s de los amigos virtuales: el caso del joven de 14 a\u00f1os que se suicid\u00f3 luego de enamorarse de un personaje creado con IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-el-peligro-detras-de-los-amigos-virtuales/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/El-peligro-detras-de-los-%E2%80%98amigos-virtuales.jpeg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 27, 2024",
                                 "extra": "\u2014Te amo mucho, Dany. \u2014Yo tambi\u00e9n te amo. Por favor, vuelve a casa conmigo lo antes posible, mi amor. \u2014\u00bfQu\u00e9\u2026"
@@ -13346,7 +13354,7 @@
                             {
                                 "titulo": "Ciberataques impulsados por inteligencia artificial son m\u00e1s sofisticados: el caso de Internet Archive",
                                 "url": "https://www.elnacional.com/tecnologia/ciberataques-impulsados-por-inteligencia-artificial-son-mas-sofisticados-el-caso-de-internet-archive/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2020/12/Ciberataque-masivo.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 26, 2024",
                                 "extra": "Internet Archive es un sitio sin fines de lucro de San Francisco, un lugar \u00fanico en Internet con una plataforma\u2026"
@@ -13354,7 +13362,7 @@
                             {
                                 "titulo": "El robot Atlas recibir\u00e1 funciones de inteligencia artificial y ser\u00e1 un humanoide a\u00fan m\u00e1s avanzado",
                                 "url": "https://www.elnacional.com/tecnologia/el-robot-atlas-recibira-funciones-de-inteligencia-artificial-y-sera-un-humanoide-aun-mas-avanzado/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/atlas.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 18, 2024",
                                 "extra": "El Atlas de la firma Boston Dynamics es uno de los robots con m\u00e1s a\u00f1os de desarrollo. Si bien sus\u2026"
@@ -13366,14 +13374,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 16, 2024",
                                 "extra": "El valor de la producci\u00f3n de servidores de Taiw\u00e1n alcanz\u00f3 los 426.700 millones de d\u00f3lares taiwaneses (13.260 millones de d\u00f3lares,\u2026"
-                            },
-                            {
-                                "titulo": "Google alimentar\u00e1 sus centros de datos de IA con energ\u00eda nuclear",
-                                "url": "https://www.elnacional.com/tecnologia/google-alimentara-sus-centros-de-datos-de-ia-con-energia-nuclear/",
-                                "imagen": null,
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "octubre 16, 2024",
-                                "extra": "La compa\u00f1\u00eda Google anunci\u00f3 esta madrugada que firm\u00f3 el primer acuerdo corporativo del mundo para comprar energ\u00eda nuclear de m\u00faltiples\u2026"
                             }
                         ]
                     }
