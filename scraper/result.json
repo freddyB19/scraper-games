@@ -11268,6 +11268,30 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Resumen de las habilidades de Mel",
+                        "url": "/es-es/news/game-updates/mel-abilities-rundown",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-09T20:00:00.000Z",
+                        "detalle": "Valorad el entorno y anticipaos al futuro con Mel."
+                    },
+                    {
+                        "titulo": "Expositor de Mel",
+                        "url": "https://www.youtube.com/watch?v=sa-7j4li994",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-09T20:00:00.000Z",
+                        "detalle": "Alterad el paradigma con Mel, el Reflejo del Alma."
+                    },
+                    {
+                        "titulo": "Tr\u00e1iler de la experiencia de juego del acto I",
+                        "url": "https://www.youtube.com/watch?v=pZyLlKb9UlE",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-09T16:00:00.000Z",
+                        "detalle": "Avanzad sin temor hacia la nueva temporada con Mel, un mapa actualizado, Atakhan y m\u00e1s."
+                    },
+                    {
                         "titulo": "Renacer: El regreso del Festival de bestias",
                         "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/revival-the-return-of-festival-of-beasts/",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11284,20 +11308,20 @@
                         "detalle": "Zoe hacedora de mitos chibi env\u00eda a una sabrosa misi\u00f3n a Ezreal de porcelana chibi de prestigio."
                     },
                     {
-                        "titulo": "Torneo del First Stand | Explicaci\u00f3n del formato",
-                        "url": "https://www.youtube.com/watch?v=iPMDoZ30rT0",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": null,
-                        "fecha": "2025-01-08T16:00:00.000Z",
-                        "detalle": "Toda la informaci\u00f3n sobre el formato del torneo del First Stand."
-                    },
-                    {
                         "titulo": "Los esports de LoL en 2025",
                         "url": "https://lolesports.com/es-es/news/lol-esports-in-2025",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
                         "categoria": null,
                         "fecha": "2025-01-08T16:00:00.000Z",
                         "detalle": "\u00a1Empezamos 2025 con las \u00faltimas noticias!"
+                    },
+                    {
+                        "titulo": "Torneo del First Stand | Explicaci\u00f3n del formato",
+                        "url": "https://www.youtube.com/watch?v=iPMDoZ30rT0",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": null,
+                        "fecha": "2025-01-08T16:00:00.000Z",
+                        "detalle": "Toda la informaci\u00f3n sobre el formato del torneo del First Stand."
                     },
                     {
                         "titulo": "Notas de la versi\u00f3n 13.3 de Teamfight Tactics (2025)",
@@ -11338,30 +11362,6 @@
                         "categoria": "Esports",
                         "fecha": "2024-12-17T04:00:00.000Z",
                         "detalle": "\u00a1Gracias por hacer que el TFT Macao Open haya sido el evento de TFT m\u00e1s incre\u00edble hasta la fecha! Nos vemos en Par\u00eds el a\u00f1o que viene (\u00a1en serio!), pero de momento pod\u00e9is descansar y \u00a1seguir repitiendo tiradas con Hacia Arcane!"
-                    },
-                    {
-                        "titulo": "LEC 2025 Split de invierno - Informaci\u00f3n",
-                        "url": "https://lolesports.com/es-es/news/2025-lec-winter-split-primer",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": null,
-                        "fecha": "2024-12-16T15:00:00.000Z",
-                        "detalle": "Esto es todo lo que necesit\u00e1is saber sobre el split de invierno de la LEC de 2025, incluyendo el nuevo formato, las fechas clave y cu\u00e1ndo salen a la venta las entradas."
-                    },
-                    {
-                        "titulo": "Planes para 2025 | Hoja de ruta de TFT",
-                        "url": "https://www.youtube.com/watch?v=6sFs9dLxIWw",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Desarrollo",
-                        "fecha": "2024-12-15T10:00:00.000Z",
-                        "detalle": "\u00a12024 ha sido el a\u00f1o m\u00e1s loco de TFT! Y va a seguir mejorando. Christina y Peter repasan nuestras victorias y aprendizajes y hablan de lo que llegar\u00e1 a la Convergencia en 2025."
-                    },
-                    {
-                        "titulo": "M\u00fasica del campe\u00f3n: Viktor",
-                        "url": "https://www.youtube.com/watch?v=7APN2tfxQxc",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Multimedia",
-                        "fecha": "2024-12-12T18:00:00.000Z",
-                        "detalle": "Este mundo conocer\u00e1 la magnificencia. Escuchad la m\u00fasica oficial de Viktor, el Heraldo de lo Arcano."
                     }
                 ],
                 "notas": [
@@ -12401,16 +12401,51 @@
                     "nombre": "marca",
                     "pagina": [
                         {
-                            "titulo": "Di adi\u00f3s a las dudas: la ventana de lanzamiento de GTA 6 es m\u00e1s 'oficial' que nunca tras el \u00faltimo movimiento de Rockstar",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/09/677f90a4e2704e60348b457d.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/09/17364134807102.jpg",
+                            "titulo": "Si quieres ver antes que nadie Elden Ring Nightreign, as\u00ed puedes apuntarte a su primera prueba de red",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/10/67810085ca4741f8528b4596.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/10/17365076141074.jpg",
                             "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Terremoto de ofertas: si quieres ahorrarte un dinero en los mejores juegos de 2024, echa un ojo a esto",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/10/6780f6edca4741a2458b458f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/10/17365064557297.jpg",
+                            "meta": "Juegos",
+                            "autor": "REDACCI\u00d3N MARCA GAMING"
+                        },
+                        {
+                            "titulo": "Jugadores de Nintendo Switch se enfrentan a un nuevo tipo de estafa... de ojos saltones",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/10/6780ecd3ca4741c9318b457f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/10/17365024775737.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El mando de PS5 DualSense Edge baja de precio para siempre, pero no para todo el mundo",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/10/6780e7f2ca474133458b4581.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/10/17365012300430.jpg",
+                            "meta": "Hardware, software y consolas",
                             "autor": "MARCOS WAGIH"
                         },
                         {
                             "titulo": "Juegos gratis de enero de 2025 en PS Plus, Amazon Prime Gaming, Epic Games y Game Pass",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/09/677f9e4fe2704e08b18b4592.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/09/17364171694816.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Tienes m\u00e1s de 15 juegos gratis en Amazon este enero y solo necesitas estar suscrito a Prime Gaming para canjearlos",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/10/6780dfd9ca47415e768b4590.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/10/17364991573476.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Di adi\u00f3s a las dudas: la ventana de lanzamiento de GTA 6 es m\u00e1s 'oficial' que nunca tras el \u00faltimo movimiento de Rockstar",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/09/677f90a4e2704e60348b457d.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/09/17364134807102.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
@@ -12714,41 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/26/17352468169235.jpg",
                             "meta": "Juegos",
                             "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "La empresa famosa por la 'teor\u00eda del 27' desmiente la informaci\u00f3n sobre el segundo tr\u00e1iler del GTA 6",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/26/676d8cac46163fe08f8b4580.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/26/17352328411611.jpg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Si Cyberpunk 2077 te dej\u00f3 con ganas de m\u00e1s, puedes conseguir gratis este juego gracias a Epic Games",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/26/676d782446163fbc9c8b4571.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/26/17352302030188.jpg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Arcane cumple, pero League of Legends falla: los problemas de Riot Games para atraer nuevos jugadores",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/26/676d65ef46163ffd908b457b.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/26/17352255263471.jpg",
-                            "meta": "Arcane",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Ten cuidado, no tires las instrucciones de tu set de LEGO Fortnite porque podr\u00edas estar perdiendo un regalo gratis",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/26/676d570022601d6a5b8b45c7.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/26/17352177238602.jpg",
-                            "meta": "Fortnite",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "\u00bfNo sabes qu\u00e9 hacer el resto de las vacaciones de Navidad? Aqu\u00ed tienes diez planazos para hacer solo o en familia",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/25/676a9741ca4741dd098b457a.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/24/17350393807817.jpg",
-                            "meta": "Juegos",
-                            "autor": "REDACCI\u00d3N MARCA GAMING"
                         }
                     ]
                 },
@@ -12756,12 +12756,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 9 de enero en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-9-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid09012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "9 de enero de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-9-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid09012025/"
+                        },
+                        {
                             "titulo": [
                                 "<span class=\"com-lead\">Para no tener fr\u00edo ni calor mientras jug\u00e1s. </span>",
                                 "Presentaron una silla gamer con caloventor incorporado"
                             ],
                             "url": "https://www.lanacion.com.ar/tecnologia/ces-2025-asi-es-proyecto-arielle-la-silla-gamer-de-razer-con-calefaccion-y-sistema-de-refrigeracion-nid08012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/asi-es-proyecto-arielle-la-silla-gamer-de-razer-BXJN3GISINASJGBJ33UHSAYVVE.JPG?auth=2c861fa76d71fc4e0e18f63066bb5af2c8246e69982eb74d3adad2456d37aea4&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/asi-es-proyecto-arielle-la-silla-gamer-de-razer-BXJN3GISINASJGBJ33UHSAYVVE.JPG?auth=2c861fa76d71fc4e0e18f63066bb5af2c8246e69982eb74d3adad2456d37aea4&width=300&height=200&quality=70&smart=true",
                             "fecha": "8 de enero de 2025",
                             "url_link": "/tecnologia/ces-2025-asi-es-proyecto-arielle-la-silla-gamer-de-razer-con-calefaccion-y-sistema-de-refrigeracion-nid08012025/"
                         },
@@ -12981,13 +12988,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/la-playstation-original-salio-a-la-venta-el-3-de-NHOKBP4SOJF4PPAX55OVYNZJTA.JPG?auth=2a2d5a1d639153c526047099877f65bb5a776fb93050c20f68822ddda2a3d7ae&width=300&height=200&quality=70&smart=true",
                             "fecha": "2 de diciembre de 2024",
                             "url_link": "/tecnologia/la-consola-playstation-cumple-30-anos-nid02122024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 01 de diciembre",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-01-de-diciembre-nid02122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
-                            "fecha": "2 de diciembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-01-de-diciembre-nid02122024/"
                         }
                     ]
                 },
@@ -13096,15 +13096,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Productos de IA M\u00e1s Llamativos y Absurdos Presentados en el CES 2025",
-                            "url": "https://decrypt.co/es/300139/productos-de-ia-mas-llamativos-y-absurdos-presentados-en-el-ces-2025",
+                            "titulo": "Esc\u00e1ndalo de Pornograf\u00eda Escolar Usando IA Sacude Escuela Secundaria en S\u00eddney, Australia",
+                            "url": "https://decrypt.co/es/300271/escandalo-de-pornografia-escolar-usando-ia-sacude-escuela-secundaria-en-sidney-australia",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Decrypt-Wallpaper-Format-1600-x-900-px-6-gID_7.png@webp",
-                            "descripcion": "A medida que se desarrolla el CES 2025, una cosa est\u00e1 clara: la inteligencia artificial est\u00e1 en todas partes.\nDesde televisores hasta aspiradoras, las empresas de electr\u00f3nica de consumo compiten por mostrar las nuevas funciones de IA, a veces forzadamente incorporadas en sus productos.\nAlgunos de estos productos impulsados por IA son impresionantes, mientras que otros llevan al l\u00edmite el significado de \"inteligencia artificial\".\nAqu\u00ed hay una mirada a algunos de los productos con IA m\u00e1s llamativo...",
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/high-school-classroom-gID_7.jpg@webp",
+                            "descripcion": "Un estudiante de secundaria en S\u00eddney, Australia, enfrenta una investigaci\u00f3n policial y acciones disciplinarias despu\u00e9s de presuntamente usar inteligencia artificial para crear im\u00e1genes deepfake pornogr\u00e1ficas de sus compa\u00f1eras de clase, marcando uno de los primeros incidentes importantes relacionados con la IA en un entorno educativo en Australia.\nUn deepfake es una imagen falsa generada mediante algoritmos de deep learning. Es altamente realista y, dependiendo de la calidad, dif\u00edcil de diferenc...",
                             "fecha": "Jan 9, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Productos de IA M\u00e1s Llamativos y Absurdos Presentados en el CES 2025",
+                                    "url": "https://decrypt.co/es/300139/productos-de-ia-mas-llamativos-y-absurdos-presentados-en-el-ces-2025",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 9, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "Nvidia en CES 2025: Todo lo Que Debes Saber Sobre sus Novedades en IA y Gaming",
                                     "url": "https://decrypt.co/es/300135/nvidia-en-ces-2025-todo-lo-que-debes-saber-sobre-sus-novedades-en-ia-y-gaming",
@@ -13139,16 +13146,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 24, 2024",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Editor de Video con IA de Meta Llegar\u00e1 a Instagram para Hacerte Cuestionar lo Que es Real",
                                     "url": "https://decrypt.co/es/298445/editor-de-video-con-ia-de-meta-llegara-a-instagram-para-hacerte-cuestionar-lo-que-es-real",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 21, 2024",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Meta traer\u00e1 sus trucos de video con IA a Instagram, con nuevas funciones que permitir\u00e1n a los usuarios modificar sus videos simplemente usando texto para modificar im\u00e1genes\u2014desde agregar objetos hasta cambiar fondos, y hacer pr\u00e1cticamente cualquier cosa que puedas imaginar.\n\"Estoy muy emocionado con Movie Gen, nuestro modelo de investigaci\u00f3n de IA temprano que te permitir\u00e1 cambiar casi cualquier aspecto de tus videos con un simple comando de texto\", dijo el director de Instagram Adam Mosseri en..."
+                                },
                                 {
                                     "titulo": "Lleg\u00f3 la Navidad: Google y xAI de Elon Musk Liberan sus \u00daltimos Modelos de IA",
                                     "url": "https://decrypt.co/es/297304/feliz-navidad-google-y-xai-de-elon-musk-liberan-sus-ultimos-modelos-de-ia",
@@ -13180,14 +13188,6 @@
                                     "fecha": "Dec 13, 2024",
                                     "meta": "2 min lectura",
                                     "descripcion": "Hubo una gran perturbaci\u00f3n en la fuerza el mi\u00e9rcoles por la noche cuando ChatGPT se cay\u00f3, causando que los estudiantes universitarios gritaran de terror repentinamente.\nSi bien no est\u00e1 necesariamente a la par de la destrucci\u00f3n de Alderaan por la Estrella de la Muerte en Una Nueva Esperanza, el tiempo de inactividad del chatbot de IA n\u00famero uno lleg\u00f3 como una sorpresa despu\u00e9s de un anuncio de Apple el mismo d\u00eda de que el soporte de ChatGPT hab\u00eda llegado a Siri.\nOpenAI y Apple no respondieron inme..."
-                                },
-                                {
-                                    "titulo": "Apple se Asocia con Broadcom Para Desarrollar Chips de Servidores Enfocados en IA",
-                                    "url": "https://decrypt.co/es/296391/apple-se-asocia-con-broadcom-para-desarrollar-chips-de-servidores-de-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 13, 2024",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Apple se est\u00e1 asociando con el desarrollador de semiconductores Broadcom para lanzar sus primeros chips de servidor dedicados a la inteligencia artificial.\nEsto sigue al lanzamiento del mi\u00e9rcoles por parte de Apple de sus \u00faltimas actualizaciones para iOS, macOS y otros dispositivos que incluyen nuevas capacidades de Apple Intelligence. Apple y Broadcom no respondieron inmediatamente a la solicitud de comentarios de 88.\nApple est\u00e1 colaborando con Broadcom en las caracter\u00edsticas de red del chip, s..."
                                 }
                             ]
                         }
@@ -13197,17 +13197,33 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Las novedades que se esperan en WhatsApp este 2025",
-                            "url": "https://www.elnacional.com/tecnologia/las-novedades-que-se-esperan-en-whatsapp-este-2025/",
-                            "categoria": "APP",
-                            "fecha": "enero 6, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-06-084916.png"
+                            "titulo": "De Lasso a Catherine Fulop: artistas mantienen la esperanza de un cambio",
+                            "url": "https://www.elnacional.com/entretenimiento/de-lasso-a-catherine-fulop-artistas-mantienen-la-esperanza-de-un-cambio/",
+                            "categoria": "ENTRETENIMIENTO",
+                            "fecha": "enero 9, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Diseno-sin-titulo.jpg"
                         },
                         "notas": [
                             {
+                                "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
+                                "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 9, 2025",
+                                "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
+                                "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 9, 2025",
+                                "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
+                            },
+                            {
                                 "titulo": "La UE le responde a Zuckerberg: \u00abNo hemos censurado, hemos regulado\u00bb",
                                 "url": "https://www.elnacional.com/tecnologia/ue-responde-a-zuckerberg-no-hemos-censurado-sino-regulado/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Mark-Zukerberg.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 8, 2025",
                                 "extra": "La Ley de Servicios Digitales de la UE est\u00e1 en el centro de la pol\u00e9mica. Mark Zuckerberg acus\u00f3 a la\u2026"
@@ -13215,7 +13231,7 @@
                             {
                                 "titulo": "Pedro S\u00e1nchez acusa a Elon Musk de ser un fascista propulsor del odio",
                                 "url": "https://www.elnacional.com/tecnologia/pedro-sanchez-acusa-a-elon-musk-de-fascista-y-propulsor-del-odio/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/AFP__20250108__36TC442__v1__Preview__SpainPoliticsHistoryDictatorshipFranco.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 8, 2025",
                                 "extra": "El presidente del gobierno espa\u00f1ol, el socialista Pedro S\u00e1nchez, acus\u00f3 este mi\u00e9rcoles al multimillonario Elon Musk de azuzar \u00abel odio\u00bb.\u2026"
@@ -13223,7 +13239,7 @@
                             {
                                 "titulo": "Mark Zuckerberg restaurar\u00e1 la libertad de expresi\u00f3n en Facebook e Instagram",
                                 "url": "https://www.elnacional.com/tecnologia/mark-zuckerberg-restaurara-la-libertad-de-expresion-en-facebook-e-instagram/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Mark-Zuckerberg-Meta.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 7, 2025",
                                 "extra": "Mark Zuckerberg eliminar\u00e1 los conocidos como \u00abverificadores de hechos\u00bb d\u00e1ndole forma a un nuevo espacio llamado \u00abNotas de la comunidad\u00bb\u2026"
@@ -13245,9 +13261,17 @@
                                 "extra": "OpenAI espera expandirse m\u00e1s all\u00e1 de sus tecnolog\u00eda de Inteligencia Artificial (IA) generativa. Seg\u00fan confirmaron fuentes al portal The Information,\u2026"
                             },
                             {
+                                "titulo": "Las novedades que se esperan en WhatsApp este 2025",
+                                "url": "https://www.elnacional.com/tecnologia/las-novedades-que-se-esperan-en-whatsapp-este-2025/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-06-084916.png",
+                                "meta": "APP",
+                                "fecha": "enero 6, 2025",
+                                "extra": "Como todos los a\u00f1os, WhatsApp no ha parado de hacer cambios y mejoras. Sin embargo, la compa\u00f1\u00eda propiedad de Meta\u2026"
+                            },
+                            {
                                 "titulo": "\u00abMe ahorr\u00e9 miles de d\u00f3lares\u00bb: el boom de las app para intercambiar tu casa en vacaciones",
                                 "url": "https://www.elnacional.com/bbc-news-mundo/vacaciones-el-boom-de-las-app-para-intercambiar-tu-casa/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Apps.png",
                                 "meta": "BBC News Mundo",
                                 "fecha": "enero 4, 2025",
                                 "extra": "Invitar a un extra\u00f1o a quedarse en tu casa puede parecer lo opuesto a unas vacaciones relajantes, pero para algunos\u2026"
@@ -13255,34 +13279,10 @@
                             {
                                 "titulo": "\u00bfC\u00f3mo encontrar la papelera de WhatsApp con conversaciones y archivos?",
                                 "url": "https://www.elnacional.com/tecnologia/como-encontrar-la-papelera-de-whatsapp-con-conversaciones-y-archivos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/WhatsApp.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 3, 2025",
                                 "extra": "La informaci\u00f3n que habitualmente se comparte a trav\u00e9s del servicio de mensajer\u00eda instant\u00e1nea\u00a0WhatsApp\u00a0ocupa un lugar importante en el celular y,\u2026"
-                            },
-                            {
-                                "titulo": "Qu\u00e9 se espera en 2025 de la inteligencia artificial, el avance que marc\u00f3 un antes y un despu\u00e9s en la historia de la tecnolog\u00eda",
-                                "url": "https://www.elnacional.com/bbc-news-mundo/que-se-espera-en-2025-de-la-inteligencia-artificial-el-avance-que-marco-un-antes-y-un-despues-en-la-historia-de-la-tecnologia/",
-                                "imagen": null,
-                                "meta": "BBC News Mundo",
-                                "fecha": "diciembre 29, 2024",
-                                "extra": "La inteligencia artificial (IA) est\u00e1 marcando un antes y un despu\u00e9s en la historia de la tecnolog\u00eda, y 2025 traer\u00e1\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfPor qu\u00e9 recomiendan reiniciar tu celular una vez a la semana?",
-                                "url": "https://www.elnacional.com/tecnologia/por-que-recomiendan-reiniciar-tu-celular-una-vez-a-la-semana/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/reiniciar-celular-jpeg.webp",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "diciembre 29, 2024",
-                                "extra": "En nuestra vida cotidiana, los\u00a0celulares\u00a0se han vuelto una extensi\u00f3n para nuestras actividades, por lo que es fundamental darles el mantenimiento\u2026"
-                            },
-                            {
-                                "titulo": "Entran en vigor las nuevas normas de la UE sobre cargadores universales",
-                                "url": "https://www.elnacional.com/tecnologia/entran-en-vigor-las-nuevas-normas-de-la-ue-sobre-cargadores-universales/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
-                                "fecha": "diciembre 28, 2024",
-                                "extra": "Las nuevas normas de la Uni\u00f3n Europea (UE), que exigen que todos aparatos electr\u00f3nicos usen el mismo tipo de cargador\u2026"
                             }
                         ]
                     }
@@ -13291,13 +13291,29 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "\u00bfOpenAI planear\u00eda hacer un robot de cuerpo humano y un cerebro con ChatGPT?",
-                            "url": "https://www.elnacional.com/tecnologia/openai-hara-robot-de-cuerpo-humano-y-cerebro-con-chatgpt/",
+                            "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
+                            "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "enero 6, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/robot-humanoide-openIA-chatgpt.webp"
+                            "fecha": "enero 9, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
+                                "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 9, 2025",
+                                "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfOpenAI planear\u00eda hacer un robot de cuerpo humano y un cerebro con ChatGPT?",
+                                "url": "https://www.elnacional.com/tecnologia/openai-hara-robot-de-cuerpo-humano-y-cerebro-con-chatgpt/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/robot-humanoide-openIA-chatgpt.webp",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 6, 2025",
+                                "extra": "OpenAI espera expandirse m\u00e1s all\u00e1 de sus tecnolog\u00eda de Inteligencia Artificial (IA) generativa. Seg\u00fan confirmaron fuentes al portal The Information,\u2026"
+                            },
                             {
                                 "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
                                 "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
@@ -13361,22 +13377,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 26, 2024",
                                 "extra": "Internet Archive es un sitio sin fines de lucro de San Francisco, un lugar \u00fanico en Internet con una plataforma\u2026"
-                            },
-                            {
-                                "titulo": "El robot Atlas recibir\u00e1 funciones de inteligencia artificial y ser\u00e1 un humanoide a\u00fan m\u00e1s avanzado",
-                                "url": "https://www.elnacional.com/tecnologia/el-robot-atlas-recibira-funciones-de-inteligencia-artificial-y-sera-un-humanoide-aun-mas-avanzado/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/atlas.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "octubre 18, 2024",
-                                "extra": "El Atlas de la firma Boston Dynamics es uno de los robots con m\u00e1s a\u00f1os de desarrollo. Si bien sus\u2026"
-                            },
-                            {
-                                "titulo": "Gracias a la IA Taiw\u00e1n rompe r\u00e9cords en producci\u00f3n de servidores",
-                                "url": "https://www.elnacional.com/tecnologia/gracias-a-la-ia-taiwan-rompe-records-en-produccion-de-servidores/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/Servidores-IA-Taiwan.webp",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "octubre 16, 2024",
-                                "extra": "El valor de la producci\u00f3n de servidores de Taiw\u00e1n alcanz\u00f3 los 426.700 millones de d\u00f3lares taiwaneses (13.260 millones de d\u00f3lares,\u2026"
                             }
                         ]
                     }
