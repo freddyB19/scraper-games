@@ -11268,6 +11268,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Expositor de chibicampe\u00f3n Sett florecer espiritual",
+                        "url": "https://www.youtube.com/watch?v=sXH4mFu-hqM",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-10T14:00:00.000Z",
+                        "detalle": "Ten\u00e9is toda la eternidad para hacer sentadillas con Sett florecer espiritual chibi, ya disponible."
+                    },
+                    {
                         "titulo": "Resumen de las habilidades de Mel",
                         "url": "/es-es/news/game-updates/mel-abilities-rundown",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11354,14 +11362,6 @@
                         "categoria": "Esports",
                         "fecha": "2024-12-17T05:00:00.000Z",
                         "detalle": "Ver ahora"
-                    },
-                    {
-                        "titulo": "Resumen del evento | TFT Macao Open",
-                        "url": "https://www.youtube.com/watch?v=_HmwQ3k-WJM",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Esports",
-                        "fecha": "2024-12-17T04:00:00.000Z",
-                        "detalle": "\u00a1Gracias por hacer que el TFT Macao Open haya sido el evento de TFT m\u00e1s incre\u00edble hasta la fecha! Nos vemos en Par\u00eds el a\u00f1o que viene (\u00a1en serio!), pero de momento pod\u00e9is descansar y \u00a1seguir repitiendo tiradas con Hacia Arcane!"
                     }
                 ],
                 "notas": [
@@ -12066,6 +12066,16 @@
                                 "etiqueta": "Star Wars",
                                 "info": [
                                     {
+                                        "titulo": "Vista previa del calendario de enero",
+                                        "informacion": [
+                                            "Star Wars\u2122 Galaxy of Heroes",
+                                            "20-dic-2024"
+                                        ],
+                                        "detalle": "\u00a1Echa un vistazo a los pr\u00f3ximos eventos!",
+                                        "url": "https://www.ea.com/es-es/games/starwars/galaxy-of-heroes/news/january-calendar-preview-2025",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/swgoh/common/articles/january-events-calender/thumbnail-01-jan-update.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "Presentaci\u00f3n de kit de personaje - General Syndulla",
                                         "informacion": [
                                             "Star Wars\u2122 Galaxy of Heroes",
@@ -12114,16 +12124,6 @@
                                         "detalle": "\u00a1Echa un vistazo a las habilidades de la padawan Sabine Wren en esta revelaci\u00f3n de kit!",
                                         "url": "https://www.ea.com/es-es/games/starwars/galaxy-of-heroes/news/kit-reveal-padawan-sabine-wren",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/swgoh/common/swgoh-charcard-padawansabinewren-2d-thumb.png.adapt.crop16x9.431p.png"
-                                    },
-                                    {
-                                        "titulo": "Star Wars Jedi: Survivor\u2122 optimizado para PlayStation 5 Pro",
-                                        "informacion": [
-                                            "STAR WARS Jedi: Survivor\u2122\ufe0f",
-                                            "07-nov-2024"
-                                        ],
-                                        "detalle": "Star Wars Jedi: Survivor\u2122 optimizado para PlayStation 5 Pro.",
-                                        "url": "https://www.ea.com/es-es/games/starwars/jedi/jedi-survivor/news/star-wars-jedi-survivor-optimized-for-playstation-5-pro",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/ea/starwars/star-wars-jedi-survivor/common/swj-survivor-featured-image-16x9.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12400,6 +12400,13 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "Jugar en PlayStation con una motosierra es posible. Resident Evil 4 cumple 25 a\u00f1os y nos acordamos de su mando m\u00e1s raro",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/11/677cff5346163f3ba68b459b.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362458399513.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
                         {
                             "titulo": "Si quieres ver antes que nadie Elden Ring Nightreign, as\u00ed puedes apuntarte a su primera prueba de red",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/10/67810085ca4741f8528b4596.html",
@@ -12742,13 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352950434156.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Un r\u00e9cord imposible: un streamer logra superar todas las canciones del Guitar Hero 2 seguidas sin fallar ni una nota",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676dc286ca4741fb3b8b45a9.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/26/17352468169235.jpg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
                         }
                     ]
                 },
@@ -13205,6 +13205,22 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Meta permite llamar \u00abenfermos mentales\u00bb a la comunidad LGTBI+",
+                                "url": "https://www.elnacional.com/tecnologia/meta-permite-llamar-enfermos-mentales-a-la-comunidad-lgtbi/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 10, 2025",
+                                "extra": "La multinacional Meta modific\u00f3 su pol\u00edtica sobre conductas y permitir\u00e1 que en Facebook, Instagram y Threads se pueda llamar \u00abenfermos\u2026"
+                            },
+                            {
+                                "titulo": "X pone orden con etiquetas para distinguir \u00ablo real de lo falso\u00bb",
+                                "url": "https://www.elnacional.com/tecnologia/x-lanza-nuevas-etiquetas-para-distinguir-lo-real-de-lo-falso/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-10-071221.png",
+                                "meta": "APP",
+                                "fecha": "enero 10, 2025",
+                                "extra": "Adi\u00f3s a las confusiones. \u00bfSe han preguntado alguna vez si esa cuenta que siguen en X es real o no?\u00a0\u2026"
+                            },
+                            {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
@@ -13267,22 +13283,6 @@
                                 "meta": "APP",
                                 "fecha": "enero 6, 2025",
                                 "extra": "Como todos los a\u00f1os, WhatsApp no ha parado de hacer cambios y mejoras. Sin embargo, la compa\u00f1\u00eda propiedad de Meta\u2026"
-                            },
-                            {
-                                "titulo": "\u00abMe ahorr\u00e9 miles de d\u00f3lares\u00bb: el boom de las app para intercambiar tu casa en vacaciones",
-                                "url": "https://www.elnacional.com/bbc-news-mundo/vacaciones-el-boom-de-las-app-para-intercambiar-tu-casa/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Apps.png",
-                                "meta": "BBC News Mundo",
-                                "fecha": "enero 4, 2025",
-                                "extra": "Invitar a un extra\u00f1o a quedarse en tu casa puede parecer lo opuesto a unas vacaciones relajantes, pero para algunos\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfC\u00f3mo encontrar la papelera de WhatsApp con conversaciones y archivos?",
-                                "url": "https://www.elnacional.com/tecnologia/como-encontrar-la-papelera-de-whatsapp-con-conversaciones-y-archivos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/WhatsApp.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 3, 2025",
-                                "extra": "La informaci\u00f3n que habitualmente se comparte a trav\u00e9s del servicio de mensajer\u00eda instant\u00e1nea\u00a0WhatsApp\u00a0ocupa un lugar importante en el celular y,\u2026"
                             }
                         ]
                     }
