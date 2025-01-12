@@ -12401,7 +12401,14 @@
                     "nombre": "marca",
                     "pagina": [
                         {
-                            "titulo": "Jugar en PlayStation con una motosierra es posible. Resident Evil 4 cumple 25 a\u00f1os y nos acordamos de su mando m\u00e1s raro",
+                            "titulo": "Ni Parasite Eve, ni Resident Evil: el juego de PlayStation que defini\u00f3 el survival horror fue este",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/12/677e6448ca4741837c8b457c.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/08/17363364519286.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Jugar en PlayStation con una motosierra es posible. Resident Evil 4 cumple 20 a\u00f1os y nos acordamos de su mando m\u00e1s raro",
                             "url": "https://www.marca.com/videojuegos/hardware/2025/01/11/677cff5346163f3ba68b459b.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362458399513.jpg",
                             "meta": "Hardware, software y consolas",
@@ -12741,13 +12748,6 @@
                             "url": "https://www.marca.com/videojuegos/hardware/2024/12/27/676e9236ca474101298b4598.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352998111664.jpg",
                             "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Como Netflix, pero con Sonic, Yakuza y Persona. SEGA se est\u00e1 planteando crear su propio servicio de suscripci\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676e810cca4741ed648b45a0.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352950434156.jpg",
-                            "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         }
                     ]
@@ -13207,7 +13207,7 @@
                             {
                                 "titulo": "Meta permite llamar \u00abenfermos mentales\u00bb a la comunidad LGTBI+",
                                 "url": "https://www.elnacional.com/tecnologia/meta-permite-llamar-enfermos-mentales-a-la-comunidad-lgtbi/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 10, 2025",
                                 "extra": "La multinacional Meta modific\u00f3 su pol\u00edtica sobre conductas y permitir\u00e1 que en Facebook, Instagram y Threads se pueda llamar \u00abenfermos\u2026"
@@ -13215,7 +13215,7 @@
                             {
                                 "titulo": "X pone orden con etiquetas para distinguir \u00ablo real de lo falso\u00bb",
                                 "url": "https://www.elnacional.com/tecnologia/x-lanza-nuevas-etiquetas-para-distinguir-lo-real-de-lo-falso/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-10-071221.png",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "enero 10, 2025",
                                 "extra": "Adi\u00f3s a las confusiones. \u00bfSe han preguntado alguna vez si esa cuenta que siguen en X es real o no?\u00a0\u2026"
@@ -13223,7 +13223,7 @@
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
@@ -13231,7 +13231,7 @@
                             {
                                 "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
@@ -13239,7 +13239,7 @@
                             {
                                 "titulo": "La UE le responde a Zuckerberg: \u00abNo hemos censurado, hemos regulado\u00bb",
                                 "url": "https://www.elnacional.com/tecnologia/ue-responde-a-zuckerberg-no-hemos-censurado-sino-regulado/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Mark-Zukerberg.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 8, 2025",
                                 "extra": "La Ley de Servicios Digitales de la UE est\u00e1 en el centro de la pol\u00e9mica. Mark Zuckerberg acus\u00f3 a la\u2026"
@@ -13247,7 +13247,7 @@
                             {
                                 "titulo": "Pedro S\u00e1nchez acusa a Elon Musk de ser un fascista propulsor del odio",
                                 "url": "https://www.elnacional.com/tecnologia/pedro-sanchez-acusa-a-elon-musk-de-fascista-y-propulsor-del-odio/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/AFP__20250108__36TC442__v1__Preview__SpainPoliticsHistoryDictatorshipFranco.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 8, 2025",
                                 "extra": "El presidente del gobierno espa\u00f1ol, el socialista Pedro S\u00e1nchez, acus\u00f3 este mi\u00e9rcoles al multimillonario Elon Musk de azuzar \u00abel odio\u00bb.\u2026"
@@ -13255,7 +13255,7 @@
                             {
                                 "titulo": "Mark Zuckerberg restaurar\u00e1 la libertad de expresi\u00f3n en Facebook e Instagram",
                                 "url": "https://www.elnacional.com/tecnologia/mark-zuckerberg-restaurara-la-libertad-de-expresion-en-facebook-e-instagram/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Mark-Zuckerberg-Meta.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 7, 2025",
                                 "extra": "Mark Zuckerberg eliminar\u00e1 los conocidos como \u00abverificadores de hechos\u00bb d\u00e1ndole forma a un nuevo espacio llamado \u00abNotas de la comunidad\u00bb\u2026"
@@ -13279,7 +13279,7 @@
                             {
                                 "titulo": "Las novedades que se esperan en WhatsApp este 2025",
                                 "url": "https://www.elnacional.com/tecnologia/las-novedades-que-se-esperan-en-whatsapp-este-2025/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-06-084916.png",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "enero 6, 2025",
                                 "extra": "Como todos los a\u00f1os, WhatsApp no ha parado de hacer cambios y mejoras. Sin embargo, la compa\u00f1\u00eda propiedad de Meta\u2026"
