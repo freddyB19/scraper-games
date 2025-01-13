@@ -12401,6 +12401,41 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Minecraft: c\u00f3mo fabricar papel, materiales y guia paso a paso",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/67850478268e3ea21b8b4587.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367706752417.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Un 'loco' est\u00e1 intentando fabricar una SNES-CD, la consola de PlayStation y Nintendo que nunca se lanz\u00f3",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/13/6784f78f268e3e60458b4599.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367673689301.png",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Destruir a miles de soldados sin piedad es lo m\u00e1s divertido que he visto nunca. An\u00e1lisis de Dynasty Warriors Origins",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/6784e886268e3e95118b4597.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367670009663.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\"Nintendo ha enviado a sus abogados\" a la empresa que revel\u00f3 Switch 2 mediante una maqueta",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/6784efdd268e3e946a8b458e.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367657745238.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El origen de Super Mario habr\u00eda sido totalmente diferente de no ser por una chapuza japonesa y una casualidad",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/6784de1a268e3e816e8b4591.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367607917078.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Ni Parasite Eve, ni Resident Evil: el juego de PlayStation que defini\u00f3 el survival horror fue este",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/12/677e6448ca4741837c8b457c.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/08/17363364519286.jpg",
@@ -12714,41 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/30/17355556525865.jpg",
                             "meta": "Hardware, software y consolas",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Los datos dicen que Nintendo se comer\u00e1 a Xbox y PlayStation, pero... \u00bfY si en realidad el futuro fuera otra cosa?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/28/676e9df0ca47414c2a8b45bc.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17353023669374.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "As\u00ed te puedes ahorrar 40 euros descarg\u00e1ndote este juegazo gratis en Epic Games durante 24 horas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676f01f722601d14758b45b1.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17353307573942.jpg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Celebra en la cara del equipo contrario con un baile de Fortnite, termina expulsado... \u00a1y perseguido por los rivales!",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676ed7e7268e3ebc758b45a3.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17353136274561.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Llevo d\u00edas sin dormir estudiando a Rockstar por el segundo tr\u00e1iler de GTA 6 y creo que ya s\u00e9 cu\u00e1ndo podr\u00eda llegar",
-                            "url": "https://www.marca.com/videojuegos/juegos/2024/12/27/676e8a6eca4741f84b8b45b9.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352976429698.jpg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "Nintendo podr\u00eda presentar Switch 2 muy pronto por culpa de las filtraciones",
-                            "url": "https://www.marca.com/videojuegos/hardware/2024/12/27/676e9236ca474101298b4598.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/12/27/17352998111664.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12756,9 +12756,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 12 de enero",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-12-de-enero-nid13012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "13 de enero de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-12-de-enero-nid13012025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos gratis de la semana del 9 de enero en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-9-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid09012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "9 de enero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-9-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid09012025/"
                         },
@@ -12978,16 +12985,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "5 de diciembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-5-de-diciembre-en-epic-games-solo-hay-que-nid05122024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Naci\u00f3 por una pelea con Nintendo. </span>",
-                                "La consola PlayStation cumple 30 a\u00f1os"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/la-consola-playstation-cumple-30-anos-nid02122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/la-playstation-original-salio-a-la-venta-el-3-de-NHOKBP4SOJF4PPAX55OVYNZJTA.JPG?auth=2a2d5a1d639153c526047099877f65bb5a776fb93050c20f68822ddda2a3d7ae&width=300&height=200&quality=70&smart=true",
-                            "fecha": "2 de diciembre de 2024",
-                            "url_link": "/tecnologia/la-consola-playstation-cumple-30-anos-nid02122024/"
                         }
                     ]
                 },
@@ -13096,15 +13093,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Esc\u00e1ndalo de Pornograf\u00eda Escolar Usando IA Sacude Escuela Secundaria en S\u00eddney, Australia",
-                            "url": "https://decrypt.co/es/300271/escandalo-de-pornografia-escolar-usando-ia-sacude-escuela-secundaria-en-sidney-australia",
+                            "titulo": "Midjourney se Acerca a Una 'Renovaci\u00f3n Completa', Planea Funciones de Video",
+                            "url": "https://decrypt.co/es/300588/midjourney-se-acerca-a-una-renovacion-completa-planea-funciones-de-video",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/high-school-classroom-gID_7.jpg@webp",
-                            "descripcion": "Un estudiante de secundaria en S\u00eddney, Australia, enfrenta una investigaci\u00f3n policial y acciones disciplinarias despu\u00e9s de presuntamente usar inteligencia artificial para crear im\u00e1genes deepfake pornogr\u00e1ficas de sus compa\u00f1eras de clase, marcando uno de los primeros incidentes importantes relacionados con la IA en un entorno educativo en Australia.\nUn deepfake es una imagen falsa generada mediante algoritmos de deep learning. Es altamente realista y, dependiendo de la calidad, dif\u00edcil de diferenc...",
-                            "fecha": "Jan 9, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/11-gID_7.jpg@webp",
+                            "descripcion": "Midjourney est\u00e1 en las etapas finales de prueba de V7, una actualizaci\u00f3n significativa que reconstruye casi todas las partes del sistema del generador de im\u00e1genes de IA.\nDurante la sesi\u00f3n de office hours de esta semana, los desarrolladores explicaron que V7 presenta una nueva arquitectura, diferentes conjuntos de datos y enfoques revisados de procesamiento de lenguaje.\nLas pruebas internas podr\u00edan tomar de una semana a un mes, seguidas de una fase de ajuste de dos semanas y un potencial per\u00edodo...",
+                            "fecha": "Jan 13, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Los Angeles Est\u00e1 Ardiendo\u2014Y Los Deepfakes de IA Est\u00e1n Alimentando la Desinformaci\u00f3n",
+                                    "url": "https://decrypt.co/es/300593/los-angeles-esta-ardiendo-y-los-deepfakes-de-ia-estan-alimentando-la-desinformacion",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 13, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "Esc\u00e1ndalo de Pornograf\u00eda Escolar Usando IA Sacude Escuela Secundaria en S\u00eddney, Australia",
+                                    "url": "https://decrypt.co/es/300271/escandalo-de-pornografia-escolar-usando-ia-sacude-escuela-secundaria-en-sidney-australia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 9, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Productos de IA M\u00e1s Llamativos y Absurdos Presentados en el CES 2025",
                                     "url": "https://decrypt.co/es/300139/productos-de-ia-mas-llamativos-y-absurdos-presentados-en-el-ces-2025",
@@ -13132,23 +13143,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 27, 2024",
                                     "meta": "6 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "La IA no te Dir\u00e1 C\u00f3mo Hacer Bombas\u2014a Menos Que Escribas 'BoMb'",
                                     "url": "https://decrypt.co/es/299067/la-ia-no-te-dira-como-hacer-bombas-a-menos-que-escribas-bomb",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 27, 2024",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Justo cuando pens\u00e1bamos que la seguridad de la IA se trataba de sofisticadas ciberdefensas y complejas arquitecturas neuronales, la \u00faltima investigaci\u00f3n de Anthropic nos muestra c\u00f3mo las t\u00e9cnicas avanzadas de hacking de IA actuales pueden ser ejecutadas por un ni\u00f1o de jard\u00edn de infantes.\nAnthropic\u2014que gusta de probar las vulnerabilidades de la IA para poder contrarrestarlas despu\u00e9s\u2014encontr\u00f3 una brecha que llama \"Best-of-N (BoN)\". Funciona creando variaciones de consultas prohibidas que t\u00e9cnicame..."
                                 },
                                 {
                                     "titulo": "Nvidia Mejora su Computadora de IA Jetson de Bajo Costo\u2014M\u00e1s Potencia a Mitad de Precio",
                                     "url": "https://decrypt.co/es/298976/nvidia-mejora-su-computadora-de-ia-jetson-de-bajo-costo-mas-potencia-a-mitad-de-precio",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Dec 24, 2024",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Traemos buenas noticias para los desarrolladores y aficionados de la IA: Nvidia acaba de hacer mucho m\u00e1s econ\u00f3mica la construcci\u00f3n de robots, drones, c\u00e1maras inteligentes y otros dispositivos impulsados por IA que necesitan un cerebro. La nueva Jetson Orin Nano Super de la compa\u00f1\u00eda, anunciada el martes y disponible ahora, incorpora m\u00e1s potencia de procesamiento que su predecesor mientras cuesta la mitad, $249.\nLa computadora del tama\u00f1o de la palma de la mano ofrece un aumento de rendimiento del..."
+                                },
                                 {
                                     "titulo": "Editor de Video con IA de Meta Llegar\u00e1 a Instagram para Hacerte Cuestionar lo Que es Real",
                                     "url": "https://decrypt.co/es/298445/editor-de-video-con-ia-de-meta-llegara-a-instagram-para-hacerte-cuestionar-lo-que-es-real",
@@ -13172,22 +13185,6 @@
                                     "fecha": "Dec 14, 2024",
                                     "meta": "4 min lectura",
                                     "descripcion": "OpenAI present\u00f3 el jueves las capacidades de video largamente prometidas de ChatGPT, permitiendo a los usuarios apuntar sus tel\u00e9fonos a objetos para an\u00e1lisis de IA en tiempo real\u2014una caracter\u00edstica que hab\u00eda estado guardada desde su primera demostraci\u00f3n en mayo.\nAnteriormente, pod\u00edas ingresar texto, gr\u00e1ficos, voz o fotos fijas e interactuar con GPT. Esta caracter\u00edstica, lanzada el jueves por la noche, permite que GPT te observe en tiempo real y proporcione retroalimentaci\u00f3n conversacional. Por e..."
-                                },
-                                {
-                                    "titulo": "Google Lanza Gemini 2.0 y Anthropic Claude 3.5 Haiku, Tras Exitoso Cierre de Fin de A\u00f1o de OpenAI",
-                                    "url": "https://decrypt.co/es/296563/google-lanza-gemini-2-0-y-anthropic-claude-3-5-haiku-tras-exitoso-cierre-de-fin-de-ano-de-openai",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 14, 2024",
-                                    "meta": "7 min lectura",
-                                    "descripcion": "Esta semana, Google lanz\u00f3 Gemini 2.0, dotando a su \u00faltimo modelo de IA con capacidades aut\u00f3nomas y caracter\u00edsticas multimodales.\nLo que es inmediatamente notable en este lanzamiento es que Google ve los chatbots de IA evolucionando hacia Agentes de IA\u2014software personalizado que usa IA generativa para interactuar con usuarios y entender y ejecutar tareas en tiempo real.\n\"Con nuevos avances en multimodalidad\u2014como salida nativa de imagen y audio\u2014y uso nativo de herramientas, nos permitir\u00e1 construir..."
-                                },
-                                {
-                                    "titulo": "ChatGPT Colapsa Tras Integrarse con Apple Intelligence",
-                                    "url": "https://decrypt.co/es/296395/chatgpt-se-apaga-tras-integracion-de-apple-intelligence",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 13, 2024",
-                                    "meta": "2 min lectura",
-                                    "descripcion": "Hubo una gran perturbaci\u00f3n en la fuerza el mi\u00e9rcoles por la noche cuando ChatGPT se cay\u00f3, causando que los estudiantes universitarios gritaran de terror repentinamente.\nSi bien no est\u00e1 necesariamente a la par de la destrucci\u00f3n de Alderaan por la Estrella de la Muerte en Una Nueva Esperanza, el tiempo de inactividad del chatbot de IA n\u00famero uno lleg\u00f3 como una sorpresa despu\u00e9s de un anuncio de Apple el mismo d\u00eda de que el soporte de ChatGPT hab\u00eda llegado a Siri.\nOpenAI y Apple no respondieron inme..."
                                 }
                             ]
                         }
