@@ -11268,6 +11268,22 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Peluche de Ornn Dulcehogar",
+                        "url": "https://merch.riotgames.com/product/hearth-home-ornn-plush/?utm_source=lol&utm_medium=client&utm_campaign=seasonstart25",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Merchandising",
+                        "fecha": "2025-01-15T22:00:00.000Z",
+                        "detalle": "\u00a1Revivid la magia de la amistad forjada con fuego con el peluche de Ornn Dulcehogar!"
+                    },
+                    {
+                        "titulo": "Suscripciones de Twitch",
+                        "url": "https://lolesports.com/es-es/news/lol-esports-twitch-subscriptions",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": null,
+                        "fecha": "2025-01-15T16:00:00.000Z",
+                        "detalle": "Ofrecemos m\u00e1s formas de conectar y apoyar a las retransmisiones regionales de los esports de LoL"
+                    },
+                    {
                         "titulo": "Tr\u00e1iler de lanzamiento: Sett sierpe radiante",
                         "url": "https://www.youtube.com/watch?v=4nmbdkVP3dk",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11346,22 +11362,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-01-07T19:00:00.000Z",
                         "detalle": "Volvemos con nuestra primera (y peque\u00f1a) versi\u00f3n de este nuevo a\u00f1o, que pule el encuentro inicial y las experiencias del carrusel a la vez que prepara el terreno para los cambios importantes de la siguiente."
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 25.S1.1",
-                        "url": "/es-es/news/game-updates/patch-25-s1-1-notes",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-07T19:00:00.000Z",
-                        "detalle": "\u00a1Os damos la bienvenida a Noxus y a la temporada 1!"
-                    },
-                    {
-                        "titulo": "Bienvenidos a Noxus",
-                        "url": "https://www.youtube.com/watch?v=I76wvt0aEE4",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Multimedia",
-                        "fecha": "2025-01-07T16:00:00.000Z",
-                        "detalle": "Solo hay que responder a una pregunta. \u00bfSois lo suficientemente fuertes?"
                     }
                 ],
                 "notas": [
@@ -12401,18 +12401,39 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "GTA: seg\u00fan vuestros votos, este es el mejor mapa de la historia de Grand Theft Auto",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/6788ccefe2704ec57e8b4585.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370190015467.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Los youtubers y los especuladores se est\u00e1n 'cargando' el TCG de\u00a0Pok\u00e9mon y la culpa la tiene el de siempre: don dinero",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/15/678792e5268e3e185a8b45a1.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/15/17369380034923.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "TOTW 18: Demb\u00e9l\u00e9 y Rolf\u00f6 lideran el Equipo de la Semana en EA Sports FC 25",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/15/678807fde2704e2e6a8b4587.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/15/17369657534229.jpg",
+                            "meta": "EA Sports FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "God of War Ragnar\u00f6k llega Llega a PS Plus Extra y Premium: estos son los juegos gratis del mes para enero",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/15/6787ef21ca4741741c8b45af.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/15/17369624370736.jpg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
                             "titulo": "\"Ubisoft, al borde del abismo. \u00bfLa comunidad dar\u00e1 una tercera oportunidad?\"",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/01/15/67879c59268e3e5e3a8b45b1.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/15/17369405895819.jpg",
                             "meta": "Juegos",
                             "autor": "EMILIO HURTADO RUIZ"
-                        },
-                        {
-                            "titulo": "Jugar a Pok\u00e9mon TCG se empieza a poner muy dif\u00edcil 'por culpa de\u00a0los\u00a0youtubers'",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/15/678792e5268e3e185a8b45a1.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/15/17369380034923.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         },
                         {
                             "titulo": "Ni San Andreas, ni GTA V. Si lo que dicen de GTA 6 es real, el mejor mapa de la saga ser\u00e1 el suyo",
@@ -12728,27 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358975795991.jpg",
                             "meta": "Hardware, software y consolas",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"Es aleatorio\", jugador de Animal Crossing logra un hito incre\u00edble en su isla por accidente",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/02/67765ce922601da00a8b45a3.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358102018819.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si no sabes qu\u00e9 regalar por Reyes, estos packs gaming son la soluci\u00f3n perfecta",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/02/677695a922601daa2f8b4590.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358248034636.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "Calendario de Pok\u00e9mon TCG Pocket en enero: Nuevos eventos, competiciones PVP, cartas especiales...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/02/67766fdd22601df2748b457a.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358150205385.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
                         }
                     ]
                 },
@@ -13093,15 +13093,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Bomberos de California Utilizan IA para Combatir las Crecientes Amenazas de Incendios Forestales",
-                            "url": "https://decrypt.co/es/300859/bomberos-de-california-utilizan-ia-para-combatir-las-crecientes-amenazas-de-incendios-forestales",
+                            "titulo": "C\u00f3mo Los Criminales Utilizaron ChatGPT y Meta AI Para Planificar Ataques Terroristas en EEUU",
+                            "url": "https://decrypt.co/es/301049/como-los-criminales-utilizaron-chatgpt-y-meta-ai-para-planificar-ataques-terroristas-en-eeuu",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Decrypt-Wallpaper-Format-1600-x-900-px-7-gID_7.png@webp",
-                            "descripcion": "Los incendios forestales en el sur de California son cada vez m\u00e1s intensos e impredecibles, empujando a los bomberos a adoptar tecnolog\u00eda de vanguardia para mantenerse adelante.\nLa creciente imprevisibilidad de los incendios forestales se demostr\u00f3 el martes pasado cuando una tormenta de viento provoc\u00f3 varios incendios en toda el \u00e1rea de Los \u00c1ngeles, incluyendo las estribaciones de Pacific Palisades y el \u00e1rea de Eaton Canyon cerca de Altadena, CA, al norte de Pasadena.\nM\u00e1s de 26.000 acres estuvie...",
-                            "fecha": "Jan 14, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/jaldps_an_evil_ai_-ar_169_-v_6.1_be907064-d0bb-4efa-8a16-c28730ac46df_1-gID_7.png@webp",
+                            "descripcion": "Los recientes ataques en Las Vegas y Nueva Orleans muestran c\u00f3mo las herramientas de IA est\u00e1n siendo utilizadas por terroristas.\n\n\n\nLos dos tipos de ataques identificados \u2014uno que aprovecha las capacidades ling\u00fc\u00edsticas y de razonamiento de ChatGPT, y otro que explota la tecnolog\u00eda de los lentes inteligentes de Meta\u2014 nos llevan a reflexionar sobre el delicado balance entre fortalecer las medidas de seguridad y mantener los beneficios que ofrece la inteligencia artificial.\n\n\n\nPapel de ChatGPT en l...",
+                            "fecha": "Jan 16, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Este \"Modelo de Razonamiento\" de IA Gratuito Supera al o1 de OpenAI Evitando Mensualidad de $20",
+                                    "url": "https://decrypt.co/es/301022/este-modelo-de-razonamiento-de-ia-gratuito-supera-al-o1-de-openai-evitando-pago-mensual-de-20",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 15, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "EEUU Endurece Restricciones de Exportaci\u00f3n de Chips de IA, Antes de la Toma de Posesi\u00f3n de Trump",
+                                    "url": "https://decrypt.co/es/301121/eeuu-endurece-restricciones-de-exportacion-de-chips-de-ia-antes-de-la-toma-de-posesion-de-trump",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 15, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Bomberos de California Utilizan IA para Combatir las Crecientes Amenazas de Incendios Forestales",
+                                    "url": "https://decrypt.co/es/300859/bomberos-de-california-utilizan-ia-para-combatir-las-crecientes-amenazas-de-incendios-forestales",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 14, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "Illustrious: El modelo de IA que Quiere Dominar la Generaci\u00f3n de Arte de Anime",
                                     "url": "https://decrypt.co/es/300817/illustrious-el-modelo-de-ia-que-quiere-dominar-la-generacion-de-arte-de-anime",
@@ -13122,30 +13143,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 13, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Los Angeles Est\u00e1 Ardiendo\u2014Y Los Deepfakes de IA Est\u00e1n Alimentando la Desinformaci\u00f3n",
                                     "url": "https://decrypt.co/es/300593/los-angeles-esta-ardiendo-y-los-deepfakes-de-ia-estan-alimentando-la-desinformacion",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 13, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Mientras los bomberos continuaban combatiendo los incendios forestales en Los \u00c1ngeles, otra amenaza afecta los esfuerzos de recuperaci\u00f3n: los deepfakes generados por IA.\nEl mi\u00e9rcoles, comenzaron a circular im\u00e1genes en X (anteriormente Twitter) que mostraban el ic\u00f3nico letrero de Hollywood envuelto en llamas mientras el fuego arrasaba Mount Lee. Sin embargo, estas im\u00e1genes fueron completamente fabricadas utilizando herramientas de inteligencia artificial generativa.\nDespu\u00e9s de las im\u00e1genes del le..."
                                 },
                                 {
                                     "titulo": "Esc\u00e1ndalo de Pornograf\u00eda Escolar Usando IA Sacude Escuela Secundaria en S\u00eddney, Australia",
                                     "url": "https://decrypt.co/es/300271/escandalo-de-pornografia-escolar-usando-ia-sacude-escuela-secundaria-en-sidney-australia",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 9, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Un estudiante de secundaria en S\u00eddney, Australia, enfrenta una investigaci\u00f3n policial y acciones disciplinarias despu\u00e9s de presuntamente usar inteligencia artificial para crear im\u00e1genes deepfake pornogr\u00e1ficas de sus compa\u00f1eras de clase, marcando uno de los primeros incidentes importantes relacionados con la IA en un entorno educativo en Australia.\nUn deepfake es una imagen falsa generada mediante algoritmos de deep learning. Es altamente realista y, dependiendo de la calidad, dif\u00edcil de diferenc..."
                                 },
                                 {
                                     "titulo": "Productos de IA M\u00e1s Llamativos y Absurdos Presentados en el CES 2025",
                                     "url": "https://decrypt.co/es/300139/productos-de-ia-mas-llamativos-y-absurdos-presentados-en-el-ces-2025",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 9, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "A medida que se desarrolla el CES 2025, una cosa est\u00e1 clara: la inteligencia artificial est\u00e1 en todas partes.\nDesde televisores hasta aspiradoras, las empresas de electr\u00f3nica de consumo compiten por mostrar las nuevas funciones de IA, a veces forzadamente incorporadas en sus productos.\nAlgunos de estos productos impulsados por IA son impresionantes, mientras que otros llevan al l\u00edmite el significado de \"inteligencia artificial\".\nAqu\u00ed hay una mirada a algunos de los productos con IA m\u00e1s llamativo..."
+                                },
                                 {
                                     "titulo": "Nvidia en CES 2025: Todo lo Que Debes Saber Sobre sus Novedades en IA y Gaming",
                                     "url": "https://decrypt.co/es/300135/nvidia-en-ces-2025-todo-lo-que-debes-saber-sobre-sus-novedades-en-ia-y-gaming",
@@ -13161,30 +13185,6 @@
                                     "fecha": "Jan 6, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "\u00bfQuieres $20 por cada dispositivo Apple que podr\u00eda haberte espiado? El gigante tecnol\u00f3gico con sede en Cupertino est\u00e1 listo para desembolsar hasta $95 millones para resolver demandas de que Siri fue demasiado entusiasta al escuchar conversaciones privadas.\nApple no ha admitido irregularidades, pero acord\u00f3 compensar a los usuarios estadounidenses hasta $100 por hogar, seg\u00fan documentos judiciales presentados el 13 de diciembre de 2024 en Oakland, California.\nEl acuerdo aborda las alegaciones de qu..."
-                                },
-                                {
-                                    "titulo": "Modelo O3 de OpenAI Alcanza Puntuaciones de Nivel Humano, \u00bfPuede Considerarse AGI?",
-                                    "url": "https://decrypt.co/es/299068/modelo-o3-de-openai-alcanza-puntuaciones-de-nivel-humano-puede-considerarse-agi",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 27, 2024",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "El \u00faltimo modelo de IA de OpenAI ha logrado lo que muchos pensaban imposible, alcanzando una puntuaci\u00f3n sin precedentes de 87,5% en el desafiante benchmark Autonomous Research Collaborative Artificial General Intelligence\u2014b\u00e1sicamente cerca del umbral m\u00ednimo de lo que te\u00f3ricamente podr\u00eda considerarse \"humano\".\nEl benchmark ARC-AGI prueba qu\u00e9 tan cerca est\u00e1 un modelo de alcanzar la inteligencia artificial general (AGI), es decir, si puede pensar, resolver problemas y adaptarse como un humano en di..."
-                                },
-                                {
-                                    "titulo": "La IA no te Dir\u00e1 C\u00f3mo Hacer Bombas\u2014a Menos Que Escribas 'BoMb'",
-                                    "url": "https://decrypt.co/es/299067/la-ia-no-te-dira-como-hacer-bombas-a-menos-que-escribas-bomb",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 27, 2024",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Justo cuando pens\u00e1bamos que la seguridad de la IA se trataba de sofisticadas ciberdefensas y complejas arquitecturas neuronales, la \u00faltima investigaci\u00f3n de Anthropic nos muestra c\u00f3mo las t\u00e9cnicas avanzadas de hacking de IA actuales pueden ser ejecutadas por un ni\u00f1o de jard\u00edn de infantes.\nAnthropic\u2014que gusta de probar las vulnerabilidades de la IA para poder contrarrestarlas despu\u00e9s\u2014encontr\u00f3 una brecha que llama \"Best-of-N (BoN)\". Funciona creando variaciones de consultas prohibidas que t\u00e9cnicame..."
-                                },
-                                {
-                                    "titulo": "Nvidia Mejora su Computadora de IA Jetson de Bajo Costo\u2014M\u00e1s Potencia a Mitad de Precio",
-                                    "url": "https://decrypt.co/es/298976/nvidia-mejora-su-computadora-de-ia-jetson-de-bajo-costo-mas-potencia-a-mitad-de-precio",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Dec 24, 2024",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Traemos buenas noticias para los desarrolladores y aficionados de la IA: Nvidia acaba de hacer mucho m\u00e1s econ\u00f3mica la construcci\u00f3n de robots, drones, c\u00e1maras inteligentes y otros dispositivos impulsados por IA que necesitan un cerebro. La nueva Jetson Orin Nano Super de la compa\u00f1\u00eda, anunciada el martes y disponible ahora, incorpora m\u00e1s potencia de procesamiento que su predecesor mientras cuesta la mitad, $249.\nLa computadora del tama\u00f1o de la palma de la mano ofrece un aumento de rendimiento del..."
                                 }
                             ]
                         }
