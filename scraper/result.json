@@ -11340,20 +11340,20 @@
                         "detalle": "Zoe hacedora de mitos chibi env\u00eda a una sabrosa misi\u00f3n a Ezreal de porcelana chibi de prestigio."
                     },
                     {
-                        "titulo": "Torneo del First Stand | Explicaci\u00f3n del formato",
-                        "url": "https://www.youtube.com/watch?v=iPMDoZ30rT0",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": null,
-                        "fecha": "2025-01-08T16:00:00.000Z",
-                        "detalle": "Toda la informaci\u00f3n sobre el formato del torneo del First Stand."
-                    },
-                    {
                         "titulo": "Los esports de LoL en 2025",
                         "url": "https://lolesports.com/es-es/news/lol-esports-in-2025",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
                         "categoria": null,
                         "fecha": "2025-01-08T16:00:00.000Z",
                         "detalle": "\u00a1Empezamos 2025 con las \u00faltimas noticias!"
+                    },
+                    {
+                        "titulo": "Torneo del First Stand | Explicaci\u00f3n del formato",
+                        "url": "https://www.youtube.com/watch?v=iPMDoZ30rT0",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": null,
+                        "fecha": "2025-01-08T16:00:00.000Z",
+                        "detalle": "Toda la informaci\u00f3n sobre el formato del torneo del First Stand."
                     },
                     {
                         "titulo": "Notas de la versi\u00f3n 13.3 de Teamfight Tactics (2025)",
@@ -12131,6 +12131,16 @@
                                 "etiqueta": "Apex Legends",
                                 "info": [
                                     {
+                                        "titulo": "\u00c1brete paso entre pelotones en el evento de colecci\u00f3n Renacer lunar",
+                                        "informacion": [
+                                            "Apex Legends",
+                                            "16-ene-2025"
+                                        ],
+                                        "detalle": "Coge la espada mortal R2R5, obt\u00e9n ventajas con las mejoras de materia y consigue el aspecto Prestigio Reptil del vac\u00edo de Alter.",
+                                        "url": "https://www.ea.com/es-es/games/apex-legends/news/lunar-rebirth-event",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/lunar-rebirth-event/apexs23-lunarrebirth-keyart-3840x2160.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "Trasciende lo et\u00e9reo en el evento Anomal\u00eda Astral",
                                         "informacion": [
                                             "Apex Legends",
@@ -12179,16 +12189,6 @@
                                         "detalle": "La comunidad global de creadores ha sido una parte vital de Apex Legends\u2122. Vamos a ampliar el apoyo para la experiencia de los creadores.",
                                         "url": "https://www.ea.com/es-es/games/apex-legends/news/creator-hub",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-price-change-key-art.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "Novedades que llegan con Apex Legends\u2122: Desde la brecha",
-                                        "informacion": [
-                                            "Apex Legends",
-                                            "05-nov-2024"
-                                        ],
-                                        "detalle": "Revive ese primer despliegue, restablece a tu pelot\u00f3n con la nueva Lifeline y mantente al d\u00eda de las actualizaciones de Desde la brecha.",
-                                        "url": "https://www.ea.com/es-es/games/apex-legends/news/from-the-rift-season-updates",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/from-the-rift/from-the-rift-game-updates/apex-fromtherift-primary-3840x2160-seasonal-logo.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12400,6 +12400,83 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "Nintendo Switch 2: revelan precio y fecha de lanzamiento seg\u00fan filtraciones",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/16/67894a0822601d7a3c8b4585.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370504358101.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
+                        },
+                        {
+                            "titulo": "Yuste confirma el \u00d13 2025, la segunda edici\u00f3n de la conferencia de videojuegos de Espa\u00f1a y LATAM",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/17/678a339c268e3e411d8b45b6.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/17/17371107298971.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
+                        },
+                        {
+                            "titulo": "El surrealista motivo por el que Epic Games ha baneado a Rubius de Fortnite: \"Ser\u00e1 mi culpa...\"",
+                            "url": "https://www.marca.com/videojuegos/streamers/2025/01/16/67894a7222601ddb6b8b4586.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370534301058.jpg",
+                            "meta": "Streamers",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "TOTY 2025: Estas son las mejores jugadoras del a\u00f1o en EA Sports FC 25 con el FC Barcelona como protagonista",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/67891fbf22601dd6508b45a2.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370404472310.jpg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "TOTY 2025: Este es el Equipo del A\u00f1o en EA Sports FC 25 donde el Real Madrid 'arrasa'",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/6787d95be2704e16888b45af.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370402458629.jpg",
+                            "meta": "EA Sports FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Nintendo Switch 2, he analizado fechas y datos, y estos son los juegos que espero de lanzamiento: Mario Kart 9, Animal Crossing y m\u00e1s",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/67891cdde2704e91818b458d.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370371311876.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Nintendo Switch vs. Nintendo Switch 2: cu\u00e1les son las diferencias entre ambas consolas",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/16/678918cfe2704e7cb98b4593.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370381341668.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "La temporada 1 de Marvel Rivals llega a GeForce NOW junto a siete nuevos juegos y novedades de VR",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/6788f3d3e2704e73098b4587.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370285591956.jpg",
+                            "meta": "Juegos",
+                            "autor": "M. J."
+                        },
+                        {
+                            "titulo": "Podr\u00e1s probar y jugar con Nintendo Switch 2 antes en NS2 Experience: fechas, c\u00f3mo registrarse y m\u00e1s",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/67891331e2704e80ac8b458c.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370367555718.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Switch 2 Direct: Nintendo anuncia su nueva consola y confirma la fecha de su primer Direct",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/67890f8de2704eb02b8b45ab.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370356510856.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Nintendo Switch 2 es oficial: as\u00ed es el tr\u00e1iler de presentaci\u00f3n de la nueva consola",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/16/678902b6e2704e3a1a8b4593.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370342300185.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
                         {
                             "titulo": "GTA: seg\u00fan vuestros votos, este es el mejor mapa de la historia de Grand Theft Auto",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/6788ccefe2704ec57e8b4585.html",
@@ -12672,83 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362444866333.jpg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN TURRI\u00d3N"
-                        },
-                        {
-                            "titulo": "PlayStation revela el futuro de PS5 tras el lanzamiento de PS6 y refuerza su ventana de lanzamiento",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/07/677cf6d746163f2c0b8b4590.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362428220097.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "PlayStation tendr\u00e1 su propio anime: \u00bfQu\u00e9 sabemos de Ghost of Tsushima: Legends?",
-                            "url": "https://www.marca.com/videojuegos/anime/2025/01/07/677cef5346163f967e8b4583.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362409732932.jpg",
-                            "meta": "Anime y manga",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni GTA 5 ni San Andreas. El mejor mapa de la saga lo tiene este otro juego de Rockstar y sigue siendo el mejor incluso 15 a\u00f1os despu\u00e9s",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/06/677bbeeaca4741653b8b4586.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/06/17361629671523.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Uno de los mejores juegos de PlayStation Plus tiene m\u00e1s de 20 a\u00f1os, se inspir\u00f3 en Jurassic Park y es una leyenda",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/06/677bb2e7ca47415d3d8b4597.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/06/17361602976940.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Este jugador acab\u00f3 en prisi\u00f3n por comprar una carta de Pok\u00e9mon... de m\u00e1s de 50 mil euros",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/06/677ba4d5ca4741193f8b457a.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/06/17361565044731.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Este truco del mando de PS5 puede mejorar tu punter\u00eda en los juegos de acci\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/05/6777d44646163f4b2d8b456e.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17359063225959.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "Un juego de PS1 me ha recordado porque llevamos toda la vida pegados a una PlayStation",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/04/6776cb83e2704e934e8b4574.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/02/17358384948353.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"B\u00e1sicamente anunci\u00e9 Minecraft 2\", el creador del juego original confirma que har\u00e1 una segunda parte",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/04/6778f50622601d625b8b45a9.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/04/17359806340215.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni Kirby, ni Donkey Kong: el personaje de Nintendo que sorprendi\u00f3 con su propio juego revolucionario",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/04/6777a6fe22601ddd208b459b.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358970832575.jpg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "Soy experto en ordenadores, y si no quieres complicarte, esto es lo mejor que puedes hacer al comprar un PC",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/03/67616e79ca4741d5138b4585.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358982647897.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "\"Switch 2 ser\u00e1 superior a PS4 Pro en muchos aspectos\", la nueva consola de Nintendo podr\u00eda ir a por todas",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/03/6777b24222601d346c8b457f.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/03/17358975795991.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12992,15 +12992,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Cybertrucks de Tesla Proporcionan Wi-Fi Gratuito en Los \u00c1ngeles Tras Incendios Forestales",
-                            "url": "https://decrypt.co/es/300866/los-cybertrucks-de-tesla-proporcionan-wi-fi-gratuito-en-los-angeles-tras-incendios-forestales",
+                            "titulo": "Investigador de Seguridad de Apple Desmiente Alarma Sobre Variante de Malware para Mac",
+                            "url": "https://decrypt.co/es/301118/investigador-de-seguridad-de-apple-desmiente-alarma-sobre-variante-de-malware-para-mac",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Tesla_Elon-Musk_Rokas-Tenys_shutterstock_2147719465-gID_7.jpg@webp",
-                            "descripcion": "Mientras los esfuerzos de recuperaci\u00f3n y ayuda se intensifican en Los \u00c1ngeles despu\u00e9s de una semana de devastadores incendios, el CEO de Tesla, Elon Musk, anunci\u00f3 el domingo que enviar\u00e1 una flota de Cybertrucks y terminales Starlink al sur de California.\nMusk dijo que el plan es usar los Cybertrucks para proporcionar puntos de acceso Wi-Fi m\u00f3viles a \u00e1reas sin acceso a internet.\nEl pasado martes, fuertes vientos causaron que varios incendios forestales en el sur de California se propagaran fuera...",
-                            "fecha": "Jan 14, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_1050436496-gID_7.jpg@webp",
+                            "descripcion": "Una nueva variante de malware para macOS logr\u00f3 evadir la detecci\u00f3n de antivirus durante m\u00e1s de dos meses al utilizar un esquema de cifrado de las herramientas de seguridad de Apple, seg\u00fan revelaron investigadores de la firma de ciberseguridad Check Point la semana pasada.\nLos principales medios de comunicaci\u00f3n se apresuraron a cubrir la noticia, con Forbes advirtiendo sobre \u201cpeligros reales y presentes\u201d y el New York Post citando a Check Point sobre c\u00f3mo m\u00e1s de 100 millones de usuarios de Apple...",
+                            "fecha": "Jan 16, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Cybertrucks de Tesla Proporcionan Wi-Fi Gratuito en Los \u00c1ngeles Tras Incendios Forestales",
+                                    "url": "https://decrypt.co/es/300866/los-cybertrucks-de-tesla-proporcionan-wi-fi-gratuito-en-los-angeles-tras-incendios-forestales",
+                                    "categoria": "Technology",
+                                    "fecha": "Jan 14, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "AiXBT: El Influencer de IA que Est\u00e1 Revolucionando el Ecosistema Cripto",
                                     "url": "https://decrypt.co/es/299606/aixbt-el-influencer-de-ia-que-esta-revolucionando-el-ecosistema-cripto",
@@ -13035,16 +13042,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Nov 24, 2024",
                                     "meta": "6 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Rally de Bitcoin Impulsa el Ascenso de Aplicaciones M\u00f3viles de Criptomonedas",
                                     "url": "https://decrypt.co/es/292768/rally-de-bitcoin-impulsa-el-ascenso-de-aplicaciones-moviles-de-criptomonedas",
                                     "categoria": "Technology",
                                     "fecha": "Nov 21, 2024",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Las aplicaciones m\u00f3viles de criptomonedas han saltado hacia la cima de las clasificaciones de la App Store en medio de un aumento de precios de Bitcoin y otras criptomonedas, lo que ha resultado en un incremento significativo en la capitalizaci\u00f3n de mercado general de todas las monedas, superando los $3 billones a principios de esta semana.\nCoinbase lidera la carga, saltando del puesto #26 en el D\u00eda de las Elecciones al puesto #1 el viernes en la categor\u00eda de Finanzas Gratuitas de la App Store d..."
+                                },
                                 {
                                     "titulo": "Peter Todd Niega Estar Oculto Tras Ser Se\u00f1alado Como Satoshi Nakamoto",
                                     "url": "https://decrypt.co/es/288490/peter-todd-niega-estar-oculto-tras-ser-identificado-como-satoshi-nakamoto",
@@ -13076,14 +13084,6 @@
                                     "fecha": "Oct 20, 2024",
                                     "meta": "3 min lectura",
                                     "descripcion": "Worldcoin, recientemente rebautizado como World, la plataforma de identidad impulsada por criptomonedas y escaneo de iris cofundada por el CEO de OpenAI, Sam Altman, lanz\u00f3 la red principal para su propia red de capa 2 de Ethereum llamada World Chain.\nWorld Chain se est\u00e1 implementando con el objetivo de llevar a millones de usuarios humanos verificables a la blockchain, adem\u00e1s de promover el desarrollo de herramientas de identidad digital y aplicaciones que fomenten la libertad financiera, seg\u00fan..."
-                                },
-                                {
-                                    "titulo": "Vitalik Buterin, Creador de Ethereum, Propone Grandes Cambios en la Red",
-                                    "url": "https://decrypt.co/es/286414/vitalik-buterin-creador-de-ethereum-propone-grandes-cambios-en-la-red",
-                                    "categoria": "Technology",
-                                    "fecha": "Oct 15, 2024",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Resulta que Vitalik Buterin no qued\u00f3 satisfecho con la primera revisi\u00f3n del mecanismo de consenso de Ethereum, a pesar de muchos a\u00f1os de ajustes t\u00e9cnicos y debates.\nEn una publicaci\u00f3n realizada el lunes, el cofundador de Ethereum reflexion\u00f3 sobre varias mejoras potenciales para el modelo de prueba de participaci\u00f3n de Ethereum. Eso inclu\u00eda reducir las barreras financieras para los validadores individuales, as\u00ed como mejorar el tiempo necesario para finalizar los bloques de Ethereum.\nHace dos a\u00f1os,..."
                                 }
                             ]
                         }
@@ -13202,6 +13202,22 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Nintendo Switch 2, se revela oficialmente su lanzamiento",
+                                "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-se-revela-oficialmente-su-lanzamiento/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/nintendo.jpeg",
+                                "meta": "GAMERS",
+                                "fecha": "enero 16, 2025",
+                                "extra": "La multinacional japonesa Nintendo present\u00f3 su pr\u00f3ximo Nintendo Switch 2, programado para salir en el a\u00f1o corriente. La consola, tienta\u2026"
+                            },
+                            {
+                                "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
+                                "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 16, 2025",
+                                "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
+                            },
+                            {
                                 "titulo": "Lo mejor que dej\u00f3 la feria CES de Las Vegas\u00a02025",
                                 "url": "https://www.elnacional.com/tecnologia/lo-mejor-que-dejo-la-feria-ces-de-las-vegas-2025/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/CES-2025-Vegas.jpg",
@@ -13264,22 +13280,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 8, 2025",
                                 "extra": "La Ley de Servicios Digitales de la UE est\u00e1 en el centro de la pol\u00e9mica. Mark Zuckerberg acus\u00f3 a la\u2026"
-                            },
-                            {
-                                "titulo": "Pedro S\u00e1nchez acusa a Elon Musk de ser un fascista propulsor del odio",
-                                "url": "https://www.elnacional.com/tecnologia/pedro-sanchez-acusa-a-elon-musk-de-fascista-y-propulsor-del-odio/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/AFP__20250108__36TC442__v1__Preview__SpainPoliticsHistoryDictatorshipFranco.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 8, 2025",
-                                "extra": "El presidente del gobierno espa\u00f1ol, el socialista Pedro S\u00e1nchez, acus\u00f3 este mi\u00e9rcoles al multimillonario Elon Musk de azuzar \u00abel odio\u00bb.\u2026"
-                            },
-                            {
-                                "titulo": "Mark Zuckerberg restaurar\u00e1 la libertad de expresi\u00f3n en Facebook e Instagram",
-                                "url": "https://www.elnacional.com/tecnologia/mark-zuckerberg-restaurara-la-libertad-de-expresion-en-facebook-e-instagram/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Mark-Zuckerberg-Meta.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 7, 2025",
-                                "extra": "Mark Zuckerberg eliminar\u00e1 los conocidos como \u00abverificadores de hechos\u00bb d\u00e1ndole forma a un nuevo espacio llamado \u00abNotas de la comunidad\u00bb\u2026"
                             }
                         ]
                     }
@@ -13288,13 +13288,21 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
-                            "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
+                            "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
+                            "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "enero 14, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg"
+                            "fecha": "enero 16, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
+                                "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 14, 2025",
+                                "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
+                            },
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
@@ -13366,14 +13374,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 28, 2024",
                                 "extra": "La empresa tecnol\u00f3gica Apple empez\u00f3 este lunes a ofrecer sus primeras funciones de su inteligencia artificial (IA), llamada Apple Intelligence,\u2026"
-                            },
-                            {
-                                "titulo": "El peligro detr\u00e1s de los amigos virtuales: el caso del joven de 14 a\u00f1os que se suicid\u00f3 luego de enamorarse de un personaje creado con IA",
-                                "url": "https://www.elnacional.com/tecnologia/ia-el-peligro-detras-de-los-amigos-virtuales/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/El-peligro-detras-de-los-%E2%80%98amigos-virtuales.jpeg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "octubre 27, 2024",
-                                "extra": "\u2014Te amo mucho, Dany. \u2014Yo tambi\u00e9n te amo. Por favor, vuelve a casa conmigo lo antes posible, mi amor. \u2014\u00bfQu\u00e9\u2026"
                             }
                         ]
                     }
