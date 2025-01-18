@@ -11268,6 +11268,22 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Ekko PureArts a escala 1/4",
+                        "url": "https://merch.riotgames.com/product/purearts-ekko-statue/?utm_source=lol&utm_medium=client&utm_campaign=seasonstart25",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Merchandising",
+                        "fecha": "2025-01-17T22:00:00.000Z",
+                        "detalle": "\u00a1Echad el guante a la figura del Chico que Quebr\u00f3 el Tiempo (\u00bfo el chico salvador?) de PureArts!"
+                    },
+                    {
+                        "titulo": "Apoyad a las v\u00edctimas de los incendios de Los \u00c1ngeles",
+                        "url": "https://www.riotgames.com/es/noticias/la-wildfire-fundraiser-es",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Riot Games",
+                        "fecha": "2025-01-16T22:00:00.000Z",
+                        "detalle": "Del 23 de enero al 5 de febrero, todos los ingresos generados por Riot con la venta de Tristana bombera, m\u00e1s una cantidad adicional equivalente al triple, ir\u00e1n destinados al Riot Games Social Impact Fund."
+                    },
+                    {
                         "titulo": "Peluche de Ornn Dulcehogar",
                         "url": "https://merch.riotgames.com/product/hearth-home-ornn-plush/?utm_source=lol&utm_medium=client&utm_campaign=seasonstart25",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11282,6 +11298,14 @@
                         "categoria": null,
                         "fecha": "2025-01-15T16:00:00.000Z",
                         "detalle": "Ofrecemos m\u00e1s formas de conectar y apoyar a las retransmisiones regionales de los esports de LoL"
+                    },
+                    {
+                        "titulo": "Actualizaci\u00f3n: Esencias azules y experiencia",
+                        "url": "/es-es/news/dev/blue-essence-and-account-xp-update",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Desarrollo",
+                        "fecha": "2025-01-15T16:00:00.000Z",
+                        "detalle": "Vamos a implementar cambios a las recompensas del pase de batalla y la experiencia de la cuenta."
                     },
                     {
                         "titulo": "Tr\u00e1iler de lanzamiento: Sett sierpe radiante",
@@ -11338,30 +11362,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-01-09T02:00:00.000Z",
                         "detalle": "Zoe hacedora de mitos chibi env\u00eda a una sabrosa misi\u00f3n a Ezreal de porcelana chibi de prestigio."
-                    },
-                    {
-                        "titulo": "Los esports de LoL en 2025",
-                        "url": "https://lolesports.com/es-es/news/lol-esports-in-2025",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": null,
-                        "fecha": "2025-01-08T16:00:00.000Z",
-                        "detalle": "\u00a1Empezamos 2025 con las \u00faltimas noticias!"
-                    },
-                    {
-                        "titulo": "Torneo del First Stand | Explicaci\u00f3n del formato",
-                        "url": "https://www.youtube.com/watch?v=iPMDoZ30rT0",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": null,
-                        "fecha": "2025-01-08T16:00:00.000Z",
-                        "detalle": "Toda la informaci\u00f3n sobre el formato del torneo del First Stand."
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 13.3 de Teamfight Tactics (2025)",
-                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/teamfight-tactics-patch-13-3-notes-2025/",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-07T19:00:00.000Z",
-                        "detalle": "Volvemos con nuestra primera (y peque\u00f1a) versi\u00f3n de este nuevo a\u00f1o, que pule el encuentro inicial y las experiencias del carrusel a la vez que prepara el terreno para los cambios importantes de la siguiente."
                     }
                 ],
                 "notas": [
@@ -12756,9 +12756,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 16 de enero en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-16-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid17012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "17 de enero de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-16-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid17012025/"
+                        },
+                        {
                             "titulo": "Lanzamientos de videojuegos en Enero de 2025 en Steam: esta es la lista",
                             "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-enero-de-2025-en-steam-esta-es-la-lista-nid14012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/lanzamientos-de-videojuegos-en-enero-de-2025-en-SQ2JOS73DNEGPK6HAGOOEYUGQU.jpg?auth=c23715e50ba1a2b296e998b8467bea1e13d943da2c85bd41a5ef6ec38412321c&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-enero-de-2025-en-SQ2JOS73DNEGPK6HAGOOEYUGQU.jpg?auth=c23715e50ba1a2b296e998b8467bea1e13d943da2c85bd41a5ef6ec38412321c&width=300&height=200&quality=70&smart=true",
                             "fecha": "14 de enero de 2025",
                             "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-enero-de-2025-en-steam-esta-es-la-lista-nid14012025/"
                         },
@@ -12975,16 +12982,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
                             "fecha": "9 de diciembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-08-de-diciembre-nid09122024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">\u00bfEl futuro de los videojuegos? </span>",
-                                "As\u00ed es Genie 2, el generador de mundos 3D interactivos de Google"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/el-futuro-de-los-videojuegos-asi-es-genie-2-el-generador-de-mundos-3d-de-google-nid06122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/genie-2-es-un-motor-de-ia-de-google-capaz-de-PM5KT67W25EBHPACAANA22ZKHY.jpg?auth=dae6e56527ce6aa073a352acfb930ee20fe7b8be498bbde63fbb25f87d6736a4&width=300&height=200&quality=70&smart=true",
-                            "fecha": "6 de diciembre de 2024",
-                            "url_link": "/tecnologia/el-futuro-de-los-videojuegos-asi-es-genie-2-el-generador-de-mundos-3d-de-google-nid06122024/"
                         }
                     ]
                 },
@@ -12992,15 +12989,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Investigador de Seguridad de Apple Desmiente Alarma Sobre Variante de Malware para Mac",
-                            "url": "https://decrypt.co/es/301118/investigador-de-seguridad-de-apple-desmiente-alarma-sobre-variante-de-malware-para-mac",
+                            "titulo": "Sony Lanza Oficialmente Soneium Tras Atraer 14 Millones de Usuarios en Fase Beta",
+                            "url": "https://decrypt.co/es/301108/sony-lanza-oficialmente-soneium-tras-atraer-14-millones-de-usuarios-en-fase-beta",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_1050436496-gID_7.jpg@webp",
-                            "descripcion": "Una nueva variante de malware para macOS logr\u00f3 evadir la detecci\u00f3n de antivirus durante m\u00e1s de dos meses al utilizar un esquema de cifrado de las herramientas de seguridad de Apple, seg\u00fan revelaron investigadores de la firma de ciberseguridad Check Point la semana pasada.\nLos principales medios de comunicaci\u00f3n se apresuraron a cubrir la noticia, con Forbes advirtiendo sobre \u201cpeligros reales y presentes\u201d y el New York Post citando a Check Point sobre c\u00f3mo m\u00e1s de 100 millones de usuarios de Apple...",
-                            "fecha": "Jan 16, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Sony-sign-atop-of-Sony-Interactive-Entertainment-SIE-headquarters-in-Silicon-Valley-San-Mateo-California-gID_7.jpg@webp",
+                            "descripcion": "Sony lanz\u00f3 oficialmente su plataforma de capa 2 de Ethereum, Soneium, tras un per\u00edodo de prueba que dur\u00f3 cuatro meses y atrajo a m\u00e1s de 14 millones de usuarios, anunci\u00f3 la compa\u00f1\u00eda el lunes.\nDesarrollada por la subsidiaria Sony Block Solutions Labs (Sony BSL), la plataforma est\u00e1 dise\u00f1ada para simplificar las interacciones blockchain para creadores y sus audiencias a trav\u00e9s de herramientas como sistemas de participaci\u00f3n de fans basados en NFT y un programa de incubaci\u00f3n llamado Soneium Spark.\nSu...",
+                            "fecha": "Jan 17, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Investigador de Seguridad de Apple Desmiente Alarma Sobre Variante de Malware para Mac",
+                                    "url": "https://decrypt.co/es/301118/investigador-de-seguridad-de-apple-desmiente-alarma-sobre-variante-de-malware-para-mac",
+                                    "categoria": "Technology",
+                                    "fecha": "Jan 16, 2025",
+                                    "meta": "2 min lectura"
+                                },
                                 {
                                     "titulo": "Cybertrucks de Tesla Proporcionan Wi-Fi Gratuito en Los \u00c1ngeles Tras Incendios Forestales",
                                     "url": "https://decrypt.co/es/300866/los-cybertrucks-de-tesla-proporcionan-wi-fi-gratuito-en-los-angeles-tras-incendios-forestales",
@@ -13035,16 +13039,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Nov 24, 2024",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Armas Letales: El Misil Hipers\u00f3nico de Rusia es una Nueva M\u00e1quina de Matar",
                                     "url": "https://decrypt.co/es/293308/armas-letales-el-misil-hipersonico-de-rusia-es-una-nueva-maquina-de-matar",
                                     "categoria": "Technology",
                                     "fecha": "Nov 24, 2024",
-                                    "meta": "6 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "6 min lectura",
+                                    "descripcion": "Ya sea un misil bal\u00edstico intercontinental de largo alcance, como se tem\u00eda originalmente, o un misil hipers\u00f3nico experimental de alcance intermedio, como se cree ahora, la guerra de Rusia con Ucrania dio otro paso hacia los temores de escalada nuclear.\nEl ataque de misiles rusos en la ciudad ucraniana de Dnipro parec\u00eda ser en represalia por los ataques de misiles en Rusia el martes despu\u00e9s de que la Administraci\u00f3n Biden autorizara a Ucrania a utilizar los Sistemas de Misiles T\u00e1cticos del Ej\u00e9rcit..."
+                                },
                                 {
                                     "titulo": "Rally de Bitcoin Impulsa el Ascenso de Aplicaciones M\u00f3viles de Criptomonedas",
                                     "url": "https://decrypt.co/es/292768/rally-de-bitcoin-impulsa-el-ascenso-de-aplicaciones-moviles-de-criptomonedas",
@@ -13076,14 +13081,6 @@
                                     "fecha": "Oct 23, 2024",
                                     "meta": "3 min lectura",
                                     "descripcion": "La p\u00e9rdida de audici\u00f3n afecta a 2.500 millones de personas en todo el mundo, pero los aud\u00edfonos son caros y pueden variar de $1.000 a $8.000 por par, lo que los hace inaccesibles para muchos. La start-up con sede en Maryland, Quantum Senses, est\u00e1 tratando de resolver ese problema con su aud\u00edfono Earcoustic, que se vende por solo $20.\nJustin Lee, fundador y CEO de la empresa, advirti\u00f3 que el producto est\u00e1 dirigido a personas con una p\u00e9rdida de audici\u00f3n leve donde la electr\u00f3nica avanzada se consid..."
-                                },
-                                {
-                                    "titulo": "Por Qu\u00e9 Worldcoin Construy\u00f3 Una Red de Ethereum Especificamente Para Humanos",
-                                    "url": "https://decrypt.co/es/287301/por-que-worldcoin-construyo-una-red-de-ethereum-especificamente-para-humanos",
-                                    "categoria": "Technology",
-                                    "fecha": "Oct 20, 2024",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Worldcoin, recientemente rebautizado como World, la plataforma de identidad impulsada por criptomonedas y escaneo de iris cofundada por el CEO de OpenAI, Sam Altman, lanz\u00f3 la red principal para su propia red de capa 2 de Ethereum llamada World Chain.\nWorld Chain se est\u00e1 implementando con el objetivo de llevar a millones de usuarios humanos verificables a la blockchain, adem\u00e1s de promover el desarrollo de herramientas de identidad digital y aplicaciones que fomenten la libertad financiera, seg\u00fan..."
                                 }
                             ]
                         }
@@ -13204,7 +13201,7 @@
                             {
                                 "titulo": "Nintendo Switch 2, se revela oficialmente su lanzamiento",
                                 "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-se-revela-oficialmente-su-lanzamiento/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/nintendo.jpeg",
+                                "imagen": null,
                                 "meta": "GAMERS",
                                 "fecha": "enero 16, 2025",
                                 "extra": "La multinacional japonesa Nintendo present\u00f3 su pr\u00f3ximo Nintendo Switch 2, programado para salir en el a\u00f1o corriente. La consola, tienta\u2026"
@@ -13212,7 +13209,7 @@
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 16, 2025",
                                 "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
@@ -13220,7 +13217,7 @@
                             {
                                 "titulo": "Lo mejor que dej\u00f3 la feria CES de Las Vegas\u00a02025",
                                 "url": "https://www.elnacional.com/tecnologia/lo-mejor-que-dejo-la-feria-ces-de-las-vegas-2025/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/CES-2025-Vegas.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 14, 2025",
                                 "extra": "La feria CES (Consumer Electronic Show) de Las Vegas\u00a0es la cita m\u00e1s importante de la\u00a0electr\u00f3nica de consumo. De hecho, es\u2026"
@@ -13228,7 +13225,7 @@
                             {
                                 "titulo": "TikTok no se vende ni a Elon Musk",
                                 "url": "https://www.elnacional.com/tecnologia/tiktok-no-se-vende-ni-a-elon-musk/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/TikTok-EE-UU.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "enero 14, 2025",
                                 "extra": "TikTok desminti\u00f3 categ\u00f3ricamente los rumores sobre una posible venta a Elon Musk, calific\u00e1ndolos de \u00abpura ficci\u00f3n\u00bb. En respuesta a una\u2026"
@@ -13236,7 +13233,7 @@
                             {
                                 "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 14, 2025",
                                 "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
@@ -13244,7 +13241,7 @@
                             {
                                 "titulo": "Meta permite llamar \u00abenfermos mentales\u00bb a la comunidad LGTBI+",
                                 "url": "https://www.elnacional.com/tecnologia/meta-permite-llamar-enfermos-mentales-a-la-comunidad-lgtbi/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 10, 2025",
                                 "extra": "La multinacional Meta modific\u00f3 su pol\u00edtica sobre conductas y permitir\u00e1 que en Facebook, Instagram y Threads se pueda llamar \u00abenfermos\u2026"
@@ -13252,7 +13249,7 @@
                             {
                                 "titulo": "X pone orden con etiquetas para distinguir \u00ablo real de lo falso\u00bb",
                                 "url": "https://www.elnacional.com/tecnologia/x-lanza-nuevas-etiquetas-para-distinguir-lo-real-de-lo-falso/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-10-071221.png",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "enero 10, 2025",
                                 "extra": "Adi\u00f3s a las confusiones. \u00bfSe han preguntado alguna vez si esa cuenta que siguen en X es real o no?\u00a0\u2026"
@@ -13260,7 +13257,7 @@
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
@@ -13268,7 +13265,7 @@
                             {
                                 "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
@@ -13276,7 +13273,7 @@
                             {
                                 "titulo": "La UE le responde a Zuckerberg: \u00abNo hemos censurado, hemos regulado\u00bb",
                                 "url": "https://www.elnacional.com/tecnologia/ue-responde-a-zuckerberg-no-hemos-censurado-sino-regulado/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Mark-Zukerberg.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 8, 2025",
                                 "extra": "La Ley de Servicios Digitales de la UE est\u00e1 en el centro de la pol\u00e9mica. Mark Zuckerberg acus\u00f3 a la\u2026"
