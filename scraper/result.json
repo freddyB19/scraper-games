@@ -13191,17 +13191,33 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Meta aclara a Brasil que por el momento solo cerrar\u00e1 su programa de verificaci\u00f3n en EE UU",
-                            "url": "https://www.elnacional.com/tecnologia/meta-aclara-a-brasil-que-por-el-momento-solo-cerrara-su-programa-de-verificacion-en-ee-uu/",
+                            "titulo": "Las tendencias clave que marcar\u00e1n el paso de la IA para este 2025",
+                            "url": "https://www.elnacional.com/tecnologia/las-tendencias-clave-que-marcaran-el-paso-de-la-ia-para-este-2025/",
                             "categoria": "TECNOLOGIA",
-                            "fecha": "enero 14, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg"
+                            "fecha": "enero 19, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/04/pixabay-inteligencia-artificial-3.jpeg"
                         },
                         "notas": [
                             {
+                                "titulo": "Los avances tecnol\u00f3gicos m\u00e1s sorprendentes del CES 2025",
+                                "url": "https://www.elnacional.com/tecnologia/los-avances-tecnologicos-mas-sorprendentes-del-ces-2025/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/CES-2025-Vegas.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 19, 2025",
+                                "extra": "Como es habitual, el CES es el escenario perfecto para conocer los avances m\u00e1s innovadores de la industria tecnol\u00f3gica. Miles\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfLas fitness apps han modificado la relaci\u00f3n de las personas con el ejercicio?",
+                                "url": "https://www.elnacional.com/tecnologia/las-fitness-apps-han-modificado-la-relacion-de-las-personas-con-el-ejercicio/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Fitness-Apps-Gym-Salud-1.jpg",
+                                "meta": "APP",
+                                "fecha": "enero 19, 2025",
+                                "extra": "El covid fue el catalizador. Y cinco a\u00f1os despu\u00e9s de una de las peores pandemias registradas, estad\u00edsticas y expertos apuntan\u2026"
+                            },
+                            {
                                 "titulo": "Nintendo Switch 2, se revela oficialmente su lanzamiento",
                                 "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-se-revela-oficialmente-su-lanzamiento/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/nintendo.jpeg",
                                 "meta": "GAMERS",
                                 "fecha": "enero 16, 2025",
                                 "extra": "La multinacional japonesa Nintendo present\u00f3 su pr\u00f3ximo Nintendo Switch 2, programado para salir en el a\u00f1o corriente. La consola, tienta\u2026"
@@ -13209,15 +13225,23 @@
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 16, 2025",
                                 "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
                             },
                             {
+                                "titulo": "Meta aclara a Brasil que por el momento solo cerrar\u00e1 su programa de verificaci\u00f3n en EE UU",
+                                "url": "https://www.elnacional.com/tecnologia/meta-aclara-a-brasil-que-por-el-momento-solo-cerrara-su-programa-de-verificacion-en-ee-uu/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 14, 2025",
+                                "extra": "Meta, due\u00f1o de Facebook, Instagram y Whatsapp, aclar\u00f3 al gobierno de Brasil que, \u00abpor ahora\u00bb, est\u00e1 cerrando su programa de\u2026"
+                            },
+                            {
                                 "titulo": "Lo mejor que dej\u00f3 la feria CES de Las Vegas\u00a02025",
                                 "url": "https://www.elnacional.com/tecnologia/lo-mejor-que-dejo-la-feria-ces-de-las-vegas-2025/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/CES-2025-Vegas.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 14, 2025",
                                 "extra": "La feria CES (Consumer Electronic Show) de Las Vegas\u00a0es la cita m\u00e1s importante de la\u00a0electr\u00f3nica de consumo. De hecho, es\u2026"
@@ -13225,7 +13249,7 @@
                             {
                                 "titulo": "TikTok no se vende ni a Elon Musk",
                                 "url": "https://www.elnacional.com/tecnologia/tiktok-no-se-vende-ni-a-elon-musk/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/TikTok-EE-UU.jpg",
                                 "meta": "APP",
                                 "fecha": "enero 14, 2025",
                                 "extra": "TikTok desminti\u00f3 categ\u00f3ricamente los rumores sobre una posible venta a Elon Musk, calific\u00e1ndolos de \u00abpura ficci\u00f3n\u00bb. En respuesta a una\u2026"
@@ -13233,7 +13257,7 @@
                             {
                                 "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 14, 2025",
                                 "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
@@ -13241,7 +13265,7 @@
                             {
                                 "titulo": "Meta permite llamar \u00abenfermos mentales\u00bb a la comunidad LGTBI+",
                                 "url": "https://www.elnacional.com/tecnologia/meta-permite-llamar-enfermos-mentales-a-la-comunidad-lgtbi/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 10, 2025",
                                 "extra": "La multinacional Meta modific\u00f3 su pol\u00edtica sobre conductas y permitir\u00e1 que en Facebook, Instagram y Threads se pueda llamar \u00abenfermos\u2026"
@@ -13249,34 +13273,10 @@
                             {
                                 "titulo": "X pone orden con etiquetas para distinguir \u00ablo real de lo falso\u00bb",
                                 "url": "https://www.elnacional.com/tecnologia/x-lanza-nuevas-etiquetas-para-distinguir-lo-real-de-lo-falso/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-10-071221.png",
                                 "meta": "APP",
                                 "fecha": "enero 10, 2025",
                                 "extra": "Adi\u00f3s a las confusiones. \u00bfSe han preguntado alguna vez si esa cuenta que siguen en X es real o no?\u00a0\u2026"
-                            },
-                            {
-                                "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
-                                "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": null,
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "enero 9, 2025",
-                                "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
-                                "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": null,
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "enero 9, 2025",
-                                "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
-                            },
-                            {
-                                "titulo": "La UE le responde a Zuckerberg: \u00abNo hemos censurado, hemos regulado\u00bb",
-                                "url": "https://www.elnacional.com/tecnologia/ue-responde-a-zuckerberg-no-hemos-censurado-sino-regulado/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 8, 2025",
-                                "extra": "La Ley de Servicios Digitales de la UE est\u00e1 en el centro de la pol\u00e9mica. Mark Zuckerberg acus\u00f3 a la\u2026"
                             }
                         ]
                     }
