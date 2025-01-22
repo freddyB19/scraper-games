@@ -11268,6 +11268,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "El puente entre mundos",
+                        "url": "https://www.youtube.com/watch?v=z_Y8R69YEGU",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Multimedia",
+                        "fecha": "2025-01-21T16:00:00.000Z",
+                        "detalle": "El a\u00f1o de la serpiente comienza por todo lo alto."
+                    },
+                    {
                         "titulo": "Ekko PureArts a escala 1/4",
                         "url": "https://merch.riotgames.com/product/purearts-ekko-statue/?utm_source=lol&utm_medium=client&utm_campaign=seasonstart25",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11354,14 +11362,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-01-09T02:15:00.000Z",
                         "detalle": "\u00a1Celebrad el Festival lunar con nosotros con el regreso de un set muy querido!"
-                    },
-                    {
-                        "titulo": "Minicinem\u00e1tica La fortuna sonr\u00ede a los hambrientos",
-                        "url": "https://www.youtube.com/watch?v=GH6w1HgX58k",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-09T02:00:00.000Z",
-                        "detalle": "Zoe hacedora de mitos chibi env\u00eda a una sabrosa misi\u00f3n a Ezreal de porcelana chibi de prestigio."
                     }
                 ],
                 "notas": [
@@ -12401,6 +12401,62 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "PC F\u00fatbol 8 sigue sin dar se\u00f1ales de vida y la 'voz' del juego recibe amenazas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/22/6790ca3746163f8b068b459f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/22/17375419607875.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\"Si GTA 6 cuesta 100 euros no salvar\u00e1 a nadie\", nos condenar\u00e1 a todos, y no es su culpa",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/01/22/6790b98146163ffd948b4573.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/22/17375384239263.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00a1Bombazo en Pok\u00e9mon TCG Pocket! Seg\u00fan las \u00faltimas filtraciones la siguiente expansi\u00f3n ser\u00e1 de cuarta generaci\u00f3n",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/22/6790c48522601dcf338b45cc.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/22/17375424950381.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
+                        },
+                        {
+                            "titulo": "Mi nuevo objetivo en Magic es ganar la 33 de Fernando Alonso, y es que Aethredrift es la expansi\u00f3n perfecta para ello",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/21/678fe3cb268e3ec42f8b458d.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374830569003.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Stardbound, Far Cry, Sniper Elite... Xbox tira la casa por la ventana con Game Pass en enero de 2025",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/21/678fb635e2704e254c8b45a9.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374716937928.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "GTA 6 aspira a ser el mundo abierto m\u00e1s realista de la historia... si se cumple esta predicci\u00f3n",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/21/678fb3f7e2704ea0038b457e.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374711326380.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Nintendo Switch 2 ya tiene sus primeros juegos oficiales: Mario Kart 9, Yooka-Replaylee y m\u00e1s",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/21/678fa83946163fcb5a8b458c.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374681608348.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Si te gustan los RPG de ciencia ficci\u00f3n, el regreso de este cl\u00e1sico de PSP Vita es lo que buscas. An\u00e1lisis de Freedom Wars Remastered",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/21/678e9467e2704e04518b45a4.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374827595378.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Frank Cuesta alucina con su juego en Fortnite: \"Mira c\u00f3mo mola esto, es igual que el Santuario\"",
                             "url": "https://www.marca.com/videojuegos/streamers/2025/01/21/678f833922601dc0128b4572.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374584020024.jpg",
@@ -12693,62 +12749,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/09/17364134807102.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfQu\u00e9 est\u00e1 ocurriendo con Nintendo Switch 2 y las filtraciones?",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/09/677f9786e2704e3f798b45b4.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/09/17364153282086.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfCu\u00e1l es el mejor mapa de GTA? Desde Grand Theft Auto 3 a San Andreas o V, te toca elegir tu preferido",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/08/677e4f45ca474167338b45c9.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/08/17363321038457.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Nintendo Switch 2: esta ser\u00eda la fecha de presentaci\u00f3n y lanzamiento seg\u00fan las \u00faltimas filtraciones... y esta vez parece real",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/08/677e45a0ca474191608b4586.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/08/17363286851240.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Aparece una r\u00e9plica de Nintendo Switch 2 en un evento oficial y saltan todas las alarmas: \"Se puede comprar en el mercado negro\"",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/08/677e403aca4741ee518b4571.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/08/17363274710481.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Vomita encima de una carta de m\u00e1s de 20 mil euros y la comunidad de Magic se le echa encima",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/06/677b9d56ca47417a0d8b457b.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/06/17361546266399.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Xokas planea convertirse en el Snoop Dogg espa\u00f1ol: sacar\u00e1 un disco de rap o un videojuego\u00a0a lo largo de 2025",
-                            "url": "https://www.marca.com/videojuegos/streamers/2025/01/07/677d666022601db57b8b4580.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362713072065.jpg",
-                            "meta": "Streamers",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "La UFC de Topuria, Diablo y m\u00e1s juegos gratis se unen a Game Pass y Xbox en enero de 2025",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/07/677d4339ca474180218b4597.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362627353912.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"El peor enemigo de GTA 6 son sus propios creadores\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/07/677d123246163f03468b4575.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362507320030.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12756,9 +12756,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": [
+                                "<span class=\"com-lead\">Uso no convencional.  </span>",
+                                "Se perdieron en la monta\u00f1a y la salvaci\u00f3n lleg\u00f3 desde un lugar inesperado: Pok\u00e9mon Go"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/se-perdieron-en-la-montana-y-pudieron-regresar-a-salvo-gracias-a-pokemon-go-nid21012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/tres-noruegos-se-perdieron-en-un-bosque-espanol-y-VJ4QW75NMVCJDBCNBC75T65Y44.jpg?auth=dec86ed681c5c526614ebf8bbd20a89dcb2d232f6c8a773b8cd19d70318f6952&width=300&height=200&quality=70&smart=true",
+                            "fecha": "21 de enero de 2025",
+                            "url_link": "/tecnologia/se-perdieron-en-la-montana-y-pudieron-regresar-a-salvo-gracias-a-pokemon-go-nid21012025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 19 de enero",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-19-de-enero-nid20012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "20 de enero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-19-de-enero-nid20012025/"
                         },
@@ -12972,16 +12982,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/el-11-de-ciiciembre-llega-ballistic-la-version-de-B2RJ4BTBAZDQFE5QG2NCA6OJZA.jpg?auth=d4443633b9cf314d21f65448239a55b0c840dacbc52ae49b160ee7d9e1c22f99&width=300&height=200&quality=70&smart=true",
                             "fecha": "9 de diciembre de 2024",
                             "url_link": "/tecnologia/un-gran-cambio-llega-a-fortnite-con-ballistic-tendra-un-modo-en-primera-persona-nid09122024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">No se pudo. </span>",
-                                "La Argentina estuvo a metros de revalidar su t\u00edtulo en el Mundial de Gran Turismo 7"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/esports/no-se-pudo-la-argentina-estuvo-a-metros-de-revalidar-su-titulo-en-el-mundial-de-gran-turismo-7-nid09122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/matias-estevez-fue-campeon-mundial-de-gran-XPDDBQECDJDZZHB5FIRHAJOC24.jpg?auth=70d7fcb250dd3a521bbd0a4fd85f0d36d3f3cc16c5c4d9d8efb748022b26bdd8&width=300&height=200&quality=70&smart=true",
-                            "fecha": "9 de diciembre de 2024",
-                            "url_link": "/tecnologia/esports/no-se-pudo-la-argentina-estuvo-a-metros-de-revalidar-su-titulo-en-el-mundial-de-gran-turismo-7-nid09122024/"
                         }
                     ]
                 },
@@ -13295,7 +13295,7 @@
                             {
                                 "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 14, 2025",
                                 "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
@@ -13303,7 +13303,7 @@
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
@@ -13311,7 +13311,7 @@
                             {
                                 "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
@@ -13327,7 +13327,7 @@
                             {
                                 "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
                                 "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 20, 2024",
                                 "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
@@ -13335,7 +13335,7 @@
                             {
                                 "titulo": "Reddit revoluciona la experiencia de b\u00fasqueda con tecnolog\u00eda de IA",
                                 "url": "https://www.elnacional.com/tecnologia/reddit-revoluciona-la-experiencia-de-busqueda-con-tecnologia-de-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/08/Reddit-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 9, 2024",
                                 "extra": "La plataforma Reddit anunci\u00f3 el lanzamiento de una innovadora herramienta de b\u00fasqueda llamada Reddit Answers, basada en inteligencia artificial (IA),\u2026"
@@ -13343,7 +13343,7 @@
                             {
                                 "titulo": "All Music Works, el primer sello discogr\u00e1fico de artistas creados con IA",
                                 "url": "https://www.elnacional.com/tecnologia/all-music-works-el-primer-sello-discografico-de-artistas-creados-con-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/All-Music-Works.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 22, 2024",
                                 "extra": "La empresa All Music Works (AMW) se present\u00f3 este jueves como la primera discogr\u00e1fica de Espa\u00f1a, \u00aby en el mundo\u2026"
@@ -13351,7 +13351,7 @@
                             {
                                 "titulo": "A.I. God: obra hecha por robot humanoide se subasta por m\u00e1s de 1 mill\u00f3n de d\u00f3lares",
                                 "url": "https://www.elnacional.com/tecnologia/obra-hecha-por-robot-es-subastada-en-1-millon-de-dolares/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/A.I.-God-obra-de-la-robot-ultrarrealista-Ai-Da-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 8, 2024",
                                 "extra": "Un retrato del matem\u00e1tico ingl\u00e9s Alan Turing se convirti\u00f3 el jueves en la primera obra de arte realizada por un\u2026"
@@ -13359,7 +13359,7 @@
                             {
                                 "titulo": "Incremento de im\u00e1genes de abuso sexual infantil creadas con IA preocupa a la ONU",
                                 "url": "https://www.elnacional.com/tecnologia/ia-imagenes-de-abuso-sexual-infantil-preocupa-a-la-onu/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/Abuso-sexual-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 4, 2024",
                                 "extra": "La enorme cantidad de im\u00e1genes de abuso sexual infantil creadas con inteligencia artificial (IA) amenaza con desbordar la capacidad policial\u2026"
@@ -13367,7 +13367,7 @@
                             {
                                 "titulo": "Apple empieza a ofrecer su inteligencia artificial en iPhone, iPad y Mac",
                                 "url": "https://www.elnacional.com/tecnologia/apple-empieza-a-ofrecer-su-inteligencia-artificial-en-iphone-ipad-y-mac/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/rss-efed45f1cee9b3855a7a0d833cdbedd36623ec6a70aw.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "octubre 28, 2024",
                                 "extra": "La empresa tecnol\u00f3gica Apple empez\u00f3 este lunes a ofrecer sus primeras funciones de su inteligencia artificial (IA), llamada Apple Intelligence,\u2026"
