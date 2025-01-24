@@ -410,6 +410,11 @@
                         "champion": "Maokai"
                     },
                     {
+                        "url": "https://www.leagueoflegends.com/es-es/champions/mel/",
+                        "imagen": "null",
+                        "champion": "Mel"
+                    },
+                    {
                         "url": "https://www.leagueoflegends.com/es-es/champions/milio/",
                         "imagen": "null",
                         "champion": "Milio"
@@ -11268,6 +11273,38 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Chibicampe\u00f3n: Ezreal de porcelana de prestigio",
+                        "url": "https://www.youtube.com/watch?v=qNO2PedGFbE",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-23T19:00:00.000Z",
+                        "detalle": "\u00bfQui\u00e9n tiene las orejitas de gato m\u00e1s cuquis? \u00a1Este chibi! Ezreal de porcelana chibi, ya disponible."
+                    },
+                    {
+                        "titulo": "M\u00fasica de la campeona: Mel",
+                        "url": "https://www.youtube.com/watch?v=wcbsoGRtS1w",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Multimedia",
+                        "fecha": "2025-01-23T16:00:00.000Z",
+                        "detalle": "El sonido de una convicci\u00f3n inquebrantable. Escuchad la atrevida m\u00fasica de Mel, el Reflejo del Alma."
+                    },
+                    {
+                        "titulo": "Masters 2025 de EMEA - Explicaci\u00f3n del formato",
+                        "url": "https://lolesports.com/es-es/news/2025-emea-masters-format-explainer",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": null,
+                        "fecha": "2025-01-23T15:00:00.000Z",
+                        "detalle": "Esto es todo lo que necesit\u00e1is saber sobre los tres formatos \u00fanicos del Masters de EMEA de este a\u00f1o y sobre c\u00f3mo se clasificar\u00e1n los equipos de cada regi\u00f3n."
+                    },
+                    {
+                        "titulo": "Expositor de tem\u00e1tica: Festival lunar 2025",
+                        "url": "https://www.youtube.com/watch?v=rf81-aTcg7U",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-23T14:00:00.000Z",
+                        "detalle": "Cruzad portales con Zoe chibi y Zoe hacedora de mitos chibi en la arena Reino divino de la sierpe."
+                    },
+                    {
                         "titulo": "Festival lunar 2025: \u00a1contenido cosm\u00e9tico y m\u00e1s! ",
                         "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/lunar-festival-2025-cosmetics-and-more",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11330,38 +11367,6 @@
                         "categoria": "Desarrollo",
                         "fecha": "2025-01-15T16:00:00.000Z",
                         "detalle": "Vamos a implementar cambios a las recompensas del pase de batalla y la experiencia de la cuenta."
-                    },
-                    {
-                        "titulo": "Suscripciones de Twitch",
-                        "url": "https://lolesports.com/es-es/news/lol-esports-twitch-subscriptions",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": null,
-                        "fecha": "2025-01-15T16:00:00.000Z",
-                        "detalle": "Ofrecemos m\u00e1s formas de conectar y apoyar a las retransmisiones regionales de los esports de LoL"
-                    },
-                    {
-                        "titulo": "Tr\u00e1iler de lanzamiento: Sett sierpe radiante",
-                        "url": "https://www.youtube.com/watch?v=4nmbdkVP3dk",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-13T16:00:00.000Z",
-                        "detalle": "\u00a1Abrid paso, que llega el h\u00e9roe local! Poneos en forma con Sett sierpe radiante desde hoy."
-                    },
-                    {
-                        "titulo": "Expositor de chibicampe\u00f3n Sett florecer espiritual",
-                        "url": "https://www.youtube.com/watch?v=sXH4mFu-hqM",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-10T14:00:00.000Z",
-                        "detalle": "Ten\u00e9is toda la eternidad para hacer sentadillas con Sett florecer espiritual chibi, ya disponible."
-                    },
-                    {
-                        "titulo": "Resumen de las habilidades de Mel",
-                        "url": "/es-es/news/game-updates/mel-abilities-rundown",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-09T20:00:00.000Z",
-                        "detalle": "Valorad el entorno y anticipaos al futuro con Mel."
                     }
                 ],
                 "notas": [
@@ -12401,6 +12406,48 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Podemos so\u00f1ar con FFVII o Red Dead Redemption en Nintendo Switch 2 si esta filtraci\u00f3n es real",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/24/67936889ca4741d2458b45af.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/24/17377149984673.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\"Son muy reveladoras\". Mario Kart 8 y Nintendo Switch 2 desvelan m\u00e1s de lo que parece seg\u00fan el \u00faltimo desarrollador en trabajar con Wii U y 3DS",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/24/67935fcfca4741d2458b459a.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/24/17377114938285.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "DOOM The Dark Ages confirma fecha de lanzamiento y no dejar\u00e1 demonio con cabeza",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/23/67927caf22601daf188b458e.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/23/17376584136728.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni Monster Hunter ni Elden Ring. El RPG al que m\u00e1s ganas le tengo acaba de confirmar fecha de lanzamiento y se llama Clair Obscur: Expedition 33",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/23/67928de6268e3e296d8b45b6.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/23/17376577657900.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Xbox confirma el lanzamiento de Ninja Gaiden 4 y desvela su futuro en PS5 y Steam",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/23/679288fb22601d0f3a8b4573.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/23/17376564222582.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00a1Ya es oficial! La Cuarta Generaci\u00f3n llegar\u00e1 a Pok\u00e9mon TGC Pocket en su siguiente expansi\u00f3n",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/23/67926748ca47413c568b4572.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/23/17376451197035.jpg",
+                            "meta": "Pok\u00e9mon",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Son 24 juegazos por menos de 5 euros para PS4 y PS5, pero solo por tiempo limitado",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/23/67920ee022601def448b4587.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/23/17376253086471.jpg",
@@ -12707,48 +12754,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367670009663.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"Nintendo ha enviado a sus abogados\" a la empresa que revel\u00f3 Switch 2 mediante una maqueta",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/6784efdd268e3e946a8b458e.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367657745238.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El origen de Super Mario habr\u00eda sido totalmente diferente de no ser por una chapuza japonesa y una casualidad",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/6784de1a268e3e816e8b4591.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367607917078.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni Parasite Eve, ni Resident Evil: el juego de PlayStation que defini\u00f3 el survival horror fue este",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/12/677e6448ca4741837c8b457c.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/08/17363364519286.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Jugar en PlayStation con una motosierra es posible. Resident Evil 4 cumple 20 a\u00f1os y nos acordamos de su mando m\u00e1s raro",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/11/677cff5346163f3ba68b459b.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/07/17362458399513.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si quieres ver antes que nadie Elden Ring Nightreign, as\u00ed puedes apuntarte a su primera prueba de red",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/10/67810085ca4741f8528b4596.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/10/17365076141074.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Terremoto de ofertas: si quieres ahorrarte un dinero en los mejores juegos de 2024, echa un ojo a esto",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/10/6780f6edca4741a2458b458f.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/10/17365064557297.jpg",
-                            "meta": "Juegos",
-                            "autor": "REDACCI\u00d3N MARCA GAMING"
                         }
                     ]
                 },
@@ -12756,12 +12761,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 23 de enero en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-23-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid23012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "23 de enero de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-23-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid23012025/"
+                        },
+                        {
                             "titulo": [
                                 "<span class=\"com-lead\">Uso no convencional.  </span>",
                                 "Se perdieron en la monta\u00f1a y la salvaci\u00f3n lleg\u00f3 desde un lugar inesperado: Pok\u00e9mon Go"
                             ],
                             "url": "https://www.lanacion.com.ar/tecnologia/se-perdieron-en-la-montana-y-pudieron-regresar-a-salvo-gracias-a-pokemon-go-nid21012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/tres-noruegos-se-perdieron-en-un-bosque-espanol-y-VJ4QW75NMVCJDBCNBC75T65Y44.jpg?auth=dec86ed681c5c526614ebf8bbd20a89dcb2d232f6c8a773b8cd19d70318f6952&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/tres-noruegos-se-perdieron-en-un-bosque-espanol-y-VJ4QW75NMVCJDBCNBC75T65Y44.jpg?auth=dec86ed681c5c526614ebf8bbd20a89dcb2d232f6c8a773b8cd19d70318f6952&width=300&height=200&quality=70&smart=true",
                             "fecha": "21 de enero de 2025",
                             "url_link": "/tecnologia/se-perdieron-en-la-montana-y-pudieron-regresar-a-salvo-gracias-a-pokemon-go-nid21012025/"
                         },
@@ -12972,16 +12984,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "12 de diciembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-12-de-diciembre-en-epic-games-solo-hay-que-nid12122024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Se llama Ballistic. </span>",
-                                "Un gran cambio llega a Fortnite: tendr\u00e1 un modo en primera persona"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/un-gran-cambio-llega-a-fortnite-con-ballistic-tendra-un-modo-en-primera-persona-nid09122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/el-11-de-ciiciembre-llega-ballistic-la-version-de-B2RJ4BTBAZDQFE5QG2NCA6OJZA.jpg?auth=d4443633b9cf314d21f65448239a55b0c840dacbc52ae49b160ee7d9e1c22f99&width=300&height=200&quality=70&smart=true",
-                            "fecha": "9 de diciembre de 2024",
-                            "url_link": "/tecnologia/un-gran-cambio-llega-a-fortnite-con-ballistic-tendra-un-modo-en-primera-persona-nid09122024/"
                         }
                     ]
                 },
@@ -13199,9 +13201,25 @@
                         },
                         "notas": [
                             {
+                                "titulo": "WhatsApp dejar\u00e1 de estar disponible en estos celulares a partir de febrero",
+                                "url": "https://www.elnacional.com/tecnologia/whatsapp-no-funcionara-en-estos-celulares-a-partir-de-febrero/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/A-continuacion-la-lista-de-modelos-que-dejaran-de-ser-compatibles-con-la-aplicacion-de-WhatsApp-Foto-Archivo.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 23, 2025",
+                                "extra": "La aplicaci\u00f3n de mensajer\u00eda instant\u00e1nea WhatsApp implementar\u00e1 cambios importantes en su plataforma a partir de febrero de 2025. Eso significar\u00e1\u2026"
+                            },
+                            {
+                                "titulo": "Apple Intelligence estar\u00e1 disponible por defecto en el iOS 18.3",
+                                "url": "https://www.elnacional.com/tecnologia/apple-intelligence-estara-disponible-por-defecto-en-el-ios-18-3/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EuropaPress_6399934_recurso_funciones_apple_intelligence.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 23, 2025",
+                                "extra": "Apple har\u00e1 que su sistema de inteligencia artificial (IA), Apple Intelligence, y sus funciones est\u00e9n activados por defecto en los\u2026"
+                            },
+                            {
                                 "titulo": "Samsung Galaxy Unpacked 2025: cu\u00e1les ser\u00e1n las novedades de la marca",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-cuales-seran-las-novedades-de-la-marca/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Hologram-OOH-for-Galaxy-Unpacked-2025_05.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 20, 2025",
                                 "extra": "\u00bfEst\u00e1 Samsung a punto de redefinir los l\u00edmites de la tecnolog\u00eda? El 2025 marcar\u00e1 16 a\u00f1os desde el primer evento\u2026"
@@ -13209,7 +13227,7 @@
                             {
                                 "titulo": "Meta, X y Bluesky pretenden sustituir a TikTok con novedades de edici\u00f3n y visualizaci\u00f3n de videos",
                                 "url": "https://www.elnacional.com/tecnologia/meta-x-y-bluesky-buscan-sustituir-a-tiktok-con-novedades-de-edicion-y-visualizacion-de-videos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EuropaPress_6465321_interfaz_edits_nueva_aplicacion_instagram.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 20, 2025",
                                 "extra": "Meta, X (antes Twitter) y Bluesky anunciaron funcionalidades y servicios destinados a la edici\u00f3n y visualizaci\u00f3n de videos en formato\u2026"
@@ -13217,7 +13235,7 @@
                             {
                                 "titulo": "Las tendencias clave que marcar\u00e1n el paso de la IA para este 2025",
                                 "url": "https://www.elnacional.com/tecnologia/las-tendencias-clave-que-marcaran-el-paso-de-la-ia-para-este-2025/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/04/pixabay-inteligencia-artificial-3.jpeg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 19, 2025",
                                 "extra": "Con tan solo tres a\u00f1os de su llegada de forma masiva en el mercado, casi 40% de las personas ya\u2026"
@@ -13225,7 +13243,7 @@
                             {
                                 "titulo": "Los avances tecnol\u00f3gicos m\u00e1s sorprendentes del CES 2025",
                                 "url": "https://www.elnacional.com/tecnologia/los-avances-tecnologicos-mas-sorprendentes-del-ces-2025/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/CES-2025-Vegas.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 19, 2025",
                                 "extra": "Como es habitual, el CES es el escenario perfecto para conocer los avances m\u00e1s innovadores de la industria tecnol\u00f3gica. Miles\u2026"
@@ -13233,7 +13251,7 @@
                             {
                                 "titulo": "\u00bfLas fitness apps han modificado la relaci\u00f3n de las personas con el ejercicio?",
                                 "url": "https://www.elnacional.com/tecnologia/las-fitness-apps-han-modificado-la-relacion-de-las-personas-con-el-ejercicio/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Fitness-Apps-Gym-Salud-1.jpg",
                                 "meta": "APP",
                                 "fecha": "enero 19, 2025",
                                 "extra": "El covid fue el catalizador. Y cinco a\u00f1os despu\u00e9s de una de las peores pandemias registradas, estad\u00edsticas y expertos apuntan\u2026"
@@ -13241,7 +13259,7 @@
                             {
                                 "titulo": "Nintendo Switch 2, se revela oficialmente su lanzamiento",
                                 "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-se-revela-oficialmente-su-lanzamiento/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/nintendo.jpeg",
                                 "meta": "GAMERS",
                                 "fecha": "enero 16, 2025",
                                 "extra": "La multinacional japonesa Nintendo present\u00f3 su pr\u00f3ximo Nintendo Switch 2, programado para salir en el a\u00f1o corriente. La consola, tienta\u2026"
@@ -13249,7 +13267,7 @@
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 16, 2025",
                                 "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
@@ -13257,26 +13275,10 @@
                             {
                                 "titulo": "Meta aclara a Brasil que por el momento solo cerrar\u00e1 su programa de verificaci\u00f3n en EE UU",
                                 "url": "https://www.elnacional.com/tecnologia/meta-aclara-a-brasil-que-por-el-momento-solo-cerrara-su-programa-de-verificacion-en-ee-uu/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 14, 2025",
                                 "extra": "Meta, due\u00f1o de Facebook, Instagram y Whatsapp, aclar\u00f3 al gobierno de Brasil que, \u00abpor ahora\u00bb, est\u00e1 cerrando su programa de\u2026"
-                            },
-                            {
-                                "titulo": "Lo mejor que dej\u00f3 la feria CES de Las Vegas\u00a02025",
-                                "url": "https://www.elnacional.com/tecnologia/lo-mejor-que-dejo-la-feria-ces-de-las-vegas-2025/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 14, 2025",
-                                "extra": "La feria CES (Consumer Electronic Show) de Las Vegas\u00a0es la cita m\u00e1s importante de la\u00a0electr\u00f3nica de consumo. De hecho, es\u2026"
-                            },
-                            {
-                                "titulo": "TikTok no se vende ni a Elon Musk",
-                                "url": "https://www.elnacional.com/tecnologia/tiktok-no-se-vende-ni-a-elon-musk/",
-                                "imagen": null,
-                                "meta": "APP",
-                                "fecha": "enero 14, 2025",
-                                "extra": "TikTok desminti\u00f3 categ\u00f3ricamente los rumores sobre una posible venta a Elon Musk, calific\u00e1ndolos de \u00abpura ficci\u00f3n\u00bb. En respuesta a una\u2026"
                             }
                         ]
                     }
