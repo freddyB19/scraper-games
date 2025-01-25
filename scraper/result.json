@@ -11273,6 +11273,30 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Expositor de estrategas: Jhin oscuridad c\u00f3smica desatado",
+                        "url": "https://www.youtube.com/watch?v=3FpJGNTlfqY",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-24T19:00:00.000Z",
+                        "detalle": "Su actuaci\u00f3n planetaria llegar\u00e1 a los Reinos del tesoro y la tienda en rotaci\u00f3n con la versi\u00f3n 13.4."
+                    },
+                    {
+                        "titulo": "Anuncio de la Tactician's Crown: Hacia Arcane",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/esports/into-the-arcane-tacticians-crown-announcement/",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-01-24T15:00:00.000Z",
+                        "detalle": "Detalles sobre las fechas del evento, el formato, los premios y m\u00e1s."
+                    },
+                    {
+                        "titulo": "Expositor de chibicampeonas: Cantantes So\u00f1adoras",
+                        "url": "https://www.youtube.com/watch?v=1RcHJXa1Z0A",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-01-24T14:00:00.000Z",
+                        "detalle": "\u00a1Un fuerte aplauso para Seraphine chibi y Seraphine K/DA: ALL OUT chibi en la versi\u00f3n 13.4 de TFT!"
+                    },
+                    {
                         "titulo": "Chibicampe\u00f3n: Ezreal de porcelana de prestigio",
                         "url": "https://www.youtube.com/watch?v=qNO2PedGFbE",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11343,30 +11367,6 @@
                         "categoria": "Merchandising",
                         "fecha": "2025-01-17T22:00:00.000Z",
                         "detalle": "\u00a1Echad el guante a la figura del Chico que Quebr\u00f3 el Tiempo (\u00bfo el chico salvador?) de PureArts!"
-                    },
-                    {
-                        "titulo": "Apoyad a las v\u00edctimas de los incendios de Los \u00c1ngeles",
-                        "url": "https://www.riotgames.com/es/noticias/la-wildfire-fundraiser-es",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Riot Games",
-                        "fecha": "2025-01-16T22:00:00.000Z",
-                        "detalle": "Del 23 de enero al 5 de febrero, todos los ingresos generados por Riot con la venta de Tristana bombera, m\u00e1s una cantidad adicional equivalente al triple, ir\u00e1n destinados al Riot Games Social Impact Fund."
-                    },
-                    {
-                        "titulo": "Peluche de Ornn Dulcehogar",
-                        "url": "https://merch.riotgames.com/product/hearth-home-ornn-plush/?utm_source=lol&utm_medium=client&utm_campaign=seasonstart25",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Merchandising",
-                        "fecha": "2025-01-15T22:00:00.000Z",
-                        "detalle": "\u00a1Revivid la magia de la amistad forjada con fuego con el peluche de Ornn Dulcehogar!"
-                    },
-                    {
-                        "titulo": "Actualizaci\u00f3n: Esencias azules y experiencia",
-                        "url": "/es-es/news/dev/blue-essence-and-account-xp-update",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Desarrollo",
-                        "fecha": "2025-01-15T16:00:00.000Z",
-                        "detalle": "Vamos a implementar cambios a las recompensas del pase de batalla y la experiencia de la cuenta."
                     }
                 ],
                 "notas": [
@@ -12406,6 +12406,27 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Nintendo Switch nos 'regala' por menos de 6 euros este incre\u00edble juego de carreras de coches\u00a0en\u00a0la\u00a0eShop",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/25/6793f81c268e3e22378b45b2.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/24/17377496549106.jpg",
+                            "meta": "Nintendo",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "\u00bfY si ya hemos jugado a GTA 6 y no lo sabemos? Red Dead Redemption 2 podr\u00eda esconder las claves del nuevo Grand Theft Auto",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/01/25/679381d4ca4741e5588b45b9.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/24/17377210849245.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El anuncio de la fecha de salida de GTA 6 podr\u00eda estar a la vuelta de la esquina seg\u00fan esta nueva teor\u00eda",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/24/6793efe0268e3eee758b457a.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/24/17377473886023.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Podemos so\u00f1ar con FFVII o Red Dead Redemption en Nintendo Switch 2 si esta filtraci\u00f3n es real",
                             "url": "https://www.marca.com/videojuegos/hardware/2025/01/24/67936889ca4741d2458b45af.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/24/17377149984673.jpg",
@@ -12733,27 +12754,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367718957984.jpg",
                             "meta": "Hardware, software y consolas",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Minecraft: c\u00f3mo fabricar papel, materiales y guia paso a paso",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/67850478268e3ea21b8b4587.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367706752417.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Un 'loco' est\u00e1 intentando fabricar una SNES-CD, la consola de PlayStation y Nintendo que nunca se lanz\u00f3",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/13/6784f78f268e3e60458b4599.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367673689301.png",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Destruir a miles de soldados sin piedad es lo m\u00e1s divertido que he visto nunca. An\u00e1lisis de Dynasty Warriors Origins",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/6784e886268e3e95118b4597.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367670009663.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12761,9 +12761,39 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": [
+                                "<span class=\"com-lead\">Para PC y consola.  </span>",
+                                "Estos son los mejores juegos gratis para las vacaciones"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-mejores-juegos-gratis-para-las-vacaciones-nid24012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/un-repaso-por-los-mejores-juegos-gratis-para-AGMT4DNDAZFRZIDPIMBVLVVZYQ.jpeg?auth=d04082cfe70e3e3d3f012482ef01a7963c45c873598590dd496cd260af7c76cb&width=300&height=200&quality=70&smart=false&focal=1091,1338",
+                            "fecha": "24 de enero de 2025",
+                            "url_link": "/tecnologia/estos-son-los-mejores-juegos-gratis-para-las-vacaciones-nid24012025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Ins\u00f3lito. </span>",
+                                "Elon Musk es top 20 en el juego Diablo IV... pero tiene a alguien jugando por \u00e9l"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/elon-musk-es-top-20-en-el-juego-diablo-iv-pero-tiene-a-alguien-jugando-por-el-nid24012025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/elon-musk-es-uno-de-los-mas-ricos-del-mundo-VK5OPE6M2JCQ7P6ZWF6LPM3AHU.PNG?auth=f69d9610ac7d3a68cb7e5e9b9c5ccb4b2ea82095dc2b26fa588dfd1616f17c50&width=300&height=200&quality=70&smart=true",
+                            "fecha": "24 de enero de 2025",
+                            "url_link": "/tecnologia/elon-musk-es-top-20-en-el-juego-diablo-iv-pero-tiene-a-alguien-jugando-por-el-nid24012025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Espacio familiar.  </span>",
+                                "Netflix prepara juegos cooperativos para usar en la tele"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/netflix-sumara-juegos-cooperativos-para-usar-en-la-tv-y-titulos-infantiles-sin-publicidad-nid24012025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/netflix-prepara-juegos-para-que-use-la-familia-PLBTLK6EBBDB7DWDOCLYLXPWQA.jpg?auth=682fefbdea4e9c5344d9c6e2397ff83959eabe2b1e4afad239401e632aafaa19&width=300&height=200&quality=70&smart=true",
+                            "fecha": "24 de enero de 2025",
+                            "url_link": "/tecnologia/netflix-sumara-juegos-cooperativos-para-usar-en-la-tv-y-titulos-infantiles-sin-publicidad-nid24012025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos gratis de la semana del 23 de enero en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-23-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid23012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "23 de enero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-23-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid23012025/"
                         },
@@ -12957,237 +12987,16 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/asi-se-vera-leo-messi-en-U7IZOZHG4ZACFIJHODRRYW7JLY.jpg?auth=43104d94b3f47a8673eb93ad5ee32d25e5ba494b9154445aba9de70ce8a447e8&width=300&height=200&quality=70&smart=true",
                             "fecha": "13 de diciembre de 2024",
                             "url_link": "/tecnologia/es-oficial-leo-messi-llega-a-fortnite-como-un-nuevo-personaje-nid13122024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Mejores videojuegos del a\u00f1o. </span>",
-                                "Estos son los ganadores de The Game Awards 2024, y algunos de los candidatos para 2025"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/the-game-awards-2024-gano-astro-bot-y-estos-son-los-mejores-videojuegos-que-veremos-proximamente-nid13122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/astro-bot-era-una-demo-para-aprender-a-usar-los-OH6LOZXVSRDGTCKHIS3VKXUDUY.jpg?auth=0fbbf7c0061428535efc67638298580576524b0b0d88e653f76876609c1e78a3&width=300&height=200&quality=70&smart=true",
-                            "fecha": "13 de diciembre de 2024",
-                            "url_link": "/tecnologia/the-game-awards-2024-gano-astro-bot-y-estos-son-los-mejores-videojuegos-que-veremos-proximamente-nid13122024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Seg\u00fan m\u00faltiples rumores. </span>",
-                                "Desde este viernes Leo Messi ser\u00e1 un nuevo personaje de Fortnite"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/leo-messi-llega-a-fortnite-como-un-nuevo-personaje-lo-presentarian-manana-nid12122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/una-simulacion-de-como-podria-verse-un-skin-de-7PHDUF4235BETLJX2EHNMXGNEY.jpg?auth=43b34cffa11ea54c89c808eb82d24a11badbaa1dafacca9e6f40a27525b0a00c&width=300&height=200&quality=70&smart=true",
-                            "fecha": "12 de diciembre de 2024",
-                            "url_link": "/tecnologia/leo-messi-llega-a-fortnite-como-un-nuevo-personaje-lo-presentarian-manana-nid12122024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 12 de diciembre en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-12-de-diciembre-en-epic-games-solo-hay-que-nid12122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "12 de diciembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-12-de-diciembre-en-epic-games-solo-hay-que-nid12122024/"
                         }
                     ]
                 },
                 {
                     "nombre": "decrypt_tecnologia",
-                    "pagina": {
-                        "principal": {
-                            "titulo": "Sony Lanza Oficialmente Soneium Tras Atraer 14 Millones de Usuarios en Fase Beta",
-                            "url": "https://decrypt.co/es/301108/sony-lanza-oficialmente-soneium-tras-atraer-14-millones-de-usuarios-en-fase-beta",
-                            "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Sony-sign-atop-of-Sony-Interactive-Entertainment-SIE-headquarters-in-Silicon-Valley-San-Mateo-California-gID_7.jpg@webp",
-                            "descripcion": "Sony lanz\u00f3 oficialmente su plataforma de capa 2 de Ethereum, Soneium, tras un per\u00edodo de prueba que dur\u00f3 cuatro meses y atrajo a m\u00e1s de 14 millones de usuarios, anunci\u00f3 la compa\u00f1\u00eda el lunes.\nDesarrollada por la subsidiaria Sony Block Solutions Labs (Sony BSL), la plataforma est\u00e1 dise\u00f1ada para simplificar las interacciones blockchain para creadores y sus audiencias a trav\u00e9s de herramientas como sistemas de participaci\u00f3n de fans basados en NFT y un programa de incubaci\u00f3n llamado Soneium Spark.\nSu...",
-                            "fecha": "Jan 17, 2025"
-                        },
-                        "notas": {
-                            "cortas": [
-                                {
-                                    "titulo": "Investigador de Seguridad de Apple Desmiente Alarma Sobre Variante de Malware para Mac",
-                                    "url": "https://decrypt.co/es/301118/investigador-de-seguridad-de-apple-desmiente-alarma-sobre-variante-de-malware-para-mac",
-                                    "categoria": "Technology",
-                                    "fecha": "Jan 16, 2025",
-                                    "meta": "2 min lectura"
-                                },
-                                {
-                                    "titulo": "Cybertrucks de Tesla Proporcionan Wi-Fi Gratuito en Los \u00c1ngeles Tras Incendios Forestales",
-                                    "url": "https://decrypt.co/es/300866/los-cybertrucks-de-tesla-proporcionan-wi-fi-gratuito-en-los-angeles-tras-incendios-forestales",
-                                    "categoria": "Technology",
-                                    "fecha": "Jan 14, 2025",
-                                    "meta": "5 min lectura"
-                                },
-                                {
-                                    "titulo": "AiXBT: El Influencer de IA que Est\u00e1 Revolucionando el Ecosistema Cripto",
-                                    "url": "https://decrypt.co/es/299606/aixbt-el-influencer-de-ia-que-esta-revolucionando-el-ecosistema-cripto",
-                                    "categoria": "Technology",
-                                    "fecha": "Jan 4, 2025",
-                                    "meta": "6 min lectura"
-                                },
-                                {
-                                    "titulo": "Hackeos DeFi se han \"Convertido en un Trabajo de Tiempo Completo\": Fundador de ImmuneFi",
-                                    "url": "https://decrypt.co/es/295496/hackeos-defi-se-han-convertido-en-un-trabajo-de-tiempo-completo-fundador-de-immunefi",
-                                    "categoria": "Technology",
-                                    "fecha": "Dec 9, 2024",
-                                    "meta": "4 min lectura"
-                                },
-                                {
-                                    "titulo": "Supercomputador M\u00e1s R\u00e1pido del Mundo Ejecuta \u2018Proyecto Manhattan Virtual\u2019 Para Probar Armas Nucleares",
-                                    "url": "https://decrypt.co/es/293453/supercomputador-mas-rapido-del-mundo-ejecuta-proyecto-manhattan-virtual-para-probar-armas-nucleares",
-                                    "categoria": "Technology",
-                                    "fecha": "Nov 25, 2024",
-                                    "meta": "7 min lectura"
-                                },
-                                {
-                                    "titulo": "Apple Admite Vulnerabilidad Que Afecta a Usuarios Cripto\u2014\u00bfQu\u00e9 Debes Hacer?",
-                                    "url": "https://decrypt.co/es/293325/apple-admite-vulnerabilidad-que-afecta-a-usuarios-cripto-que-debes-hacer",
-                                    "categoria": "Technology",
-                                    "fecha": "Nov 24, 2024",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
-                                {
-                                    "titulo": "Armas Letales: El Misil Hipers\u00f3nico de Rusia es una Nueva M\u00e1quina de Matar",
-                                    "url": "https://decrypt.co/es/293308/armas-letales-el-misil-hipersonico-de-rusia-es-una-nueva-maquina-de-matar",
-                                    "categoria": "Technology",
-                                    "fecha": "Nov 24, 2024",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Ya sea un misil bal\u00edstico intercontinental de largo alcance, como se tem\u00eda originalmente, o un misil hipers\u00f3nico experimental de alcance intermedio, como se cree ahora, la guerra de Rusia con Ucrania dio otro paso hacia los temores de escalada nuclear.\nEl ataque de misiles rusos en la ciudad ucraniana de Dnipro parec\u00eda ser en represalia por los ataques de misiles en Rusia el martes despu\u00e9s de que la Administraci\u00f3n Biden autorizara a Ucrania a utilizar los Sistemas de Misiles T\u00e1cticos del Ej\u00e9rcit..."
-                                },
-                                {
-                                    "titulo": "Rally de Bitcoin Impulsa el Ascenso de Aplicaciones M\u00f3viles de Criptomonedas",
-                                    "url": "https://decrypt.co/es/292768/rally-de-bitcoin-impulsa-el-ascenso-de-aplicaciones-moviles-de-criptomonedas",
-                                    "categoria": "Technology",
-                                    "fecha": "Nov 21, 2024",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Las aplicaciones m\u00f3viles de criptomonedas han saltado hacia la cima de las clasificaciones de la App Store en medio de un aumento de precios de Bitcoin y otras criptomonedas, lo que ha resultado en un incremento significativo en la capitalizaci\u00f3n de mercado general de todas las monedas, superando los $3 billones a principios de esta semana.\nCoinbase lidera la carga, saltando del puesto #26 en el D\u00eda de las Elecciones al puesto #1 el viernes en la categor\u00eda de Finanzas Gratuitas de la App Store d..."
-                                },
-                                {
-                                    "titulo": "Peter Todd Niega Estar Oculto Tras Ser Se\u00f1alado Como Satoshi Nakamoto",
-                                    "url": "https://decrypt.co/es/288490/peter-todd-niega-estar-oculto-tras-ser-identificado-como-satoshi-nakamoto",
-                                    "categoria": "Technology",
-                                    "fecha": "Oct 27, 2024",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Este ha sido un mes lleno de acontecimientos para el desarrollador principal de Bitcoin Core, Peter Todd, quien recientemente fue acusado en un nuevo documental de HBO de ser el creador de Bitcoin, conocido como Satoshi Nakamoto.\nA pesar de negar en\u00e9rgicamente las afirmaciones, tanto en c\u00e1mara como fuera de ella, Todd le dijo a Decrypt el viernes que ser etiquetado p\u00fablicamente como el genio elusivo que posee $74.400 millones en Bitcoin lo ha obligado a protegerse a\u00fan m\u00e1s.\n\u201cHe tomado algunas med..."
-                                },
-                                {
-                                    "titulo": "Improbable, Desarrollador de Otherside de Bored Apes, Crear\u00e1 la Blockchain de Capa 1 Somnia",
-                                    "url": "https://decrypt.co/es/288479/improbable-desarrollador-de-otherside-de-bored-apes-creara-la-blockchain-de-capa-1-somnia",
-                                    "categoria": "Technology",
-                                    "fecha": "Oct 27, 2024",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "La starttup de tecnolog\u00eda gaming Improbable, ha anunciado planes para desarrollar su propia blockchain de capa 1, Somnia, la cual la empresa afirma procesar\u00e1 m\u00e1s de 400.000 transacciones por segundo.\nSomnia, que planea lanzarse en devnet en las pr\u00f3ximas semanas, ha \"resuelto el problema de escalabilidad que durante mucho tiempo ha obstaculizado la tecnolog\u00eda blockchain\", afirm\u00f3 Herman Narula, fundador y CEO de Improbable, en un comunicado. A\u00f1adi\u00f3 que la empresa aprovech\u00f3 su \"conocimiento de los..."
-                                },
-                                {
-                                    "titulo": "Descubre Estos Aud\u00edfonos Ecol\u00f3gicos de $20 Que Compiten Con Grandes Marcas",
-                                    "url": "https://decrypt.co/es/287852/descubre-estos-audifonos-ecologicos-de-20-que-compiten-con-grandes-marcas",
-                                    "categoria": "Technology",
-                                    "fecha": "Oct 23, 2024",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "La p\u00e9rdida de audici\u00f3n afecta a 2.500 millones de personas en todo el mundo, pero los aud\u00edfonos son caros y pueden variar de $1.000 a $8.000 por par, lo que los hace inaccesibles para muchos. La start-up con sede en Maryland, Quantum Senses, est\u00e1 tratando de resolver ese problema con su aud\u00edfono Earcoustic, que se vende por solo $20.\nJustin Lee, fundador y CEO de la empresa, advirti\u00f3 que el producto est\u00e1 dirigido a personas con una p\u00e9rdida de audici\u00f3n leve donde la electr\u00f3nica avanzada se consid..."
-                                }
-                            ]
-                        }
-                    }
+                    "pagina": "Error"
                 },
                 {
                     "nombre": "decrypt_ia",
-                    "pagina": {
-                        "principal": {
-                            "titulo": "Trump Revela Iniciativa Del Sector Privado de $500.000 Millones Para Impulsar la IA en EEUU",
-                            "url": "https://decrypt.co/es/302299/trump-revela-iniciativa-del-sector-privado-de-500-000-millones-para-impulsar-la-ia-en-eeuu",
-                            "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/trump-big-gID_7.png@webp",
-                            "descripcion": "El presidente Donald Trump revel\u00f3 el martes una iniciativa del sector privado de $500.000 millones para fortalecer la infraestructura de IA de EE. UU. e impulsar el crecimiento en el pa\u00eds.\nEl denominado Proyecto Stargate, llega un d\u00eda despu\u00e9s de que derogara una orden ejecutiva de la era Biden dirigida a regular los riesgos de la IA.\nLa nueva iniciativa de IA incluir\u00e1 a varios desarrolladores l\u00edderes de IA, incluyendo a OpenAI, creadora de ChatGPT, Oracle y el conglomerado japon\u00e9s SoftBank. Otra...",
-                            "fecha": "Jan 22, 2025"
-                        },
-                        "notas": {
-                            "cortas": [
-                                {
-                                    "titulo": "Me Un\u00ed a la Alternativa China de TikTok \"RedNote\", y Viv\u00ed Para Arrepentirme",
-                                    "url": "https://decrypt.co/es/301823/me-uni-a-la-alternativa-china-de-tiktok-rednote-y-vivi-para-arrepentirme",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 20, 2025",
-                                    "meta": "6 min lectura"
-                                },
-                                {
-                                    "titulo": "Torneo de Ajedrez Entre Chatbots de IA Termina en Desastre: Rey se Come su Alfil y Luego lo Revive",
-                                    "url": "https://decrypt.co/es/301420/torneo-de-ajedrez-entre-chatbots-de-ia-termina-en-desastre-rey-se-come-su-alfil-y-luego-lo-revive",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 20, 2025",
-                                    "meta": "9 min lectura"
-                                },
-                                {
-                                    "titulo": "C\u00f3mo Los Criminales Utilizaron ChatGPT y Meta AI Para Planificar Ataques Terroristas en EEUU",
-                                    "url": "https://decrypt.co/es/301049/como-los-criminales-utilizaron-chatgpt-y-meta-ai-para-planificar-ataques-terroristas-en-eeuu",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 16, 2025",
-                                    "meta": "5 min lectura"
-                                },
-                                {
-                                    "titulo": "Este \"Modelo de Razonamiento\" de IA Gratuito Supera al o1 de OpenAI Evitando Mensualidad de $20",
-                                    "url": "https://decrypt.co/es/301022/este-modelo-de-razonamiento-de-ia-gratuito-supera-al-o1-de-openai-evitando-pago-mensual-de-20",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 15, 2025",
-                                    "meta": "5 min lectura"
-                                },
-                                {
-                                    "titulo": "EEUU Endurece Restricciones de Exportaci\u00f3n de Chips de IA, Antes de la Toma de Posesi\u00f3n de Trump",
-                                    "url": "https://decrypt.co/es/301121/eeuu-endurece-restricciones-de-exportacion-de-chips-de-ia-antes-de-la-toma-de-posesion-de-trump",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 15, 2025",
-                                    "meta": "3 min lectura"
-                                },
-                                {
-                                    "titulo": "Bomberos de California Utilizan IA para Combatir las Crecientes Amenazas de Incendios Forestales",
-                                    "url": "https://decrypt.co/es/300859/bomberos-de-california-utilizan-ia-para-combatir-las-crecientes-amenazas-de-incendios-forestales",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 14, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
-                                {
-                                    "titulo": "Illustrious: El modelo de IA que Quiere Dominar la Generaci\u00f3n de Arte de Anime",
-                                    "url": "https://decrypt.co/es/300817/illustrious-el-modelo-de-ia-que-quiere-dominar-la-generacion-de-arte-de-anime",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 14, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Illustrious, un modelo de texto a imagen basado en Stable Diffusion XL, se ha vuelto tan dominante en la comunidad de arte de IA que Civitai, el mayor centro de modelos de arte de IA, tuvo que crear una categor\u00eda separada solo para manejar su enorme ecosistema de recursos.\nY todo sucedi\u00f3 en tres meses. \u00bfEl secreto detr\u00e1s de su \u00e9xito? Un regreso a lo b\u00e1sico con un giro.\nMientras que modelos m\u00e1s nuevos como SD 3.5 y Flux se basan en prompts largos de lenguaje natural, Onoma AI, los desarrolladores..."
-                                },
-                                {
-                                    "titulo": "Los Agentes de IA Est\u00e1n Recibiendo Vaginas Artificiales\u2014Ya Sabes Lo Que Viene Despu\u00e9s",
-                                    "url": "https://decrypt.co/es/300813/los-agentes-de-ia-estan-recibiendo-vaginas-artificiales-ya-sabes-lo-que-viene-despues",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 14, 2025",
-                                    "meta": "7 min lectura",
-                                    "descripcion": "A principios de este mes, Shaw, el creador an\u00f3nimo del popular agente de inteligencia artificial conocido como Eliza, ofreci\u00f3 una subvenci\u00f3n de $1.000 a cualquiera que pudiera hacer posible tener relaciones sexuales con un bot de IA.\nAhora, Bry.ai, un desarrollador con sede en Las Vegas que se describe a s\u00ed mismo como un \"constructor de robots sexuales\" y un \"ginec\u00f3logo de robots\", ha dado un paso adelante para reclamar el premio. En el camino, ha ganado m\u00e1s de $70.000 de hombres que desean apoy..."
-                                },
-                                {
-                                    "titulo": "Midjourney se Acerca a Una 'Renovaci\u00f3n Completa', Planea Funciones de Video",
-                                    "url": "https://decrypt.co/es/300588/midjourney-se-acerca-a-una-renovacion-completa-planea-funciones-de-video",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 13, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Midjourney est\u00e1 en las etapas finales de prueba de V7, una actualizaci\u00f3n significativa que reconstruye casi todas las partes del sistema del generador de im\u00e1genes de IA.\nDurante la sesi\u00f3n de office hours de esta semana, los desarrolladores explicaron que V7 presenta una nueva arquitectura, diferentes conjuntos de datos y enfoques revisados de procesamiento de lenguaje.\nLas pruebas internas podr\u00edan tomar de una semana a un mes, seguidas de una fase de ajuste de dos semanas y un potencial per\u00edodo..."
-                                },
-                                {
-                                    "titulo": "Los Angeles Est\u00e1 Ardiendo\u2014Y Los Deepfakes de IA Est\u00e1n Alimentando la Desinformaci\u00f3n",
-                                    "url": "https://decrypt.co/es/300593/los-angeles-esta-ardiendo-y-los-deepfakes-de-ia-estan-alimentando-la-desinformacion",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 13, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Mientras los bomberos continuaban combatiendo los incendios forestales en Los \u00c1ngeles, otra amenaza afecta los esfuerzos de recuperaci\u00f3n: los deepfakes generados por IA.\nEl mi\u00e9rcoles, comenzaron a circular im\u00e1genes en X (anteriormente Twitter) que mostraban el ic\u00f3nico letrero de Hollywood envuelto en llamas mientras el fuego arrasaba Mount Lee. Sin embargo, estas im\u00e1genes fueron completamente fabricadas utilizando herramientas de inteligencia artificial generativa.\nDespu\u00e9s de las im\u00e1genes del le..."
-                                },
-                                {
-                                    "titulo": "Esc\u00e1ndalo de Pornograf\u00eda Escolar Usando IA Sacude Escuela Secundaria en S\u00eddney, Australia",
-                                    "url": "https://decrypt.co/es/300271/escandalo-de-pornografia-escolar-usando-ia-sacude-escuela-secundaria-en-sidney-australia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 9, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Un estudiante de secundaria en S\u00eddney, Australia, enfrenta una investigaci\u00f3n policial y acciones disciplinarias despu\u00e9s de presuntamente usar inteligencia artificial para crear im\u00e1genes deepfake pornogr\u00e1ficas de sus compa\u00f1eras de clase, marcando uno de los primeros incidentes importantes relacionados con la IA en un entorno educativo en Australia.\nUn deepfake es una imagen falsa generada mediante algoritmos de deep learning. Es altamente realista y, dependiendo de la calidad, dif\u00edcil de diferenc..."
-                                }
-                            ]
-                        }
-                    }
+                    "pagina": "Error File"
                 },
                 {
                     "nombre": "elnacional_tecnologia",
@@ -13200,6 +13009,22 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/353A8193-scaled.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "El millonario proyecto que busca impulsar el desarrollo de inteligencia artificial desde EE UU",
+                                "url": "https://www.elnacional.com/tecnologia/el-millonario-proyecto-que-busca-impulsar-el-desarrollo-de-inteligencia-artificial-desde-ee-uu/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/stargate-project.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 25, 2025",
+                                "extra": "La r\u00e1pida adopci\u00f3n de la inteligencia artificial y el constante desarrollo de esta tecnolog\u00eda trae consigo varios retos a superar.\u2026"
+                            },
+                            {
+                                "titulo": "Samsung Galaxy S25 Ultra, m\u00e1s que un smartphone",
+                                "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-s25-ultra-un-smartphone-que-lo-tiene-todo/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/20250121_220512-scaled.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 24, 2025",
+                                "extra": "Sus caracter\u00edsticas redefinen los l\u00edmites de lo posible. Algo que qued\u00f3 claro tras su lanzamiento este mi\u00e9rcoles 22 de enero\u2026"
+                            },
                             {
                                 "titulo": "WhatsApp dejar\u00e1 de estar disponible en estos celulares a partir de febrero",
                                 "url": "https://www.elnacional.com/tecnologia/whatsapp-no-funcionara-en-estos-celulares-a-partir-de-febrero/",
@@ -13263,22 +13088,6 @@
                                 "meta": "GAMERS",
                                 "fecha": "enero 16, 2025",
                                 "extra": "La multinacional japonesa Nintendo present\u00f3 su pr\u00f3ximo Nintendo Switch 2, programado para salir en el a\u00f1o corriente. La consola, tienta\u2026"
-                            },
-                            {
-                                "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
-                                "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "enero 16, 2025",
-                                "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
-                            },
-                            {
-                                "titulo": "Meta aclara a Brasil que por el momento solo cerrar\u00e1 su programa de verificaci\u00f3n en EE UU",
-                                "url": "https://www.elnacional.com/tecnologia/meta-aclara-a-brasil-que-por-el-momento-solo-cerrara-su-programa-de-verificacion-en-ee-uu/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Estara-permitido-pedir-la-limitacion-de-acceso-a-los-banos-de-las-personas-transexuales-catalogar-a-las-mujeres-como-objetos-del-hogar-Foto-Archivo.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 14, 2025",
-                                "extra": "Meta, due\u00f1o de Facebook, Instagram y Whatsapp, aclar\u00f3 al gobierno de Brasil que, \u00abpor ahora\u00bb, est\u00e1 cerrando su programa de\u2026"
                             }
                         ]
                     }
@@ -13287,13 +13096,21 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Samsung Unpacked 2025: serie Galaxy S25, m\u00e1s que m\u00f3viles, asistentes personales",
-                            "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-ia-como-un-asistente-personal/",
+                            "titulo": "Samsung Galaxy S25 Ultra, m\u00e1s que un smartphone",
+                            "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-s25-ultra-un-smartphone-que-lo-tiene-todo/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "enero 22, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/353A8193-scaled.jpg"
+                            "fecha": "enero 24, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/20250121_220512-scaled.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Samsung Unpacked 2025: serie Galaxy S25, m\u00e1s que m\u00f3viles, asistentes personales",
+                                "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-ia-como-un-asistente-personal/",
+                                "imagen": null,
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 22, 2025",
+                                "extra": "Este mi\u00e9rcoles 22 de enero, el pabell\u00f3n deportivo SAP Center de la ciudad estadounidense San Jos\u00e9, en California (tambi\u00e9n conocido\u2026"
+                            },
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
@@ -13365,14 +13182,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 8, 2024",
                                 "extra": "Un retrato del matem\u00e1tico ingl\u00e9s Alan Turing se convirti\u00f3 el jueves en la primera obra de arte realizada por un\u2026"
-                            },
-                            {
-                                "titulo": "Incremento de im\u00e1genes de abuso sexual infantil creadas con IA preocupa a la ONU",
-                                "url": "https://www.elnacional.com/tecnologia/ia-imagenes-de-abuso-sexual-infantil-preocupa-a-la-onu/",
-                                "imagen": null,
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "noviembre 4, 2024",
-                                "extra": "La enorme cantidad de im\u00e1genes de abuso sexual infantil creadas con inteligencia artificial (IA) amenaza con desbordar la capacidad policial\u2026"
                             }
                         ]
                     }
