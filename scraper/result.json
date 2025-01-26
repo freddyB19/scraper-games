@@ -12992,11 +12992,205 @@
                 },
                 {
                     "nombre": "decrypt_tecnologia",
-                    "pagina": "Error"
+                    "pagina": {
+                        "principal": {
+                            "titulo": "Sony Lanza Oficialmente Soneium Tras Atraer 14 Millones de Usuarios en Fase Beta",
+                            "url": "https://decrypt.co/es/301108/sony-lanza-oficialmente-soneium-tras-atraer-14-millones-de-usuarios-en-fase-beta",
+                            "categoria": "Technology",
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Sony-sign-atop-of-Sony-Interactive-Entertainment-SIE-headquarters-in-Silicon-Valley-San-Mateo-California-gID_7.jpg@webp",
+                            "descripcion": "Sony lanz\u00f3 oficialmente su plataforma de capa 2 de Ethereum, Soneium, tras un per\u00edodo de prueba que dur\u00f3 cuatro meses y atrajo a m\u00e1s de 14 millones de usuarios, anunci\u00f3 la compa\u00f1\u00eda el lunes.\nDesarrollada por la subsidiaria Sony Block Solutions Labs (Sony BSL), la plataforma est\u00e1 dise\u00f1ada para simplificar las interacciones blockchain para creadores y sus audiencias a trav\u00e9s de herramientas como sistemas de participaci\u00f3n de fans basados en NFT y un programa de incubaci\u00f3n llamado Soneium Spark.\nSu...",
+                            "fecha": "Jan 17, 2025"
+                        },
+                        "notas": {
+                            "cortas": [
+                                {
+                                    "titulo": "Investigador de Seguridad de Apple Desmiente Alarma Sobre Variante de Malware para Mac",
+                                    "url": "https://decrypt.co/es/301118/investigador-de-seguridad-de-apple-desmiente-alarma-sobre-variante-de-malware-para-mac",
+                                    "categoria": "Technology",
+                                    "fecha": "Jan 16, 2025",
+                                    "meta": "2 min lectura"
+                                },
+                                {
+                                    "titulo": "Cybertrucks de Tesla Proporcionan Wi-Fi Gratuito en Los \u00c1ngeles Tras Incendios Forestales",
+                                    "url": "https://decrypt.co/es/300866/los-cybertrucks-de-tesla-proporcionan-wi-fi-gratuito-en-los-angeles-tras-incendios-forestales",
+                                    "categoria": "Technology",
+                                    "fecha": "Jan 14, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "AiXBT: El Influencer de IA que Est\u00e1 Revolucionando el Ecosistema Cripto",
+                                    "url": "https://decrypt.co/es/299606/aixbt-el-influencer-de-ia-que-esta-revolucionando-el-ecosistema-cripto",
+                                    "categoria": "Technology",
+                                    "fecha": "Jan 4, 2025",
+                                    "meta": "6 min lectura"
+                                },
+                                {
+                                    "titulo": "Hackeos DeFi se han \"Convertido en un Trabajo de Tiempo Completo\": Fundador de ImmuneFi",
+                                    "url": "https://decrypt.co/es/295496/hackeos-defi-se-han-convertido-en-un-trabajo-de-tiempo-completo-fundador-de-immunefi",
+                                    "categoria": "Technology",
+                                    "fecha": "Dec 9, 2024",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "Supercomputador M\u00e1s R\u00e1pido del Mundo Ejecuta \u2018Proyecto Manhattan Virtual\u2019 Para Probar Armas Nucleares",
+                                    "url": "https://decrypt.co/es/293453/supercomputador-mas-rapido-del-mundo-ejecuta-proyecto-manhattan-virtual-para-probar-armas-nucleares",
+                                    "categoria": "Technology",
+                                    "fecha": "Nov 25, 2024",
+                                    "meta": "7 min lectura"
+                                },
+                                {
+                                    "titulo": "Apple Admite Vulnerabilidad Que Afecta a Usuarios Cripto\u2014\u00bfQu\u00e9 Debes Hacer?",
+                                    "url": "https://decrypt.co/es/293325/apple-admite-vulnerabilidad-que-afecta-a-usuarios-cripto-que-debes-hacer",
+                                    "categoria": "Technology",
+                                    "fecha": "Nov 24, 2024",
+                                    "meta": "3 min lectura"
+                                }
+                            ],
+                            "extensas": [
+                                {
+                                    "titulo": "Armas Letales: El Misil Hipers\u00f3nico de Rusia es una Nueva M\u00e1quina de Matar",
+                                    "url": "https://decrypt.co/es/293308/armas-letales-el-misil-hipersonico-de-rusia-es-una-nueva-maquina-de-matar",
+                                    "categoria": "Technology",
+                                    "fecha": "Nov 24, 2024",
+                                    "meta": "6 min lectura",
+                                    "descripcion": "Ya sea un misil bal\u00edstico intercontinental de largo alcance, como se tem\u00eda originalmente, o un misil hipers\u00f3nico experimental de alcance intermedio, como se cree ahora, la guerra de Rusia con Ucrania dio otro paso hacia los temores de escalada nuclear.\nEl ataque de misiles rusos en la ciudad ucraniana de Dnipro parec\u00eda ser en represalia por los ataques de misiles en Rusia el martes despu\u00e9s de que la Administraci\u00f3n Biden autorizara a Ucrania a utilizar los Sistemas de Misiles T\u00e1cticos del Ej\u00e9rcit..."
+                                },
+                                {
+                                    "titulo": "Rally de Bitcoin Impulsa el Ascenso de Aplicaciones M\u00f3viles de Criptomonedas",
+                                    "url": "https://decrypt.co/es/292768/rally-de-bitcoin-impulsa-el-ascenso-de-aplicaciones-moviles-de-criptomonedas",
+                                    "categoria": "Technology",
+                                    "fecha": "Nov 21, 2024",
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Las aplicaciones m\u00f3viles de criptomonedas han saltado hacia la cima de las clasificaciones de la App Store en medio de un aumento de precios de Bitcoin y otras criptomonedas, lo que ha resultado en un incremento significativo en la capitalizaci\u00f3n de mercado general de todas las monedas, superando los $3 billones a principios de esta semana.\nCoinbase lidera la carga, saltando del puesto #26 en el D\u00eda de las Elecciones al puesto #1 el viernes en la categor\u00eda de Finanzas Gratuitas de la App Store d..."
+                                },
+                                {
+                                    "titulo": "Peter Todd Niega Estar Oculto Tras Ser Se\u00f1alado Como Satoshi Nakamoto",
+                                    "url": "https://decrypt.co/es/288490/peter-todd-niega-estar-oculto-tras-ser-identificado-como-satoshi-nakamoto",
+                                    "categoria": "Technology",
+                                    "fecha": "Oct 27, 2024",
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Este ha sido un mes lleno de acontecimientos para el desarrollador principal de Bitcoin Core, Peter Todd, quien recientemente fue acusado en un nuevo documental de HBO de ser el creador de Bitcoin, conocido como Satoshi Nakamoto.\nA pesar de negar en\u00e9rgicamente las afirmaciones, tanto en c\u00e1mara como fuera de ella, Todd le dijo a Decrypt el viernes que ser etiquetado p\u00fablicamente como el genio elusivo que posee $74.400 millones en Bitcoin lo ha obligado a protegerse a\u00fan m\u00e1s.\n\u201cHe tomado algunas med..."
+                                },
+                                {
+                                    "titulo": "Improbable, Desarrollador de Otherside de Bored Apes, Crear\u00e1 la Blockchain de Capa 1 Somnia",
+                                    "url": "https://decrypt.co/es/288479/improbable-desarrollador-de-otherside-de-bored-apes-creara-la-blockchain-de-capa-1-somnia",
+                                    "categoria": "Technology",
+                                    "fecha": "Oct 27, 2024",
+                                    "meta": "3 min lectura",
+                                    "descripcion": "La starttup de tecnolog\u00eda gaming Improbable, ha anunciado planes para desarrollar su propia blockchain de capa 1, Somnia, la cual la empresa afirma procesar\u00e1 m\u00e1s de 400.000 transacciones por segundo.\nSomnia, que planea lanzarse en devnet en las pr\u00f3ximas semanas, ha \"resuelto el problema de escalabilidad que durante mucho tiempo ha obstaculizado la tecnolog\u00eda blockchain\", afirm\u00f3 Herman Narula, fundador y CEO de Improbable, en un comunicado. A\u00f1adi\u00f3 que la empresa aprovech\u00f3 su \"conocimiento de los..."
+                                },
+                                {
+                                    "titulo": "Descubre Estos Aud\u00edfonos Ecol\u00f3gicos de $20 Que Compiten Con Grandes Marcas",
+                                    "url": "https://decrypt.co/es/287852/descubre-estos-audifonos-ecologicos-de-20-que-compiten-con-grandes-marcas",
+                                    "categoria": "Technology",
+                                    "fecha": "Oct 23, 2024",
+                                    "meta": "3 min lectura",
+                                    "descripcion": "La p\u00e9rdida de audici\u00f3n afecta a 2.500 millones de personas en todo el mundo, pero los aud\u00edfonos son caros y pueden variar de $1.000 a $8.000 por par, lo que los hace inaccesibles para muchos. La start-up con sede en Maryland, Quantum Senses, est\u00e1 tratando de resolver ese problema con su aud\u00edfono Earcoustic, que se vende por solo $20.\nJustin Lee, fundador y CEO de la empresa, advirti\u00f3 que el producto est\u00e1 dirigido a personas con una p\u00e9rdida de audici\u00f3n leve donde la electr\u00f3nica avanzada se consid..."
+                                }
+                            ]
+                        }
+                    }
                 },
                 {
                     "nombre": "decrypt_ia",
-                    "pagina": "Error File"
+                    "pagina": {
+                        "principal": {
+                            "titulo": "Hombre de 69 A\u00f1os con Par\u00e1lisis Lograr Controlar un Dron Virtual Con su Mente",
+                            "url": "https://decrypt.co/es/302503/hombre-de-69-anos-con-paralisis-lograr-controlar-un-dron-virtual-con-su-mente",
+                            "categoria": "Artificial Intelligence",
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/ai-brain-chip-mind-gID_7.jpg@webp",
+                            "descripcion": "Un hombre de 69 a\u00f1os con par\u00e1lisis y un implante cerebral logr\u00f3 pilotar un dron virtual a trav\u00e9s de complejos circuitos de obst\u00e1culos mientras pensaba en mover sus dedos, gracias a un dispositivo experimental desarrollado por investigadores de la Universidad de Stanford.\nEl participante, que tiene cuadriplej\u00eda por una lesi\u00f3n de m\u00e9dula espinal C4, naveg\u00f3 por circuitos de obst\u00e1culos y patrones de vuelo aleatorios utilizando se\u00f1ales neuronales de dos peque\u00f1os arrays de electrodos implantados en su...",
+                            "fecha": "Jan 25, 2025"
+                        },
+                        "notas": {
+                            "cortas": [
+                                {
+                                    "titulo": "Trump Revela Iniciativa Del Sector Privado de $500.000 Millones Para Impulsar la IA en EEUU",
+                                    "url": "https://decrypt.co/es/302299/trump-revela-iniciativa-del-sector-privado-de-500-000-millones-para-impulsar-la-ia-en-eeuu",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 22, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Me Un\u00ed a la Alternativa China de TikTok \"RedNote\", y Viv\u00ed Para Arrepentirme",
+                                    "url": "https://decrypt.co/es/301823/me-uni-a-la-alternativa-china-de-tiktok-rednote-y-vivi-para-arrepentirme",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 20, 2025",
+                                    "meta": "6 min lectura"
+                                },
+                                {
+                                    "titulo": "Torneo de Ajedrez Entre Chatbots de IA Termina en Desastre: Rey se Come su Alfil y Luego lo Revive",
+                                    "url": "https://decrypt.co/es/301420/torneo-de-ajedrez-entre-chatbots-de-ia-termina-en-desastre-rey-se-come-su-alfil-y-luego-lo-revive",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 20, 2025",
+                                    "meta": "9 min lectura"
+                                },
+                                {
+                                    "titulo": "C\u00f3mo Los Criminales Utilizaron ChatGPT y Meta AI Para Planificar Ataques Terroristas en EEUU",
+                                    "url": "https://decrypt.co/es/301049/como-los-criminales-utilizaron-chatgpt-y-meta-ai-para-planificar-ataques-terroristas-en-eeuu",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 16, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "Este \"Modelo de Razonamiento\" de IA Gratuito Supera al o1 de OpenAI Evitando Mensualidad de $20",
+                                    "url": "https://decrypt.co/es/301022/este-modelo-de-razonamiento-de-ia-gratuito-supera-al-o1-de-openai-evitando-pago-mensual-de-20",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 15, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "EEUU Endurece Restricciones de Exportaci\u00f3n de Chips de IA, Antes de la Toma de Posesi\u00f3n de Trump",
+                                    "url": "https://decrypt.co/es/301121/eeuu-endurece-restricciones-de-exportacion-de-chips-de-ia-antes-de-la-toma-de-posesion-de-trump",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 15, 2025",
+                                    "meta": "3 min lectura"
+                                }
+                            ],
+                            "extensas": [
+                                {
+                                    "titulo": "Bomberos de California Utilizan IA para Combatir las Crecientes Amenazas de Incendios Forestales",
+                                    "url": "https://decrypt.co/es/300859/bomberos-de-california-utilizan-ia-para-combatir-las-crecientes-amenazas-de-incendios-forestales",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 14, 2025",
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Los incendios forestales en el sur de California son cada vez m\u00e1s intensos e impredecibles, empujando a los bomberos a adoptar tecnolog\u00eda de vanguardia para mantenerse adelante.\nLa creciente imprevisibilidad de los incendios forestales se demostr\u00f3 el martes pasado cuando una tormenta de viento provoc\u00f3 varios incendios en toda el \u00e1rea de Los \u00c1ngeles, incluyendo las estribaciones de Pacific Palisades y el \u00e1rea de Eaton Canyon cerca de Altadena, CA, al norte de Pasadena.\nM\u00e1s de 26.000 acres estuvie..."
+                                },
+                                {
+                                    "titulo": "Illustrious: El modelo de IA que Quiere Dominar la Generaci\u00f3n de Arte de Anime",
+                                    "url": "https://decrypt.co/es/300817/illustrious-el-modelo-de-ia-que-quiere-dominar-la-generacion-de-arte-de-anime",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 14, 2025",
+                                    "meta": "6 min lectura",
+                                    "descripcion": "Illustrious, un modelo de texto a imagen basado en Stable Diffusion XL, se ha vuelto tan dominante en la comunidad de arte de IA que Civitai, el mayor centro de modelos de arte de IA, tuvo que crear una categor\u00eda separada solo para manejar su enorme ecosistema de recursos.\nY todo sucedi\u00f3 en tres meses. \u00bfEl secreto detr\u00e1s de su \u00e9xito? Un regreso a lo b\u00e1sico con un giro.\nMientras que modelos m\u00e1s nuevos como SD 3.5 y Flux se basan en prompts largos de lenguaje natural, Onoma AI, los desarrolladores..."
+                                },
+                                {
+                                    "titulo": "Los Agentes de IA Est\u00e1n Recibiendo Vaginas Artificiales\u2014Ya Sabes Lo Que Viene Despu\u00e9s",
+                                    "url": "https://decrypt.co/es/300813/los-agentes-de-ia-estan-recibiendo-vaginas-artificiales-ya-sabes-lo-que-viene-despues",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 14, 2025",
+                                    "meta": "7 min lectura",
+                                    "descripcion": "A principios de este mes, Shaw, el creador an\u00f3nimo del popular agente de inteligencia artificial conocido como Eliza, ofreci\u00f3 una subvenci\u00f3n de $1.000 a cualquiera que pudiera hacer posible tener relaciones sexuales con un bot de IA.\nAhora, Bry.ai, un desarrollador con sede en Las Vegas que se describe a s\u00ed mismo como un \"constructor de robots sexuales\" y un \"ginec\u00f3logo de robots\", ha dado un paso adelante para reclamar el premio. En el camino, ha ganado m\u00e1s de $70.000 de hombres que desean apoy..."
+                                },
+                                {
+                                    "titulo": "Midjourney se Acerca a Una 'Renovaci\u00f3n Completa', Planea Funciones de Video",
+                                    "url": "https://decrypt.co/es/300588/midjourney-se-acerca-a-una-renovacion-completa-planea-funciones-de-video",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 13, 2025",
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Midjourney est\u00e1 en las etapas finales de prueba de V7, una actualizaci\u00f3n significativa que reconstruye casi todas las partes del sistema del generador de im\u00e1genes de IA.\nDurante la sesi\u00f3n de office hours de esta semana, los desarrolladores explicaron que V7 presenta una nueva arquitectura, diferentes conjuntos de datos y enfoques revisados de procesamiento de lenguaje.\nLas pruebas internas podr\u00edan tomar de una semana a un mes, seguidas de una fase de ajuste de dos semanas y un potencial per\u00edodo..."
+                                },
+                                {
+                                    "titulo": "Los Angeles Est\u00e1 Ardiendo\u2014Y Los Deepfakes de IA Est\u00e1n Alimentando la Desinformaci\u00f3n",
+                                    "url": "https://decrypt.co/es/300593/los-angeles-esta-ardiendo-y-los-deepfakes-de-ia-estan-alimentando-la-desinformacion",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 13, 2025",
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Mientras los bomberos continuaban combatiendo los incendios forestales en Los \u00c1ngeles, otra amenaza afecta los esfuerzos de recuperaci\u00f3n: los deepfakes generados por IA.\nEl mi\u00e9rcoles, comenzaron a circular im\u00e1genes en X (anteriormente Twitter) que mostraban el ic\u00f3nico letrero de Hollywood envuelto en llamas mientras el fuego arrasaba Mount Lee. Sin embargo, estas im\u00e1genes fueron completamente fabricadas utilizando herramientas de inteligencia artificial generativa.\nDespu\u00e9s de las im\u00e1genes del le..."
+                                }
+                            ]
+                        }
+                    }
                 },
                 {
                     "nombre": "elnacional_tecnologia",
@@ -13009,6 +13203,14 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/353A8193-scaled.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "C\u00f3mo la tecnolog\u00eda puede aplicarse para alertar sobre desastres naturales",
+                                "url": "https://www.elnacional.com/tecnologia/como-la-tecnologia-puede-aplicarse-para-alertar-sobre-desastres-naturales/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/desastres-naturales.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 25, 2025",
+                                "extra": "Una inundaci\u00f3n o un terremoto pueden obligar a evacuaciones masivas en poco tiempo. Los incendios pueden destruir viviendas y otras\u2026"
+                            },
                             {
                                 "titulo": "El millonario proyecto que busca impulsar el desarrollo de inteligencia artificial desde EE UU",
                                 "url": "https://www.elnacional.com/tecnologia/el-millonario-proyecto-que-busca-impulsar-el-desarrollo-de-inteligencia-artificial-desde-ee-uu/",
@@ -13080,14 +13282,6 @@
                                 "meta": "APP",
                                 "fecha": "enero 19, 2025",
                                 "extra": "El covid fue el catalizador. Y cinco a\u00f1os despu\u00e9s de una de las peores pandemias registradas, estad\u00edsticas y expertos apuntan\u2026"
-                            },
-                            {
-                                "titulo": "Nintendo Switch 2, se revela oficialmente su lanzamiento",
-                                "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-se-revela-oficialmente-su-lanzamiento/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/nintendo.jpeg",
-                                "meta": "GAMERS",
-                                "fecha": "enero 16, 2025",
-                                "extra": "La multinacional japonesa Nintendo present\u00f3 su pr\u00f3ximo Nintendo Switch 2, programado para salir en el a\u00f1o corriente. La consola, tienta\u2026"
                             }
                         ]
                     }
@@ -13106,7 +13300,7 @@
                             {
                                 "titulo": "Samsung Unpacked 2025: serie Galaxy S25, m\u00e1s que m\u00f3viles, asistentes personales",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-ia-como-un-asistente-personal/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/353A8193-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 22, 2025",
                                 "extra": "Este mi\u00e9rcoles 22 de enero, el pabell\u00f3n deportivo SAP Center de la ciudad estadounidense San Jos\u00e9, en California (tambi\u00e9n conocido\u2026"
@@ -13114,7 +13308,7 @@
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 16, 2025",
                                 "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
@@ -13122,7 +13316,7 @@
                             {
                                 "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 14, 2025",
                                 "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
@@ -13130,7 +13324,7 @@
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
@@ -13138,7 +13332,7 @@
                             {
                                 "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
@@ -13154,7 +13348,7 @@
                             {
                                 "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
                                 "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 20, 2024",
                                 "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
@@ -13162,7 +13356,7 @@
                             {
                                 "titulo": "Reddit revoluciona la experiencia de b\u00fasqueda con tecnolog\u00eda de IA",
                                 "url": "https://www.elnacional.com/tecnologia/reddit-revoluciona-la-experiencia-de-busqueda-con-tecnologia-de-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/08/Reddit-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 9, 2024",
                                 "extra": "La plataforma Reddit anunci\u00f3 el lanzamiento de una innovadora herramienta de b\u00fasqueda llamada Reddit Answers, basada en inteligencia artificial (IA),\u2026"
@@ -13170,7 +13364,7 @@
                             {
                                 "titulo": "All Music Works, el primer sello discogr\u00e1fico de artistas creados con IA",
                                 "url": "https://www.elnacional.com/tecnologia/all-music-works-el-primer-sello-discografico-de-artistas-creados-con-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/All-Music-Works.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 22, 2024",
                                 "extra": "La empresa All Music Works (AMW) se present\u00f3 este jueves como la primera discogr\u00e1fica de Espa\u00f1a, \u00aby en el mundo\u2026"
@@ -13178,7 +13372,7 @@
                             {
                                 "titulo": "A.I. God: obra hecha por robot humanoide se subasta por m\u00e1s de 1 mill\u00f3n de d\u00f3lares",
                                 "url": "https://www.elnacional.com/tecnologia/obra-hecha-por-robot-es-subastada-en-1-millon-de-dolares/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/A.I.-God-obra-de-la-robot-ultrarrealista-Ai-Da-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 8, 2024",
                                 "extra": "Un retrato del matem\u00e1tico ingl\u00e9s Alan Turing se convirti\u00f3 el jueves en la primera obra de arte realizada por un\u2026"
