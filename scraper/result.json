@@ -12406,6 +12406,27 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Los Simpson dicen adi\u00f3s a una era: nos despedimos de uno de sus videojuegos m\u00e1s legendarios",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/27/679773fd268e3e0b318b458e.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/27/17379789665232.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "De la colaboraci\u00f3n con Stan Lee al doblaje de Tobey Maguire: Spider-Man, m\u00e1s que un h\u00e9roe de videojuego",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/27/679760da268e3ee1208b457f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/27/17379750427373.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Esta tienda ya te deja reservar Nintendo Switch 2 a un precio muy inferior al esperado",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/27/679768a6268e3ec5438b4583.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/27/17379759675750.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Nintendo Switch nos 'regala' por menos de 6 euros este incre\u00edble juego de carreras de coches\u00a0en\u00a0la\u00a0eShop",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/25/6793f81c268e3e22378b45b2.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/24/17377496549106.jpg",
@@ -12733,27 +12754,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/14/17368460901709.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "La Nintendo Switch 2 ya podr\u00eda tener fecha de presentaci\u00f3n y va a ser esta misma semana",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/13/6785655546163f9c9f8b45af.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367939443872.jpg",
-                            "meta": "Nintendo",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "\"Hemos sido enga\u00f1ados\". La r\u00e9plica de Nintendo Switch 2 que todos hemos visto es falsa",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/13/67850bad46163ff9b18b457d.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367727675616.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"No son oficiales\", Nintendo por fin se habr\u00eda pronunciado con Switch 2 y sus filtraciones, pero sabe a poco",
-                            "url": "https://www.marca.com/videojuegos/hardware/2025/01/13/6785093d46163f58808b4589.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/13/17367718957984.jpg",
-                            "meta": "Hardware, software y consolas",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12761,12 +12761,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 26 de enero",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-26-de-enero-nid27012025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "27 de enero de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-26-de-enero-nid27012025/"
+                        },
+                        {
                             "titulo": [
                                 "<span class=\"com-lead\">Para PC y consola.  </span>",
                                 "Estos son los mejores juegos gratis para las vacaciones"
                             ],
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-mejores-juegos-gratis-para-las-vacaciones-nid24012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/un-repaso-por-los-mejores-juegos-gratis-para-AGMT4DNDAZFRZIDPIMBVLVVZYQ.jpeg?auth=d04082cfe70e3e3d3f012482ef01a7963c45c873598590dd496cd260af7c76cb&width=300&height=200&quality=70&smart=false&focal=1091,1338",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/un-repaso-por-los-mejores-juegos-gratis-para-AGMT4DNDAZFRZIDPIMBVLVVZYQ.jpeg?auth=d04082cfe70e3e3d3f012482ef01a7963c45c873598590dd496cd260af7c76cb&width=300&height=200&quality=70&smart=false&focal=1091,1338",
                             "fecha": "24 de enero de 2025",
                             "url_link": "/tecnologia/estos-son-los-mejores-juegos-gratis-para-las-vacaciones-nid24012025/"
                         },
@@ -12977,16 +12984,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
                             "fecha": "16 de diciembre de 2024",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-12-de-diciembre-nid16122024/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">C\u00f3mo obtenerlo, y a qu\u00e9 precio. </span>",
-                                "Leo Messi llega a Fortnite como un nuevo personaje"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/es-oficial-leo-messi-llega-a-fortnite-como-un-nuevo-personaje-nid13122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/asi-se-vera-leo-messi-en-U7IZOZHG4ZACFIJHODRRYW7JLY.jpg?auth=43104d94b3f47a8673eb93ad5ee32d25e5ba494b9154445aba9de70ce8a447e8&width=300&height=200&quality=70&smart=true",
-                            "fecha": "13 de diciembre de 2024",
-                            "url_link": "/tecnologia/es-oficial-leo-messi-llega-a-fortnite-como-un-nuevo-personaje-nid13122024/"
                         }
                     ]
                 },
@@ -13095,15 +13092,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Hombre de 69 A\u00f1os con Par\u00e1lisis Lograr Controlar un Dron Virtual Con su Mente",
-                            "url": "https://decrypt.co/es/302503/hombre-de-69-anos-con-paralisis-lograr-controlar-un-dron-virtual-con-su-mente",
+                            "titulo": "ChatGPT Ofrece un Asistente Personal de IA, si Est\u00e1s Dispuesto a Pagar $200 al Mes",
+                            "url": "https://decrypt.co/es/302800/chatgpt-ofrece-un-asistente-personal-de-ia-si-estas-dispuesto-a-pagar-200-al-mes",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/ai-brain-chip-mind-gID_7.jpg@webp",
-                            "descripcion": "Un hombre de 69 a\u00f1os con par\u00e1lisis y un implante cerebral logr\u00f3 pilotar un dron virtual a trav\u00e9s de complejos circuitos de obst\u00e1culos mientras pensaba en mover sus dedos, gracias a un dispositivo experimental desarrollado por investigadores de la Universidad de Stanford.\nEl participante, que tiene cuadriplej\u00eda por una lesi\u00f3n de m\u00e9dula espinal C4, naveg\u00f3 por circuitos de obst\u00e1culos y patrones de vuelo aleatorios utilizando se\u00f1ales neuronales de dos peque\u00f1os arrays de electrodos implantados en su...",
-                            "fecha": "Jan 25, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-23-160129-gID_7.png@webp",
+                            "descripcion": "OpenAI present\u00f3 recientemente una nueva funci\u00f3n, denominada Operator, que permite a ChatGPT tomar el control de un navegador virtual para realizar tareas del mundo real como pedir comida o reservar vuelos. Pero hasta ahora, est\u00e1 dirigido a personas con alto poder adquisitivo.\nLa herramienta, actualmente disponible solo para suscriptores Pro ($200/mes) en EE.UU., marca la primera incursi\u00f3n de la empresa en la navegaci\u00f3n web aut\u00f3noma. Destaca el surgimiento de un sistema financiero estratificado,...",
+                            "fecha": "Jan 26, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Hombre de 69 A\u00f1os con Par\u00e1lisis Lograr Controlar un Dron Virtual Con su Mente",
+                                    "url": "https://decrypt.co/es/302503/hombre-de-69-anos-con-paralisis-lograr-controlar-un-dron-virtual-con-su-mente",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 25, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "Trump Revela Iniciativa Del Sector Privado de $500.000 Millones Para Impulsar la IA en EEUU",
                                     "url": "https://decrypt.co/es/302299/trump-revela-iniciativa-del-sector-privado-de-500-000-millones-para-impulsar-la-ia-en-eeuu",
@@ -13138,16 +13142,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 15, 2025",
                                     "meta": "5 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "EEUU Endurece Restricciones de Exportaci\u00f3n de Chips de IA, Antes de la Toma de Posesi\u00f3n de Trump",
                                     "url": "https://decrypt.co/es/301121/eeuu-endurece-restricciones-de-exportacion-de-chips-de-ia-antes-de-la-toma-de-posesion-de-trump",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 15, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "El lunes, la administraci\u00f3n Biden present\u00f3 amplias restricciones a la exportaci\u00f3n de chips de inteligencia artificial y tecnolog\u00edas relacionadas, mientras el presidente Joe Biden se prepara para dejar el cargo.\nAnunciada apenas d\u00edas antes de la transici\u00f3n de Donald Trump como presidente, la \u201cNorma Final Provisional sobre Difusi\u00f3n de Inteligencia Artificial\u201d busca mantener el dominio de EE. UU. en IA mientras evita que adversarios exploten sistemas avanzados con fines maliciosos.\n\u201cPara mejorar la..."
+                                },
                                 {
                                     "titulo": "Bomberos de California Utilizan IA para Combatir las Crecientes Amenazas de Incendios Forestales",
                                     "url": "https://decrypt.co/es/300859/bomberos-de-california-utilizan-ia-para-combatir-las-crecientes-amenazas-de-incendios-forestales",
@@ -13179,14 +13184,6 @@
                                     "fecha": "Jan 13, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "Midjourney est\u00e1 en las etapas finales de prueba de V7, una actualizaci\u00f3n significativa que reconstruye casi todas las partes del sistema del generador de im\u00e1genes de IA.\nDurante la sesi\u00f3n de office hours de esta semana, los desarrolladores explicaron que V7 presenta una nueva arquitectura, diferentes conjuntos de datos y enfoques revisados de procesamiento de lenguaje.\nLas pruebas internas podr\u00edan tomar de una semana a un mes, seguidas de una fase de ajuste de dos semanas y un potencial per\u00edodo..."
-                                },
-                                {
-                                    "titulo": "Los Angeles Est\u00e1 Ardiendo\u2014Y Los Deepfakes de IA Est\u00e1n Alimentando la Desinformaci\u00f3n",
-                                    "url": "https://decrypt.co/es/300593/los-angeles-esta-ardiendo-y-los-deepfakes-de-ia-estan-alimentando-la-desinformacion",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 13, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Mientras los bomberos continuaban combatiendo los incendios forestales en Los \u00c1ngeles, otra amenaza afecta los esfuerzos de recuperaci\u00f3n: los deepfakes generados por IA.\nEl mi\u00e9rcoles, comenzaron a circular im\u00e1genes en X (anteriormente Twitter) que mostraban el ic\u00f3nico letrero de Hollywood envuelto en llamas mientras el fuego arrasaba Mount Lee. Sin embargo, estas im\u00e1genes fueron completamente fabricadas utilizando herramientas de inteligencia artificial generativa.\nDespu\u00e9s de las im\u00e1genes del le..."
                                 }
                             ]
                         }
@@ -13204,9 +13201,17 @@
                         },
                         "notas": [
                             {
+                                "titulo": "iPhones con TikTok instalado alcanzan precios r\u00e9cord tras veto temporal en EE UU",
+                                "url": "https://www.elnacional.com/tecnologia/iphones-con-tiktok-instalado-alcanzan-precios-record-tras-veto-temporal-en-ee-uu/",
+                                "imagen": null,
+                                "meta": "APP",
+                                "fecha": "enero 26, 2025",
+                                "extra": "La reciente prohibici\u00f3n de TikTok y otras aplicaciones de ByteDance en Estados Unidos ha generado un ins\u00f3lito fen\u00f3meno comercial: m\u00f3viles\u2026"
+                            },
+                            {
                                 "titulo": "C\u00f3mo la tecnolog\u00eda puede aplicarse para alertar sobre desastres naturales",
                                 "url": "https://www.elnacional.com/tecnologia/como-la-tecnologia-puede-aplicarse-para-alertar-sobre-desastres-naturales/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/desastres-naturales.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 25, 2025",
                                 "extra": "Una inundaci\u00f3n o un terremoto pueden obligar a evacuaciones masivas en poco tiempo. Los incendios pueden destruir viviendas y otras\u2026"
@@ -13214,7 +13219,7 @@
                             {
                                 "titulo": "El millonario proyecto que busca impulsar el desarrollo de inteligencia artificial desde EE UU",
                                 "url": "https://www.elnacional.com/tecnologia/el-millonario-proyecto-que-busca-impulsar-el-desarrollo-de-inteligencia-artificial-desde-ee-uu/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/stargate-project.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 25, 2025",
                                 "extra": "La r\u00e1pida adopci\u00f3n de la inteligencia artificial y el constante desarrollo de esta tecnolog\u00eda trae consigo varios retos a superar.\u2026"
@@ -13222,7 +13227,7 @@
                             {
                                 "titulo": "Samsung Galaxy S25 Ultra, m\u00e1s que un smartphone",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-s25-ultra-un-smartphone-que-lo-tiene-todo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/20250121_220512-scaled.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 24, 2025",
                                 "extra": "Sus caracter\u00edsticas redefinen los l\u00edmites de lo posible. Algo que qued\u00f3 claro tras su lanzamiento este mi\u00e9rcoles 22 de enero\u2026"
@@ -13230,7 +13235,7 @@
                             {
                                 "titulo": "WhatsApp dejar\u00e1 de estar disponible en estos celulares a partir de febrero",
                                 "url": "https://www.elnacional.com/tecnologia/whatsapp-no-funcionara-en-estos-celulares-a-partir-de-febrero/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/A-continuacion-la-lista-de-modelos-que-dejaran-de-ser-compatibles-con-la-aplicacion-de-WhatsApp-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 23, 2025",
                                 "extra": "La aplicaci\u00f3n de mensajer\u00eda instant\u00e1nea WhatsApp implementar\u00e1 cambios importantes en su plataforma a partir de febrero de 2025. Eso significar\u00e1\u2026"
@@ -13238,7 +13243,7 @@
                             {
                                 "titulo": "Apple Intelligence estar\u00e1 disponible por defecto en el iOS 18.3",
                                 "url": "https://www.elnacional.com/tecnologia/apple-intelligence-estara-disponible-por-defecto-en-el-ios-18-3/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EuropaPress_6399934_recurso_funciones_apple_intelligence.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 23, 2025",
                                 "extra": "Apple har\u00e1 que su sistema de inteligencia artificial (IA), Apple Intelligence, y sus funciones est\u00e9n activados por defecto en los\u2026"
@@ -13246,7 +13251,7 @@
                             {
                                 "titulo": "Samsung Galaxy Unpacked 2025: cu\u00e1les ser\u00e1n las novedades de la marca",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-cuales-seran-las-novedades-de-la-marca/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Hologram-OOH-for-Galaxy-Unpacked-2025_05.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 20, 2025",
                                 "extra": "\u00bfEst\u00e1 Samsung a punto de redefinir los l\u00edmites de la tecnolog\u00eda? El 2025 marcar\u00e1 16 a\u00f1os desde el primer evento\u2026"
@@ -13254,7 +13259,7 @@
                             {
                                 "titulo": "Meta, X y Bluesky pretenden sustituir a TikTok con novedades de edici\u00f3n y visualizaci\u00f3n de videos",
                                 "url": "https://www.elnacional.com/tecnologia/meta-x-y-bluesky-buscan-sustituir-a-tiktok-con-novedades-de-edicion-y-visualizacion-de-videos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EuropaPress_6465321_interfaz_edits_nueva_aplicacion_instagram.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 20, 2025",
                                 "extra": "Meta, X (antes Twitter) y Bluesky anunciaron funcionalidades y servicios destinados a la edici\u00f3n y visualizaci\u00f3n de videos en formato\u2026"
@@ -13262,7 +13267,7 @@
                             {
                                 "titulo": "Las tendencias clave que marcar\u00e1n el paso de la IA para este 2025",
                                 "url": "https://www.elnacional.com/tecnologia/las-tendencias-clave-que-marcaran-el-paso-de-la-ia-para-este-2025/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/04/pixabay-inteligencia-artificial-3.jpeg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 19, 2025",
                                 "extra": "Con tan solo tres a\u00f1os de su llegada de forma masiva en el mercado, casi 40% de las personas ya\u2026"
@@ -13270,18 +13275,10 @@
                             {
                                 "titulo": "Los avances tecnol\u00f3gicos m\u00e1s sorprendentes del CES 2025",
                                 "url": "https://www.elnacional.com/tecnologia/los-avances-tecnologicos-mas-sorprendentes-del-ces-2025/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/CES-2025-Vegas.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 19, 2025",
                                 "extra": "Como es habitual, el CES es el escenario perfecto para conocer los avances m\u00e1s innovadores de la industria tecnol\u00f3gica. Miles\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfLas fitness apps han modificado la relaci\u00f3n de las personas con el ejercicio?",
-                                "url": "https://www.elnacional.com/tecnologia/las-fitness-apps-han-modificado-la-relacion-de-las-personas-con-el-ejercicio/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Fitness-Apps-Gym-Salud-1.jpg",
-                                "meta": "APP",
-                                "fecha": "enero 19, 2025",
-                                "extra": "El covid fue el catalizador. Y cinco a\u00f1os despu\u00e9s de una de las peores pandemias registradas, estad\u00edsticas y expertos apuntan\u2026"
                             }
                         ]
                     }
@@ -13300,7 +13297,7 @@
                             {
                                 "titulo": "Samsung Unpacked 2025: serie Galaxy S25, m\u00e1s que m\u00f3viles, asistentes personales",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-ia-como-un-asistente-personal/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/353A8193-scaled.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 22, 2025",
                                 "extra": "Este mi\u00e9rcoles 22 de enero, el pabell\u00f3n deportivo SAP Center de la ciudad estadounidense San Jos\u00e9, en California (tambi\u00e9n conocido\u2026"
@@ -13308,7 +13305,7 @@
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 16, 2025",
                                 "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
@@ -13316,7 +13313,7 @@
                             {
                                 "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 14, 2025",
                                 "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
@@ -13324,7 +13321,7 @@
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
@@ -13332,7 +13329,7 @@
                             {
                                 "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
@@ -13348,7 +13345,7 @@
                             {
                                 "titulo": "La IA supera de nuevo al humano al descifrar secretos arom\u00e1ticos del whisky",
                                 "url": "https://www.elnacional.com/tecnologia/ia-supera-de-nuevo-al-humano-al-descifrar-secretos-del-whisky/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-20-075749.png",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 20, 2024",
                                 "extra": "\u00bfQui\u00e9n dijo que solo los expertos pod\u00edan apreciar la complejidad de un buen whisky? Gracias a una revolucionaria investigaci\u00f3n se\u2026"
@@ -13356,7 +13353,7 @@
                             {
                                 "titulo": "Reddit revoluciona la experiencia de b\u00fasqueda con tecnolog\u00eda de IA",
                                 "url": "https://www.elnacional.com/tecnologia/reddit-revoluciona-la-experiencia-de-busqueda-con-tecnologia-de-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/08/Reddit-1.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "diciembre 9, 2024",
                                 "extra": "La plataforma Reddit anunci\u00f3 el lanzamiento de una innovadora herramienta de b\u00fasqueda llamada Reddit Answers, basada en inteligencia artificial (IA),\u2026"
@@ -13364,7 +13361,7 @@
                             {
                                 "titulo": "All Music Works, el primer sello discogr\u00e1fico de artistas creados con IA",
                                 "url": "https://www.elnacional.com/tecnologia/all-music-works-el-primer-sello-discografico-de-artistas-creados-con-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/All-Music-Works.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 22, 2024",
                                 "extra": "La empresa All Music Works (AMW) se present\u00f3 este jueves como la primera discogr\u00e1fica de Espa\u00f1a, \u00aby en el mundo\u2026"
@@ -13372,7 +13369,7 @@
                             {
                                 "titulo": "A.I. God: obra hecha por robot humanoide se subasta por m\u00e1s de 1 mill\u00f3n de d\u00f3lares",
                                 "url": "https://www.elnacional.com/tecnologia/obra-hecha-por-robot-es-subastada-en-1-millon-de-dolares/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/A.I.-God-obra-de-la-robot-ultrarrealista-Ai-Da-1.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "noviembre 8, 2024",
                                 "extra": "Un retrato del matem\u00e1tico ingl\u00e9s Alan Turing se convirti\u00f3 el jueves en la primera obra de arte realizada por un\u2026"
