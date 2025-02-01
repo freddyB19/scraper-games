@@ -11604,6 +11604,24 @@
                 ],
                 "novedades": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/ts2-retro-release-game-box-art.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "The Sims\u2122 2: Legacy Collection",
+                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-2-legacy-collection",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts2-retro-release-logo-rgb.svg"
+                    },
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/sims-birthday-bundle-game-box-art.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "The Sims\u2122: 25th Birthday Bundle",
+                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-25th-birthday-bundle",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims-birthday-bundle-logo-rgb.svg"
+                    },
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/ts1-retro-release-game-box-art.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "The Sims\u2122: Legacy Collection",
+                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-legacy-collection",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts1-retro-release-logo-rgb.svg"
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/03/dragon-age-key-art-16x9.jpg.adapt.crop1x1.767p.jpg",
                         "titulo": "Dragon Age\u2122: The Veilguard",
                         "url": "https://www.ea.com/es-es/games/dragon-age/dragon-age-the-veilguard",
@@ -11710,24 +11728,6 @@
                         "titulo": "WILD HEARTS\u2122",
                         "url": "https://www.ea.com/es-es/games/wild-hearts/wild-hearts",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/wild-hearts-logo.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2022/09/dead-space-game-box-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Dead Space\u2122",
-                        "url": "https://www.ea.com/es-es/games/dead-space/dead-space",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/dead-space-game-box-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2022/10/nfs-unbound-1x1.png.adapt.crop1x1.767p.png",
-                        "titulo": "Need for Speed\u2122 Unbound",
-                        "url": "https://www.ea.com/es-es/games/need-for-speed/need-for-speed-unbound",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-unbound-logo.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2022/05/1-1-gamebox-f122-keyart-1.png.adapt.crop1x1.767p.png",
-                        "titulo": "F1\u00ae 22",
-                        "url": "https://www.ea.com/es-es/games/f1/f1-22",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/f122-gamebox-logo.png"
                     }
                 ],
                 "proximamente": [
@@ -12422,6 +12422,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "De Tom Holland a Ultimate, pasando por PlayStation, \u00bfcu\u00e1l es el mejor Spider-Man de todos?",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/01/29/679a0f4d22601de2558b45ac.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/29/17381511989506.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Cristiano Ronaldo celebra su exitosa carrera de la mano del\u00a0rival\u00a0de\u00a0EA SPORTS FC\u00a025, UFL",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/01/31/679c9c3946163f7fae8b4586.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/31/17383168447703.jpg",
@@ -12462,13 +12469,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/29/17381618707210.jpg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN TURRI\u00d3N"
-                        },
-                        {
-                            "titulo": "De Tom Holland a Ultimate, pasando por PlayStation, \u00bfcu\u00e1l es el mejor Spider-Man de todos?",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/01/29/679a0f4d22601de2558b45ac.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/29/17381511989506.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         },
                         {
                             "titulo": "Ni Final Fantasy ni Dragon Quest. El JRPG del mes es un cl\u00e1sico de hace 15 a\u00f1os. An\u00e1lisis de Tales of Graces f Remastered",
@@ -13209,13 +13209,45 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Qu\u00e9 tiene de especial DeepSeek, la nueva herramienta china de inteligencia artificial (y en qu\u00e9 se diferencia de ChatGPT o Gemini)",
-                            "url": "https://www.elnacional.com/bbc-news-mundo/que-tiene-de-especial-deepseek-la-nueva-herramienta-china-de-inteligencia-artificial-y-en-que-se-diferencia-de-chatgpt-o-gemini/",
-                            "categoria": "BBC News Mundo",
-                            "fecha": "enero 29, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/FGHDF.png"
+                            "titulo": "Samsung Electronics gan\u00f3 122,5% m\u00e1s en 2024 pese a ralentizaci\u00f3n de la demanda de chips",
+                            "url": "https://www.elnacional.com/tecnologia/samsung-electronics-gano-1225-mas-en-2024-pese-a-ralentizacion-de-la-demanda-de-chips/",
+                            "categoria": "TECNOLOGIA",
+                            "fecha": "enero 31, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Samsung-Electronics.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "La NASA confirm\u00f3 la fecha y el lugar en el que caer\u00e1 la Estaci\u00f3n Espacial Internacional",
+                                "url": "https://www.elnacional.com/ciencia/la-nasa-confirmo-la-fecha-y-el-lugar-en-el-que-caera-la-estacion-espacial-internacional/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/NASA.jpg",
+                                "meta": "CIENCIA",
+                                "fecha": "enero 31, 2025",
+                                "extra": "La NASA confirm\u00f3 esta semana una decisi\u00f3n trascendental para el futuro de la exploraci\u00f3n espacial:\u00a0la Estaci\u00f3n Espacial Internacional (EEI), s\u00edmbolo\u2026"
+                            },
+                            {
+                                "titulo": "OpenAI cre\u00f3 una versi\u00f3n de ChatGPT exclusiva para el gobierno de Estados Unidos",
+                                "url": "https://www.elnacional.com/tecnologia/openai-creo-una-version-de-chatgpt-exclusiva-para-el-gobierno-de-estados-unidos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-chatgpt.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 31, 2025",
+                                "extra": "Si bien la llegada de la inteligencia artificial china DeekSeek ha sacudido el mundo de la tecnolog\u00eda por estos d\u00edas,\u2026"
+                            },
+                            {
+                                "titulo": "Microsoft y Oracle, en alianza para comprar TikTok",
+                                "url": "https://www.elnacional.com/tecnologia/microsoft-y-oracle-en-alianza-para-comprar-tiktok/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/TikTok-.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 31, 2025",
+                                "extra": "TikTok regres\u00f3 parcialmente a Estados Unidos. Tras un breve cierre en v\u00edsperas del 18 de enero, la plataforma volvi\u00f3 a\u2026"
+                            },
+                            {
+                                "titulo": "Deepfakes y ciberestafas: los desaf\u00edos tecnol\u00f3gicos de 2025",
+                                "url": "https://www.elnacional.com/tecnologia/deepfakes-y-ciberestafas-los-desafios-tecnologicos-de-2025/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/pixabay-deepfake.png",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 31, 2025",
+                                "extra": "Seg\u00fan informaci\u00f3n reciente de Gartner, se espera que para el 2025 tecnolog\u00edas emergentes como la inteligencia artificial aut\u00f3noma, la computaci\u00f3n\u2026"
+                            },
                             {
                                 "titulo": "La IA analiza el lenguaje y revela los secretos de los mentirosos",
                                 "url": "https://www.elnacional.com/tecnologia/la-ia-analiza-el-lenguaje-y-revela-los-secretos-de-los-mentirosos/",
@@ -13263,38 +13295,6 @@
                                 "meta": "APP",
                                 "fecha": "enero 27, 2025",
                                 "extra": "WhatsApp comenz\u00f3 a probar el soporte para agregar y administrar m\u00faltiples cuentas en su versi\u00f3n para dispositivos iOS. Eso permitir\u00e1\u2026"
-                            },
-                            {
-                                "titulo": "Redefiniendo el futuro de la tecnolog\u00eda con la serie Galaxy S25",
-                                "url": "https://www.elnacional.com/tecnologia/redefiniendo-el-futuro-de-la-tecnologia-con-la-serie-galaxy-s25/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/007-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-scaled.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "enero 27, 2025",
-                                "extra": "Por HS Jo, Presidente y CEO de Samsung Electronics Am\u00e9rica Latina En un mundo cada vez m\u00e1s interconectado, la tecnolog\u00eda\u2026"
-                            },
-                            {
-                                "titulo": "iPhones con TikTok instalado alcanzan precios r\u00e9cord tras veto temporal en EE UU",
-                                "url": "https://www.elnacional.com/tecnologia/iphones-con-tiktok-instalado-alcanzan-precios-record-tras-veto-temporal-en-ee-uu/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/iPhones-TikTok-precios.jpg",
-                                "meta": "APP",
-                                "fecha": "enero 26, 2025",
-                                "extra": "La reciente prohibici\u00f3n de TikTok y otras aplicaciones de ByteDance en Estados Unidos ha generado un ins\u00f3lito fen\u00f3meno comercial: m\u00f3viles\u2026"
-                            },
-                            {
-                                "titulo": "C\u00f3mo la tecnolog\u00eda puede aplicarse para alertar sobre desastres naturales",
-                                "url": "https://www.elnacional.com/tecnologia/como-la-tecnologia-puede-aplicarse-para-alertar-sobre-desastres-naturales/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/desastres-naturales.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 25, 2025",
-                                "extra": "Una inundaci\u00f3n o un terremoto pueden obligar a evacuaciones masivas en poco tiempo. Los incendios pueden destruir viviendas y otras\u2026"
-                            },
-                            {
-                                "titulo": "El millonario proyecto que busca impulsar el desarrollo de inteligencia artificial desde EE UU",
-                                "url": "https://www.elnacional.com/tecnologia/el-millonario-proyecto-que-busca-impulsar-el-desarrollo-de-inteligencia-artificial-desde-ee-uu/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/stargate-project.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 25, 2025",
-                                "extra": "La r\u00e1pida adopci\u00f3n de la inteligencia artificial y el constante desarrollo de esta tecnolog\u00eda trae consigo varios retos a superar.\u2026"
                             }
                         ]
                     }
@@ -13321,7 +13321,7 @@
                             {
                                 "titulo": "Samsung contin\u00faa sembrando semillas de innovaci\u00f3n en Venezuela",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-sigue-sembrando-semillas-de-innovacion-en-venezuela/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/HS-Jo-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 28, 2025",
                                 "extra": "Seg\u00fan la segunda edici\u00f3n del estudio Our Life with AI de Google, elaborado por Ipsos, actualmente existe un crecimiento en\u2026"
@@ -13329,7 +13329,7 @@
                             {
                                 "titulo": "Redefiniendo el futuro de la tecnolog\u00eda con la serie Galaxy S25",
                                 "url": "https://www.elnacional.com/tecnologia/redefiniendo-el-futuro-de-la-tecnologia-con-la-serie-galaxy-s25/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/007-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 27, 2025",
                                 "extra": "Por HS Jo, Presidente y CEO de Samsung Electronics Am\u00e9rica Latina En un mundo cada vez m\u00e1s interconectado, la tecnolog\u00eda\u2026"
@@ -13337,7 +13337,7 @@
                             {
                                 "titulo": "Samsung Galaxy S25 Ultra, m\u00e1s que un smartphone",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-s25-ultra-un-smartphone-que-lo-tiene-todo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/20250121_220512-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 24, 2025",
                                 "extra": "Sus caracter\u00edsticas redefinen los l\u00edmites de lo posible. Algo que qued\u00f3 claro tras su lanzamiento este mi\u00e9rcoles 22 de enero\u2026"
@@ -13345,7 +13345,7 @@
                             {
                                 "titulo": "Samsung Unpacked 2025: serie Galaxy S25, m\u00e1s que m\u00f3viles, asistentes personales",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-ia-como-un-asistente-personal/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/353A8193-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 22, 2025",
                                 "extra": "Este mi\u00e9rcoles 22 de enero, el pabell\u00f3n deportivo SAP Center de la ciudad estadounidense San Jos\u00e9, en California (tambi\u00e9n conocido\u2026"
@@ -13353,7 +13353,7 @@
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 16, 2025",
                                 "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
@@ -13361,7 +13361,7 @@
                             {
                                 "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 14, 2025",
                                 "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
@@ -13369,7 +13369,7 @@
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
@@ -13377,7 +13377,7 @@
                             {
                                 "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
