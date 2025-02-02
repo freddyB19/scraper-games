@@ -12422,6 +12422,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Del oct\u00f3gono de Jordi Wild a la UFC, este es el videojuego que os recomiendo si necesit\u00e1is m\u00e1s",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/02/679cbfad46163f7a258b4591.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/02/17384848554954.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "De Tom Holland a Ultimate, pasando por PlayStation, \u00bfcu\u00e1l es el mejor Spider-Man de todos?",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/01/29/679a0f4d22601de2558b45ac.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/29/17381511989506.jpg",
@@ -12763,13 +12770,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370404472310.jpg",
                             "meta": "Juegos",
                             "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "TOTY 2025: Este es el Equipo del A\u00f1o en EA Sports FC 25 donde el Real Madrid 'arrasa'",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/16/6787d95be2704e16888b45af.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370402458629.jpg",
-                            "meta": "EA Sports FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         }
                     ]
                 },
@@ -12777,9 +12777,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": [
+                                "<span class=\"com-lead\">\u00bfSer o no ser? </span>",
+                                "Los actores sin trabajo que crearon una incre\u00edble versi\u00f3n de Hamlet dentro de un videojuego"
+                            ],
+                            "url": "https://www.lanacion.com.ar/espectaculos/cine/ser-o-no-ser-grand-theft-hamlet-una-increible-version-de-shakespeare-en-el-mundo-de-las-balaceras-nid02022025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/una-escena-de-grand-theft-hamlet-un-documental-P73UZHWT3NAKBN7SJRX32JFNF4.jpeg?auth=b9ced4808e3671e5b294031172282d079af6281835e3fe412a9a6a3b3b4e0dca&width=300&height=200&quality=70&smart=true",
+                            "fecha": "2 de febrero de 2025",
+                            "url_link": "/espectaculos/cine/ser-o-no-ser-grand-theft-hamlet-una-increible-version-de-shakespeare-en-el-mundo-de-las-balaceras-nid02022025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos gratis de la semana del 30 de enero en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-30-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid30012025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "30 de enero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-30-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid30012025/"
                         },
@@ -12993,13 +13003,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-20-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "20 de diciembre de 2024",
                             "url_link": "/tecnologia/videojuego-gratis-de-hoy-20-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid20122024/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 19 de diciembre en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-19-de-diciembre-en-epic-games-solo-hay-que-nid19122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "19 de diciembre de 2024",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-19-de-diciembre-en-epic-games-solo-hay-que-nid19122024/"
                         }
                     ]
                 },
@@ -13108,15 +13111,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "ExPresidente de la SEC Gary Gensler Regresar\u00e1 a la Escuela para Ense\u00f1ar Sobre IA",
-                            "url": "https://decrypt.co/es/303413/expresidente-de-la-sec-gary-gensler-regresara-a-la-escuela-para-ensenar-sobre-ia",
+                            "titulo": "Jap\u00f3n Planea Invertir Hasta $25.000 Millones en OpenAI: Informe",
+                            "url": "https://decrypt.co/es/303578/japon-planea-invertir-hasta-25-000-millones-en-openai-informe",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/Gary-Gensler-SEC-e1621554413500-gID_7.jpeg@webp",
-                            "descripcion": "Despu\u00e9s de cuatro a\u00f1os lidiando con las regulaciones de criptomonedas y la supervisi\u00f3n del mercado, Gary Gensler regresa a las aulas, esta vez para abordar la inteligencia artificial.\nEl expresidente de la Comisi\u00f3n de Bolsa y Valores de Estados Unidos (SEC) regresa a MIT Sloan School of Management para enfocarse en la investigaci\u00f3n y pol\u00edticas de IA, en un movimiento que conectar\u00eda su experiencia en Wall Street y regulaci\u00f3n con tecnolog\u00eda de vanguardia, seg\u00fan un comunicado publicado el lunes.\nLa...",
-                            "fecha": "Jan 30, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/softbank-gID_7.jpg@webp",
+                            "descripcion": "SoftBank est\u00e1 en conversaciones para inyectar hasta $25.000 millones directamente en OpenAI, posicionando al conglomerado tecnol\u00f3gico japon\u00e9s para convertirse en el mayor respaldo financiero del creador de ChatGPT, seg\u00fan inform\u00f3 inicialmente el Financial Times el mi\u00e9rcoles por la noche.\nSi el acuerdo se concreta, la inversi\u00f3n eclipsar\u00eda la participaci\u00f3n de $13.000 millones de Microsoft y marcar\u00eda la apuesta m\u00e1s ambiciosa de SoftBank en inteligencia artificial hasta la fecha.\nLos detalles del acu...",
+                            "fecha": "Feb 1, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "ExPresidente de la SEC Gary Gensler Regresar\u00e1 a la Escuela para Ense\u00f1ar Sobre IA",
+                                    "url": "https://decrypt.co/es/303413/expresidente-de-la-sec-gary-gensler-regresara-a-la-escuela-para-ensenar-sobre-ia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jan 30, 2025",
+                                    "meta": "3 min lectura"
+                                },
                                 {
                                     "titulo": "C\u00f3mo los Gigantes de la IA en EEUU Est\u00e1n Respondiendo a la Llegada de DeepSeek",
                                     "url": "https://decrypt.co/es/303441/como-los-gigantes-de-la-ia-en-eeuu-estan-respondiendo-a-la-llegada-de-deepseek",
@@ -13151,16 +13161,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 28, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "China Contraataca: Conoce DeepSeek R1, la IA Gratuita de C\u00f3digo Abierto Que Iguala a OpenAI o1",
                                     "url": "https://decrypt.co/es/302997/china-contraataca-conoce-deepseek-r1-la-ia-gratuita-de-codigo-abierto-que-iguala-a-openai-o1",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 27, 2025",
-                                    "meta": "10 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "10 min lectura",
+                                    "descripcion": "Los investigadores chinos de IA han logrado lo que muchos pensaban que estaba a a\u00f1os luz de distancia: un modelo de IA gratuito y de c\u00f3digo abierto que puede igualar o superar el rendimiento de los sistemas de razonamiento m\u00e1s avanzados de OpenAI. Lo que hace esto a\u00fan m\u00e1s notable fue c\u00f3mo lo hicieron: dejando que la IA se ense\u00f1e a s\u00ed misma mediante prueba y error, similar a c\u00f3mo aprenden los humanos.\n\"DeepSeek-R1-Zero, un modelo entrenado mediante reinforcement learning (RL) a gran escala sin su..."
+                                },
                                 {
                                     "titulo": "ChatGPT Ofrece un Asistente Personal de IA, si Est\u00e1s Dispuesto a Pagar $200 al Mes",
                                     "url": "https://decrypt.co/es/302800/chatgpt-ofrece-un-asistente-personal-de-ia-si-estas-dispuesto-a-pagar-200-al-mes",
@@ -13192,14 +13203,6 @@
                                     "fecha": "Jan 20, 2025",
                                     "meta": "6 min lectura",
                                     "descripcion": "Cuando el Congreso aprob\u00f3 la prohibici\u00f3n de TikTok, decid\u00ed explorar Xiaohongshu, tambi\u00e9n conocido como RedNote, la respuesta china a la aplicaci\u00f3n de redes sociales que de repente se inund\u00f3 de \u201crefugiados de TikTok\u201d estadounidenses protestando.\nLas primeras horas navegando por la aplicaci\u00f3n se sintieron como tropezar con un rinc\u00f3n acogedor de Internet.\nLa interfaz estaba principalmente en mandar\u00edn, pero el contenido hablaba un lenguaje universal: mascotas adorables, fotos de viajes (las ciudades..."
-                                },
-                                {
-                                    "titulo": "Torneo de Ajedrez Entre Chatbots de IA Termina en Desastre: Rey se Come su Alfil y Luego lo Revive",
-                                    "url": "https://decrypt.co/es/301420/torneo-de-ajedrez-entre-chatbots-de-ia-termina-en-desastre-rey-se-come-su-alfil-y-luego-lo-revive",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 20, 2025",
-                                    "meta": "9 min lectura",
-                                    "descripcion": "El Maestro de Ajedrez Internacional Levy Rozman reuni\u00f3 algunos oponentes para una exhibici\u00f3n de ajedrez esta semana: chatbots de inteligencia artificial que, a pesar de su destreza en la conversaci\u00f3n y en la escritura de c\u00f3digos complejos, a\u00fan no han descubierto c\u00f3mo mover las piezas de ajedrez de manera correcta.\nEl torneo transmitido en el canal GothamChess de Rozman enfrent\u00f3 al motor de ajedrez profesional Stockfish contra siete chatbots de IA generativa, incluyendo ChatGPT, Gemini de Google..."
                                 }
                             ]
                         }
@@ -13216,6 +13219,14 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Samsung-Electronics.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Fundador de DeepSeek es recibido como un h\u00e9roe en su ciudad natal",
+                                "url": "https://www.elnacional.com/tecnologia/fundador-de-deepseek-es-recibido-como-un-heroe/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/d00fa96d7063ec42881c0b6841c07826a6261e70.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "febrero 1, 2025",
+                                "extra": "El fundador de DeepSeek, Liang Wenfeng, fue recibido como un h\u00e9roe en su ciudad natal de Mililing, en la provincia\u2026"
+                            },
                             {
                                 "titulo": "La NASA confirm\u00f3 la fecha y el lugar en el que caer\u00e1 la Estaci\u00f3n Espacial Internacional",
                                 "url": "https://www.elnacional.com/ciencia/la-nasa-confirmo-la-fecha-y-el-lugar-en-el-que-caera-la-estacion-espacial-internacional/",
@@ -13287,14 +13298,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 27, 2025",
                                 "extra": "Moohan. As\u00ed se llama el nuevo visor de realidad extendida (XR) de Samsung Electronics que promete llevar la experiencia digital\u2026"
-                            },
-                            {
-                                "titulo": "WhatsApp eval\u00faa permitir m\u00faltiples cuentas en dispositivos iOS",
-                                "url": "https://www.elnacional.com/tecnologia/whatsapp-evalua-permitir-multiples-cuentas-en-dispositivos-ios/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Los-usuarios-podran-escanear-un-codigo-QR-para-vincular-la-nueva-cuenta-como-un-perfil-complementario-Foto-Archivo.jpg",
-                                "meta": "APP",
-                                "fecha": "enero 27, 2025",
-                                "extra": "WhatsApp comenz\u00f3 a probar el soporte para agregar y administrar m\u00faltiples cuentas en su versi\u00f3n para dispositivos iOS. Eso permitir\u00e1\u2026"
                             }
                         ]
                     }
