@@ -11324,7 +11324,7 @@
                         "titulo": "Masters 2025 de EMEA - Explicaci\u00f3n del formato",
                         "url": "https://lolesports.com/es-es/news/2025-emea-masters-format-explainer",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": null,
+                        "categoria": "Esports",
                         "fecha": "2025-01-23T15:00:00.000Z",
                         "detalle": "Esto es todo lo que necesit\u00e1is saber sobre los tres formatos \u00fanicos del Masters de EMEA de este a\u00f1o y sobre c\u00f3mo se clasificar\u00e1n los equipos de cada regi\u00f3n."
                     },
@@ -11476,6 +11476,20 @@
             "info": {
                 "noticias": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/bf-labs-announce.png.adapt.crop16x9.431p.png",
+                        "titulo": "Presentamos Battlefield Labs",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "03-feb-2025",
+                        "descripcion": "Battlefield Labs de EA es nuestra colaboraci\u00f3n con la comunidad, m\u00e1s ambiciosa de la historia de la franquicia, anunciada por Battlefield Studios."
+                    },
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/algs-2025-eacom-article/4.jpg.adapt.crop16x9.431p.jpg",
+                        "titulo": "Campeonato de la ALGS 2025: an\u00e1lisis en profundidad de Electrodistrito",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "29-ene-2025",
+                        "descripcion": "Lo celebramos con un exclusivo vistazo entre bastidores a c\u00f3mo se cre\u00f3 este mapa."
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/a-year-of-innovation-at-ea-sports-blog-thumbnail.jpg.adapt.crop16x9.431p.jpg",
                         "titulo": "Un a\u00f1o de innovaci\u00f3n en EA SPORTS",
                         "etiqueta": "Electronic Arts Inc.",
@@ -11586,20 +11600,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "22-jul-2024",
                         "descripcion": "Apex Legends incluye un elenco de personajes creados cuidadosamente que representan con autenticidad las experiencias del mundo real de la afici\u00f3n y de quienes juegan."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/bf-rha.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "El viaje de Battlefield 2042 contin\u00faa",
-                        "etiqueta": "Battlefield 2042",
-                        "fecha": "18-jul-2024",
-                        "descripcion": "Actualizaciones continuas 2042, Env\u00edos del arc\u00f3n, Eventos"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-pride-2024-thumbnail.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Voces orgullosas: lo que significa el Orgullo para nuestro personal",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "02-jul-2024",
-                        "descripcion": "En EA, el Orgullo es todos los d\u00edas. Este a\u00f1o, hemos reunido voces de la comunidad LGBTQ+ de EA para escucharlas y aprender directamente de ellas."
                     }
                 ],
                 "novedades": [
@@ -11909,6 +11909,26 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "Presentamos Battlefield Labs",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "03-feb-2025"
+                                        ],
+                                        "detalle": "Battlefield Labs de EA es nuestra colaboraci\u00f3n con la comunidad, m\u00e1s ambiciosa de la historia de la franquicia, anunciada por Battlefield Studios.",
+                                        "url": "https://www.ea.com/es-es/news/announcing-battlefield-labs",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/bf-labs-announce.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
+                                        "titulo": "Campeonato de la ALGS 2025: an\u00e1lisis en profundidad de Electrodistrito",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "29-ene-2025"
+                                        ],
+                                        "detalle": "Lo celebramos con un exclusivo vistazo entre bastidores a c\u00f3mo se cre\u00f3 este mapa.",
+                                        "url": "https://www.ea.com/es-es/news/apex-edistrict-deep-dive",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/algs-2025-eacom-article/4.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "Un a\u00f1o de innovaci\u00f3n en EA SPORTS",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -11947,26 +11967,6 @@
                                         "detalle": "El compromiso continuo de EA con la accesibilidad y la tecnolog\u00eda de c\u00f3digo abierto contin\u00faa y a\u00f1ade 23 patentes a su compromiso de patentes de accesibilidad.",
                                         "url": "https://www.ea.com/es-es/news/2024-accessibility-patent-pledge",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/images/2022/07/eacom-brand-featured-image-16x9.png.adapt.crop16x9.431p.png"
-                                    },
-                                    {
-                                        "titulo": "La accesibilidad de Dragon Age: The Veilguard abre el juego para todo el mu\u2026",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "21-nov-2024"
-                                        ],
-                                        "detalle": "Las funciones de accesibilidad de Dragon Age: The Veilguard permiten a personas con distintas discapacidades de todo el mundo disfrutar del juego.",
-                                        "url": "https://www.ea.com/es-es/news/dragon-age-veilguard-accessibility",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/dragon-age/dragon-age-the-veilguard/common/da-veilguard-buy-page-standard-edition-key-art-16x9.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "GVGC se asocia con UNICEF para la Game Changers Coalition",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "18-nov-2024"
-                                        ],
-                                        "detalle": "Acortar brechas de habilidades de CTIAM, reforzar las pr\u00e1cticas inclusivas y mucho m\u00e1s.",
-                                        "url": "https://www.ea.com/es-es/news/ea-unicef-game-changers-coalition",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/ea-unicef-game-changers-coalition-thumbnail.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12422,6 +12422,34 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "GTA 6 estar\u00eda terminado: \"ya se puede jugar hasta el final, probablemente\" seg\u00fan un exdev de Rockstar",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/04/67a1f4d8ca4741d4278b4580.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/04/17386672210632.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni tagalo, ni espa\u00f1ol, ni mezclas raras: el idioma de Los Sims es completamente distinto. \u00bfCu\u00e1l es el origen del Simlish?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/04/67a1e93cca474147398b4580.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/04/17386641298607.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Los Sims 4 cuesta m\u00e1s de 1000 euros con todas sus expansiones, \u00bfcu\u00e1l es su precio total?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/04/67a1daa9ca4741bc098b45c7.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/04/17386610207414.jpg",
+                            "meta": "Juegos",
+                            "autor": "M. J."
+                        },
+                        {
+                            "titulo": "D\u00f3nde comprar Los Sims al mejor precio junto a sus DLC",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/03/67a0b8dfca474113358b45a8.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/03/17385863312966.jpg",
+                            "meta": "Juegos",
+                            "autor": "M. J."
+                        },
+                        {
                             "titulo": "C\u00f3mo conectar y configurar tu mando de PS4 y PS5 en PC Windows y Steam",
                             "url": "https://www.marca.com/videojuegos/hardware/2025/02/03/67a0866fca474195728b4588.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/03/17385736729306.jpg",
@@ -12742,34 +12770,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374827595378.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Frank Cuesta alucina con su juego en Fortnite: \"Mira c\u00f3mo mola esto, es igual que el Santuario\"",
-                            "url": "https://www.marca.com/videojuegos/streamers/2025/01/21/678f833922601dc0128b4572.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374584020024.jpg",
-                            "meta": "Streamers",
-                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
-                        },
-                        {
-                            "titulo": "GTA 6 costar\u00e1 100 euros, salvar\u00e1 a la industria y todos le imitar\u00e1n... seg\u00fan un analista",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/21/678f5d78268e3e5e268b458f.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/21/17374487951676.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni Super Mario ni Kirby. Nintendo ha recuperado uno de sus mejores plataformas en Switch y se llama Donkey Kong Country Returns HD. An\u00e1lisis",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/20/678e1380e2704ed72c8b4594.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/20/17373652256929.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El truco oculto de la Xbox que te ayudar\u00e1 a reducir el tiempo de carga de tus juegos favoritos",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/19/6788ee73e2704e689f8b456d.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/16/17370271833355.jpg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
                         }
                     ]
                 },
@@ -12777,9 +12777,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Lanzamientos de videojuegos en Febrero de 2025 en Steam: esta es la lista",
+                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-febrero-de-2025-en-steam-esta-es-la-lista-nid03022025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/lanzamientos-de-videojuegos-en-febrero-de-2025-en-KTTSK3QTCRCEPHSHCQFA54JL2M.jpg?auth=d1dbe4778ea0eeb24bafc19131766627ae19ec29dac9fbb18007beb9220b06cf&width=300&height=200&quality=70&smart=true",
+                            "fecha": "3 de febrero de 2025",
+                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-febrero-de-2025-en-steam-esta-es-la-lista-nid03022025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 02 de febrero",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-02-de-febrero-nid03022025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "3 de febrero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-02-de-febrero-nid03022025/"
                         },
@@ -12996,13 +13003,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-22-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
                             "fecha": "22 de diciembre de 2024",
                             "url_link": "/tecnologia/videojuego-gratis-de-hoy-22-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid22122024/"
-                        },
-                        {
-                            "titulo": "Videojuego gratis de hoy 21 de diciembre en Epic Games: solo hay que reclamarlo",
-                            "url": "https://www.lanacion.com.ar/tecnologia/videojuego-gratis-de-hoy-21-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid21122024/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/videojuego-gratis-de-hoy-21-de-diciembre-en-epic-HQKRMCR5MVFDTMWHXB45UTM3OU.png?auth=83f4f343f0119ff43847e1b1b3ab1c91755b2b54cc2819b3a22c53a090ead17b&width=300&height=200&quality=70&smart=true",
-                            "fecha": "21 de diciembre de 2024",
-                            "url_link": "/tecnologia/videojuego-gratis-de-hoy-21-de-diciembre-en-epic-games-solo-hay-que-reclamarlo-nid21122024/"
                         }
                     ]
                 },
@@ -13111,15 +13111,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Jap\u00f3n Planea Invertir Hasta $25.000 Millones en OpenAI: Informe",
-                            "url": "https://decrypt.co/es/303578/japon-planea-invertir-hasta-25-000-millones-en-openai-informe",
+                            "titulo": "OpenAI Responde al \u00c9xito de DeepSeek con Nuevo Agente de ChatGPT 'Deep Research'",
+                            "url": "https://decrypt.co/es/304263/openai-responde-al-exito-de-deepseek-con-nuevo-agente-de-chatgpt-deep-research",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/softbank-gID_7.jpg@webp",
-                            "descripcion": "SoftBank est\u00e1 en conversaciones para inyectar hasta $25.000 millones directamente en OpenAI, posicionando al conglomerado tecnol\u00f3gico japon\u00e9s para convertirse en el mayor respaldo financiero del creador de ChatGPT, seg\u00fan inform\u00f3 inicialmente el Financial Times el mi\u00e9rcoles por la noche.\nSi el acuerdo se concreta, la inversi\u00f3n eclipsar\u00eda la participaci\u00f3n de $13.000 millones de Microsoft y marcar\u00eda la apuesta m\u00e1s ambiciosa de SoftBank en inteligencia artificial hasta la fecha.\nLos detalles del acu...",
-                            "fecha": "Feb 1, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/openai-chatgpt-gID_7.jpg@webp",
+                            "descripcion": "La empresa de inteligencia artificial OpenAI ha lanzado Deep Research, un nuevo agente impulsado por IA dentro de ChatGPT que realiza de forma independiente investigaciones web en profundidad, analiza datos y compila informes, completando tareas que a los humanos les llevar\u00eda horas o incluso d\u00edas.\nLa herramienta, disponible para usuarios Pro, est\u00e1 dise\u00f1ada para profesionales en finanzas, ciencia, pol\u00edticas e ingenier\u00eda, as\u00ed como para cualquier persona que busque \"investigaci\u00f3n exhaustiva, precis...",
+                            "fecha": "Feb 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Guerra Por la IA: EEUU, Italia y OpenAI Investigan a DeepSeek por Presunto Espionaje Tecnol\u00f3gico",
+                                    "url": "https://decrypt.co/es/303658/guerra-por-la-ia-eeuu-italia-y-openai-investigan-a-deepseek-por-presunto-espionaje-tecnologico",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Feb 3, 2025",
+                                    "meta": "7 min lectura"
+                                },
+                                {
+                                    "titulo": "Jap\u00f3n Planea Invertir Hasta $25.000 Millones en OpenAI: Informe",
+                                    "url": "https://decrypt.co/es/303578/japon-planea-invertir-hasta-25-000-millones-en-openai-informe",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Feb 1, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "ExPresidente de la SEC Gary Gensler Regresar\u00e1 a la Escuela para Ense\u00f1ar Sobre IA",
                                     "url": "https://decrypt.co/es/303413/expresidente-de-la-sec-gary-gensler-regresara-a-la-escuela-para-ensenar-sobre-ia",
@@ -13147,23 +13161,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 29, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "\u00bfOpenAI Hizo Trampa en su Destacado Examen de Matem\u00e1ticas?",
                                     "url": "https://decrypt.co/es/303010/openai-hizo-trampa-destacado-examen-de-matematicas",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 28, 2025",
-                                    "meta": "5 min lectura"
+                                    "meta": "5 min lectura",
+                                    "descripcion": "\u00bfQu\u00e9 tan inteligente es un modelo que memoriza las respuestas antes de un examen? Esa es la pregunta que enfrenta OpenAI despu\u00e9s de presentar o3 en diciembre y presumir los impresionantes puntos de referencia de su modelo. En ese momento, algunos expertos lo aclamaron como casi tan poderoso como la AGI, el nivel en el que la inteligencia artificial es capaz de lograr el mismo rendimiento que un humano en cualquier tarea requerida por el usuario.\nPero el dinero lo cambia todo, incluso las pruebas..."
                                 },
                                 {
                                     "titulo": "Tokens de IA se Desploman Luego de DeepSeek Sacudir el Mercado de Inteligencia Artificial",
                                     "url": "https://decrypt.co/es/303045/tokens-de-ia-se-desploman-luego-de-deepseek-sacudir-el-mercado-de-inteligencia-artificial",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jan 28, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "La startup china DeepSeek sorprendi\u00f3 a la industria establecida de IA al lanzar un modelo gratuito de c\u00f3digo abierto que puede superar el rendimiento posible de OpenAI. Y la empresa afirma que fue desarrollado a una fracci\u00f3n del costo de su mayor competidor.\nEsto ha llevado a muchos a filosofar existencialmente sobre el futuro de la industria de la IA tal como la conocemos. En respuesta, las acciones de Nvidia cayeron un 13%, los futuros del Nasdaq 100 tambi\u00e9n cayeron un 3,3%, y los tokens de IA..."
+                                },
                                 {
                                     "titulo": "China Contraataca: Conoce DeepSeek R1, la IA Gratuita de C\u00f3digo Abierto Que Iguala a OpenAI o1",
                                     "url": "https://decrypt.co/es/302997/china-contraataca-conoce-deepseek-r1-la-ia-gratuita-de-codigo-abierto-que-iguala-a-openai-o1",
@@ -13187,22 +13203,6 @@
                                     "fecha": "Jan 25, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "Un hombre de 69 a\u00f1os con par\u00e1lisis y un implante cerebral logr\u00f3 pilotar un dron virtual a trav\u00e9s de complejos circuitos de obst\u00e1culos mientras pensaba en mover sus dedos, gracias a un dispositivo experimental desarrollado por investigadores de la Universidad de Stanford.\nEl participante, que tiene cuadriplej\u00eda por una lesi\u00f3n de m\u00e9dula espinal C4, naveg\u00f3 por circuitos de obst\u00e1culos y patrones de vuelo aleatorios utilizando se\u00f1ales neuronales de dos peque\u00f1os arrays de electrodos implantados en su..."
-                                },
-                                {
-                                    "titulo": "Trump Revela Iniciativa Del Sector Privado de $500.000 Millones Para Impulsar la IA en EEUU",
-                                    "url": "https://decrypt.co/es/302299/trump-revela-iniciativa-del-sector-privado-de-500-000-millones-para-impulsar-la-ia-en-eeuu",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 22, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "El presidente Donald Trump revel\u00f3 el martes una iniciativa del sector privado de $500.000 millones para fortalecer la infraestructura de IA de EE. UU. e impulsar el crecimiento en el pa\u00eds.\nEl denominado Proyecto Stargate, llega un d\u00eda despu\u00e9s de que derogara una orden ejecutiva de la era Biden dirigida a regular los riesgos de la IA.\nLa nueva iniciativa de IA incluir\u00e1 a varios desarrolladores l\u00edderes de IA, incluyendo a OpenAI, creadora de ChatGPT, Oracle y el conglomerado japon\u00e9s SoftBank. Otra..."
-                                },
-                                {
-                                    "titulo": "Me Un\u00ed a la Alternativa China de TikTok \"RedNote\", y Viv\u00ed Para Arrepentirme",
-                                    "url": "https://decrypt.co/es/301823/me-uni-a-la-alternativa-china-de-tiktok-rednote-y-vivi-para-arrepentirme",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jan 20, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Cuando el Congreso aprob\u00f3 la prohibici\u00f3n de TikTok, decid\u00ed explorar Xiaohongshu, tambi\u00e9n conocido como RedNote, la respuesta china a la aplicaci\u00f3n de redes sociales que de repente se inund\u00f3 de \u201crefugiados de TikTok\u201d estadounidenses protestando.\nLas primeras horas navegando por la aplicaci\u00f3n se sintieron como tropezar con un rinc\u00f3n acogedor de Internet.\nLa interfaz estaba principalmente en mandar\u00edn, pero el contenido hablaba un lenguaje universal: mascotas adorables, fotos de viajes (las ciudades..."
                                 }
                             ]
                         }
@@ -13212,17 +13212,17 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Samsung Electronics gan\u00f3 122,5% m\u00e1s en 2024 pese a ralentizaci\u00f3n de la demanda de chips",
-                            "url": "https://www.elnacional.com/tecnologia/samsung-electronics-gano-1225-mas-en-2024-pese-a-ralentizacion-de-la-demanda-de-chips/",
-                            "categoria": "TECNOLOGIA",
-                            "fecha": "enero 31, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Samsung-Electronics.jpg"
+                            "titulo": "OpenAI revoluciona la investigaci\u00f3n en ChatGPT con nueva herramienta",
+                            "url": "https://www.elnacional.com/tecnologia/openai-revoluciona-chatgpt-con-herramienta-de-investigacion/",
+                            "categoria": "INTELIGENCIA ARTIFICIAL",
+                            "fecha": "febrero 3, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/AFP__20250203__36WZ3U4__v3__Preview__TopshotJapanUsSoftwareTechnologyOpenaiSoftbank.jpg"
                         },
                         "notas": [
                             {
                                 "titulo": "Fundador de DeepSeek es recibido como un h\u00e9roe en su ciudad natal",
                                 "url": "https://www.elnacional.com/tecnologia/fundador-de-deepseek-es-recibido-como-un-heroe/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/d00fa96d7063ec42881c0b6841c07826a6261e70.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "febrero 1, 2025",
                                 "extra": "El fundador de DeepSeek, Liang Wenfeng, fue recibido como un h\u00e9roe en su ciudad natal de Mililing, en la provincia\u2026"
@@ -13230,7 +13230,7 @@
                             {
                                 "titulo": "La NASA confirm\u00f3 la fecha y el lugar en el que caer\u00e1 la Estaci\u00f3n Espacial Internacional",
                                 "url": "https://www.elnacional.com/ciencia/la-nasa-confirmo-la-fecha-y-el-lugar-en-el-que-caera-la-estacion-espacial-internacional/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/NASA.jpg",
+                                "imagen": null,
                                 "meta": "CIENCIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "La NASA confirm\u00f3 esta semana una decisi\u00f3n trascendental para el futuro de la exploraci\u00f3n espacial:\u00a0la Estaci\u00f3n Espacial Internacional (EEI), s\u00edmbolo\u2026"
@@ -13238,7 +13238,7 @@
                             {
                                 "titulo": "OpenAI cre\u00f3 una versi\u00f3n de ChatGPT exclusiva para el gobierno de Estados Unidos",
                                 "url": "https://www.elnacional.com/tecnologia/openai-creo-una-version-de-chatgpt-exclusiva-para-el-gobierno-de-estados-unidos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-chatgpt.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "Si bien la llegada de la inteligencia artificial china DeekSeek ha sacudido el mundo de la tecnolog\u00eda por estos d\u00edas,\u2026"
@@ -13246,7 +13246,7 @@
                             {
                                 "titulo": "Microsoft y Oracle, en alianza para comprar TikTok",
                                 "url": "https://www.elnacional.com/tecnologia/microsoft-y-oracle-en-alianza-para-comprar-tiktok/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/TikTok-.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "TikTok regres\u00f3 parcialmente a Estados Unidos. Tras un breve cierre en v\u00edsperas del 18 de enero, la plataforma volvi\u00f3 a\u2026"
@@ -13254,15 +13254,23 @@
                             {
                                 "titulo": "Deepfakes y ciberestafas: los desaf\u00edos tecnol\u00f3gicos de 2025",
                                 "url": "https://www.elnacional.com/tecnologia/deepfakes-y-ciberestafas-los-desafios-tecnologicos-de-2025/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/pixabay-deepfake.png",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "Seg\u00fan informaci\u00f3n reciente de Gartner, se espera que para el 2025 tecnolog\u00edas emergentes como la inteligencia artificial aut\u00f3noma, la computaci\u00f3n\u2026"
                             },
                             {
+                                "titulo": "Samsung Electronics gan\u00f3 122,5% m\u00e1s en 2024 pese a ralentizaci\u00f3n de la demanda de chips",
+                                "url": "https://www.elnacional.com/tecnologia/samsung-electronics-gano-1225-mas-en-2024-pese-a-ralentizacion-de-la-demanda-de-chips/",
+                                "imagen": null,
+                                "meta": "TECNOLOGIA",
+                                "fecha": "enero 31, 2025",
+                                "extra": "El gigante de la electr\u00f3nica surcoreano Samsung Electronics logr\u00f3 en todo 2024 un beneficio neto de 34,45 billones de wones\u2026"
+                            },
+                            {
                                 "titulo": "La IA analiza el lenguaje y revela los secretos de los mentirosos",
                                 "url": "https://www.elnacional.com/tecnologia/la-ia-analiza-el-lenguaje-y-revela-los-secretos-de-los-mentirosos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IA-Mentiras.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 29, 2025",
                                 "extra": "Dicen que la mentira es una compa\u00f1era inseparable del ser humano\u2026 Hasta que naci\u00f3 la IA. Aunque el dicho popular\u2026"
@@ -13286,18 +13294,10 @@
                             {
                                 "titulo": "Samsung contin\u00faa sembrando semillas de innovaci\u00f3n en Venezuela",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-sigue-sembrando-semillas-de-innovacion-en-venezuela/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/HS-Jo-scaled.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 28, 2025",
                                 "extra": "Seg\u00fan la segunda edici\u00f3n del estudio Our Life with AI de Google, elaborado por Ipsos, actualmente existe un crecimiento en\u2026"
-                            },
-                            {
-                                "titulo": "Samsung abre una nueva ventana con Project Moohan, realidad extendida en forma de lentes",
-                                "url": "https://www.elnacional.com/tecnologia/moohan-nueva-frontera-de-realidad-extendida-de-samsung/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-25-155815.png",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "enero 27, 2025",
-                                "extra": "Moohan. As\u00ed se llama el nuevo visor de realidad extendida (XR) de Samsung Electronics que promete llevar la experiencia digital\u2026"
                             }
                         ]
                     }
@@ -13306,13 +13306,21 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "La IA analiza el lenguaje y revela los secretos de los mentirosos",
-                            "url": "https://www.elnacional.com/tecnologia/la-ia-analiza-el-lenguaje-y-revela-los-secretos-de-los-mentirosos/",
+                            "titulo": "OpenAI revoluciona la investigaci\u00f3n en ChatGPT con nueva herramienta",
+                            "url": "https://www.elnacional.com/tecnologia/openai-revoluciona-chatgpt-con-herramienta-de-investigacion/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "enero 29, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IA-Mentiras.jpg"
+                            "fecha": "febrero 3, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/AFP__20250203__36WZ3U4__v3__Preview__TopshotJapanUsSoftwareTechnologyOpenaiSoftbank.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "La IA analiza el lenguaje y revela los secretos de los mentirosos",
+                                "url": "https://www.elnacional.com/tecnologia/la-ia-analiza-el-lenguaje-y-revela-los-secretos-de-los-mentirosos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IA-Mentiras.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "enero 29, 2025",
+                                "extra": "Dicen que la mentira es una compa\u00f1era inseparable del ser humano\u2026 Hasta que naci\u00f3 la IA. Aunque el dicho popular\u2026"
+                            },
                             {
                                 "titulo": "DeepSeek, la IA china, se paraliza parcialmente tras ciberataque",
                                 "url": "https://www.elnacional.com/tecnologia/deepseek-se-paraliza-parcialmente-tras-ciberataques/",
@@ -13324,7 +13332,7 @@
                             {
                                 "titulo": "Samsung contin\u00faa sembrando semillas de innovaci\u00f3n en Venezuela",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-sigue-sembrando-semillas-de-innovacion-en-venezuela/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/HS-Jo-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 28, 2025",
                                 "extra": "Seg\u00fan la segunda edici\u00f3n del estudio Our Life with AI de Google, elaborado por Ipsos, actualmente existe un crecimiento en\u2026"
@@ -13332,7 +13340,7 @@
                             {
                                 "titulo": "Redefiniendo el futuro de la tecnolog\u00eda con la serie Galaxy S25",
                                 "url": "https://www.elnacional.com/tecnologia/redefiniendo-el-futuro-de-la-tecnologia-con-la-serie-galaxy-s25/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/007-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 27, 2025",
                                 "extra": "Por HS Jo, Presidente y CEO de Samsung Electronics Am\u00e9rica Latina En un mundo cada vez m\u00e1s interconectado, la tecnolog\u00eda\u2026"
@@ -13340,7 +13348,7 @@
                             {
                                 "titulo": "Samsung Galaxy S25 Ultra, m\u00e1s que un smartphone",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-s25-ultra-un-smartphone-que-lo-tiene-todo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/20250121_220512-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 24, 2025",
                                 "extra": "Sus caracter\u00edsticas redefinen los l\u00edmites de lo posible. Algo que qued\u00f3 claro tras su lanzamiento este mi\u00e9rcoles 22 de enero\u2026"
@@ -13348,7 +13356,7 @@
                             {
                                 "titulo": "Samsung Unpacked 2025: serie Galaxy S25, m\u00e1s que m\u00f3viles, asistentes personales",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-galaxy-unpacked-2025-ia-como-un-asistente-personal/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/353A8193-scaled.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 22, 2025",
                                 "extra": "Este mi\u00e9rcoles 22 de enero, el pabell\u00f3n deportivo SAP Center de la ciudad estadounidense San Jos\u00e9, en California (tambi\u00e9n conocido\u2026"
@@ -13356,7 +13364,7 @@
                             {
                                 "titulo": "IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a trav\u00e9s de la IA",
                                 "url": "https://www.elnacional.com/tecnologia/ibm-y-loreal-impulsaran-la-innovacion-y-belleza-a-traves-de-la-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IBM-y-LOreal-1.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 16, 2025",
                                 "extra": "En un hito hist\u00f3rico para la industria de la belleza, IBM y L\u2019Or\u00e9al unen fuerzas para impulsar la innovaci\u00f3n a\u2026"
@@ -13364,7 +13372,7 @@
                             {
                                 "titulo": "China denuncia que la IA estadounidense es una nueva arma de represi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/china-denuncia-que-la-ia-estadounidense-es-una-nueva-arma-de-represion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/EE.UU_.-vs-China-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 14, 2025",
                                 "extra": "En un nuevo cap\u00edtulo de la \u2018guerra tecnol\u00f3gica\u2019, China acus\u00f3 a Estados Unidos de levantar muros comerciales para proteger su\u2026"
@@ -13372,7 +13380,7 @@
                             {
                                 "titulo": "Apple regula su IA tras propagaci\u00f3n desmedida de noticias falsas",
                                 "url": "https://www.elnacional.com/tecnologia/apple-regula-su-ia-tras-propagacion-de-noticias-falsas/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Logo-Apple-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "Las fake news o noticias falsas se han convertido en algo m\u00e1s que habitual en internet, sobre todo en redes\u2026"
@@ -13380,18 +13388,10 @@
                             {
                                 "titulo": "\u00bfChatGPT tiene un tal\u00f3n de Aquiles? Este error cuestiona su IA",
                                 "url": "https://www.elnacional.com/tecnologia/ia-de-chatgpt-podria-tener-un-talon-de-aquiles/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/chatgpt-imagen.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "enero 9, 2025",
                                 "extra": "A menudo, se pinta a la Inteligencia Artificial (IA) como una amenaza inminente, capaz de esclavizar a la humanidad. Sin\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfOpenAI planear\u00eda hacer un robot de cuerpo humano y un cerebro con ChatGPT?",
-                                "url": "https://www.elnacional.com/tecnologia/openai-hara-robot-de-cuerpo-humano-y-cerebro-con-chatgpt/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/robot-humanoide-openIA-chatgpt.webp",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "enero 6, 2025",
-                                "extra": "OpenAI espera expandirse m\u00e1s all\u00e1 de sus tecnolog\u00eda de Inteligencia Artificial (IA) generativa. Seg\u00fan confirmaron fuentes al portal The Information,\u2026"
                             }
                         ]
                     }
