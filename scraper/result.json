@@ -11273,6 +11273,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Venta de entradas para el torneo First Stand",
+                        "url": "https://lolesports.com/es-es/news/first-stand-tournament-ticket-sales",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-02-07T02:00:00.000Z",
+                        "detalle": "Las entradas saldr\u00e1n a la venta el 10 de febrero."
+                    },
+                    {
                         "titulo": "Expositor de chibicampeones: Las momias tristes",
                         "url": "https://www.youtube.com/watch?v=ZoSS9mqHOUY",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11359,14 +11367,6 @@
                         "categoria": "Esports",
                         "fecha": "2025-01-23T15:00:00.000Z",
                         "detalle": "Esto es todo lo que necesit\u00e1is saber sobre los tres formatos \u00fanicos del Masters de EMEA de este a\u00f1o y sobre c\u00f3mo se clasificar\u00e1n los equipos de cada regi\u00f3n."
-                    },
-                    {
-                        "titulo": "Expositor de tem\u00e1tica: Festival lunar 2025",
-                        "url": "https://www.youtube.com/watch?v=rf81-aTcg7U",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-23T14:00:00.000Z",
-                        "detalle": "Cruzad portales con Zoe chibi y Zoe hacedora de mitos chibi en la arena Reino divino de la sierpe."
                     }
                 ],
                 "notas": [
@@ -12152,6 +12152,16 @@
                                 "etiqueta": "Apex Legends",
                                 "info": [
                                     {
+                                        "titulo": "Novedades que llegan con Apex Legends\u2122: Influencia",
+                                        "informacion": [
+                                            "Apex Legends",
+                                            "06-feb-2025"
+                                        ],
+                                        "detalle": "Echamos un vistazo a las novedades de Influencia, con miembros creadores, arsenales, cambios en el meta y m\u00e1s.",
+                                        "url": "https://www.ea.com/es-es/games/apex-legends/news/takeover-game-updates",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/takeover-game-updates/takeover-game-updates-thumbnail.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "Apex Legends\u2122: actualizaci\u00f3n sobre antitrampas y matchmaking",
                                         "informacion": [
                                             "Apex Legends",
@@ -12200,16 +12210,6 @@
                                         "detalle": "Enfr\u00e9ntate a una dura prueba en el MTL Expreso hibernal, obt\u00e9n Maldici\u00f3n invernal de Bloodhound y consigue 150 fragmentos de reliquias.",
                                         "url": "https://www.ea.com/es-es/games/apex-legends/news/winters-haunt-event",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/winters-haunt-event/apex-s23-wintershaunt-keyart-3840x2160.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "Gu\u00eda de regalos festivos de Apex Legends\u2122 de 2024",
-                                        "informacion": [
-                                            "Apex Legends",
-                                            "27-nov-2024"
-                                        ],
-                                        "detalle": "Bot\u00edn legendario para todo el mundo. No requiere un dep\u00f3sito de bot\u00edn.",
-                                        "url": "https://www.ea.com/es-es/games/apex-legends/news/holiday-gift-guide-2024",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/gift-guide-2024/holiday-gift-guide-2024-thumbnail.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12422,6 +12422,48 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Monster Hunter, Battlefield, GTA... Por menos de 10 euros, te puedes llevar cualquiera de estos juegos por tiempo limitado",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/07/67a4a07aca4741291d8b4594.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/06/17388422294949.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Xokas confiesa a Nil Ojeda la obsesi\u00f3n con el LOL que le dej\u00f3 fuera del streaming durante tres d\u00edas",
+                            "url": "https://www.marca.com/videojuegos/streamers/2025/02/07/67a5e29246163fd6818b45d1.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/07/17389258444503.jpg",
+                            "meta": "Streamers",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Football Manager 25 cancelado: El famoso simulador de f\u00fatbol confirma que no se lanzar\u00e1 esta temporada",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/07/67a5c80e46163f3a298b457d.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/07/17389182056048.jpg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "M\u00e1s de 15 juegos 'gratis' pueden ser tuyos gracias a Amazon. Juegos de Prime Gaming en febrero de 2025",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/07/67a5d2c722601d106a8b45b1.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/07/17389205825146.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Juegos gratis de febrero de 2025 en PS Plus, Game Pass, Amazon Prime Gaming y Epic Games",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/05/67a33c4846163fd2a98b4577.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/05/17387516580330.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfHas ligado con una paloma alguna vez? Pues este simulador de citas va de eso... y no, no es una broma",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/07/67a49a4dca47411c578b4571.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/06/17388408354949.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Estas son las skins m\u00e1s raras de Fortnite y de las que deber\u00edas huir si las encuentras en tus partidas",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/02/05/67a3bcf1ca4741902e8b45da.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/05/17387827241133.jpg",
@@ -12439,13 +12481,6 @@
                             "titulo": "\"Marvel's Spider-Man 2 en PC no est\u00e1 a la altura, pero...\"",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/02/05/67a34abe46163fedb88b4594.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/05/17387549320765.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Juegos gratis de febrero de 2025 en PS Plus, Game Pass, Amazon Prime Gaming y Epic Games",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/02/05/67a33c4846163fd2a98b4577.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/05/17387516580330.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
@@ -12735,41 +12770,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/23/17376253086471.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "COD: Black Ops 6 banea m\u00e1s de 100.000 cuentas de tramposos, pero es una medida insuficiente",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/23/679200d422601dcb778b457e.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/23/17376215248921.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Amenazas, impagos, silencio... PC F\u00fatbol 8 sigue sin pagarle a su comentarista 8 meses despu\u00e9s",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/22/6790ca3746163f8b068b459f.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/22/17375419607875.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"Que no os enga\u00f1en: subirle el precio a GTA 6 no salvar\u00e1 a la industria\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/01/22/6790b98146163ffd948b4573.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/22/17375384239263.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "TOTW 19: Dos espa\u00f1oles se cuelan en el Equipo de la Semana de EA Sports FC 25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/22/6791425b22601d6a458b4595.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/22/17375703515605.jpg",
-                            "meta": "FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Mbapp\u00e9, el principal candidato a 'Jugador del Mes' en EA Sports FC",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/01/22/67912ee2268e3e4e228b45c5.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/01/22/17375718948935.jpg",
-                            "meta": "EA Sports FC",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
                         }
                     ]
                 },
@@ -13222,7 +13222,7 @@
                             {
                                 "titulo": "Australia prohibi\u00f3 la IA china DeepSeek en los dispositivos de organismos gubernamentales",
                                 "url": "https://www.elnacional.com/tecnologia/australia-prohibio-la-ia-china-deepseek-en-los-dispositivos-de-organismos-gubernamentales/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "El gobierno de Australia anunci\u00f3 este martes la prohibici\u00f3n de la instalaci\u00f3n y uso del modelo chino de inteligencia artificial\u2026"
@@ -13230,7 +13230,7 @@
                             {
                                 "titulo": "Gemini se renueva: modelo 2.0 Flash ofrece rendimiento superior y nuevas funciones multimodales",
                                 "url": "https://www.elnacional.com/tecnologia/gemini-se-renueva-con-modelo-2-0-flash-de-rendimiento-superior/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Gemini-2.0-Google.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Google sigue elevando \u00absu nivel de juego\u00bb al anunciar la integraci\u00f3n de su \u00faltima innovaci\u00f3n en inteligencia artificial, el modelo\u2026"
@@ -13238,7 +13238,7 @@
                             {
                                 "titulo": "As\u00ed de sencillo es compartir datos m\u00f3viles con el celular",
                                 "url": "https://www.elnacional.com/tecnologia/datos-moviles-asi-de-simple-es-compartirlos-con-el-celular/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-04-071019.png",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "La posibilidad de compartir datos m\u00f3viles desde un tel\u00e9fono celular se convirti\u00f3 en una herramienta esencial. Sobre todo ahora, en\u2026"
@@ -13246,7 +13246,7 @@
                             {
                                 "titulo": "OpenAI revoluciona la investigaci\u00f3n en ChatGPT con nueva herramienta",
                                 "url": "https://www.elnacional.com/tecnologia/openai-revoluciona-chatgpt-con-herramienta-de-investigacion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/AFP__20250203__36WZ3U4__v3__Preview__TopshotJapanUsSoftwareTechnologyOpenaiSoftbank.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 3, 2025",
                                 "extra": "El gigante tecnol\u00f3gico estadounidense OpenAI anunci\u00f3 el lunes en Tokio una herramienta para ChatGPT llamada \u00abinvestigaci\u00f3n profunda\u00bb. El lanzamiento se\u2026"
@@ -13254,7 +13254,7 @@
                             {
                                 "titulo": "Fundador de DeepSeek es recibido como un h\u00e9roe en su ciudad natal",
                                 "url": "https://www.elnacional.com/tecnologia/fundador-de-deepseek-es-recibido-como-un-heroe/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/d00fa96d7063ec42881c0b6841c07826a6261e70.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "febrero 1, 2025",
                                 "extra": "El fundador de DeepSeek, Liang Wenfeng, fue recibido como un h\u00e9roe en su ciudad natal de Mililing, en la provincia\u2026"
@@ -13262,7 +13262,7 @@
                             {
                                 "titulo": "La NASA confirm\u00f3 la fecha y el lugar en el que caer\u00e1 la Estaci\u00f3n Espacial Internacional",
                                 "url": "https://www.elnacional.com/ciencia/la-nasa-confirmo-la-fecha-y-el-lugar-en-el-que-caera-la-estacion-espacial-internacional/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/NASA.jpg",
                                 "meta": "CIENCIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "La NASA confirm\u00f3 esta semana una decisi\u00f3n trascendental para el futuro de la exploraci\u00f3n espacial:\u00a0la Estaci\u00f3n Espacial Internacional (EEI), s\u00edmbolo\u2026"
@@ -13270,7 +13270,7 @@
                             {
                                 "titulo": "OpenAI cre\u00f3 una versi\u00f3n de ChatGPT exclusiva para el gobierno de Estados Unidos",
                                 "url": "https://www.elnacional.com/tecnologia/openai-creo-una-version-de-chatgpt-exclusiva-para-el-gobierno-de-estados-unidos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-chatgpt.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "Si bien la llegada de la inteligencia artificial china DeekSeek ha sacudido el mundo de la tecnolog\u00eda por estos d\u00edas,\u2026"
@@ -13278,7 +13278,7 @@
                             {
                                 "titulo": "Microsoft y Oracle, en alianza para comprar TikTok",
                                 "url": "https://www.elnacional.com/tecnologia/microsoft-y-oracle-en-alianza-para-comprar-tiktok/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/TikTok-.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "TikTok regres\u00f3 parcialmente a Estados Unidos. Tras un breve cierre en v\u00edsperas del 18 de enero, la plataforma volvi\u00f3 a\u2026"
@@ -13286,7 +13286,7 @@
                             {
                                 "titulo": "Deepfakes y ciberestafas: los desaf\u00edos tecnol\u00f3gicos de 2025",
                                 "url": "https://www.elnacional.com/tecnologia/deepfakes-y-ciberestafas-los-desafios-tecnologicos-de-2025/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/pixabay-deepfake.png",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "Seg\u00fan informaci\u00f3n reciente de Gartner, se espera que para el 2025 tecnolog\u00edas emergentes como la inteligencia artificial aut\u00f3noma, la computaci\u00f3n\u2026"
@@ -13294,7 +13294,7 @@
                             {
                                 "titulo": "Samsung Electronics gan\u00f3 122,5% m\u00e1s en 2024 pese a ralentizaci\u00f3n de la demanda de chips",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-electronics-gano-1225-mas-en-2024-pese-a-ralentizacion-de-la-demanda-de-chips/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/Samsung-Electronics.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "enero 31, 2025",
                                 "extra": "El gigante de la electr\u00f3nica surcoreano Samsung Electronics logr\u00f3 en todo 2024 un beneficio neto de 34,45 billones de wones\u2026"
