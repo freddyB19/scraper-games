@@ -12194,6 +12194,34 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "El 25 de marzo no ser\u00e1 un buen d\u00eda para los jugadores de Nintendo",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/20/67dbe142e2704e7d998b4579.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/20/17424636150117.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfEl futuro de los videojuegos? Razer ha presentado WYVRN y podr\u00eda cambiar todo lo que sabemos",
+                            "url": "https://www.marca.com/videojuegos/hardware/2025/03/20/67dbdba0e2704e7a5e8b45ad.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/20/17424634453578.jpg",
+                            "meta": "Hardware, software y consolas",
+                            "autor": "M. J."
+                        },
+                        {
+                            "titulo": "TOTW 2 de EA Sports FC 25: Leo Messi vuelve al Equipo de la Semana",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/19/67db15a1e2704eab438b458d.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/19/17424082640594.jpg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "El Grupo LEGO y The Pok\u00e9mon Company International se unen para dar vida al mundo de Pok\u00e9mon",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/19/67daf08a22601d075f8b4581.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/19/17424032328548.jpg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
                             "titulo": "Soy espa\u00f1ol, \u00bfa qu\u00e9 quieres que te gane? Charlamos con el campe\u00f3n europeo de Pok\u00e9mon\u00a0Go:\u00a0Leo\u00a0Mar\u00edn",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/03/19/67daa46846163f8b7c8b45bd.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/19/17423845396709.jpg",
@@ -12514,34 +12542,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17409953174370.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Monster Hunter Wilds: c\u00f3mo y d\u00f3nde atrapar un Dignialado para completar la Investigaci\u00f3n de Samin",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/03/67c568f5268e3e283a8b4570.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17409907080470.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni Vampire Survivors, ni Hades. Mi nuevo roguelite preferido es uno de capibaras con muy mala leche",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/02/67c1b07e46163fae138b45f9.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/28/17407469175184.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Akira Toriyama, te echamos de menos. Se cumple un a\u00f1o de la muerte del maestro y hoy le recordamos",
-                            "url": "https://www.marca.com/videojuegos/anime/opinion/2025/03/01/67c1a3fa46163fd32b8b45b0.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/28/17407447362212.jpg",
-                            "meta": "Anime y manga",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Monster Hunter Wilds, \u00bfel m\u00e1s f\u00e1cil de la saga? Al juego le llueven las cr\u00edticas, pero...",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/02/28/67c19a5246163f41378b45dd.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/02/28/17407414753983.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12549,12 +12549,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Xsolla y Ukie anuncian su asociaci\u00f3n en GDC 2025 para ayudar a los desarrolladores de juegos del Reino Unido y de toda la regi\u00f3n EMEA",
+                            "url": "https://www.lanacion.com.ar/agencias/xsolla-y-ukie-anuncian-su-asociacion-en-gdc-2025-para-ayudar-a-los-desarrolladores-de-juegos-del-nid19032025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/xsolla-y-ukie-anuncian-su-asociacion-en-gdc-2025-IAKREGCCGZFWVEZ4ZF4OPNGE5I.jpg?auth=7aab53005579c44a93d9d983d7195d0d40eb58f8f94b507ff22e0ba43fd11460&width=300&height=200&quality=70&smart=true",
+                            "fecha": "19 de marzo de 2025",
+                            "url_link": "/agencias/xsolla-y-ukie-anuncian-su-asociacion-en-gdc-2025-para-ayudar-a-los-desarrolladores-de-juegos-del-nid19032025/"
+                        },
+                        {
                             "titulo": [
                                 "<span class=\"com-lead\">Oficial. </span>",
                                 "Pok\u00e9mon tendr\u00e1 acento latinoamericano en sus juegos y en sus cartas"
                             ],
                             "url": "https://www.lanacion.com.ar/tecnologia/pokemon-anuncio-la-regionalizacion-al-espanol-latinoamericano-de-sus-cartas-y-de-sus-videojuegos-nid17032025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/el-argentino-tomas-cortijo-director-regional-de-LEBRTDWIPZELZDWQJ26WZ7COKQ.jpg?auth=e0a3f9b86dfc32abf30cb7bfe116ecdad34f6c2ba1418ef174eb03cdd38c1650&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/el-argentino-tomas-cortijo-director-regional-de-LEBRTDWIPZELZDWQJ26WZ7COKQ.jpg?auth=e0a3f9b86dfc32abf30cb7bfe116ecdad34f6c2ba1418ef174eb03cdd38c1650&width=300&height=200&quality=70&smart=true",
                             "fecha": "17 de marzo de 2025",
                             "url_link": "/tecnologia/pokemon-anuncio-la-regionalizacion-al-espanol-latinoamericano-de-sus-cartas-y-de-sus-videojuegos-nid17032025/"
                         },
@@ -12777,16 +12784,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "23 de enero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-23-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid23012025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Uso no convencional.  </span>",
-                                "Se perdieron en la monta\u00f1a y la salvaci\u00f3n lleg\u00f3 desde un lugar inesperado: Pok\u00e9mon Go"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/se-perdieron-en-la-montana-y-pudieron-regresar-a-salvo-gracias-a-pokemon-go-nid21012025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/tres-noruegos-se-perdieron-en-un-bosque-espanol-y-VJ4QW75NMVCJDBCNBC75T65Y44.jpg?auth=dec86ed681c5c526614ebf8bbd20a89dcb2d232f6c8a773b8cd19d70318f6952&width=300&height=200&quality=70&smart=true",
-                            "fecha": "21 de enero de 2025",
-                            "url_link": "/tecnologia/se-perdieron-en-la-montana-y-pudieron-regresar-a-salvo-gracias-a-pokemon-go-nid21012025/"
                         }
                     ]
                 },
@@ -12996,13 +12993,21 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Latam-GPT, el proyecto que busca ser el primer modelo de inteligencia artificial colaborativo de Am\u00e9rica Latina",
-                            "url": "https://www.elnacional.com/ciencia-y-tecnologia/latam-gpt-el-proyecto-que-busca-ser-el-primer-modelo-de-inteligencia-artificial-colaborativo-de-america-latina/",
-                            "categoria": "*CIENCIA Y TECNOLOG\u00cdA",
-                            "fecha": "marzo 17, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/thkkhg.png"
+                            "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
+                            "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
+                            "categoria": "INTELIGENCIA ARTIFICIAL",
+                            "fecha": "marzo 19, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "iPhone 17 Ultra marcar\u00e1 el inicio de una nueva generaci\u00f3n de celulares",
+                                "url": "https://www.elnacional.com/tecnologia/iphone-17-ultra-marcara-el-inicio-de-una-nueva-generacion/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/El-lanzamiento-del-iPhone-17-Ultra-sera-en-septiembre-de-2025-Foto-Archivo.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "marzo 19, 2025",
+                                "extra": "Apple sorprendi\u00f3 a todos sus seguidores con el anuncio de su posible modelo \u00abUltra\u00bb, que\u00a0ser\u00eda la primera vez que la\u2026"
+                            },
                             {
                                 "titulo": "Prohibir toda IA creada en China: lo que pidi\u00f3 OpenAI al gobierno de Trump",
                                 "url": "https://www.elnacional.com/tecnologia/prohibir-toda-ia-creada-en-china-lo-que-pidio-openai-al-gobierno-de-trump/",
@@ -13074,14 +13079,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 7, 2025",
                                 "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
-                            },
-                            {
-                                "titulo": "Google lanza un \u00abmodo con inteligencia artificial\u00bb en su buscador",
-                                "url": "https://www.elnacional.com/tecnologia/google-lanza-un-modo-con-inteligencia-artificial-en-su-buscador/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/Google-IA.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 5, 2025",
-                                "extra": "Google anunci\u00f3 este mi\u00e9rcoles el lanzamiento de una nueva funci\u00f3n en su buscador: un \u00abmodo con inteligencia artificial\u00ab. Esta herramienta,\u2026"
                             }
                         ]
                     }
@@ -13090,17 +13087,25 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
-                            "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
+                            "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
+                            "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "marzo 12, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6571088_the_mind_guardian_nuevo_videojuego_samsung_identificar_signos_deterioro.jpg"
+                            "fecha": "marzo 19, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg"
                         },
                         "notas": [
                             {
+                                "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
+                                "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
+                                "imagen": null,
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "marzo 12, 2025",
+                                "extra": "Samsung lanz\u00f3 The Mind Guardian, un innovador videojuego impulsado por Inteligencia Artificial (IA) que permite la autoevaluaci\u00f3n de la memoria\u2026"
+                            },
+                            {
                                 "titulo": "Doblaje con IA llega a pel\u00edculas y series gracias a Prime Video",
                                 "url": "https://www.elnacional.com/tecnologia/prime-video-doblaje-con-ia-llega-a-peliculas-y-series/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-084341.png",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 7, 2025",
                                 "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
@@ -13108,7 +13113,7 @@
                             {
                                 "titulo": "Alibaba y la IA: \u00bfuna inversi\u00f3n de 50.000 millones de d\u00f3lares que cambiar\u00e1 el mundo?",
                                 "url": "https://www.elnacional.com/tecnologia/alibaba-y-la-ia-una-inversion-que-cambiara-el-mundo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Alibaba-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 24, 2025",
                                 "extra": "El gigante chino del comercio electr\u00f3nico Alibaba anunci\u00f3 el lunes que invertir\u00e1 m\u00e1s de 50.000 millones de d\u00f3lares en inteligencia\u2026"
@@ -13116,7 +13121,7 @@
                             {
                                 "titulo": "IA revela c\u00f3mo las decisiones diarias moldean la felicidad a largo plazo",
                                 "url": "https://www.elnacional.com/tecnologia/ia-como-las-decisiones-diarias-moldean-la-felicidad-a-largo-plazo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/IA-Felicidad.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 19, 2025",
                                 "extra": "Muchas decisiones cotidianas\u00a0que se hacen d\u00eda a d\u00eda pueden tener un fuerte impacto en las personas. Aunque parezcan peque\u00f1as, incluso\u2026"
@@ -13124,7 +13129,7 @@
                             {
                                 "titulo": "Grok-3, la nueva IA de Elon Musk aterradoramente inteligente",
                                 "url": "https://www.elnacional.com/tecnologia/grok-3-la-nueva-ia-de-elon-musk-aterradoramente-inteligente/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Grok-3-tiene-mas-precision-que-los-modelos-de-Google-o-de-OpenIA-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 18, 2025",
                                 "extra": "Grok-3, el nuevo modelo de Inteligencia Artificial (IA), fue lanzado por el multimillonario Elon Musk este mes de febrero en\u2026"
@@ -13132,7 +13137,7 @@
                             {
                                 "titulo": "Microsoft crea una fundaci\u00f3n para una \u00abIA responsable\u00bb en Abu Dabi",
                                 "url": "https://www.elnacional.com/tecnologia/microsoft-crea-una-fundacion-para-una-ia-responsable/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/08/pixabay-microsoft.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 9, 2025",
                                 "extra": "Microsoft crear\u00e1 una fundaci\u00f3n para promover una inteligencia artificial (IA) \u00abresponsable\u00bb situada en Abu Dabi, capital de Emiratos \u00c1rabes Unidos,\u2026"
@@ -13140,7 +13145,7 @@
                             {
                                 "titulo": "Australia prohibi\u00f3 la IA china DeepSeek en los dispositivos de organismos gubernamentales",
                                 "url": "https://www.elnacional.com/tecnologia/australia-prohibio-la-ia-china-deepseek-en-los-dispositivos-de-organismos-gubernamentales/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "El gobierno de Australia anunci\u00f3 este martes la prohibici\u00f3n de la instalaci\u00f3n y uso del modelo chino de inteligencia artificial\u2026"
@@ -13148,7 +13153,7 @@
                             {
                                 "titulo": "Taiw\u00e1n toma medidas en\u00e9rgicas contra DeepSeek por riesgos de seguridad",
                                 "url": "https://www.elnacional.com/tecnologia/taiwan-contra-deepseek-por-riesgos-de-seguridad-gubernamental/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Este lunes, Taiw\u00e1n prohibi\u00f3 por completo a los departamentos gubernamentales utilizar el servicio de la plataforma de inteligencia artificial (IA)\u2026"
@@ -13156,7 +13161,7 @@
                             {
                                 "titulo": "Gemini se renueva: modelo 2.0 Flash ofrece rendimiento superior y nuevas funciones multimodales",
                                 "url": "https://www.elnacional.com/tecnologia/gemini-se-renueva-con-modelo-2-0-flash-de-rendimiento-superior/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Gemini-2.0-Google.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Google sigue elevando \u00absu nivel de juego\u00bb al anunciar la integraci\u00f3n de su \u00faltima innovaci\u00f3n en inteligencia artificial, el modelo\u2026"
@@ -13164,18 +13169,10 @@
                             {
                                 "titulo": "OpenAI revoluciona la investigaci\u00f3n en ChatGPT con nueva herramienta",
                                 "url": "https://www.elnacional.com/tecnologia/openai-revoluciona-chatgpt-con-herramienta-de-investigacion/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/AFP__20250203__36WZ3U4__v3__Preview__TopshotJapanUsSoftwareTechnologyOpenaiSoftbank.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 3, 2025",
                                 "extra": "El gigante tecnol\u00f3gico estadounidense OpenAI anunci\u00f3 el lunes en Tokio una herramienta para ChatGPT llamada \u00abinvestigaci\u00f3n profunda\u00bb. El lanzamiento se\u2026"
-                            },
-                            {
-                                "titulo": "La IA analiza el lenguaje y revela los secretos de los mentirosos",
-                                "url": "https://www.elnacional.com/tecnologia/la-ia-analiza-el-lenguaje-y-revela-los-secretos-de-los-mentirosos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/IA-Mentiras.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "enero 29, 2025",
-                                "extra": "Dicen que la mentira es una compa\u00f1era inseparable del ser humano\u2026 Hasta que naci\u00f3 la IA. Aunque el dicho popular\u2026"
                             }
                         ]
                     }
