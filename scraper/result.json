@@ -12549,9 +12549,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 20 de marzo en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-20-de-marzo-en-epic-games-solo-hay-que-reclamarlos-nid20032025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "20 de marzo de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-20-de-marzo-en-epic-games-solo-hay-que-reclamarlos-nid20032025/"
+                        },
+                        {
                             "titulo": "Xsolla y Ukie anuncian su asociaci\u00f3n en GDC 2025 para ayudar a los desarrolladores de juegos del Reino Unido y de toda la regi\u00f3n EMEA",
                             "url": "https://www.lanacion.com.ar/agencias/xsolla-y-ukie-anuncian-su-asociacion-en-gdc-2025-para-ayudar-a-los-desarrolladores-de-juegos-del-nid19032025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/xsolla-y-ukie-anuncian-su-asociacion-en-gdc-2025-IAKREGCCGZFWVEZ4ZF4OPNGE5I.jpg?auth=7aab53005579c44a93d9d983d7195d0d40eb58f8f94b507ff22e0ba43fd11460&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/xsolla-y-ukie-anuncian-su-asociacion-en-gdc-2025-IAKREGCCGZFWVEZ4ZF4OPNGE5I.jpg?auth=7aab53005579c44a93d9d983d7195d0d40eb58f8f94b507ff22e0ba43fd11460&width=300&height=200&quality=70&smart=true",
                             "fecha": "19 de marzo de 2025",
                             "url_link": "/agencias/xsolla-y-ukie-anuncian-su-asociacion-en-gdc-2025-para-ayudar-a-los-desarrolladores-de-juegos-del-nid19032025/"
                         },
@@ -12777,13 +12784,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/netflix-prepara-juegos-para-que-use-la-familia-PLBTLK6EBBDB7DWDOCLYLXPWQA.jpg?auth=682fefbdea4e9c5344d9c6e2397ff83959eabe2b1e4afad239401e632aafaa19&width=300&height=200&quality=70&smart=true",
                             "fecha": "24 de enero de 2025",
                             "url_link": "/tecnologia/netflix-sumara-juegos-cooperativos-para-usar-en-la-tv-y-titulos-infantiles-sin-publicidad-nid24012025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 23 de enero en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-23-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid23012025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "23 de enero de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-23-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid23012025/"
                         }
                     ]
                 },
@@ -12890,116 +12890,35 @@
                 },
                 {
                     "nombre": "decrypt_ia",
-                    "pagina": {
-                        "principal": {
-                            "titulo": "Microsoft Integrar\u00e1 la IA Copilot en Xbox Para Ayudar a los Jugadores",
-                            "url": "https://decrypt.co/es/310084/microsoft-integrara-la-ia-copilot-en-xbox-para-ayudar-a-los-jugadores",
-                            "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/gamer-gains-gID_7.png@webp",
-                            "descripcion": "Como alguien que juega Apex Legends religiosamente, la idea de un entrenador impulsado por inteligencia artificial es tentadora, especialmente cuando los servicios de entrenamiento pueden ser costosos.\nSi un chatbot gratuito puede ayudarme a acumular m\u00e1s victorias, estoy completamente a favor. Para m\u00ed y millones de otros jugadores en Xbox, una nueva funci\u00f3n de Copilot promete elevar nuestro juego.\nDurante un episodio del Podcast Oficial de Xbox, la Vicepresidenta Corporativa de Juegos de IA de X...",
-                            "fecha": "Mar 16, 2025"
-                        },
-                        "notas": {
-                            "cortas": [
-                                {
-                                    "titulo": "Cuando los Modelos de IA Son Presionados para 'Comportarse', Conspiran en Privado: OpenAI",
-                                    "url": "https://decrypt.co/es/310006/cuando-los-modelos-de-ia-son-presionados-para-comportarse-conspiran-en-privado-openai",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 14, 2025",
-                                    "meta": "7 min lectura"
-                                },
-                                {
-                                    "titulo": "Nuevo Modelo de IA de Google Gemma 3 se Luce Con Los Escritores Creativos: An\u00e1lisis Detallado",
-                                    "url": "https://decrypt.co/es/310005/nuevo-modelo-de-ia-de-google-gemma-3-se-luce-con-los-escritores-creativos-analisis-detallado",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 14, 2025",
-                                    "meta": "10 min lectura"
-                                },
-                                {
-                                    "titulo": "\u00bfQu\u00e9 es Manus? El Agente Universal de IA Que Divide a Expertos y Amenaza con Destronar a OpenAI",
-                                    "url": "https://decrypt.co/es/309535/que-es-manus-el-agente-universal-de-ia-que-divide-a-expertos-y-amenaza-con-destronar-a-openai",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 11, 2025",
-                                    "meta": "6 min lectura"
-                                },
-                                {
-                                    "titulo": "\u00daltimo Modelo de IA de Alibaba Supera a o1-mini de OpenAI y Est\u00e1 a la Par Con DeepSeek R1",
-                                    "url": "https://decrypt.co/es/309277/ultimo-modelo-de-ia-de-alibaba-supera-a-o1-mini-de-openai-y-esta-a-la-par-con-deepseek-r1",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 10, 2025",
-                                    "meta": "4 min lectura"
-                                },
-                                {
-                                    "titulo": "Apple Anuncia Inversi\u00f3n de $500.000 Millones en EEUU, Mientras se Acercan los Aranceles de Trump",
-                                    "url": "https://decrypt.co/es/307917/apple-anuncia-inversion-500-000-millones-en-eeuu-mientras-se-acercan-los-aranceles-de-trump",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 28, 2025",
-                                    "meta": "6 min lectura"
-                                },
-                                {
-                                    "titulo": "Claude AI Ahora Puede Jugar Pok\u00e9mon\u2014\u00a1Y Est\u00e1 Ganando!",
-                                    "url": "https://decrypt.co/es/307823/claude-ai-ahora-puede-jugar-pokemon-y-esta-ganando",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 27, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
-                                {
-                                    "titulo": "Agentes de IA Cambian a Lenguaje Computacional al Reconocerse Mutuamente Durante Llamada Viral",
-                                    "url": "https://decrypt.co/es/307819/agentes-de-ia-cambian-a-lenguaje-computacional-al-reconocerse-mutuamente-durante-llamada-viral",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 27, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Una video con dos agentes de IA hablando entre s\u00ed ha ganado amplia atenci\u00f3n en l\u00ednea, pero no por su capacidad para conversar en lenguaje humano t\u00edpico. Una vez que reconocieron que estaban comunic\u00e1ndose con otro agente, cambiaron a un lenguaje entendido \u00fanicamente por computadoras.\nUn video compartido en X mostraba un tel\u00e9fono m\u00f3vil y una laptop supuestamente ejecutando los\u00a0agentes de IA.\nUn agente se present\u00f3 y pregunt\u00f3 si la persona al otro lado pod\u00eda ayudar con una reserva.\nEl agente que res..."
-                                },
-                                {
-                                    "titulo": "Figure AI Est\u00e1 Potenciando los Robots Humanoides: As\u00ed es C\u00f3mo Funciona",
-                                    "url": "https://decrypt.co/es/307324/figure-ai-esta-potenciando-los-robots-humanoides-asi-es-como-funciona",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 25, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Figure AI finalmente revel\u00f3 el \"gran avance\" que llev\u00f3 a la comentada startup de rob\u00f3tica a romper lazos con uno de sus inversores, OpenAI: Una novedosa arquitectura de IA de sistema dual que permite a los robots interpretar comandos en lenguaje natural y manipular objetos que nunca han visto antes, sin necesitar un pre-entrenamiento o programaci\u00f3n espec\u00edfica para cada uno.\nA diferencia de los robots convencionales que requieren programaci\u00f3n extensiva o demostraciones para cada nueva tarea, Heli..."
-                                },
-                                {
-                                    "titulo": "Conoce Grok-3 de xAI: La Apuesta M\u00e1s Potente de Elon Musk Por Dominar la IA",
-                                    "url": "https://decrypt.co/es/306875/conoce-grok-3-de-xai-la-apuesta-mas-potente-de-elon-musk-por-dominar-la-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 19, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Grok-3, desarrollado por xAI de Elon Musk, fue presentado el lunes, con la empresa haciendo audaces afirmaciones sobre sus capacidades mientras mostraba una infraestructura de computaci\u00f3n masiva que se\u00f1ala ambiciones a\u00fan mayores.\nEl anuncio se centr\u00f3 principalmente en la potencia computacional bruta, el rendimiento en benchmarks y las pr\u00f3ximas caracter\u00edsticas, aunque muchas de las demostraciones reales parecieron repeticiones de lo que otras empresas de IA ya han logrado.\nLa estrella de la parte..."
-                                },
-                                {
-                                    "titulo": "Grok-3 Enciende Carrera Armamentista de la IA: OpenAI Prepara su Contraataque con GPT-4.5",
-                                    "url": "https://decrypt.co/es/306439/grok-3-enciende-carrera-armamentista-de-la-ia-openai-prepara-su-contraataque-con-gpt-4-5",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 19, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "\u00bfEs FUD o simplemente otra escalada en la Carrera de IA? Afirmando que es \u201caterradoramente inteligente\u201d, Elon Musk present\u00f3 Grok-3, poniendo a prueba la masiva infraestructura inform\u00e1tica de xAI contra l\u00edderes de la industria como OpenAI y Anthropic.\nSu publicaci\u00f3n en X solo pareci\u00f3 provocar al rival ac\u00e9rrimo de Musk, el CEO de OpenAI, Sam Altman, quien respondi\u00f3 afirmando que su pr\u00f3ximo modelo, GPT4.5, est\u00e1 tentadoramente cerca de la AGI. Pero, \u00bfqu\u00e9 tan cerca est\u00e1 de ser lanzado?\nAltman hab\u00eda d..."
-                                },
-                                {
-                                    "titulo": "Nuevo Modelo de IA de C\u00f3digo Abierto Desafia al Gigante Chino DeepSeek",
-                                    "url": "https://decrypt.co/es/306203/nuevo-modelo-de-ia-de-codigo-abierto-desafia-al-gigante-chino-deepseek",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 17, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Un equipo internacional de investigadores de destacadas instituciones acad\u00e9micas y empresas tecnol\u00f3gicas revolucion\u00f3 el panorama del razonamiento de la IA el mi\u00e9rcoles con un nuevo modelo que igual\u00f3 \u2014y ocasionalmente super\u00f3\u2014 a uno de los sistemas de IA m\u00e1s sofisticados de China: DeepSeek.\nOpenThinker-32B, desarrollado por el consorcio Open Thoughts, alcanz\u00f3 una puntuaci\u00f3n de precisi\u00f3n del 90,6% en el benchmark MATH500, superando el 89,4% de DeepSeek.\nEl modelo tambi\u00e9n super\u00f3 a DeepSeek en tareas..."
-                                }
-                            ]
-                        }
-                    }
+                    "pagina": "Error"
                 },
                 {
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
-                            "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
-                            "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "marzo 19, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg"
+                            "titulo": "\u00bfC\u00f3mo es el tel\u00e9fono de gama baja que acaba de lanzar Google?",
+                            "url": "https://www.elnacional.com/tecnologia/google-como-es-el-telefono-de-gama-que-lanzo-la-compania/",
+                            "categoria": "TECNOLOGIA",
+                            "fecha": "marzo 20, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/8eb3d548ad1ae9038eb1af010715df4768279d09.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "El robot inspirado en las ardillas que brinca de rama en rama",
+                                "url": "https://www.elnacional.com/tecnologia/el-robot-inspirado-en-las-ardillas-que-brinca-de-rama-en-rama/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Ardillas.png",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "marzo 20, 2025",
+                                "extra": "Los ingenieros han dise\u00f1ado robots que se arrastran, nadan, vuelan e incluso se deslizan como una serpiente. Ahora, un equipo\u2026"
+                            },
+                            {
+                                "titulo": "Meta lanza en la UE su asistente de IA generativa",
+                                "url": "https://www.elnacional.com/tecnologia/meta-lanza-en-la-ue-su-asistente-de-ia-generativa/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/11/meta-ai-2966810.webp",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "marzo 20, 2025",
+                                "extra": "El gigante estadounidense Meta lanza este jueves en la Uni\u00f3n Europea su asistente de inteligencia artificial (IA) generativa, Meta AI,\u2026"
+                            },
                             {
                                 "titulo": "iPhone 17 Ultra marcar\u00e1 el inicio de una nueva generaci\u00f3n de celulares",
                                 "url": "https://www.elnacional.com/tecnologia/iphone-17-ultra-marcara-el-inicio-de-una-nueva-generacion/",
@@ -13007,6 +12926,14 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 19, 2025",
                                 "extra": "Apple sorprendi\u00f3 a todos sus seguidores con el anuncio de su posible modelo \u00abUltra\u00bb, que\u00a0ser\u00eda la primera vez que la\u2026"
+                            },
+                            {
+                                "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
+                                "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "marzo 19, 2025",
+                                "extra": "Google comenz\u00f3 la transici\u00f3n del Asistente de Google a Gemini en dispositivos m\u00f3viles. Este servicio, impulsado por inteligencia artificial (IA),\u2026"
                             },
                             {
                                 "titulo": "Prohibir toda IA creada en China: lo que pidi\u00f3 OpenAI al gobierno de Trump",
@@ -13055,30 +12982,6 @@
                                 "meta": "APP",
                                 "fecha": "marzo 11, 2025",
                                 "extra": "Sincronizaci\u00f3n Familia, la herramienta de control parental de TikTok, incluy\u00f3 nuevas funciones para reducir el tiempo que los adolescentes pasan\u2026"
-                            },
-                            {
-                                "titulo": "YouTube lanz\u00f3 oficialmente su nueva suscripci\u00f3n premium m\u00e1s econ\u00f3mica",
-                                "url": "https://www.elnacional.com/tecnologia/youtube-lanzo-oficialmente-su-nueva-suscripcion-premium-mas-economica/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/01/1366_2000.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 7, 2025",
-                                "extra": "Para equilibrar las cosas entre el alto costo de YouTube Premium y las molestias de los usuarios por la cantidad\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfPor qu\u00e9 dej\u00f3 de funcionar Spotify Premium APK?",
-                                "url": "https://www.elnacional.com/tecnologia/por-que-dejo-de-funcionar-spotify-premium-apk/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-105347.png",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 7, 2025",
-                                "extra": "Spotify Premium APK ya no se encuentra disponible. Despu\u00e9s de la noticia, muchos se preguntan\u00a0por qu\u00e9 dej\u00f3 de funcionar\u00a0la versi\u00f3n\u2026"
-                            },
-                            {
-                                "titulo": "Doblaje con IA llega a pel\u00edculas y series gracias a Prime Video",
-                                "url": "https://www.elnacional.com/tecnologia/prime-video-doblaje-con-ia-llega-a-peliculas-y-series/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-084341.png",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "marzo 7, 2025",
-                                "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
                             }
                         ]
                     }
@@ -13097,7 +13000,7 @@
                             {
                                 "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6571088_the_mind_guardian_nuevo_videojuego_samsung_identificar_signos_deterioro.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 12, 2025",
                                 "extra": "Samsung lanz\u00f3 The Mind Guardian, un innovador videojuego impulsado por Inteligencia Artificial (IA) que permite la autoevaluaci\u00f3n de la memoria\u2026"
@@ -13105,7 +13008,7 @@
                             {
                                 "titulo": "Doblaje con IA llega a pel\u00edculas y series gracias a Prime Video",
                                 "url": "https://www.elnacional.com/tecnologia/prime-video-doblaje-con-ia-llega-a-peliculas-y-series/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-084341.png",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 7, 2025",
                                 "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
@@ -13113,7 +13016,7 @@
                             {
                                 "titulo": "Alibaba y la IA: \u00bfuna inversi\u00f3n de 50.000 millones de d\u00f3lares que cambiar\u00e1 el mundo?",
                                 "url": "https://www.elnacional.com/tecnologia/alibaba-y-la-ia-una-inversion-que-cambiara-el-mundo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Alibaba-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 24, 2025",
                                 "extra": "El gigante chino del comercio electr\u00f3nico Alibaba anunci\u00f3 el lunes que invertir\u00e1 m\u00e1s de 50.000 millones de d\u00f3lares en inteligencia\u2026"
@@ -13121,7 +13024,7 @@
                             {
                                 "titulo": "IA revela c\u00f3mo las decisiones diarias moldean la felicidad a largo plazo",
                                 "url": "https://www.elnacional.com/tecnologia/ia-como-las-decisiones-diarias-moldean-la-felicidad-a-largo-plazo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/IA-Felicidad.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 19, 2025",
                                 "extra": "Muchas decisiones cotidianas\u00a0que se hacen d\u00eda a d\u00eda pueden tener un fuerte impacto en las personas. Aunque parezcan peque\u00f1as, incluso\u2026"
@@ -13129,7 +13032,7 @@
                             {
                                 "titulo": "Grok-3, la nueva IA de Elon Musk aterradoramente inteligente",
                                 "url": "https://www.elnacional.com/tecnologia/grok-3-la-nueva-ia-de-elon-musk-aterradoramente-inteligente/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Grok-3-tiene-mas-precision-que-los-modelos-de-Google-o-de-OpenIA-Foto-Archivo.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 18, 2025",
                                 "extra": "Grok-3, el nuevo modelo de Inteligencia Artificial (IA), fue lanzado por el multimillonario Elon Musk este mes de febrero en\u2026"
@@ -13137,7 +13040,7 @@
                             {
                                 "titulo": "Microsoft crea una fundaci\u00f3n para una \u00abIA responsable\u00bb en Abu Dabi",
                                 "url": "https://www.elnacional.com/tecnologia/microsoft-crea-una-fundacion-para-una-ia-responsable/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/08/pixabay-microsoft.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 9, 2025",
                                 "extra": "Microsoft crear\u00e1 una fundaci\u00f3n para promover una inteligencia artificial (IA) \u00abresponsable\u00bb situada en Abu Dabi, capital de Emiratos \u00c1rabes Unidos,\u2026"
@@ -13145,7 +13048,7 @@
                             {
                                 "titulo": "Australia prohibi\u00f3 la IA china DeepSeek en los dispositivos de organismos gubernamentales",
                                 "url": "https://www.elnacional.com/tecnologia/australia-prohibio-la-ia-china-deepseek-en-los-dispositivos-de-organismos-gubernamentales/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "El gobierno de Australia anunci\u00f3 este martes la prohibici\u00f3n de la instalaci\u00f3n y uso del modelo chino de inteligencia artificial\u2026"
@@ -13153,7 +13056,7 @@
                             {
                                 "titulo": "Taiw\u00e1n toma medidas en\u00e9rgicas contra DeepSeek por riesgos de seguridad",
                                 "url": "https://www.elnacional.com/tecnologia/taiwan-contra-deepseek-por-riesgos-de-seguridad-gubernamental/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Este lunes, Taiw\u00e1n prohibi\u00f3 por completo a los departamentos gubernamentales utilizar el servicio de la plataforma de inteligencia artificial (IA)\u2026"
@@ -13161,7 +13064,7 @@
                             {
                                 "titulo": "Gemini se renueva: modelo 2.0 Flash ofrece rendimiento superior y nuevas funciones multimodales",
                                 "url": "https://www.elnacional.com/tecnologia/gemini-se-renueva-con-modelo-2-0-flash-de-rendimiento-superior/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Gemini-2.0-Google.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Google sigue elevando \u00absu nivel de juego\u00bb al anunciar la integraci\u00f3n de su \u00faltima innovaci\u00f3n en inteligencia artificial, el modelo\u2026"
@@ -13169,7 +13072,7 @@
                             {
                                 "titulo": "OpenAI revoluciona la investigaci\u00f3n en ChatGPT con nueva herramienta",
                                 "url": "https://www.elnacional.com/tecnologia/openai-revoluciona-chatgpt-con-herramienta-de-investigacion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/AFP__20250203__36WZ3U4__v3__Preview__TopshotJapanUsSoftwareTechnologyOpenaiSoftbank.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 3, 2025",
                                 "extra": "El gigante tecnol\u00f3gico estadounidense OpenAI anunci\u00f3 el lunes en Tokio una herramienta para ChatGPT llamada \u00abinvestigaci\u00f3n profunda\u00bb. El lanzamiento se\u2026"
