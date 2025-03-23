@@ -12791,15 +12791,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Expertos Desmienten Afirmaciones de Musk Sobre Origen Ucraniano Del Ataque DDoS a X",
-                            "url": "https://decrypt.co/es/310051/expertos-desmienten-afirmaciones-de-musk-sobre-origen-ucraniano-del-ataque-ddos-a-x",
+                            "titulo": "Malware en Apps de TradingView \"Crackeadas\" ha Estado Drenando Billeteras de Criptomonedas",
+                            "url": "https://decrypt.co/es/310904/malware-en-la-app-de-tradingview-crackeada-ha-estado-drenando-billeteras-de-criptomonedas",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/hackers-shutterstock-gID_7.png@webp",
-                            "descripcion": "La afirmaci\u00f3n de Elon Musk de que el ataque DDoS contra X (anteriormente Twitter) se origin\u00f3 en Ucrania gener\u00f3 escepticismo entre los expertos en ciberseguridad, quienes argumentan que atribuir ataques bas\u00e1ndose en direcciones IP no es confiable.\nLos atacantes frecuentemente utilizan redes privadas virtuales (VPNs) y otros m\u00e9todos para ocultar sus or\u00edgenes, lo que dificulta identificar una fuente geogr\u00e1fica espec\u00edfica.\nEl lunes, X fue objetivo de un ataque distribuido de denegaci\u00f3n de servicio q...",
-                            "fecha": "Mar 14, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/malware-laptop-alert-keyboard-gID_7.jpg@webp",
+                            "descripcion": "Los estafadores est\u00e1n utilizando versiones crackeadas de TradingView Premium para vaciar billeteras de criptomonedas.\nLa aplicaci\u00f3n se disfraza como una versi\u00f3n \"crackeada\" de la aplicaci\u00f3n real TradingView Premium. Las descargas de las versiones infectadas con malware se distribuyen a trav\u00e9s de Reddit y a menudo se han encontrado en subreddits de criptomonedas.\nLas v\u00edctimas han reportado que sus billeteras de criptomonedas fueron vaciadas por completo. Luego fueron suplantadas por los estafador...",
+                            "fecha": "Mar 22, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Expertos Desmienten Afirmaciones de Musk Sobre Origen Ucraniano Del Ataque DDoS a X",
+                                    "url": "https://decrypt.co/es/310051/expertos-desmienten-afirmaciones-de-musk-sobre-origen-ucraniano-del-ataque-ddos-a-x",
+                                    "categoria": "Technology",
+                                    "fecha": "Mar 14, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Lazarus Infecta Paquetes de JavaScript con Malware Para Robar Criptomonedas: Investigadores",
                                     "url": "https://decrypt.co/es/309961/lazarus-infecta-paquetes-de-javascript-con-malware-para-robar-criptomonedas-investigadores",
@@ -12834,16 +12841,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Feb 19, 2025",
                                     "meta": "5 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Trump Quiere Que Todo el Bitcoin Sea Minado en EEUU: \u00bfQu\u00e9 Implicaciones Tendr\u00eda Para el Medio Ambiente?",
                                     "url": "https://decrypt.co/es/306190/trump-quiere-que-todo-el-bitcoin-sea-minado-en-eeuu-que-implicaciones-tendria-para-el-medio-ambiente",
                                     "categoria": "Technology",
                                     "fecha": "Feb 16, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "La llegada del segundo mandato del Presidente Donald Trump ha inyectado un nuevo impulso al ecosistema cripto, elevando a Bitcoin a un m\u00e1ximo hist\u00f3rico de casi $109.000 y prometiendo pol\u00edticas amigables para una industria t\u00edpicamente acostumbrada a batallar con legisladores y reguladores estadounidenses de l\u00ednea dura.\nLa miner\u00eda de Bitcoin tambi\u00e9n est\u00e1 preparada para un auge bajo el Presidente Trump, quien el a\u00f1o pasado prometi\u00f3 minar todo el Bitcoin restante en Estados Unidos. Pero a pesar de s..."
+                                },
                                 {
                                     "titulo": "Cient\u00edficos de Hong Kong Crean Dispositivo Que Permite Degustar Sabores en RV",
                                     "url": "https://decrypt.co/es/305371/cientificos-de-hong-kong-crean-dispositivo-que-permite-degustar-sabores-en-rv",
@@ -12875,14 +12883,6 @@
                                     "fecha": "Jan 17, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Sony lanz\u00f3 oficialmente su plataforma de capa 2 de Ethereum, Soneium, tras un per\u00edodo de prueba que dur\u00f3 cuatro meses y atrajo a m\u00e1s de 14 millones de usuarios, anunci\u00f3 la compa\u00f1\u00eda el lunes.\nDesarrollada por la subsidiaria Sony Block Solutions Labs (Sony BSL), la plataforma est\u00e1 dise\u00f1ada para simplificar las interacciones blockchain para creadores y sus audiencias a trav\u00e9s de herramientas como sistemas de participaci\u00f3n de fans basados en NFT y un programa de incubaci\u00f3n llamado Soneium Spark.\nSu..."
-                                },
-                                {
-                                    "titulo": "Investigador de Seguridad de Apple Desmiente Alarma Sobre Variante de Malware para Mac",
-                                    "url": "https://decrypt.co/es/301118/investigador-de-seguridad-de-apple-desmiente-alarma-sobre-variante-de-malware-para-mac",
-                                    "categoria": "Technology",
-                                    "fecha": "Jan 16, 2025",
-                                    "meta": "2 min lectura",
-                                    "descripcion": "Una nueva variante de malware para macOS logr\u00f3 evadir la detecci\u00f3n de antivirus durante m\u00e1s de dos meses al utilizar un esquema de cifrado de las herramientas de seguridad de Apple, seg\u00fan revelaron investigadores de la firma de ciberseguridad Check Point la semana pasada.\nLos principales medios de comunicaci\u00f3n se apresuraron a cubrir la noticia, con Forbes advirtiendo sobre \u201cpeligros reales y presentes\u201d y el New York Post citando a Check Point sobre c\u00f3mo m\u00e1s de 100 millones de usuarios de Apple..."
                                 }
                             ]
                         }
@@ -13097,7 +13097,7 @@
                             {
                                 "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6571088_the_mind_guardian_nuevo_videojuego_samsung_identificar_signos_deterioro.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 12, 2025",
                                 "extra": "Samsung lanz\u00f3 The Mind Guardian, un innovador videojuego impulsado por Inteligencia Artificial (IA) que permite la autoevaluaci\u00f3n de la memoria\u2026"
@@ -13105,7 +13105,7 @@
                             {
                                 "titulo": "Doblaje con IA llega a pel\u00edculas y series gracias a Prime Video",
                                 "url": "https://www.elnacional.com/tecnologia/prime-video-doblaje-con-ia-llega-a-peliculas-y-series/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-084341.png",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 7, 2025",
                                 "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
@@ -13113,7 +13113,7 @@
                             {
                                 "titulo": "Alibaba y la IA: \u00bfuna inversi\u00f3n de 50.000 millones de d\u00f3lares que cambiar\u00e1 el mundo?",
                                 "url": "https://www.elnacional.com/tecnologia/alibaba-y-la-ia-una-inversion-que-cambiara-el-mundo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Alibaba-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 24, 2025",
                                 "extra": "El gigante chino del comercio electr\u00f3nico Alibaba anunci\u00f3 el lunes que invertir\u00e1 m\u00e1s de 50.000 millones de d\u00f3lares en inteligencia\u2026"
@@ -13121,7 +13121,7 @@
                             {
                                 "titulo": "IA revela c\u00f3mo las decisiones diarias moldean la felicidad a largo plazo",
                                 "url": "https://www.elnacional.com/tecnologia/ia-como-las-decisiones-diarias-moldean-la-felicidad-a-largo-plazo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/IA-Felicidad.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 19, 2025",
                                 "extra": "Muchas decisiones cotidianas\u00a0que se hacen d\u00eda a d\u00eda pueden tener un fuerte impacto en las personas. Aunque parezcan peque\u00f1as, incluso\u2026"
@@ -13129,7 +13129,7 @@
                             {
                                 "titulo": "Grok-3, la nueva IA de Elon Musk aterradoramente inteligente",
                                 "url": "https://www.elnacional.com/tecnologia/grok-3-la-nueva-ia-de-elon-musk-aterradoramente-inteligente/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Grok-3-tiene-mas-precision-que-los-modelos-de-Google-o-de-OpenIA-Foto-Archivo.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 18, 2025",
                                 "extra": "Grok-3, el nuevo modelo de Inteligencia Artificial (IA), fue lanzado por el multimillonario Elon Musk este mes de febrero en\u2026"
@@ -13137,7 +13137,7 @@
                             {
                                 "titulo": "Microsoft crea una fundaci\u00f3n para una \u00abIA responsable\u00bb en Abu Dabi",
                                 "url": "https://www.elnacional.com/tecnologia/microsoft-crea-una-fundacion-para-una-ia-responsable/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/08/pixabay-microsoft.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 9, 2025",
                                 "extra": "Microsoft crear\u00e1 una fundaci\u00f3n para promover una inteligencia artificial (IA) \u00abresponsable\u00bb situada en Abu Dabi, capital de Emiratos \u00c1rabes Unidos,\u2026"
@@ -13145,7 +13145,7 @@
                             {
                                 "titulo": "Australia prohibi\u00f3 la IA china DeepSeek en los dispositivos de organismos gubernamentales",
                                 "url": "https://www.elnacional.com/tecnologia/australia-prohibio-la-ia-china-deepseek-en-los-dispositivos-de-organismos-gubernamentales/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "El gobierno de Australia anunci\u00f3 este martes la prohibici\u00f3n de la instalaci\u00f3n y uso del modelo chino de inteligencia artificial\u2026"
@@ -13153,7 +13153,7 @@
                             {
                                 "titulo": "Taiw\u00e1n toma medidas en\u00e9rgicas contra DeepSeek por riesgos de seguridad",
                                 "url": "https://www.elnacional.com/tecnologia/taiwan-contra-deepseek-por-riesgos-de-seguridad-gubernamental/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Este lunes, Taiw\u00e1n prohibi\u00f3 por completo a los departamentos gubernamentales utilizar el servicio de la plataforma de inteligencia artificial (IA)\u2026"
@@ -13161,7 +13161,7 @@
                             {
                                 "titulo": "Gemini se renueva: modelo 2.0 Flash ofrece rendimiento superior y nuevas funciones multimodales",
                                 "url": "https://www.elnacional.com/tecnologia/gemini-se-renueva-con-modelo-2-0-flash-de-rendimiento-superior/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Gemini-2.0-Google.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Google sigue elevando \u00absu nivel de juego\u00bb al anunciar la integraci\u00f3n de su \u00faltima innovaci\u00f3n en inteligencia artificial, el modelo\u2026"
@@ -13169,7 +13169,7 @@
                             {
                                 "titulo": "OpenAI revoluciona la investigaci\u00f3n en ChatGPT con nueva herramienta",
                                 "url": "https://www.elnacional.com/tecnologia/openai-revoluciona-chatgpt-con-herramienta-de-investigacion/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/AFP__20250203__36WZ3U4__v3__Preview__TopshotJapanUsSoftwareTechnologyOpenaiSoftbank.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 3, 2025",
                                 "extra": "El gigante tecnol\u00f3gico estadounidense OpenAI anunci\u00f3 el lunes en Tokio una herramienta para ChatGPT llamada \u00abinvestigaci\u00f3n profunda\u00bb. El lanzamiento se\u2026"
