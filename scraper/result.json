@@ -12194,6 +12194,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "\u00bfCu\u00e1ndo se lanzar\u00e1 Leyendas Pok\u00e9mon Z-A? \u00bfLlegar\u00e1 en 2025?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/24/67e1486a268e3ef6528b457f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/24/17428174706106.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfCu\u00e1les son los Pok\u00e9mon m\u00e1s r\u00e1pidos de Pok\u00e9mon Escarlata y P\u00farpura?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/24/67e1433c268e3ef1218b456f.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/24/17428163876468.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "El 25 de marzo no ser\u00e1 un buen d\u00eda para los jugadores de Nintendo",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/03/20/67dbe142e2704e7d998b4579.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/20/17424636150117.jpg",
@@ -12528,20 +12542,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17410066858005.jpg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si tuviste este problema con PS5, Sony te dar\u00e1 gratis 10 euros para gastar en su tienda",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/03/67c57292268e3ea5758b4572.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17410016508624.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Monster Hunter Wilds no quiere rendirse con la dificultad y ya prepara su primer gran parche",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/03/67c57b2b268e3e8a5e8b45a5.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17409953174370.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12549,9 +12549,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 23 de marzo",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-23-de-marzo-nid24032025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "24 de marzo de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-23-de-marzo-nid24032025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos gratis de la semana del 20 de marzo en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-20-de-marzo-en-epic-games-solo-hay-que-reclamarlos-nid20032025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "20 de marzo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-20-de-marzo-en-epic-games-solo-hay-que-reclamarlos-nid20032025/"
                         },
@@ -12774,16 +12781,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/elon-musk-es-uno-de-los-mas-ricos-del-mundo-VK5OPE6M2JCQ7P6ZWF6LPM3AHU.PNG?auth=f69d9610ac7d3a68cb7e5e9b9c5ccb4b2ea82095dc2b26fa588dfd1616f17c50&width=300&height=200&quality=70&smart=true",
                             "fecha": "24 de enero de 2025",
                             "url_link": "/tecnologia/elon-musk-es-top-20-en-el-juego-diablo-iv-pero-tiene-a-alguien-jugando-por-el-nid24012025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Espacio familiar.  </span>",
-                                "Netflix prepara juegos cooperativos para usar en la tele"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/netflix-sumara-juegos-cooperativos-para-usar-en-la-tv-y-titulos-infantiles-sin-publicidad-nid24012025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/netflix-prepara-juegos-para-que-use-la-familia-PLBTLK6EBBDB7DWDOCLYLXPWQA.jpg?auth=682fefbdea4e9c5344d9c6e2397ff83959eabe2b1e4afad239401e632aafaa19&width=300&height=200&quality=70&smart=true",
-                            "fecha": "24 de enero de 2025",
-                            "url_link": "/tecnologia/netflix-sumara-juegos-cooperativos-para-usar-en-la-tv-y-titulos-infantiles-sin-publicidad-nid24012025/"
                         }
                     ]
                 },
