@@ -12194,6 +12194,27 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "10 cosas que tal vez no sab\u00edas de Bloodborne por su d\u00e9cimo aniversario",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/25/67e296e122601dfb128b459e.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/25/17429028440072.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfY si este es el motivo por el que GTA 6 todav\u00eda no tiene segundo tr\u00e1iler?",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/03/25/67e2734222601ddd718b45b1.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/25/17428946752962.jpg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El MMO de League of Legends y Riot Games, \u00bfm\u00e1s cerca que nunca?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/24/67e19d3d46163f14418b45a0.html",
+                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/24/17428399431978.jpg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
                             "titulo": "\u00bfCu\u00e1ndo se lanzar\u00e1 Leyendas Pok\u00e9mon Z-A? \u00bfLlegar\u00e1 en 2025?",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/03/24/67e1486a268e3ef6528b457f.html",
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/24/17428174706106.jpg",
@@ -12521,27 +12542,6 @@
                             "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17410288052963.jpg",
                             "meta": "Juegos",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Ni Final Fantasy, ni Elden Ring. El RPG al que m\u00e1s ganas le tengo es una carta de amor al cine franc\u00e9s. Impresiones de Clair Obscur: Expedition 33",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/03/67c5e17022601d274b8b45af.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17410209593089.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Suicide Squad perdi\u00f3 200 millones, fracas\u00f3 estrepitosamente y por su culpa se ha cancelado Wonder Woman",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/03/67c5b349268e3eac0e8b4592.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17410092492680.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Pok\u00e9mon, \u00bfcu\u00e1l es el mejor inicial de cada generaci\u00f3n?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/03/67c5a75f268e3e194e8b45ce.html",
-                            "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2025/03/03/17410066858005.jpg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12990,25 +12990,33 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "\u00bfGoogle tiene competencia? Anthropic mejora su chatbot Claude con b\u00fasquedas web",
-                            "url": "https://www.elnacional.com/tecnologia/google-tiene-competencia-anthropic-mejora-su-chatbot-claude-con-busquedas-web/",
+                            "titulo": "Pionero de los televisores Samsung muri\u00f3 a los 63 a\u00f1os",
+                            "url": "https://www.elnacional.com/tecnologia/pionero-de-los-televisores-samsung-murio-a-los-63-anos/",
                             "categoria": "TECNOLOGIA",
-                            "fecha": "marzo 22, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/anthropic-claude.png"
+                            "fecha": "marzo 25, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/35b7987dfa620c2c752ab5c3cbdb83cf27b8fe96.jpg"
                         },
                         "notas": [
                             {
                                 "titulo": "Blue, el robot creado en alianza entre Nvidia, Google y Disney, que parece sacado de Star Wars",
                                 "url": "https://www.elnacional.com/tecnologia/blue-el-robot-creado-en-alianza-entre-nvidia-google-y-disney-que-parece-sacado-de-star-wars/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/blue.png",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 22, 2025",
                                 "extra": "El CEO de Nvidia, Jensen Huang, ha anunciado una nueva colaboraci\u00f3n entre la empresa, Google DeepMind y Disney Research que\u2026"
                             },
                             {
+                                "titulo": "\u00bfGoogle tiene competencia? Anthropic mejora su chatbot Claude con b\u00fasquedas web",
+                                "url": "https://www.elnacional.com/tecnologia/google-tiene-competencia-anthropic-mejora-su-chatbot-claude-con-busquedas-web/",
+                                "imagen": null,
+                                "meta": "TECNOLOGIA",
+                                "fecha": "marzo 22, 2025",
+                                "extra": "La manera c\u00f3mo buscamos temas de inter\u00e9s en internet ha estado cambiando en los \u00faltimos meses.\u00a0Si bien Google ha reinado\u2026"
+                            },
+                            {
                                 "titulo": "\u00bfQu\u00e9 significa 233333 en una respuesta de WhastApp?",
                                 "url": "https://www.elnacional.com/tecnologia/que-significa-233333-en-una-respuesta-de-whastapp/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/El-uso-del-codigo-233333-se-viralizo-en-las-redes-sociales-chionas-Foto-Europa-Press.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "marzo 21, 2025",
                                 "extra": "El lenguaje digital evolucion\u00f3 hasta crear un c\u00f3digo propio de expresiones, emojis y abreviaturas que var\u00edan seg\u00fan el pa\u00eds y\u2026"
@@ -13016,7 +13024,7 @@
                             {
                                 "titulo": "\u00bfC\u00f3mo es el tel\u00e9fono de gama baja que acaba de lanzar Google?",
                                 "url": "https://www.elnacional.com/tecnologia/google-como-es-el-telefono-de-gama-que-lanzo-la-compania/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/8eb3d548ad1ae9038eb1af010715df4768279d09.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 20, 2025",
                                 "extra": "Google lanz\u00f3 este mi\u00e9rcoles su nuevo tel\u00e9fono de gama baja, el Pixel 9A, a precio inicial de 499 d\u00f3lares y\u2026"
@@ -13024,7 +13032,7 @@
                             {
                                 "titulo": "El robot inspirado en las ardillas que brinca de rama en rama",
                                 "url": "https://www.elnacional.com/tecnologia/el-robot-inspirado-en-las-ardillas-que-brinca-de-rama-en-rama/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Ardillas.png",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 20, 2025",
                                 "extra": "Los ingenieros han dise\u00f1ado robots que se arrastran, nadan, vuelan e incluso se deslizan como una serpiente. Ahora, un equipo\u2026"
@@ -13040,7 +13048,7 @@
                             {
                                 "titulo": "iPhone 17 Ultra marcar\u00e1 el inicio de una nueva generaci\u00f3n de celulares",
                                 "url": "https://www.elnacional.com/tecnologia/iphone-17-ultra-marcara-el-inicio-de-una-nueva-generacion/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/El-lanzamiento-del-iPhone-17-Ultra-sera-en-septiembre-de-2025-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 19, 2025",
                                 "extra": "Apple sorprendi\u00f3 a todos sus seguidores con el anuncio de su posible modelo \u00abUltra\u00bb, que\u00a0ser\u00eda la primera vez que la\u2026"
@@ -13048,7 +13056,7 @@
                             {
                                 "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
                                 "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 19, 2025",
                                 "extra": "Google comenz\u00f3 la transici\u00f3n del Asistente de Google a Gemini en dispositivos m\u00f3viles. Este servicio, impulsado por inteligencia artificial (IA),\u2026"
@@ -13056,7 +13064,7 @@
                             {
                                 "titulo": "Prohibir toda IA creada en China: lo que pidi\u00f3 OpenAI al gobierno de Trump",
                                 "url": "https://www.elnacional.com/tecnologia/prohibir-toda-ia-creada-en-china-lo-que-pidio-openai-al-gobierno-de-trump/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/afp-openai.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 14, 2025",
                                 "extra": "Con la llegada de Donald Trump a su segundo mandato como presidente de Estados Unidos, ha quedado claro que la\u2026"
@@ -13064,18 +13072,10 @@
                             {
                                 "titulo": "WhatsApp incluye un tercer check: \u00bfqu\u00e9 significa?",
                                 "url": "https://www.elnacional.com/tecnologia/whatsapp-incluye-un-tercer-check-que-significa/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/WhatsApp-ahora-tendra-tres-checks-para-aumentar-la-seguridad-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "marzo 13, 2025",
                                 "extra": "WhatsApp naci\u00f3 como una alternativa m\u00e1s completa\u00a0a los mensajes de texto enviados a trav\u00e9s de los dispositivos m\u00f3viles de las\u2026"
-                            },
-                            {
-                                "titulo": "TikTok impulsa la desconexi\u00f3n nocturna y los descansos entre los adolescentes",
-                                "url": "https://www.elnacional.com/tecnologia/tiktok-impulsa-la-desconexion-nocturna-entre-los-adolescentes/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Tiktok-adolescentes.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 12, 2025",
-                                "extra": "Sincronizaci\u00f3n Familiar, la herramienta de control parental de TikTok, incluy\u00f3 nuevas funciones para reducir el tiempo que los adolescentes pasan\u2026"
                             }
                         ]
                     }
