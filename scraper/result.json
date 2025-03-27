@@ -11282,6 +11282,13 @@
             "info": {
                 "noticias": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-gdc-2025-article-thumbnail.png.adapt.crop16x9.431p.png",
+                        "titulo": "EA en la GDC: IA, aprendizaje autom\u00e1tico y mucho m\u00e1s",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "21-mar-2025",
+                        "descripcion": "En EA, los nuevos avances e innovaciones tecnol\u00f3gicas mejoran el desarrollo y la experiencia de juego para millones de personas y fans."
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/split-fiction-director-qa-article-thumbnail.jpg.adapt.crop16x9.431p.jpg",
                         "titulo": "Split Fiction: entrevista con el director Josef Fares",
                         "etiqueta": "Electronic Arts Inc.",
@@ -11399,13 +11406,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "12-sep-2024",
                         "descripcion": "Los Sims ofrece una gran variedad de mundos creados con esmero, que representan con autenticidad las experiencias del mundo real de la comunidad jugadora."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/2024-impact-report-thumbnail.png.adapt.crop16x9.431p.png",
-                        "titulo": "Creando un impacto mundial: compartiendo nuestro informe de impacto",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "05-sep-2024",
-                        "descripcion": "Informe de impacto de EA de 2024: liderando el futuro del entretenimiento y ayudando a fomentar un impacto duradero."
                     }
                 ],
                 "novedades": [
@@ -11681,6 +11681,16 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "EA en la GDC: IA, aprendizaje autom\u00e1tico y mucho m\u00e1s",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "21-mar-2025"
+                                        ],
+                                        "detalle": "En EA, los nuevos avances e innovaciones tecnol\u00f3gicas mejoran el desarrollo y la experiencia de juego para millones de personas y fans.",
+                                        "url": "https://www.ea.com/es-es/news/ea-gdc-2025",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-gdc-2025-article-thumbnail.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
                                         "titulo": "Split Fiction: entrevista con el director Josef Fares",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -11729,16 +11739,6 @@
                                         "detalle": "Battlefield Labs de EA es nuestra colaboraci\u00f3n con la comunidad, m\u00e1s ambiciosa de la historia de la franquicia, anunciada por Battlefield Studios.",
                                         "url": "https://www.ea.com/es-es/news/announcing-battlefield-labs",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/bf-labs-announce.png.adapt.crop16x9.431p.png"
-                                    },
-                                    {
-                                        "titulo": "Campeonato de la ALGS 2025: an\u00e1lisis en profundidad de Electrodistrito",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "29-ene-2025"
-                                        ],
-                                        "detalle": "Lo celebramos con un exclusivo vistazo entre bastidores a c\u00f3mo se cre\u00f3 este mapa.",
-                                        "url": "https://www.ea.com/es-es/news/apex-edistrict-deep-dive",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/algs-2025-eacom-article/4.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12194,6 +12194,62 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "El Dibu Mart\u00ednez jug\u00f3 a este videojuego horas antes de ganar el Mundial: \"Hasta la charla...\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/27/dibu-martinez-jugo-videojuego-horas-ganar-mundial-charla.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/27/67e52be8afa5f.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "\u00bfNunca has conseguido un shiny? La expansi\u00f3n \"Festival Brillante\" de Pok\u00e9mon TCG Pocket resolver\u00e1 ese problema",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/27/nunca-has-conseguido-shiny-expansion-festival-brillante-pokemon-tcg-pocket-resolvera-ese-problema.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/27/67e51d80c90fa.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "\u00bfQuieres convertirte en tu superh\u00e9roe favorito? Estas son todas las skins de Marvel disponibles en Fortnite",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/26/quieres-convertirte-superheroe-favorito-son-todas-skins-marvel-disponibles-fortnite.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/26/67e43bbf5db41.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Vinicius y su golazo ante Colombia lideran el TOTW 28 de EA Sports FC 25",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/26/vinicius-golazo-colombia-lideran-totw-28-ea-sports-fc-25.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/26/67e446a4b4248.jpeg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Cristiano Ronaldo se confirma como la estrella de este nuevo videojuego",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/26/cristiano-ronaldo-confirma-estrella-nuevo-videojuego.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/26/67e4486e76293.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
+                            "titulo": "PS Plus nos trae a Robocop, Digimon y sangre con los juegos de abril de 2025",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/26/ps-plus-trae-robocop-digimon-sangre-juegos-abril-2025.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/26/67e42b7e87c28.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Nintendo anuncia un Direct para Switch: \u00bfQu\u00e9 esperamos ver?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/26/nintendo-anuncia-direct-switch-esperamos-ver.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/26/67e416c8784f8.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Nintendo Direct de marzo: fecha, a qu\u00e9 hora es y d\u00f3nde ver en directo online",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/26/nintendo-direct-marzo-fecha-hora-ver-directo-online.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/26/67e40e476ca37.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "\u00bfQu\u00e9 juegos llegar\u00e1n a Nintendo Switch 2? Confirmados, rumores y m\u00e1s",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/03/26/juegos-llegaran-nintendo-switch-2-confirmados-rumores.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/26/67e3de0601474.jpeg",
@@ -12484,62 +12540,6 @@
                             "titulo": "Pok\u00e9mon estuvo a punto de ser un 'sangriento' RPG de b\u00e9isbol, pero solo en Occidente",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/03/06/67c98718ca4741a13f8b45ef.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17412605638553.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "La locura por un 'cheeto' con forma de Charizard: esta es la absurda cantidad que se ha gastado un fan de Pok\u00e9mon",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/05/67c874ba22601da7518b459f.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17411908082677.jpeg",
-                            "meta": "Pok\u00e9mon",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "TOTW 25 de EA Sports FC 25: Araujo se estrena en el Equipo de la Semana tras su buen partido ante la Real Sociedad",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/05/67c88d2be2704e934d8b4578.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17411990051378.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Fortnite: Qu\u00e9 es un punto caliente y d\u00f3nde encontrarlos en 2025",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/05/67c86f5d46163f16918b45a7.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17411888765807.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Assassin's Creed Shadows hace historia y muestra en Espa\u00f1a un tesoro japon\u00e9s invaluable",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/05/67c85cc3268e3e7c748b4579.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17411845917552.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Adi\u00f3s definitivo a GTA 5: as\u00ed es el evento especial en Los Santos antes de GTA 6",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/05/67c80e58e2704e1c228b4574.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17411643190321.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "As\u00ed es la nueva actualizaci\u00f3n de las medidas antitrampa en Fortnite",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/04/67c7238e46163fb07c8b45b5.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17411021470062.jpeg",
-                            "meta": "Fortnite",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "VALORANT presenta su nuevo agente: As\u00ed es Waylay, la nueva duelista que llega para cambiar el juego",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/04/67c6f165ca4741fd788b4585.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17410911064254.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
-                        },
-                        {
-                            "titulo": "\u00bf Vale la pena Immortal Pillars? \"Los dioses chinos cambiar\u00e1n Age of Mythology\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/03/04/67c6ebc322601d1d1d8b4583.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17410900166861.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         }
@@ -12886,15 +12886,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Grok Afirma Que su Creador Elon Musk, es Uno de los Mayores Difusores de Desinformaci\u00f3n en X",
-                            "url": "https://decrypt.co/es/310867/grok-afirma-que-su-creador-elon-musk-es-uno-de-los-mayores-difusores-de-desinformacion-en-x",
+                            "titulo": "OpenAI Integra Generaci\u00f3n de Im\u00e1genes de GPT-4o en ChatGPT, Con Resultados 'Incre\u00edblemente Mejores'",
+                            "url": "https://decrypt.co/es/311685/openai-integra-generacion-de-imagenes-de-gpt-4o-en-chatgpt-con-resultados-increiblemente-mejores",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/gemini-image-1742428665027-1-gID_7.png@webp",
-                            "descripcion": "El chatbot de IA Grok de Elon Musk, que recientemente fue actualizado y puesto a disposici\u00f3n de los usuarios de X de forma gratuita, est\u00e1 cumpliendo su promesa de no estar censurado, aunque no de la manera que probablemente pretend\u00eda su creador.\nGrok3, que Musk hab\u00eda caracterizado como una \"IA que busca la verdad al m\u00e1ximo\", b\u00e1sicamente piensa que su progenitor es un mentiroso y a menudo proporciona respuestas que contradicen directamente las declaraciones y posiciones pol\u00edticas de Musk, creando...",
-                            "fecha": "Mar 20, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-25-184128-gID_7.png@webp",
+                            "descripcion": "OpenAI est\u00e1 integrando capacidades de generaci\u00f3n de im\u00e1genes directamente en ChatGPT, permitiendo a los usuarios crear im\u00e1genes sin salir de la interfaz de chat.\nLa compa\u00f1\u00eda anunci\u00f3 esta funci\u00f3n el martes como parte de su impulso m\u00e1s amplio para hacer que las herramientas de IA sean m\u00e1s \u00fatiles y accesibles a trav\u00e9s de diferentes medios, manteni\u00e9ndose relevante en la escena del arte con IA.\nLa funci\u00f3n es una evoluci\u00f3n de DALL\u00b7E 3, el generador de im\u00e1genes de OpenAI, que se lanz\u00f3 en septiembre de...",
+                            "fecha": "Mar 27, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Nuevo Modelo de IA Promete Predicciones Meteorol\u00f3gicas M\u00e1s R\u00e1pidas e Inteligentes",
+                                    "url": "https://decrypt.co/es/311693/nuevo-modelo-de-ia-promete-predicciones-meteorologicas-mas-rapidas-e-inteligentes",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Mar 26, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "\u00bfMisterio Antiguo o Mentira Moderna? Expertos Desacreditan Afirmaciones Sobre la Pir\u00e1mide de Giza",
+                                    "url": "https://decrypt.co/es/311569/misterio-antiguo-o-mentira-moderna-expertos-desacreditan-afirmaciones-de-la-piramide-de-giza",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Mar 26, 2025",
+                                    "meta": "6 min lectura"
+                                },
+                                {
+                                    "titulo": "Grok Afirma Que su Creador Elon Musk, es Uno de los Mayores Difusores de Desinformaci\u00f3n en X",
+                                    "url": "https://decrypt.co/es/310867/grok-afirma-que-su-creador-elon-musk-es-uno-de-los-mayores-difusores-de-desinformacion-en-x",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Mar 20, 2025",
+                                    "meta": "9 min lectura"
+                                },
                                 {
                                     "titulo": "Modelos de IA Gemini, ChatGPT, Grok y ERNIE Predicen Bracket Ganador del March Madness",
                                     "url": "https://decrypt.co/es/310700/modelos-de-ia-gemini-chatgpt-grok-y-ernie-predicen-bracket-ganador-del-march-madness",
@@ -12915,30 +12936,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 14, 2025",
                                     "meta": "7 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Nuevo Modelo de IA de Google Gemma 3 se Luce Con Los Escritores Creativos: An\u00e1lisis Detallado",
                                     "url": "https://decrypt.co/es/310005/nuevo-modelo-de-ia-de-google-gemma-3-se-luce-con-los-escritores-creativos-analisis-detallado",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 14, 2025",
-                                    "meta": "10 min lectura"
+                                    "meta": "10 min lectura",
+                                    "descripcion": "El martes, Google lanz\u00f3 Gemma 3, un modelo de IA de c\u00f3digo abierto basado en Gemini 2.0 que ofrece una sorprendente potencia para su tama\u00f1o.\nEl modelo completo funciona en una sola GPU, pero seg\u00fan los benchmarks de Google, es lo suficientemente competitivo cuando se compara con modelos m\u00e1s grandes que requieren mucha m\u00e1s potencia de c\u00e1lculo.\nImagen: Google\nLa nueva familia de modelos, que Google dice que fue \"co-dise\u00f1ada con la familia de modelos de vanguardia Gemini\", viene en cuatro tama\u00f1os qu..."
                                 },
                                 {
                                     "titulo": "\u00bfQu\u00e9 es Manus? El Agente Universal de IA Que Divide a Expertos y Amenaza con Destronar a OpenAI",
                                     "url": "https://decrypt.co/es/309535/que-es-manus-el-agente-universal-de-ia-que-divide-a-expertos-y-amenaza-con-destronar-a-openai",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 11, 2025",
-                                    "meta": "6 min lectura"
+                                    "meta": "6 min lectura",
+                                    "descripcion": "Una nueva plataforma de agentes de IA de China llamada Manus est\u00e1 ganando r\u00e1pidamente popularidad entre los entusiastas de la tecnolog\u00eda y, si se ha de creer en el revuelo generado, podr\u00eda ser un rival importante para los agentes Deep Research y Operator de OpenAI.\nPor supuesto, queda por verse si el entusiasmo es justificado, ya que el acceso a la plataforma sigue siendo muy limitado y est\u00e1 disponible solo por invitaci\u00f3n, con algunas personas supuestamente pagando sumas astron\u00f3micas de dinero p..."
                                 },
                                 {
                                     "titulo": "\u00daltimo Modelo de IA de Alibaba Supera a o1-mini de OpenAI y Est\u00e1 a la Par Con DeepSeek R1",
                                     "url": "https://decrypt.co/es/309277/ultimo-modelo-de-ia-de-alibaba-supera-a-o1-mini-de-openai-y-esta-a-la-par-con-deepseek-r1",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 10, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Alibaba Cloud ha presentado un nuevo modelo de IA centrado en el razonamiento que logra igualar el rendimiento de competidores mucho m\u00e1s grandes a pesar de ser una fracci\u00f3n de su tama\u00f1o.\nLa divisi\u00f3n de computaci\u00f3n en la nube del gigante tecnol\u00f3gico chino ofrece su \u00faltima propuesta desafiando la noci\u00f3n de que m\u00e1s grande siempre es mejor en el mundo de la IA.\nApodado QwQ-32B, el modelo est\u00e1 construido sobre la base de Qwen2.5-32B de Alibaba y utiliza 32.500 millones de par\u00e1metros, mientras ofrece..."
+                                },
                                 {
                                     "titulo": "Apple Anuncia Inversi\u00f3n de $500.000 Millones en EEUU, Mientras se Acercan los Aranceles de Trump",
                                     "url": "https://decrypt.co/es/307917/apple-anuncia-inversion-500-000-millones-en-eeuu-mientras-se-acercan-los-aranceles-de-trump",
@@ -12954,30 +12978,6 @@
                                     "fecha": "Feb 27, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Resulta que las cortadoras de c\u00e9sped rob\u00f3ticas y ChatGPT no son los \u00fanicos que pueden jugar videojuegos.\nAnthropic dijo el martes que la \u00faltima versi\u00f3n de Claude, 3.7 Sonnet, puede jugar al videojuego cl\u00e1sico Pok\u00e9mon.\nEn un hilo publicado en X, Anthropic afirm\u00f3 que una versi\u00f3n temprana de Claude 3.7 Sonnet pod\u00eda derrotar a oponentes en cuesti\u00f3n de horas jugando Pok\u00e9mon.\n\"Los resultados fueron sorprendentes. En cuesti\u00f3n de horas, Claude derrot\u00f3 a Brock. D\u00edas despu\u00e9s, aplast\u00f3 a Misty. Un progreso..."
-                                },
-                                {
-                                    "titulo": "Agentes de IA Cambian a Lenguaje Computacional al Reconocerse Mutuamente Durante Llamada Viral",
-                                    "url": "https://decrypt.co/es/307819/agentes-de-ia-cambian-a-lenguaje-computacional-al-reconocerse-mutuamente-durante-llamada-viral",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 27, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Una video con dos agentes de IA hablando entre s\u00ed ha ganado amplia atenci\u00f3n en l\u00ednea, pero no por su capacidad para conversar en lenguaje humano t\u00edpico. Una vez que reconocieron que estaban comunic\u00e1ndose con otro agente, cambiaron a un lenguaje entendido \u00fanicamente por computadoras.\nUn video compartido en X mostraba un tel\u00e9fono m\u00f3vil y una laptop supuestamente ejecutando los\u00a0agentes de IA.\nUn agente se present\u00f3 y pregunt\u00f3 si la persona al otro lado pod\u00eda ayudar con una reserva.\nEl agente que res..."
-                                },
-                                {
-                                    "titulo": "Figure AI Est\u00e1 Potenciando los Robots Humanoides: As\u00ed es C\u00f3mo Funciona",
-                                    "url": "https://decrypt.co/es/307324/figure-ai-esta-potenciando-los-robots-humanoides-asi-es-como-funciona",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 25, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Figure AI finalmente revel\u00f3 el \"gran avance\" que llev\u00f3 a la comentada startup de rob\u00f3tica a romper lazos con uno de sus inversores, OpenAI: Una novedosa arquitectura de IA de sistema dual que permite a los robots interpretar comandos en lenguaje natural y manipular objetos que nunca han visto antes, sin necesitar un pre-entrenamiento o programaci\u00f3n espec\u00edfica para cada uno.\nA diferencia de los robots convencionales que requieren programaci\u00f3n extensiva o demostraciones para cada nueva tarea, Heli..."
-                                },
-                                {
-                                    "titulo": "Conoce Grok-3 de xAI: La Apuesta M\u00e1s Potente de Elon Musk Por Dominar la IA",
-                                    "url": "https://decrypt.co/es/306875/conoce-grok-3-de-xai-la-apuesta-mas-potente-de-elon-musk-por-dominar-la-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Feb 19, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Grok-3, desarrollado por xAI de Elon Musk, fue presentado el lunes, con la empresa haciendo audaces afirmaciones sobre sus capacidades mientras mostraba una infraestructura de computaci\u00f3n masiva que se\u00f1ala ambiciones a\u00fan mayores.\nEl anuncio se centr\u00f3 principalmente en la potencia computacional bruta, el rendimiento en benchmarks y las pr\u00f3ximas caracter\u00edsticas, aunque muchas de las demostraciones reales parecieron repeticiones de lo que otras empresas de IA ya han logrado.\nLa estrella de la parte..."
                                 }
                             ]
                         }
@@ -12994,6 +12994,14 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/35b7987dfa620c2c752ab5c3cbdb83cf27b8fe96.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Instagram se une a las escuelas para luchar contra el acoso en su plataforma",
+                                "url": "https://www.elnacional.com/tecnologia/instagram-se-une-a-las-escuelas-para-luchar-contra-el-acoso-en-su-plataforma/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6603824_recuso_school_partnership_program_instagram.jpg",
+                                "meta": "APP",
+                                "fecha": "marzo 26, 2025",
+                                "extra": "Instagram anunci\u00f3 un nuevo programa con el que se asocia con los centros escolares en la lucha contra el acoso\u2026"
+                            },
                             {
                                 "titulo": "Tesla pierde popularidad en Europa",
                                 "url": "https://www.elnacional.com/tecnologia/tesla-pierde-popularidad-en-europa/",
@@ -13065,14 +13073,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 19, 2025",
                                 "extra": "Apple sorprendi\u00f3 a todos sus seguidores con el anuncio de su posible modelo \u00abUltra\u00bb, que\u00a0ser\u00eda la primera vez que la\u2026"
-                            },
-                            {
-                                "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
-                                "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "marzo 19, 2025",
-                                "extra": "Google comenz\u00f3 la transici\u00f3n del Asistente de Google a Gemini en dispositivos m\u00f3viles. Este servicio, impulsado por inteligencia artificial (IA),\u2026"
                             }
                         ]
                     }
