@@ -12549,9 +12549,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 27 de marzo en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-27-de-marzo-en-epic-games-solo-hay-que-reclamarlos-nid27032025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "27 de marzo de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-27-de-marzo-en-epic-games-solo-hay-que-reclamarlos-nid27032025/"
+                        },
+                        {
                             "titulo": "Neos da inicio al negocio mundial de la publicaci\u00f3n de juegos independientes",
                             "url": "https://www.lanacion.com.ar/agencias/neos-da-inicio-al-negocio-mundial-de-la-publicacion-de-juegos-independientes-nid26032025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/neos-da-inicio-al-negocio-mundial-de-la-JWRPSERVU5DDFIMFR7SJTYRHIA.jpg?auth=369d8503874d1ef48780f2e0d6503e297859e0a9b814122b47f583f682dc941e&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/neos-da-inicio-al-negocio-mundial-de-la-JWRPSERVU5DDFIMFR7SJTYRHIA.jpg?auth=369d8503874d1ef48780f2e0d6503e297859e0a9b814122b47f583f682dc941e&width=300&height=200&quality=70&smart=true",
                             "fecha": "26 de marzo de 2025",
                             "url_link": "/agencias/neos-da-inicio-al-negocio-mundial-de-la-publicacion-de-juegos-independientes-nid26032025/"
                         },
@@ -12768,16 +12775,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "27 de enero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-26-de-enero-nid27012025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Para PC y consola.  </span>",
-                                "Estos son los mejores juegos gratis para las vacaciones"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-mejores-juegos-gratis-para-las-vacaciones-nid24012025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/un-repaso-por-los-mejores-juegos-gratis-para-AGMT4DNDAZFRZIDPIMBVLVVZYQ.jpeg?auth=d04082cfe70e3e3d3f012482ef01a7963c45c873598590dd496cd260af7c76cb&width=300&height=200&quality=70&smart=false&focal=1091,1338",
-                            "fecha": "24 de enero de 2025",
-                            "url_link": "/tecnologia/estos-son-los-mejores-juegos-gratis-para-las-vacaciones-nid24012025/"
                         }
                     ]
                 },
@@ -12995,6 +12992,14 @@
                         },
                         "notas": [
                             {
+                                "titulo": "YouTube, popular entre los mayores de 50 a\u00f1os",
+                                "url": "https://www.elnacional.com/tecnologia/youtube-popular-entre-los-mayores-de-50-anos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/YouTube-fue-el-mas-usado-gracias-a-la-popularidad-de-la-plataforma-entre-los-espectadores-mayores-de-50-anos-Foto-Archivo.jpg",
+                                "meta": "APP",
+                                "fecha": "marzo 27, 2025",
+                                "extra": "YouTube acapar\u00f3 m\u00e1s tiempo televisivo que cualquier otro proveedor de entretenimiento en Estados Unidos en febrero gracias a la popularidad\u2026"
+                            },
+                            {
                                 "titulo": "Instagram se une a las escuelas para luchar contra el acoso en su plataforma",
                                 "url": "https://www.elnacional.com/tecnologia/instagram-se-une-a-las-escuelas-para-luchar-contra-el-acoso-en-su-plataforma/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6603824_recuso_school_partnership_program_instagram.jpg",
@@ -13065,14 +13070,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 20, 2025",
                                 "extra": "El gigante estadounidense Meta lanza este jueves en la Uni\u00f3n Europea su asistente de inteligencia artificial (IA) generativa, Meta AI,\u2026"
-                            },
-                            {
-                                "titulo": "iPhone 17 Ultra marcar\u00e1 el inicio de una nueva generaci\u00f3n de celulares",
-                                "url": "https://www.elnacional.com/tecnologia/iphone-17-ultra-marcara-el-inicio-de-una-nueva-generacion/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/El-lanzamiento-del-iPhone-17-Ultra-sera-en-septiembre-de-2025-Foto-Archivo.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 19, 2025",
-                                "extra": "Apple sorprendi\u00f3 a todos sus seguidores con el anuncio de su posible modelo \u00abUltra\u00bb, que\u00a0ser\u00eda la primera vez que la\u2026"
                             }
                         ]
                     }
