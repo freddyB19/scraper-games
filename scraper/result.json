@@ -12202,6 +12202,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Riot Games estar\u00eda trabajando en una nueva serie 'live-action' de League of Legends",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/31/riot-games-estaria-trabajando-nueva-serie-live-action-league-of-legends.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/31/67ead9cd6b950.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
                             "titulo": "La pel\u00edcula 'live action' de Zelda ya tiene fecha de estreno por parte de Nintendo",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/03/28/pelicula-live-action-zelda-fecha-estreno-parte-nintendo.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/28/67e6c4528c4f6.jpeg",
@@ -12543,13 +12550,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17412778045510.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Si te gustan los juegos 'gratis' de ciencia ficci\u00f3n y supervivencia, Game Pass es tu respuesta en marzo 2025",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/06/67c99535ca474196568b45df.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17412644302739.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12894,15 +12894,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Elon Musk Une Sus Imperios: xAI y X se Fusionan Creando un Gigante de $113.000 Millones",
-                            "url": "https://decrypt.co/es/312263/elon-musk-une-sus-imperios-xai-y-x-se-fusionan-creando-un-gigante-de-113-000-millones",
+                            "titulo": "Vibe Coding: C\u00f3mo Desarrolladores y Personas Sin Experiencia Est\u00e1n Usando IA Para Crear Aplicaciones y Juegos",
+                            "url": "https://decrypt.co/es/312433/vibe-coding-como-desarrolladores-y-personas-sin-experiencia-estan-usando-ia-para-crear-aplicaciones-y-juegos",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Elon-Musk-X-App-RKO-gID_7.jpg@webp",
-                            "descripcion": "En una consolidaci\u00f3n de sus negocios tecnol\u00f3gicos, el propietario de X, Elon Musk, dijo en una publicaci\u00f3n el viernes, que xAI, los desarrolladores de Grok, hab\u00edan adquirido X (anteriormente Twitter). Seg\u00fan Musk, la fusi\u00f3n valora a xAI en $80.000 millones y a X en $33.000 millones.\nMusk compr\u00f3 Twitter por $44.000 millones en abril de 2022. Para octubre de 2024, Fidelity Investments ajust\u00f3 la valoraci\u00f3n de su participaci\u00f3n en X, estimando el valor total de la empresa en aproximadamente $9.400 mil...",
-                            "fecha": "Mar 29, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/5167495198726-gID_7.png@webp",
+                            "descripcion": "\u00c9rase una vez, Dios dijo: \"H\u00e1gase la luz\" \u2014y se hizo la luz. Ahora puedes decir: \"H\u00e1gase esta aplicaci\u00f3n\", y la aplicaci\u00f3n aparecer\u00e1 justo ante tus ojos, todo gracias a la magia de la IA.\nEsto es lo que promete el vibe coding.\n\"Solo veo cosas, digo cosas, ejecuto cosas y copio-pego cosas, y mayormente funciona\", tuite\u00f3 Andrej Karpathy \u2014cofundador de OpenAI y ex director de IA en Tesla\u2014 el mes pasado, describiendo su nuevo enfoque de programaci\u00f3n en redes sociales.\nEn lugar de escribir c\u00f3digo met...",
+                            "fecha": "Mar 31, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "C\u00f3mo Freepik se Transform\u00f3 de una Plataforma de Im\u00e1genes Stock a Una Potencia de IA Generativa",
+                                    "url": "https://decrypt.co/es/312347/como-freepik-se-transformo-de-una-plataforma-de-imagenes-stock-a-una-potencia-de-ia-generativa",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Mar 31, 2025",
+                                    "meta": "11 min lectura"
+                                },
+                                {
+                                    "titulo": "Elon Musk Une Sus Imperios: xAI y X se Fusionan Creando un Gigante de $113.000 Millones",
+                                    "url": "https://decrypt.co/es/312263/elon-musk-une-sus-imperios-xai-y-x-se-fusionan-creando-un-gigante-de-113-000-millones",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Mar 29, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Juego de Solana 'Star Atlas' Llenar\u00e1 su Galaxia con Agentes de IA de SingularityNET",
                                     "url": "https://decrypt.co/es/312144/juego-de-solana-star-atlas-llenara-su-galaxia-con-agentes-de-ia-de-singularitynet",
@@ -12930,23 +12944,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 26, 2025",
                                     "meta": "6 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Grok Afirma Que su Creador Elon Musk, es Uno de los Mayores Difusores de Desinformaci\u00f3n en X",
                                     "url": "https://decrypt.co/es/310867/grok-afirma-que-su-creador-elon-musk-es-uno-de-los-mayores-difusores-de-desinformacion-en-x",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 20, 2025",
-                                    "meta": "9 min lectura"
+                                    "meta": "9 min lectura",
+                                    "descripcion": "El chatbot de IA Grok de Elon Musk, que recientemente fue actualizado y puesto a disposici\u00f3n de los usuarios de X de forma gratuita, est\u00e1 cumpliendo su promesa de no estar censurado, aunque no de la manera que probablemente pretend\u00eda su creador.\nGrok3, que Musk hab\u00eda caracterizado como una \"IA que busca la verdad al m\u00e1ximo\", b\u00e1sicamente piensa que su progenitor es un mentiroso y a menudo proporciona respuestas que contradicen directamente las declaraciones y posiciones pol\u00edticas de Musk, creando..."
                                 },
                                 {
                                     "titulo": "Modelos de IA Gemini, ChatGPT, Grok y ERNIE Predicen Bracket Ganador del March Madness",
                                     "url": "https://decrypt.co/es/310700/modelos-de-ia-gemini-chatgpt-grok-y-ernie-predicen-bracket-ganador-del-march-madness",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 20, 2025",
-                                    "meta": "11 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "11 min lectura",
+                                    "descripcion": "\u00bfEl resultado? Tristemente, mi bracket qued\u00f3 tan destrozado como el de todos los dem\u00e1s, pero al menos cre\u00ed que mis elecciones ten\u00edan m\u00e1s sustancia que suerte.\nMuchas cosas han cambiado en 365 d\u00edas, y esta vez, he reunido el equivalente en IA del Dream Team: Gemini Researcher de Google , GPT-4.5 Research Agent de OpenAI, Grok-3 with Reasoning and Research de xAI, y el reci\u00e9n lanzado ERNIE X1 de Baidu, que supuestamente supera a DeepSeek R1 y a todos los modelos de razonamiento de OpenAI. Elabor\u00e9..."
+                                },
                                 {
                                     "titulo": "Microsoft Integrar\u00e1 la IA Copilot en Xbox Para Ayudar a los Jugadores",
                                     "url": "https://decrypt.co/es/310084/microsoft-integrara-la-ia-copilot-en-xbox-para-ayudar-a-los-jugadores",
@@ -12970,22 +12986,6 @@
                                     "fecha": "Mar 14, 2025",
                                     "meta": "10 min lectura",
                                     "descripcion": "El martes, Google lanz\u00f3 Gemma 3, un modelo de IA de c\u00f3digo abierto basado en Gemini 2.0 que ofrece una sorprendente potencia para su tama\u00f1o.\nEl modelo completo funciona en una sola GPU, pero seg\u00fan los benchmarks de Google, es lo suficientemente competitivo cuando se compara con modelos m\u00e1s grandes que requieren mucha m\u00e1s potencia de c\u00e1lculo.\nImagen: Google\nLa nueva familia de modelos, que Google dice que fue \"co-dise\u00f1ada con la familia de modelos de vanguardia Gemini\", viene en cuatro tama\u00f1os qu..."
-                                },
-                                {
-                                    "titulo": "\u00bfQu\u00e9 es Manus? El Agente Universal de IA Que Divide a Expertos y Amenaza con Destronar a OpenAI",
-                                    "url": "https://decrypt.co/es/309535/que-es-manus-el-agente-universal-de-ia-que-divide-a-expertos-y-amenaza-con-destronar-a-openai",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 11, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Una nueva plataforma de agentes de IA de China llamada Manus est\u00e1 ganando r\u00e1pidamente popularidad entre los entusiastas de la tecnolog\u00eda y, si se ha de creer en el revuelo generado, podr\u00eda ser un rival importante para los agentes Deep Research y Operator de OpenAI.\nPor supuesto, queda por verse si el entusiasmo es justificado, ya que el acceso a la plataforma sigue siendo muy limitado y est\u00e1 disponible solo por invitaci\u00f3n, con algunas personas supuestamente pagando sumas astron\u00f3micas de dinero p..."
-                                },
-                                {
-                                    "titulo": "\u00daltimo Modelo de IA de Alibaba Supera a o1-mini de OpenAI y Est\u00e1 a la Par Con DeepSeek R1",
-                                    "url": "https://decrypt.co/es/309277/ultimo-modelo-de-ia-de-alibaba-supera-a-o1-mini-de-openai-y-esta-a-la-par-con-deepseek-r1",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 10, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Alibaba Cloud ha presentado un nuevo modelo de IA centrado en el razonamiento que logra igualar el rendimiento de competidores mucho m\u00e1s grandes a pesar de ser una fracci\u00f3n de su tama\u00f1o.\nLa divisi\u00f3n de computaci\u00f3n en la nube del gigante tecnol\u00f3gico chino ofrece su \u00faltima propuesta desafiando la noci\u00f3n de que m\u00e1s grande siempre es mejor en el mundo de la IA.\nApodado QwQ-32B, el modelo est\u00e1 construido sobre la base de Qwen2.5-32B de Alibaba y utiliza 32.500 millones de par\u00e1metros, mientras ofrece..."
                                 }
                             ]
                         }
@@ -12995,17 +12995,17 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "\u00bfC\u00f3mo los agentes de inteligencia artificial se convertir\u00e1n en los protagonistas del futuro digital?",
-                            "url": "https://www.elnacional.com/tecnologia/como-los-agentes-de-inteligencia-artificial-se-convertiran-en-los-protagonistas-del-futuro-digital/",
-                            "categoria": "TECNOLOGIA",
-                            "fecha": "marzo 28, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/pixabay-androide.jpg"
+                            "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
+                            "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
+                            "categoria": "INTELIGENCIA ARTIFICIAL",
+                            "fecha": "marzo 31, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg"
                         },
                         "notas": [
                             {
                                 "titulo": "Esta es la nueva funci\u00f3n de WhatsApp para los grupos con muchos integrantes",
                                 "url": "https://www.elnacional.com/tecnologia/esta-es-la-nueva-funcion-de-whatsapp-para-los-grupos-con-muchos-integrantes/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/nueva-funcion-de-WhatsApp.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "marzo 29, 2025",
                                 "extra": "WhatsApp ha lanzado una nueva funci\u00f3n destinada a minimizar las notificaciones en grupos con un gran n\u00famero de participantes, facilitando\u2026"
@@ -13013,15 +13013,23 @@
                             {
                                 "titulo": "Meta est\u00e1 explorando nuevas funciones con inteligencia artificial en Instagram",
                                 "url": "https://www.elnacional.com/tecnologia/meta-esta-explorando-nuevas-funciones-con-inteligencia-artificial-en-instagram/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/pixabay-instagram.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 28, 2025",
                                 "extra": "En los \u00faltimos a\u00f1os, Meta ha introducido muchas funciones y capacidades de inteligencia artificial (IA) en sus aplicaciones, llegando incluso\u2026"
                             },
                             {
+                                "titulo": "\u00bfC\u00f3mo los agentes de inteligencia artificial se convertir\u00e1n en los protagonistas del futuro digital?",
+                                "url": "https://www.elnacional.com/tecnologia/como-los-agentes-de-inteligencia-artificial-se-convertiran-en-los-protagonistas-del-futuro-digital/",
+                                "imagen": null,
+                                "meta": "TECNOLOGIA",
+                                "fecha": "marzo 28, 2025",
+                                "extra": "La inteligencia artificial generativa no para de sorprendernos. El m\u00e1s reciente lanzamiento de OpenAI, un generador de im\u00e1genes a partir\u2026"
+                            },
+                            {
                                 "titulo": "ChatGPT permite eliminar la informaci\u00f3n personal que almacena",
                                 "url": "https://www.elnacional.com/tecnologia/chatgpt-permite-eliminar-la-informacion-personal-que-almacena/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Lo-que-hace-particular-a-este-chatbot-es-que-a-medida-que-los-usuarios-interactuan-con-el-este-va-haciendo-un-registro-de-preferencias-y-datos-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "marzo 28, 2025",
                                 "extra": "En la era de la digitalizaci\u00f3n y la inteligencia artificial, las herramientas como\u00a0ChatGPT,\u00a0desarrolladas por OpenAI, se han vuelto indispensables en\u2026"
@@ -13029,7 +13037,7 @@
                             {
                                 "titulo": "YouTube, popular entre los mayores de 50 a\u00f1os",
                                 "url": "https://www.elnacional.com/tecnologia/youtube-popular-entre-los-mayores-de-50-anos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/YouTube-fue-el-mas-usado-gracias-a-la-popularidad-de-la-plataforma-entre-los-espectadores-mayores-de-50-anos-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "marzo 27, 2025",
                                 "extra": "YouTube acapar\u00f3 m\u00e1s tiempo televisivo que cualquier otro proveedor de entretenimiento en Estados Unidos en febrero gracias a la popularidad\u2026"
@@ -13037,7 +13045,7 @@
                             {
                                 "titulo": "Instagram se une a las escuelas para luchar contra el acoso en su plataforma",
                                 "url": "https://www.elnacional.com/tecnologia/instagram-se-une-a-las-escuelas-para-luchar-contra-el-acoso-en-su-plataforma/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6603824_recuso_school_partnership_program_instagram.jpg",
+                                "imagen": null,
                                 "meta": "APP",
                                 "fecha": "marzo 26, 2025",
                                 "extra": "Instagram anunci\u00f3 un nuevo programa con el que se asocia con los centros escolares en la lucha contra el acoso\u2026"
@@ -13045,7 +13053,7 @@
                             {
                                 "titulo": "Tesla pierde popularidad en Europa",
                                 "url": "https://www.elnacional.com/tecnologia/tesla-pierde-popularidad-en-europa/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Las-matriculaciones-de-vehiculos-electricos-la-especialidad-de-Tesla-si-han-progresado-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 25, 2025",
                                 "extra": "Las ventas de Tesla se redujeron casi a la mitad en un a\u00f1o en Europa durante los dos primeros meses\u2026"
@@ -13053,7 +13061,7 @@
                             {
                                 "titulo": "\u00bfPor qu\u00e9 Signal es la aplicaci\u00f3n de mensajer\u00eda de referencia para la privacidad?",
                                 "url": "https://www.elnacional.com/tecnologia/signal-la-aplicacion-de-mensajeria-de-referencia-para-la-privacidad/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/hero-image.fill_.size_1248x702.v1626908110.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 25, 2025",
                                 "extra": "Signal, la aplicaci\u00f3n de mensajer\u00eda a trav\u00e9s de la que el editor en jefe de la revista The Atlantic, Jeffrey\u2026"
@@ -13061,7 +13069,7 @@
                             {
                                 "titulo": "Pionero de los televisores Samsung muri\u00f3 a los 63 a\u00f1os",
                                 "url": "https://www.elnacional.com/tecnologia/pionero-de-los-televisores-samsung-murio-a-los-63-anos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/35b7987dfa620c2c752ab5c3cbdb83cf27b8fe96.jpg",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 25, 2025",
                                 "extra": "El codirector ejecutivo de Samsung Electronics, Han Jong-hee, a quien se atribuye haber impulsado los negocios de televisi\u00f3n del gigante\u2026"
@@ -13069,18 +13077,10 @@
                             {
                                 "titulo": "Blue, el robot creado en alianza entre Nvidia, Google y Disney, que parece sacado de Star Wars",
                                 "url": "https://www.elnacional.com/tecnologia/blue-el-robot-creado-en-alianza-entre-nvidia-google-y-disney-que-parece-sacado-de-star-wars/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/blue.png",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 22, 2025",
                                 "extra": "El CEO de Nvidia, Jensen Huang, ha anunciado una nueva colaboraci\u00f3n entre la empresa, Google DeepMind y Disney Research que\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfGoogle tiene competencia? Anthropic mejora su chatbot Claude con b\u00fasquedas web",
-                                "url": "https://www.elnacional.com/tecnologia/google-tiene-competencia-anthropic-mejora-su-chatbot-claude-con-busquedas-web/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/anthropic-claude.png",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 22, 2025",
-                                "extra": "La manera c\u00f3mo buscamos temas de inter\u00e9s en internet ha estado cambiando en los \u00faltimos meses.\u00a0Si bien Google ha reinado\u2026"
                             }
                         ]
                     }
@@ -13089,13 +13089,21 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
-                            "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
+                            "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
+                            "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "marzo 19, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg"
+                            "fecha": "marzo 31, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
+                                "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "marzo 19, 2025",
+                                "extra": "Google comenz\u00f3 la transici\u00f3n del Asistente de Google a Gemini en dispositivos m\u00f3viles. Este servicio, impulsado por inteligencia artificial (IA),\u2026"
+                            },
                             {
                                 "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
@@ -13167,14 +13175,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "Google sigue elevando \u00absu nivel de juego\u00bb al anunciar la integraci\u00f3n de su \u00faltima innovaci\u00f3n en inteligencia artificial, el modelo\u2026"
-                            },
-                            {
-                                "titulo": "OpenAI revoluciona la investigaci\u00f3n en ChatGPT con nueva herramienta",
-                                "url": "https://www.elnacional.com/tecnologia/openai-revoluciona-chatgpt-con-herramienta-de-investigacion/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/AFP__20250203__36WZ3U4__v3__Preview__TopshotJapanUsSoftwareTechnologyOpenaiSoftbank.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "febrero 3, 2025",
-                                "extra": "El gigante tecnol\u00f3gico estadounidense OpenAI anunci\u00f3 el lunes en Tokio una herramienta para ChatGPT llamada \u00abinvestigaci\u00f3n profunda\u00bb. El lanzamiento se\u2026"
                             }
                         ]
                     }
