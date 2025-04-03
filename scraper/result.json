@@ -11416,22 +11416,28 @@
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/split-fiction-logotype-stacked-frost-white-1080.png"
                     },
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/02/ts4-ep-18-game-box-art.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "The Sims\u2122 4 Businesses & Hobbies Expansion Pack",
+                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-4-businesses-and-hobbies-expansion-pack",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims4-ep18-businesses-and-hobbies-logo-rgb.svg"
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/ts2-retro-release-game-box-art.jpg.adapt.crop1x1.767p.jpg",
                         "titulo": "The Sims\u2122 2: Legacy Collection",
                         "url": "https://www.ea.com/es-es/games/the-sims/the-sims-2-legacy-collection",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts2-retro-release-logo-rgb.svg"
                     },
                     {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/sims-birthday-bundle-game-box-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "The Sims\u2122: 25th Birthday Bundle",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-25th-birthday-bundle",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims-birthday-bundle-logo-rgb.svg"
-                    },
-                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/ts1-retro-release-game-box-art.jpg.adapt.crop1x1.767p.jpg",
                         "titulo": "The Sims\u2122: Legacy Collection",
                         "url": "https://www.ea.com/es-es/games/the-sims/the-sims-legacy-collection",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts1-retro-release-logo-rgb.svg"
+                    },
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/sims-birthday-bundle-game-box-art.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "The Sims\u2122: 25th Birthday Bundle",
+                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-25th-birthday-bundle",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims-birthday-bundle-logo-rgb.svg"
                     },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/03/dragon-age-key-art-16x9.jpg.adapt.crop1x1.767p.jpg",
@@ -11450,6 +11456,12 @@
                         "titulo": "FC-25",
                         "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-25",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/fc-25-logo.png"
+                    },
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/08/mysims-cozy-bundle-gin-1x1.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "MySims\u2122: Cozy Bundle",
+                        "url": "https://www.ea.com/es-es/games/the-sims/mysims-cozy-bundle",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/mysims-cozy-bundle-gin-logo-1x1.svg"
                     },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/06/m25-gametile-1x1.jpg.adapt.crop1x1.767p.jpg",
@@ -11522,18 +11534,6 @@
                         "titulo": "Los Sims\u2122 4 Rancho de Caballos Pack de Expansi\u00f3n",
                         "url": "https://www.ea.com/es-es/games/the-sims/the-sims-4-horse-ranch",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts4-ep-14-game-box-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2022/06/star-wars-jedi-survivor-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "STAR WARS Jedi: Survivor\u2122\ufe0f",
-                        "url": "https://www.ea.com/es-es/games/starwars/star-wars-jedi-survivor",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/star-wars-jedi-survivor-mono-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2021/04/ea-sports-pgatour-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "EA SPORTS PGA TOUR",
-                        "url": "https://www.ea.com/es-es/games/ea-sports-pga-tour/ea-sports-pga-tour",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ea-sports-pga-tour-mono-logo-white.svg"
                     }
                 ],
                 "proximamente": [
@@ -11867,6 +11867,26 @@
                                 "etiqueta": "Star Wars",
                                 "info": [
                                     {
+                                        "titulo": "STAR WARS: La Remesa mala - Evento especial",
+                                        "informacion": [
+                                            "Star Wars\u2122 Galaxy of Heroes",
+                                            "12-mar-2025"
+                                        ],
+                                        "detalle": "\u00a1Echa un vistazo a los pr\u00f3ximos eventos!",
+                                        "url": "https://www.ea.com/es-es/games/starwars/galaxy-of-heroes/news/star-wars-the-bad-batch-special-event",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/swgoh/common/swgoh-2478-lf-social-the-bad-batch-1920x1080.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
+                                        "titulo": "Revelaci\u00f3n de kit: Crosshair (marcado)",
+                                        "informacion": [
+                                            "Star Wars\u2122 Galaxy of Heroes",
+                                            "10-mar-2025"
+                                        ],
+                                        "detalle": "\u00a1Echa un vistazo a las habilidades de Crosshair (marcado) en esta revelaci\u00f3n de kit!",
+                                        "url": "https://www.ea.com/es-es/games/starwars/galaxy-of-heroes/news/kit-reveal-crosshair-scarred",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/swgoh/common/swgoh-3181-kit-crosshair-scarred-16x9thumb.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
                                         "titulo": "Revelaci\u00f3n de kit: Wrecker (mercenario)",
                                         "informacion": [
                                             "Star Wars\u2122 Galaxy of Heroes",
@@ -11905,26 +11925,6 @@
                                         "detalle": "\u00a1Echa un vistazo a las habilidades de Jocasta Nu en esta revelaci\u00f3n de kit!",
                                         "url": "https://www.ea.com/es-es/games/starwars/galaxy-of-heroes/news/kit-reveal-jocasta-nu",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/swgoh/common/swgoh-kit-jocasta-nu-thumb.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "Revelaci\u00f3n de kit: Hunter (mercenario)",
-                                        "informacion": [
-                                            "Star Wars\u2122 Galaxy of Heroes",
-                                            "31-ene-2025"
-                                        ],
-                                        "detalle": "\u00a1Echa un vistazo a las habilidades de Hunter (mercenario) en esta revelaci\u00f3n de kit!",
-                                        "url": "https://www.ea.com/es-es/games/starwars/galaxy-of-heroes/news/kit-reveal-hunter-mercenary",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/swgoh/common/swgoh-hunter-mercenary-thumb.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "Revelaci\u00f3n de kit: Batcher",
-                                        "informacion": [
-                                            "Star Wars\u2122 Galaxy of Heroes",
-                                            "20-ene-2025"
-                                        ],
-                                        "detalle": "\u00a1Echa un vistazo a las habilidades de Batcher en esta revelaci\u00f3n de kit!",
-                                        "url": "https://www.ea.com/es-es/games/starwars/galaxy-of-heroes/news/kit-reveal-batcher",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/swgoh/common/swgoh-charcard-batcher-thumb.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12201,6 +12201,69 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "La sorpresa de los streamers ante el precio del nuevo Mario Kart World: \"Nintendo se la est\u00e1 jugando\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/03/sorpresa-streamers-precio-nuevo-mario-kart-world-nintendo-jugando.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/03/67ee60fa82e77.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Borderlands 3 y Commandos Origins entre los juegos de Game Pass de abril",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/03/borderlands-3-commandos-origins-juegos-game-pass-abril.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/03/67edb52488b79.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "TOTW 29 de EA Sports FC 25: Bellingham, la gran estrella del Equipo de la Semana",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/02/totw-29-ea-sports-fc-25-bellingham-gran-estrella-equipo-semana.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67ed7f1eeed2c.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ"
+                        },
+                        {
+                            "titulo": "Hollow Knight: Silksong y Nintendo han sido injustos con nosotros",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/02/hollow-knight-silksong-nintendo-han-sido-injustos-nosotros.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67ed72e087058.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Anuncian Nintendo Switch 2... y salen novedades de Pok\u00e9mon Leyendas Z-A",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/02/anuncian-nintendo-switch-2-salen-novedades-pokemon-leyendas-z.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67ed57635d9c5.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Juegos de Nintendo Switch 2: lista completa de los primeros lanzamientos de la consola",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/02/juegos-nintendo-switch-2-lista-completa-primeros-lanzamientos-consola.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67ed56dc2e18f.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Donkey Kong Bananza, el nuevo juego exclusivo para Nintendo Switch 2 presentado en el Nintendo Direct",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/02/donkey-kong-bananza-nuevo-juego-exclusivo-nintendo-switch-2-presentado-nintendo-direct.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67ed4c4716687.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Cyberpunk 2077 estar\u00e1 disponible para la Nintendo Switch 2",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/02/cyberpunk-2077-estara-disponible-nintendo-switch-2.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67ed4935309ad.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
+                            "titulo": "Hogwarts Legacy llegar\u00e1 a Nintendo Switch 2",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/02/hogwarts-legacy-llegara-nintendo-switch-2.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67ed425159729.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
                         {
                             "titulo": "Riot Games estar\u00eda trabajando en una nueva serie 'live-action' de League of Legends",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/03/31/riot-games-estaria-trabajando-nueva-serie-live-action-league-of-legends.html",
@@ -12487,69 +12550,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17417741570887.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "San Diego Comic-Con M\u00e1laga: d\u00f3nde y cu\u00e1ndo se celebra",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/11/67d011cb268e3e52678b45c3.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17416906224988.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Te traigo 25 juegazos de oferta por menos de 10 euros para PS5, PC y Xbox",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/10/67ceda84ca4741b96f8b4590.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17416095997335.jpeg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "El secreto de Disney para conquistar los juegos de mesa: Archazia's Island llega a Lorcana",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/10/67ced5f8ca4741d6798b4574.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17416084372665.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "C\u00f3mo empezar a jugar Pok\u00e9mon TCG desde cero: gu\u00eda para principiantes",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/10/67ceca0d268e3ed56a8b45ae.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17416056093075.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfQu\u00e9 son y c\u00f3mo funcionan los servicios de juego en la Nube? NVIDIA GeForce Now, Xbox Cloud Gaming, PS Plus...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/10/67ceb510268e3ebd6c8b4574.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17415993837800.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Juegos gratis de marzo de 2025 en PS Plus, Game Pass, Nintendo, Amazon Prime Gaming y Epic Games",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/07/67cacf6946163ff7018b4575.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17413463471203.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El mayor rival de GTA y otros 19 juegos gratis pueden ser tuyos con Amazon Prime Gaming en marzo 2025",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/07/67cab2a546163ffb388b45d7.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17413375853607.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "As\u00ed puedes optimizar tu PC al m\u00e1ximo para jugar Fortnite a 240 FPS en 2025",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/06/67c9eddce2704e679d8b457c.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17412849676745.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "\u00a1El tridente m\u00e1s letal de FIFA 15 est\u00e1 de vuelta! Doumbia, Ibarbo y Gervinho llegar\u00e1n a EA Sports FC 25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/06/67c9ccdde2704e400b8b4581.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17412778045510.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         }
                     ]
                 },
@@ -12558,11 +12558,21 @@
                     "pagina": [
                         {
                             "titulo": [
+                                "<span class=\"com-lead\">Qu\u00e9 trae, cuando llega y a qu\u00e9 precio.  </span>",
+                                "Nintendo Switch 2: ya sabemos todo lo necesario sobre la nueva consola"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/la-nintendo-switch-2-llega-el-5-de-junio-y-a-450-dolares-nid02042025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/la-nintendo-switch-2-es-levemente-mas-grande-que-ZEQ34CK7Q5EL3L7KZLICRVC6RU.jpg?auth=5328dc52fca508446abab43a63dfbcf98ff9a816eefe395b9f0f3f915eb61708&width=300&height=200&quality=70&smart=true",
+                            "fecha": "2 de abril de 2025",
+                            "url_link": "/tecnologia/la-nintendo-switch-2-llega-el-5-de-junio-y-a-450-dolares-nid02042025/"
+                        },
+                        {
+                            "titulo": [
                                 "<span class=\"com-lead\">Candy Crush, Angry Birds y m\u00e1s.  </span>",
                                 "En breve vas a poder jugar juegos en la pantalla de Android Auto"
                             ],
                             "url": "https://www.lanacion.com.ar/tecnologia/candy-crush-o-angry-birds-en-breve-vas-a-poder-jugar-juegos-en-la-pantalla-de-android-auto-nid28032025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/android-auto-sumara-juegos-a-su-oferta-de-CORRTZURWRAF3FSCKWHJYIXK2Y.jpg?auth=fff3b50f38e094b639e9ebf7d8a720026f80d5c5a75eb4e6403345eccceb99a8&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/android-auto-sumara-juegos-a-su-oferta-de-CORRTZURWRAF3FSCKWHJYIXK2Y.jpg?auth=fff3b50f38e094b639e9ebf7d8a720026f80d5c5a75eb4e6403345eccceb99a8&width=300&height=200&quality=70&smart=true",
                             "fecha": "28 de marzo de 2025",
                             "url_link": "/tecnologia/candy-crush-o-angry-birds-en-breve-vas-a-poder-jugar-juegos-en-la-pantalla-de-android-auto-nid28032025/"
                         },
@@ -12779,13 +12789,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/una-escena-de-grand-theft-hamlet-un-documental-P73UZHWT3NAKBN7SJRX32JFNF4.jpeg?auth=b9ced4808e3671e5b294031172282d079af6281835e3fe412a9a6a3b3b4e0dca&width=300&height=200&quality=70&smart=true",
                             "fecha": "2 de febrero de 2025",
                             "url_link": "/espectaculos/cine/ser-o-no-ser-grand-theft-hamlet-una-increible-version-de-shakespeare-en-el-mundo-de-las-balaceras-nid02022025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 30 de enero en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-30-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid30012025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "30 de enero de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-30-de-enero-en-epic-games-solo-hay-que-reclamarlos-nid30012025/"
                         }
                     ]
                 },
@@ -12793,15 +12796,29 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Malware en Apps de TradingView \"Crackeadas\" ha Estado Drenando Billeteras de Criptomonedas",
-                            "url": "https://decrypt.co/es/310904/malware-en-la-app-de-tradingview-crackeada-ha-estado-drenando-billeteras-de-criptomonedas",
+                            "titulo": "Sei Network Busca Adquirir 23andMe Para Protecci\u00f3n Datos Gen\u00e9ticos de 15 Millones de Personas",
+                            "url": "https://decrypt.co/es/312882/sei-network-busca-adquirir-23andme-para-proteccion-datos-geneticos-de-15-millones-de-personas",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/malware-laptop-alert-keyboard-gID_7.jpg@webp",
-                            "descripcion": "Los estafadores est\u00e1n utilizando versiones crackeadas de TradingView Premium para vaciar billeteras de criptomonedas.\nLa aplicaci\u00f3n se disfraza como una versi\u00f3n \"crackeada\" de la aplicaci\u00f3n real TradingView Premium. Las descargas de las versiones infectadas con malware se distribuyen a trav\u00e9s de Reddit y a menudo se han encontrado en subreddits de criptomonedas.\nLas v\u00edctimas han reportado que sus billeteras de criptomonedas fueron vaciadas por completo. Luego fueron suplantadas por los estafador...",
-                            "fecha": "Mar 22, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/block-gID_7.jpg@webp",
+                            "descripcion": "Cuando la empresa de pruebas de ADN 23andMe anunci\u00f3 la semana pasada que se declarar\u00eda en bancarrota, surgi\u00f3 una ola de especulaciones.\n\u00bfQu\u00e9 suceder\u00eda con los tesoros de datos gen\u00e9ticos sensibles de m\u00e1s de 15 millones de personas en todo el mundo que hab\u00eda recopilado a lo largo de los a\u00f1os?\nEl jueves, el desarrollador de blockchain de capa uno Sei Network anunci\u00f3 en X que su \u00f3rgano de gobierno, la Fundaci\u00f3n Sei, estaba ofertando para adquirir 23andMe.\nRoban Datos Gen\u00e9ticos de 23andMe en Ataque d...",
+                            "fecha": "Apr 2, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Trabajadores de TI Norcoreanos se Infiltraron en Proyectos Europeos Basados en Solana: Google",
+                                    "url": "https://decrypt.co/es/312867/trabajadores-de-ti-norcoreanos-se-infiltraron-en-proyectos-europeos-basados-en-solana-google",
+                                    "categoria": "Technology",
+                                    "fecha": "Apr 2, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "Malware en Apps de TradingView \"Crackeadas\" ha Estado Drenando Billeteras de Criptomonedas",
+                                    "url": "https://decrypt.co/es/310904/malware-en-la-app-de-tradingview-crackeada-ha-estado-drenando-billeteras-de-criptomonedas",
+                                    "categoria": "Technology",
+                                    "fecha": "Mar 22, 2025",
+                                    "meta": "2 min lectura"
+                                },
                                 {
                                     "titulo": "Expertos Desmienten Afirmaciones de Musk Sobre Origen Ucraniano Del Ataque DDoS a X",
                                     "url": "https://decrypt.co/es/310051/expertos-desmienten-afirmaciones-de-musk-sobre-origen-ucraniano-del-ataque-ddos-a-x",
@@ -12829,23 +12846,25 @@
                                     "categoria": "Technology",
                                     "fecha": "Feb 27, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Microsoft Revela Chip Cu\u00e1ntico Alimentado Por un 'Nuevo Estado de la Materia'",
                                     "url": "https://decrypt.co/es/307096/microsoft-revela-chip-cuantico-alimentado-por-un-nuevo-estado-de-la-materia",
                                     "categoria": "Technology",
                                     "fecha": "Feb 21, 2025",
-                                    "meta": "5 min lectura"
+                                    "meta": "5 min lectura",
+                                    "descripcion": "El mi\u00e9rcoles, Microsoft present\u00f3 Majorana 1, un chip cu\u00e1ntico impulsado por un estado ex\u00f3tico de la materia que no es l\u00edquido, s\u00f3lido ni gaseoso, denominado superconductividad topol\u00f3gica.\nEl avance, detallado en la revista cient\u00edfica Nature, utiliza un material personalizado conocido como topoconductor para crear y controlar part\u00edculas Majorana, potencialmente escalando la computaci\u00f3n cu\u00e1ntica para resolver problemas previamente imposibles.\nEn esencia, un topoconductor es un semiconductor \u2014mater..."
                                 },
                                 {
                                     "titulo": "Rumores Futuristas: Apple Podr\u00eda Estar Trabajando en Robots Dom\u00e9sticos, Seg\u00fan un Analista",
                                     "url": "https://decrypt.co/es/306462/rumores-futuristas-apple-podria-estar-trabajando-en-robots-domesticos-segun-un-analista",
                                     "categoria": "Technology",
                                     "fecha": "Feb 19, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Vuelven a circular los rumores de que Apple est\u00e1 desarrollando robots humanoides tras tuit del analista Ming-Chi Kuo.\nLos rumores de que Apple est\u00e1 desarrollando robots humanoides han comenzado a circular nuevamente despu\u00e9s de que el analista de Apple en TF International Securities, Ming-Chi Kuo, tuiteara el mi\u00e9rcoles que la compa\u00f1\u00eda m\u00e1s grande del mundo est\u00e1 explorando robots humanoides y no humanoides para su ecosistema de hogar inteligente.\nAunque las conversaciones sobre las ambiciones rob\u00f3t..."
+                                },
                                 {
                                     "titulo": "Trump Quiere Que Todo el Bitcoin Sea Minado en EEUU: \u00bfQu\u00e9 Implicaciones Tendr\u00eda Para el Medio Ambiente?",
                                     "url": "https://decrypt.co/es/306190/trump-quiere-que-todo-el-bitcoin-sea-minado-en-eeuu-que-implicaciones-tendria-para-el-medio-ambiente",
@@ -12869,22 +12888,6 @@
                                     "fecha": "Feb 7, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "Investigadores de Kaspersky han detallado una campa\u00f1a de malware multiplataforma que tiene como objetivo robar las frases de recuperaci\u00f3n de billeteras de criptomonedas a trav\u00e9s de aplicaciones m\u00f3viles maliciosas.\nSeg\u00fan un informe reciente, la campa\u00f1a \u201cSparkCat\u201d utiliza un kit de desarrollo de software (SDK) malicioso integrado en aplicaciones de mensajer\u00eda modificadas y otras aplicaciones para escanear las galer\u00edas de im\u00e1genes de los usuarios en busca de datos sensibles de recuperaci\u00f3n. Esta t\u00e9..."
-                                },
-                                {
-                                    "titulo": "Estos Robots Pueden Moverse Como Cristiano Ronaldo y Lebron James",
-                                    "url": "https://decrypt.co/es/304485/estos-robots-pueden-moverse-como-cristiano-ronaldo-y-lebron-james",
-                                    "categoria": "Technology",
-                                    "fecha": "Feb 5, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "La Universidad Carnegie Mellon y NVIDIA se han unido para desarrollar una nueva t\u00e9cnica de entrenamiento que permite a los robots humanoides realizar movimientos atl\u00e9ticos complejos con una agilidad sin precedentes, desde la celebraci\u00f3n caracter\u00edstica de Cristiano Ronaldo con giro en el aire hasta el tiro en suspensi\u00f3n fadeaway de Kobe Bryant.\nEl framework Aligning Simulation and Real Physics (ASAP) cierra una brecha cr\u00edtica entre la simulaci\u00f3n y la realidad al permitir que los robots humanoides..."
-                                },
-                                {
-                                    "titulo": "Sony Lanza Oficialmente Soneium Tras Atraer 14 Millones de Usuarios en Fase Beta",
-                                    "url": "https://decrypt.co/es/301108/sony-lanza-oficialmente-soneium-tras-atraer-14-millones-de-usuarios-en-fase-beta",
-                                    "categoria": "Technology",
-                                    "fecha": "Jan 17, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Sony lanz\u00f3 oficialmente su plataforma de capa 2 de Ethereum, Soneium, tras un per\u00edodo de prueba que dur\u00f3 cuatro meses y atrajo a m\u00e1s de 14 millones de usuarios, anunci\u00f3 la compa\u00f1\u00eda el lunes.\nDesarrollada por la subsidiaria Sony Block Solutions Labs (Sony BSL), la plataforma est\u00e1 dise\u00f1ada para simplificar las interacciones blockchain para creadores y sus audiencias a trav\u00e9s de herramientas como sistemas de participaci\u00f3n de fans basados en NFT y un programa de incubaci\u00f3n llamado Soneium Spark.\nSu..."
                                 }
                             ]
                         }
@@ -12894,15 +12897,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Ghibligeddon: Como la Gente Est\u00e1 'Derritiendo' las GPUs de OpenAI Con Ilustraciones Inspiradas en Anime",
-                            "url": "https://decrypt.co/es/312716/ghibligeddon-como-la-gente-esta-derritiendo-las-gpus-de-openai-con-ilustraciones-inspiradas-en-anime",
+                            "titulo": "'Actividad Violenta' en ChatGPT Hace Que el Famoso Hacker de IA 'Pliny' Sea Baneado y Luego Desbaneado",
+                            "url": "https://decrypt.co/es/313052/actividad-violenta-en-chatgpt-hace-que-el-famoso-hacker-de-ia-pliny-sea-baneado-y-luego-desbaneado",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/ChatGPT-Image-31-de-mar.-de-2025-16_54_2044-gID_7.png@webp",
-                            "descripcion": "Las GPUs de OpenAI est\u00e1n cediendo bajo una demanda sin precedentes de su nueva funci\u00f3n de generaci\u00f3n de im\u00e1genes, obligando a la compa\u00f1\u00eda a implementar l\u00edmites de emergencia mientras los usuarios crean millones de ilustraciones inspiradas en anime. La infraestructura inform\u00e1tica de la compa\u00f1\u00eda ha sido llevada al l\u00edmite apenas d\u00edas despu\u00e9s de lanzar esta capacidad en su \u00faltimo modelo GPT-4o.\nEl generador de im\u00e1genes, que transforma indicaciones de texto o fotos existentes en obras de arte detalla...",
-                            "fecha": "Apr 1, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/hacker-gID_7.png@webp",
+                            "descripcion": "Al principio, parec\u00eda una broma del D\u00eda de los Inocentes. Pero result\u00f3 que OpenAI aparentemente desactiv\u00f3 la cuenta de \"Pliny\", el seud\u00f3nimo utilizado por uno de los m\u00e1s prol\u00edficos y reconocidos jailbreakers de IA del mundo.\nLa compa\u00f1\u00eda cit\u00f3 violaciones de pol\u00edticas relacionadas con \"actividades violentas\" y \"creaci\u00f3n de armas\".\nLa prohibici\u00f3n se implement\u00f3 ayer, el 1 de abril de 2025, seg\u00fan capturas de pantalla que Pliny comparti\u00f3 en la plataforma social X.\n\"\u00bfPROHIBIDO DE OAI?! \u00bfQu\u00e9 clase de br...",
+                            "fecha": "Apr 3, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "El 'Momento DeepSeek' de EEUU ha Llegado: Laboratorio de IA Respaldado Por Peter Thiel",
+                                    "url": "https://decrypt.co/es/313053/el-momento-deepseek-de-eeuu-ha-llegado-laboratorio-de-ia-respaldado-por-peter-thiel",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 3, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Ghibligeddon: Como la Gente Est\u00e1 'Derritiendo' las GPUs de OpenAI Con Ilustraciones Inspiradas en Anime",
+                                    "url": "https://decrypt.co/es/312716/ghibligeddon-como-la-gente-esta-derritiendo-las-gpus-de-openai-con-ilustraciones-inspiradas-en-anime",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 1, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Vibe Coding: C\u00f3mo Desarrolladores y Personas Sin Experiencia Est\u00e1n Usando IA Para Crear Aplicaciones y Juegos",
                                     "url": "https://decrypt.co/es/312433/vibe-coding-como-desarrolladores-y-personas-sin-experiencia-estan-usando-ia-para-crear-aplicaciones-y-juegos",
@@ -12930,23 +12947,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 28, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "OpenAI Integra Generaci\u00f3n de Im\u00e1genes de GPT-4o en ChatGPT, Con Resultados 'Incre\u00edblemente Mejores'",
                                     "url": "https://decrypt.co/es/311685/openai-integra-generacion-de-imagenes-de-gpt-4o-en-chatgpt-con-resultados-increiblemente-mejores",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 27, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "OpenAI est\u00e1 integrando capacidades de generaci\u00f3n de im\u00e1genes directamente en ChatGPT, permitiendo a los usuarios crear im\u00e1genes sin salir de la interfaz de chat.\nLa compa\u00f1\u00eda anunci\u00f3 esta funci\u00f3n el martes como parte de su impulso m\u00e1s amplio para hacer que las herramientas de IA sean m\u00e1s \u00fatiles y accesibles a trav\u00e9s de diferentes medios, manteni\u00e9ndose relevante en la escena del arte con IA.\nLa funci\u00f3n es una evoluci\u00f3n de DALL\u00b7E 3, el generador de im\u00e1genes de OpenAI, que se lanz\u00f3 en septiembre de..."
                                 },
                                 {
                                     "titulo": "Nuevo Modelo de IA Promete Predicciones Meteorol\u00f3gicas M\u00e1s R\u00e1pidas e Inteligentes",
                                     "url": "https://decrypt.co/es/311693/nuevo-modelo-de-ia-promete-predicciones-meteorologicas-mas-rapidas-e-inteligentes",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 26, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Aardvark Weather, un nuevo modelo de IA desarrollado por investigadores en Reino Unido y Canad\u00e1, podr\u00eda marcar un punto de inflexi\u00f3n en los pron\u00f3sticos meteorol\u00f3gicos globales al reemplazar las simulaciones meteorol\u00f3gicas tradicionales con inteligencia artificial para maximizar la rentabilidad y precisi\u00f3n.\nInvestigadores de la Universidad de Cambridge, el Instituto Vector de la Universidad de Toronto y el Instituto Alan Turing revelaron los nuevos hallazgos en un informe reciente publicado en Na..."
+                                },
                                 {
                                     "titulo": "\u00bfMisterio Antiguo o Mentira Moderna? Expertos Desacreditan Afirmaciones Sobre la Pir\u00e1mide de Giza",
                                     "url": "https://decrypt.co/es/311569/misterio-antiguo-o-mentira-moderna-expertos-desacreditan-afirmaciones-de-la-piramide-de-giza",
@@ -12970,22 +12989,6 @@
                                     "fecha": "Mar 20, 2025",
                                     "meta": "11 min lectura",
                                     "descripcion": "\u00bfEl resultado? Tristemente, mi bracket qued\u00f3 tan destrozado como el de todos los dem\u00e1s, pero al menos cre\u00ed que mis elecciones ten\u00edan m\u00e1s sustancia que suerte.\nMuchas cosas han cambiado en 365 d\u00edas, y esta vez, he reunido el equivalente en IA del Dream Team: Gemini Researcher de Google , GPT-4.5 Research Agent de OpenAI, Grok-3 with Reasoning and Research de xAI, y el reci\u00e9n lanzado ERNIE X1 de Baidu, que supuestamente supera a DeepSeek R1 y a todos los modelos de razonamiento de OpenAI. Elabor\u00e9..."
-                                },
-                                {
-                                    "titulo": "Microsoft Integrar\u00e1 la IA Copilot en Xbox Para Ayudar a los Jugadores",
-                                    "url": "https://decrypt.co/es/310084/microsoft-integrara-la-ia-copilot-en-xbox-para-ayudar-a-los-jugadores",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 16, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Como alguien que juega Apex Legends religiosamente, la idea de un entrenador impulsado por inteligencia artificial es tentadora, especialmente cuando los servicios de entrenamiento pueden ser costosos.\nSi un chatbot gratuito puede ayudarme a acumular m\u00e1s victorias, estoy completamente a favor. Para m\u00ed y millones de otros jugadores en Xbox, una nueva funci\u00f3n de Copilot promete elevar nuestro juego.\nDurante un episodio del Podcast Oficial de Xbox, la Vicepresidenta Corporativa de Juegos de IA de X..."
-                                },
-                                {
-                                    "titulo": "Cuando los Modelos de IA Son Presionados para 'Comportarse', Conspiran en Privado: OpenAI",
-                                    "url": "https://decrypt.co/es/310006/cuando-los-modelos-de-ia-son-presionados-para-comportarse-conspiran-en-privado-openai",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 14, 2025",
-                                    "meta": "7 min lectura",
-                                    "descripcion": "Cuando los investigadores intentan evitar que los sistemas de IA \"piensen malos pensamientos\", los sistemas en realidad no mejoran su comportamiento.\nEn lugar de eso, aprenden a ocultar sus verdaderas intenciones mientras contin\u00faan persiguiendo acciones problem\u00e1ticas, seg\u00fan una nueva investigaci\u00f3n de OpenAI.\nEl fen\u00f3meno, que los investigadores denominan \"obfuscated reward hacking\" (hackeo de recompensa ofuscado), ofrece una valiosa perspectiva en el proceso de entrenamiento y muestra por qu\u00e9 es..."
                                 }
                             ]
                         }
@@ -13002,6 +13005,14 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Amazon hace oferta para adquirir TikTok, mientras otras empresas tambi\u00e9n muestran inter\u00e9s",
+                                "url": "https://www.elnacional.com/tecnologia/amazon-hace-oferta-para-adquirir-tiktok-mientras-otras-empresas-tambien-muestran-interes/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/0x0.jpg",
+                                "meta": "APP",
+                                "fecha": "abril 2, 2025",
+                                "extra": "El gigante tecnol\u00f3gico estadounidense, Amazon present\u00f3 una propuesta para adquirir la popular red social china TikTok, seg\u00fan revela The New\u2026"
+                            },
                             {
                                 "titulo": "La IA lleg\u00f3 a WhatsApp con Meta IA",
                                 "url": "https://www.elnacional.com/tecnologia/la-ia-llego-a-whatsapp-con-meta-ia/",
@@ -13073,14 +13084,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 25, 2025",
                                 "extra": "Las ventas de Tesla se redujeron casi a la mitad en un a\u00f1o en Europa durante los dos primeros meses\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfPor qu\u00e9 Signal es la aplicaci\u00f3n de mensajer\u00eda de referencia para la privacidad?",
-                                "url": "https://www.elnacional.com/tecnologia/signal-la-aplicacion-de-mensajeria-de-referencia-para-la-privacidad/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/hero-image.fill_.size_1248x702.v1626908110.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 25, 2025",
-                                "extra": "Signal, la aplicaci\u00f3n de mensajer\u00eda a trav\u00e9s de la que el editor en jefe de la revista The Atlantic, Jeffrey\u2026"
                             }
                         ]
                     }
