@@ -11754,6 +11754,15 @@
                                 "etiqueta": "EA SPORTS FC",
                                 "info": [
                                     {
+                                        "titulo": "EA SPORTS FC\u2122 25 | Vuelven las Leyendas",
+                                        "informacion": [
+                                            "10-mar-2025"
+                                        ],
+                                        "detalle": "Obt\u00e9n m\u00e1s informaci\u00f3n sobre la actualizaci\u00f3n que trae de vuelta a las Leyendas. Incluye un nuevo estilo de juego de tiro, nuevos tipos de art\u00edculos de futbolista, nuevos Iconos y mucho m\u00e1s.",
+                                        "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-25/news/pitch-notes-fc25-legends-return",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-25/common/articles/fc25-pitch-notes-legends-return-beckenbauer-feat-image.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "null",
                                         "informacion": [
                                             "30-sep-2024"
@@ -11851,15 +11860,6 @@
                                         "detalle": "",
                                         "url": "https://www.ea.com/es-es/games/ea-sports-fc/news/update-on-toty-86-plus-leagues-sbc",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/common/buy/fc24-pre-order-ultimate-edition-16x9.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "EA SPORTS FC\u2122 24 | Notas a pie de campo - Actualizaci\u00f3n festiva",
-                                        "informacion": [
-                                            "05-dic-2023"
-                                        ],
-                                        "detalle": "Ya tenemos la actualizaci\u00f3n festiva (6.\u00aa actualizaci\u00f3n) y estamos deseando de contaros todos los cambios y novedades para EA SPORTS FC\u2122 24.",
-                                        "url": "https://www.ea.com/es-es/games/ea-sports-fc/news/fc-24-holiday-update",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/articles/fc-24-holiday-update/fc-24-holiday-update-001.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12202,6 +12202,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Gu\u00eda b\u00e1sica para principiantes en Minecraft: C\u00f3mo sobrevivir a tu primera noche, encontrar materiales...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/04/guia-basica-principiantes-minecraft-sobrevivir-primera-noche-encontrar-materiales.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/04/67ef9b7a0645b.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "No necesitas vender un juego a 90 euros para que sea bueno y South of Midnight es el mejor ejemplo",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/03/necesitas-vender-juego-90-euros-sea-bueno-south-of-midnight-mejor-ejemplo.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/02/67eda6c304801.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "La sorpresa de los streamers ante el precio del nuevo Mario Kart World: \"Nintendo se la est\u00e1 jugando\"",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/04/03/sorpresa-streamers-precio-nuevo-mario-kart-world-nintendo-jugando.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/03/67ee60fa82e77.jpeg",
@@ -12536,20 +12550,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17417822028976.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El tr\u00e1iler de The Last of Us 2 es mucho m\u00e1s que un v\u00eddeo promocional si has jugado al original. An\u00e1lisis y referencias",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/12/67d17047268e3ebf208b45b8.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17417790135732.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si no sabes que regalar por el D\u00eda del Padre, tengo la respuesta perfecta: Split Fiction",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/03/12/67d15e59268e3ebf3f8b45ce.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17417741570887.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12557,12 +12557,33 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Lanzamientos de videojuegos en Abril de 2025 en Steam: esta es la lista",
+                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-abril-de-2025-en-steam-esta-es-la-lista-nid03042025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/lanzamientos-de-videojuegos-en-abril-de-2025-en-UEI2JJCBIFGEPOHFCW3ERPLGNU.jpg?auth=1096573f5873d3aa28defb71b179a66c1a022d97dfecfe1545dfec330a4e5c29&width=300&height=200&quality=70&smart=true",
+                            "fecha": "3 de abril de 2025",
+                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-abril-de-2025-en-steam-esta-es-la-lista-nid03042025/"
+                        },
+                        {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 03 de abril",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-03-de-abril-nid03042025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
+                            "fecha": "3 de abril de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-03-de-abril-nid03042025/"
+                        },
+                        {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 3 de abril en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-3-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid03042025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "3 de abril de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-3-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid03042025/"
+                        },
+                        {
                             "titulo": [
                                 "<span class=\"com-lead\">Qu\u00e9 trae, cuando llega y a qu\u00e9 precio.  </span>",
                                 "Nintendo Switch 2: ya sabemos todo lo necesario sobre la nueva consola"
                             ],
                             "url": "https://www.lanacion.com.ar/tecnologia/la-nintendo-switch-2-llega-el-5-de-junio-y-a-450-dolares-nid02042025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/la-nintendo-switch-2-es-levemente-mas-grande-que-ZEQ34CK7Q5EL3L7KZLICRVC6RU.jpg?auth=5328dc52fca508446abab43a63dfbcf98ff9a816eefe395b9f0f3f915eb61708&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/la-nintendo-switch-2-es-levemente-mas-grande-que-ZEQ34CK7Q5EL3L7KZLICRVC6RU.jpg?auth=5328dc52fca508446abab43a63dfbcf98ff9a816eefe395b9f0f3f915eb61708&width=300&height=200&quality=70&smart=true",
                             "fecha": "2 de abril de 2025",
                             "url_link": "/tecnologia/la-nintendo-switch-2-llega-el-5-de-junio-y-a-450-dolares-nid02042025/"
                         },
@@ -12765,30 +12786,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "7 de febrero de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-6-de-febrero-en-epic-games-solo-hay-que-nid07022025/"
-                        },
-                        {
-                            "titulo": "Lanzamientos de videojuegos en Febrero de 2025 en Steam: esta es la lista",
-                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-febrero-de-2025-en-steam-esta-es-la-lista-nid03022025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-febrero-de-2025-en-KTTSK3QTCRCEPHSHCQFA54JL2M.jpg?auth=d1dbe4778ea0eeb24bafc19131766627ae19ec29dac9fbb18007beb9220b06cf&width=300&height=200&quality=70&smart=true",
-                            "fecha": "3 de febrero de 2025",
-                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-febrero-de-2025-en-steam-esta-es-la-lista-nid03022025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 02 de febrero",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-02-de-febrero-nid03022025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
-                            "fecha": "3 de febrero de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-02-de-febrero-nid03022025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">\u00bfSer o no ser? </span>",
-                                "Los actores sin trabajo que crearon una incre\u00edble versi\u00f3n de Hamlet dentro de un videojuego"
-                            ],
-                            "url": "https://www.lanacion.com.ar/espectaculos/cine/ser-o-no-ser-grand-theft-hamlet-una-increible-version-de-shakespeare-en-el-mundo-de-las-balaceras-nid02022025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/una-escena-de-grand-theft-hamlet-un-documental-P73UZHWT3NAKBN7SJRX32JFNF4.jpeg?auth=b9ced4808e3671e5b294031172282d079af6281835e3fe412a9a6a3b3b4e0dca&width=300&height=200&quality=70&smart=true",
-                            "fecha": "2 de febrero de 2025",
-                            "url_link": "/espectaculos/cine/ser-o-no-ser-grand-theft-hamlet-una-increible-version-de-shakespeare-en-el-mundo-de-las-balaceras-nid02022025/"
                         }
                     ]
                 },
@@ -12796,15 +12793,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Sei Network Busca Adquirir 23andMe Para Protecci\u00f3n Datos Gen\u00e9ticos de 15 Millones de Personas",
-                            "url": "https://decrypt.co/es/312882/sei-network-busca-adquirir-23andme-para-proteccion-datos-geneticos-de-15-millones-de-personas",
+                            "titulo": "Hackers Preinstalan Malware en Tel\u00e9fonos Baratos Para Robar Cuentas de Redes Sociales y Criptomonedas",
+                            "url": "https://decrypt.co/es/313174/hackers-preinstalan-malware-en-telefonos-baratos-para-robar-cuentas-de-redes-sociales-y-criptomonedas",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/11/block-gID_7.jpg@webp",
-                            "descripcion": "Cuando la empresa de pruebas de ADN 23andMe anunci\u00f3 la semana pasada que se declarar\u00eda en bancarrota, surgi\u00f3 una ola de especulaciones.\n\u00bfQu\u00e9 suceder\u00eda con los tesoros de datos gen\u00e9ticos sensibles de m\u00e1s de 15 millones de personas en todo el mundo que hab\u00eda recopilado a lo largo de los a\u00f1os?\nEl jueves, el desarrollador de blockchain de capa uno Sei Network anunci\u00f3 en X que su \u00f3rgano de gobierno, la Fundaci\u00f3n Sei, estaba ofertando para adquirir 23andMe.\nRoban Datos Gen\u00e9ticos de 23andMe en Ataque d...",
-                            "fecha": "Apr 2, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/smartphone-malware-gID_7.jpg@webp",
+                            "descripcion": "Ese smartphone barato puede parecer una ganga, pero podr\u00eda serlo de una manera que no esperabas.\nTel\u00e9fonos falsificados y baratos est\u00e1n siendo vendidos con malware precargados que atacan a usuarios desprevenidos de Android, robando criptomonedas, reemplazando n\u00fameros telef\u00f3nicos durante llamadas y secuestrando sus cuentas de redes sociales.\nLa empresa de ciberseguridad Kaspersky report\u00f3 esta nueva t\u00e9cnica para propagar el peligroso troyano Triada en un an\u00e1lisis reciente. Desde su descubrimiento...",
+                            "fecha": "Apr 3, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Sei Network Busca Adquirir 23andMe Para Protecci\u00f3n Datos Gen\u00e9ticos de 15 Millones de Personas",
+                                    "url": "https://decrypt.co/es/312882/sei-network-busca-adquirir-23andme-para-proteccion-datos-geneticos-de-15-millones-de-personas",
+                                    "categoria": "Technology",
+                                    "fecha": "Apr 2, 2025",
+                                    "meta": "6 min lectura"
+                                },
                                 {
                                     "titulo": "Trabajadores de TI Norcoreanos se Infiltraron en Proyectos Europeos Basados en Solana: Google",
                                     "url": "https://decrypt.co/es/312867/trabajadores-de-ti-norcoreanos-se-infiltraron-en-proyectos-europeos-basados-en-solana-google",
@@ -12839,16 +12843,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Mar 13, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Actualizaci\u00f3n Pectra de Ethereum se Estanca en la Red de Prueba Con Varios Bloques Perdidos",
                                     "url": "https://decrypt.co/es/307840/actualizacion-pectra-de-ethereum-se-estanca-en-la-red-de-prueba-con-varios-bloques-perdidos",
                                     "categoria": "Technology",
                                     "fecha": "Feb 27, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "La actualizaci\u00f3n Pectra de Ethereum se top\u00f3 con un obst\u00e1culo inesperado cuando no logr\u00f3 finalizar en la red de prueba Holesky, revelando posibles problemas que podr\u00edan retrasar la actualizaci\u00f3n m\u00e1s significativa de la blockchain en casi un a\u00f1o.\nLa prueba se activ\u00f3 el lunes por la tarde a las 4:55 ET, pero no logr\u00f3 alcanzar la finalidad, seg\u00fan datos de Beacon Chain, un explorador de blockchain de c\u00f3digo abierto. Las transacciones son potencialmente irreversibles\u2014un fallo cr\u00edtico para una red cons..."
+                                },
                                 {
                                     "titulo": "Microsoft Revela Chip Cu\u00e1ntico Alimentado Por un 'Nuevo Estado de la Materia'",
                                     "url": "https://decrypt.co/es/307096/microsoft-revela-chip-cuantico-alimentado-por-un-nuevo-estado-de-la-materia",
@@ -12880,14 +12885,6 @@
                                     "fecha": "Feb 11, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "Ahora puedes saborear cosas en el metaverso, si es lo que te interesa.\nCient\u00edficos de la Universidad de la Ciudad de Hong Kong crearon un dispositivo que parece una chupeta, pero hace algo mucho m\u00e1s interesante: hace que la realidad virtual sea degustable.\nEl dispositivo, detallado en un estudio publicado en Proceedings of the National Academy of Sciences, utiliza un proceso llamado iontoforesis para transportar iones que inducen el sabor a trav\u00e9s de \u201chidrogeles de agarosa\u201d.\nCuando los usuarios..."
-                                },
-                                {
-                                    "titulo": "Investigadores Advierten Sobre Malware que Roba Criptomonedas Mediante Apps de Google y Apple",
-                                    "url": "https://decrypt.co/es/304859/investigadores-advierten-sobre-malware-que-roba-criptomonedas-mediante-apps-de-google-y-apple",
-                                    "categoria": "Technology",
-                                    "fecha": "Feb 7, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Investigadores de Kaspersky han detallado una campa\u00f1a de malware multiplataforma que tiene como objetivo robar las frases de recuperaci\u00f3n de billeteras de criptomonedas a trav\u00e9s de aplicaciones m\u00f3viles maliciosas.\nSeg\u00fan un informe reciente, la campa\u00f1a \u201cSparkCat\u201d utiliza un kit de desarrollo de software (SDK) malicioso integrado en aplicaciones de mensajer\u00eda modificadas y otras aplicaciones para escanear las galer\u00edas de im\u00e1genes de los usuarios en busca de datos sensibles de recuperaci\u00f3n. Esta t\u00e9..."
                                 }
                             ]
                         }
@@ -13006,6 +13003,22 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Nintendo Switch 2 tendr\u00e1 mejoras en el rendimiento y nuevas funcionalidades",
+                                "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-mejoras-en-rendimiento-y-nuevas-funcionalidades/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/Nintendo-Switch-2.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "abril 3, 2025",
+                                "extra": "Nintendo present\u00f3 oficialmente su nueva videoconsola Nintendo Switch 2, una versi\u00f3n redise\u00f1ada del modelo h\u00edbrido entre consola de sobremesa y\u2026"
+                            },
+                            {
+                                "titulo": "Nintendo present\u00f3 el nuevo Mario Kart World exclusivo para Nintendo Switch 2",
+                                "url": "https://www.elnacional.com/tecnologia/nintendo-presento-el-nuevo-mario-kart-world-exclusivo-para-nintendo-switch-2/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6619863_nuevo_mario_kart_world.jpg",
+                                "meta": "GAMERS",
+                                "fecha": "abril 3, 2025",
+                                "extra": "Nintendo present\u00f3 Mario Kart World, el nuevo t\u00edtulo en el que los jugadores podr\u00e1n conducir por varios circuitos enmarcados en\u2026"
+                            },
+                            {
                                 "titulo": "Amazon hace oferta para adquirir TikTok, mientras otras empresas tambi\u00e9n muestran inter\u00e9s",
                                 "url": "https://www.elnacional.com/tecnologia/amazon-hace-oferta-para-adquirir-tiktok-mientras-otras-empresas-tambien-muestran-interes/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/0x0.jpg",
@@ -13068,22 +13081,6 @@
                                 "meta": "APP",
                                 "fecha": "marzo 27, 2025",
                                 "extra": "YouTube acapar\u00f3 m\u00e1s tiempo televisivo que cualquier otro proveedor de entretenimiento en Estados Unidos en febrero gracias a la popularidad\u2026"
-                            },
-                            {
-                                "titulo": "Instagram se une a las escuelas para luchar contra el acoso en su plataforma",
-                                "url": "https://www.elnacional.com/tecnologia/instagram-se-une-a-las-escuelas-para-luchar-contra-el-acoso-en-su-plataforma/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6603824_recuso_school_partnership_program_instagram.jpg",
-                                "meta": "APP",
-                                "fecha": "marzo 26, 2025",
-                                "extra": "Instagram anunci\u00f3 un nuevo programa con el que se asocia con los centros escolares en la lucha contra el acoso\u2026"
-                            },
-                            {
-                                "titulo": "Tesla pierde popularidad en Europa",
-                                "url": "https://www.elnacional.com/tecnologia/tesla-pierde-popularidad-en-europa/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Las-matriculaciones-de-vehiculos-electricos-la-especialidad-de-Tesla-si-han-progresado-Foto-Archivo.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 25, 2025",
-                                "extra": "Las ventas de Tesla se redujeron casi a la mitad en un a\u00f1o en Europa durante los dos primeros meses\u2026"
                             }
                         ]
                     }
