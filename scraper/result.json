@@ -11282,6 +11282,13 @@
             "info": {
                 "noticias": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/whm-2025-thumbnail.jpg.adapt.crop16x9.431p.jpg",
+                        "titulo": "Celebramos el Mes de la Historia de la Mujer en EA",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "31-mar-2025",
+                        "descripcion": "\u00a1Este mes, en EA hemos celebrado el Mes de la Historia de la Mujer con charlas inaugurales, eventos, oportunidades para crear contactos y mucho m\u00e1s!"
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-gdc-2025-article-thumbnail.png.adapt.crop16x9.431p.png",
                         "titulo": "EA en la GDC: IA, aprendizaje autom\u00e1tico y mucho m\u00e1s",
                         "etiqueta": "Electronic Arts Inc.",
@@ -11399,13 +11406,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "26-sep-2024",
                         "descripcion": "El software innovador para parches de EA ha vuelto a mejorar, ahorrando tiempo y frustraci\u00f3n poteniales a millones de personas."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/lovestruckep5.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Los Sims y c\u00f3mo EA crea mundos aut\u00e9nticos",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "12-sep-2024",
-                        "descripcion": "Los Sims ofrece una gran variedad de mundos creados con esmero, que representan con autenticidad las experiencias del mundo real de la comunidad jugadora."
                     }
                 ],
                 "novedades": [
@@ -11689,6 +11689,16 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "Celebramos el Mes de la Historia de la Mujer en EA",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "31-mar-2025"
+                                        ],
+                                        "detalle": "\u00a1Este mes, en EA hemos celebrado el Mes de la Historia de la Mujer con charlas inaugurales, eventos, oportunidades para crear contactos y mucho m\u00e1s!",
+                                        "url": "https://www.ea.com/es-es/news/whm-2025",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/whm-2025-thumbnail.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "EA en la GDC: IA, aprendizaje autom\u00e1tico y mucho m\u00e1s",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -11737,16 +11747,6 @@
                                         "detalle": "EA SPORTS Presents Madden Bowl con Jelly Roll, Chris Stapleton, Shaboozey, Tucker Wetmore y m\u00e1s.",
                                         "url": "https://www.ea.com/es-es/news/madden-bowl-music-2025",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/madden-bowl-thumbnail-16x9.png.adapt.crop16x9.431p.png"
-                                    },
-                                    {
-                                        "titulo": "Presentamos Battlefield Labs",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "03-feb-2025"
-                                        ],
-                                        "detalle": "Battlefield Labs de EA es nuestra colaboraci\u00f3n con la comunidad, m\u00e1s ambiciosa de la historia de la franquicia, anunciada por Battlefield Studios.",
-                                        "url": "https://www.ea.com/es-es/news/announcing-battlefield-labs",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/bf-labs-announce.png.adapt.crop16x9.431p.png"
                                     }
                                 ]
                             },
@@ -12127,6 +12127,16 @@
                                 "etiqueta": "Battlefield",
                                 "info": [
                                     {
+                                        "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.6.1 DE BATTLEFIELD 2042",
+                                        "informacion": [
+                                            "Battlefield 2042",
+                                            "28-mar-2025"
+                                        ],
+                                        "detalle": "\u00a1La actualizaci\u00f3n 8.6.1 trae Toma la colina a Battlefield 2042!",
+                                        "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-6-1",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/kin-com-u820-2210.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.6.0 DE BATTLEFIELD 2042",
                                         "informacion": [
                                             "Battlefield 2042",
@@ -12175,16 +12185,6 @@
                                         "detalle": "Peque\u00f1as mejoras de calidad de vida tras la actualizaci\u00f3n 8.2 en Battlefield 2042.",
                                         "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-2-1",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/patch-801o.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.2.0 DE BATTLEFIELD 2042",
-                                        "informacion": [
-                                            "Battlefield 2042",
-                                            "25-oct-2024"
-                                        ],
-                                        "detalle": "Un gran parche que introduce un nuevo evento y cambios en el juego.",
-                                        "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-2-0",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/kin-com-u820-2210.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             }
@@ -12201,6 +12201,20 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "Los aranceles de Trump tambi\u00e9n afectan a la Nintendo Switch 2 en EE.UU",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/04/aranceles-trump-tambien-afectan-nintendo-switch-2-ee-uu.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/04/67f021bbdadcb.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
+                            "titulo": "Te costar\u00e1 diferenciar lo que es real y lo que no: As\u00ed es el nuevo mod de la F\u00f3rmula 1 2025 para Assetto Corsa",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/04/te-costara-diferenciar-real-asi-nuevo-mod-formula-1-2025-assetto-corsa.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/04/67efd239018f9.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
                         {
                             "titulo": "Gu\u00eda b\u00e1sica para principiantes en Minecraft: C\u00f3mo sobrevivir a tu primera noche, encontrar materiales...",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/04/04/guia-basica-principiantes-minecraft-sobrevivir-primera-noche-encontrar-materiales.html",
@@ -12536,20 +12550,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17418037493658.jpeg",
                             "meta": "FC 25",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "A pu\u00f1etazos con PlayStation: PS Plus anuncia los juegos de marzo 2025 para Extra y Premium",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/12/67d1bcad22601dc63e8b45c8.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17417989894931.jpeg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "Exponer marcianos, 'matar' a Indiana Jones y robar a turistas es mi nueva actividad preferida... gracias a Two Point Museum",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/03/12/67d17a4f268e3eae5b8b457b.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17417822028976.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12793,15 +12793,29 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Hackers Preinstalan Malware en Tel\u00e9fonos Baratos Para Robar Cuentas de Redes Sociales y Criptomonedas",
-                            "url": "https://decrypt.co/es/313174/hackers-preinstalan-malware-en-telefonos-baratos-para-robar-cuentas-de-redes-sociales-y-criptomonedas",
+                            "titulo": "EY Actualiza Nightfall Con Tecnolog\u00eda de Conocimiento Cero Para Transacciones Privadas en Ethereum",
+                            "url": "https://decrypt.co/es/313269/ey-actualiza-nightfall-con-tecnologia-de-conocimiento-cero-para-transacciones-privadas-en-ethereum",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/smartphone-malware-gID_7.jpg@webp",
-                            "descripcion": "Ese smartphone barato puede parecer una ganga, pero podr\u00eda serlo de una manera que no esperabas.\nTel\u00e9fonos falsificados y baratos est\u00e1n siendo vendidos con malware precargados que atacan a usuarios desprevenidos de Android, robando criptomonedas, reemplazando n\u00fameros telef\u00f3nicos durante llamadas y secuestrando sus cuentas de redes sociales.\nLa empresa de ciberseguridad Kaspersky report\u00f3 esta nueva t\u00e9cnica para propagar el peligroso troyano Triada en un an\u00e1lisis reciente. Desde su descubrimiento...",
-                            "fecha": "Apr 3, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/ethereum-starry-night-gID_7.png@webp",
+                            "descripcion": "EY ha reconstruido su capa de blockchain Ethereum de capa 2 enfocada en empresas Nightfall como un rollup de conocimiento cero, eliminando los per\u00edodos de espera para la finalidad de las transacciones y simplificando la arquitectura de la plataforma.\nLa actualizaci\u00f3n, lanzada el mi\u00e9rcoles, reemplaza el dise\u00f1o anterior de rollup optimista de Nightfall con un enfoque criptogr\u00e1fico que verifica las transacciones antes de enviarlas a Ethereum. Esto elimina la necesidad de per\u00edodos de desaf\u00edo que pod...",
+                            "fecha": "Apr 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Actualizaci\u00f3n Pectra de Ethereum Llegar\u00e1 7 Mayo Tras Retrasos en Redes de Prueba",
+                                    "url": "https://decrypt.co/es/313260/actualizacion-pectra-de-ethereum-llegara-7-mayo-tras-retrasos-en-redes-prueba",
+                                    "categoria": "Technology",
+                                    "fecha": "Apr 4, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Hackers Preinstalan Malware en Tel\u00e9fonos Baratos Para Robar Cuentas de Redes Sociales y Criptomonedas",
+                                    "url": "https://decrypt.co/es/313174/hackers-preinstalan-malware-en-telefonos-baratos-para-robar-cuentas-de-redes-sociales-y-criptomonedas",
+                                    "categoria": "Technology",
+                                    "fecha": "Apr 3, 2025",
+                                    "meta": "3 min lectura"
+                                },
                                 {
                                     "titulo": "Sei Network Busca Adquirir 23andMe Para Protecci\u00f3n Datos Gen\u00e9ticos de 15 Millones de Personas",
                                     "url": "https://decrypt.co/es/312882/sei-network-busca-adquirir-23andme-para-proteccion-datos-geneticos-de-15-millones-de-personas",
@@ -12829,23 +12843,25 @@
                                     "categoria": "Technology",
                                     "fecha": "Mar 14, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Lazarus Infecta Paquetes de JavaScript con Malware Para Robar Criptomonedas: Investigadores",
                                     "url": "https://decrypt.co/es/309961/lazarus-infecta-paquetes-de-javascript-con-malware-para-robar-criptomonedas-investigadores",
                                     "categoria": "Technology",
                                     "fecha": "Mar 13, 2025",
-                                    "meta": "3 min lectura"
+                                    "meta": "3 min lectura",
+                                    "descripcion": "En un nuevo ataque, el grupo Lazarus de Corea del Norte ha sido vinculado a seis nuevos paquetes npm maliciosos.\nDescubierto por The Socket Research Team, el \u00faltimo ataque intenta implementar puertas traseras para robar credenciales.\nLazarus es el infame grupo de hackers norcoreano que ha sido vinculado al reciente hackeo de $1.400 millones a Bybit, el hackeo de $41 millones al casino de criptomonedas Stake\u00a0y un hackeo de $27 millones al exchange de criptomonedas CoinEx, y muchos otros en la ind..."
                                 },
                                 {
                                     "titulo": "Pectra, La Mayor Actualizaci\u00f3n de Ethereum Desde Merge 2022, Sufre Retraso Significativo",
                                     "url": "https://decrypt.co/es/309916/pectra-la-mayor-actualizacion-de-ethereum-desde-merge-2022-sufre-retraso-significativo",
                                     "categoria": "Technology",
                                     "fecha": "Mar 13, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "La testnet Ethereum Holesky ha alcanzado la finalidad, un paso importante en medio de retrasos y numerosos problemas t\u00e9cnicos antes de la actualizaci\u00f3n Pectra. Ser\u00e1 la mayor actualizaci\u00f3n de la blockchain desde The Merge en 2022.\nEl hito se logr\u00f3 aproximadamente a las 3 p.m. ET del 10 de marzo, seg\u00fan datos de Etherscan.\nLa comunidad de Ethereum utiliza estas testnets para probar actualizaciones antes de que se implementen oficialmente. Todo esto es para evitar interrupciones en la blockchain pri..."
+                                },
                                 {
                                     "titulo": "Actualizaci\u00f3n Pectra de Ethereum se Estanca en la Red de Prueba Con Varios Bloques Perdidos",
                                     "url": "https://decrypt.co/es/307840/actualizacion-pectra-de-ethereum-se-estanca-en-la-red-de-prueba-con-varios-bloques-perdidos",
@@ -12869,22 +12885,6 @@
                                     "fecha": "Feb 19, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "Vuelven a circular los rumores de que Apple est\u00e1 desarrollando robots humanoides tras tuit del analista Ming-Chi Kuo.\nLos rumores de que Apple est\u00e1 desarrollando robots humanoides han comenzado a circular nuevamente despu\u00e9s de que el analista de Apple en TF International Securities, Ming-Chi Kuo, tuiteara el mi\u00e9rcoles que la compa\u00f1\u00eda m\u00e1s grande del mundo est\u00e1 explorando robots humanoides y no humanoides para su ecosistema de hogar inteligente.\nAunque las conversaciones sobre las ambiciones rob\u00f3t..."
-                                },
-                                {
-                                    "titulo": "Trump Quiere Que Todo el Bitcoin Sea Minado en EEUU: \u00bfQu\u00e9 Implicaciones Tendr\u00eda Para el Medio Ambiente?",
-                                    "url": "https://decrypt.co/es/306190/trump-quiere-que-todo-el-bitcoin-sea-minado-en-eeuu-que-implicaciones-tendria-para-el-medio-ambiente",
-                                    "categoria": "Technology",
-                                    "fecha": "Feb 16, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "La llegada del segundo mandato del Presidente Donald Trump ha inyectado un nuevo impulso al ecosistema cripto, elevando a Bitcoin a un m\u00e1ximo hist\u00f3rico de casi $109.000 y prometiendo pol\u00edticas amigables para una industria t\u00edpicamente acostumbrada a batallar con legisladores y reguladores estadounidenses de l\u00ednea dura.\nLa miner\u00eda de Bitcoin tambi\u00e9n est\u00e1 preparada para un auge bajo el Presidente Trump, quien el a\u00f1o pasado prometi\u00f3 minar todo el Bitcoin restante en Estados Unidos. Pero a pesar de s..."
-                                },
-                                {
-                                    "titulo": "Cient\u00edficos de Hong Kong Crean Dispositivo Que Permite Degustar Sabores en RV",
-                                    "url": "https://decrypt.co/es/305371/cientificos-de-hong-kong-crean-dispositivo-que-permite-degustar-sabores-en-rv",
-                                    "categoria": "Technology",
-                                    "fecha": "Feb 11, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Ahora puedes saborear cosas en el metaverso, si es lo que te interesa.\nCient\u00edficos de la Universidad de la Ciudad de Hong Kong crearon un dispositivo que parece una chupeta, pero hace algo mucho m\u00e1s interesante: hace que la realidad virtual sea degustable.\nEl dispositivo, detallado en un estudio publicado en Proceedings of the National Academy of Sciences, utiliza un proceso llamado iontoforesis para transportar iones que inducen el sabor a trav\u00e9s de \u201chidrogeles de agarosa\u201d.\nCuando los usuarios..."
                                 }
                             ]
                         }
@@ -12894,15 +12894,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "'Actividad Violenta' en ChatGPT Hace Que el Famoso Hacker de IA 'Pliny' Sea Baneado y Luego Desbaneado",
-                            "url": "https://decrypt.co/es/313052/actividad-violenta-en-chatgpt-hace-que-el-famoso-hacker-de-ia-pliny-sea-baneado-y-luego-desbaneado",
+                            "titulo": "OpenAI Ofrece ChatGPT Plus de Manera Gratuita Para Estudiantes Universitarios en EEUU y Canad\u00e1",
+                            "url": "https://decrypt.co/es/313471/openai-ofrece-chatgpt-plus-de-manera-gratuita-para-estudiantes-universitarios-en-eeuu-y-canada",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/hacker-gID_7.png@webp",
-                            "descripcion": "Al principio, parec\u00eda una broma del D\u00eda de los Inocentes. Pero result\u00f3 que OpenAI aparentemente desactiv\u00f3 la cuenta de \"Pliny\", el seud\u00f3nimo utilizado por uno de los m\u00e1s prol\u00edficos y reconocidos jailbreakers de IA del mundo.\nLa compa\u00f1\u00eda cit\u00f3 violaciones de pol\u00edticas relacionadas con \"actividades violentas\" y \"creaci\u00f3n de armas\".\nLa prohibici\u00f3n se implement\u00f3 ayer, el 1 de abril de 2025, seg\u00fan capturas de pantalla que Pliny comparti\u00f3 en la plataforma social X.\n\"\u00bfPROHIBIDO DE OAI?! \u00bfQu\u00e9 clase de br...",
-                            "fecha": "Apr 3, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/OpenAI-ChatGPT-shutterstock_2241179875-16x9-1-gID_7.jpg@webp",
+                            "descripcion": "OpenAI ofrece su servicio premium de IA, ChatGPT Plus, de forma gratuita a estudiantes universitarios en EE.UU. y Canad\u00e1 por tiempo limitado, seg\u00fan anunci\u00f3 la compa\u00f1\u00eda esta semana.\nLos estudiantes elegibles en instituciones que otorgan t\u00edtulos pueden acceder a ChatGPT Plus gratis entre el 31 de marzo y el 31 de mayo de 2025. La suscripci\u00f3n permanecer\u00e1 activa durante dos meses desde la fecha de solicitud.\nEl sitio web de OpenAI promociona el servicio como una herramienta que \"est\u00e1 ah\u00ed para ayudar...",
+                            "fecha": "Apr 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "\u00bfVibe Governing? F\u00f3rmula Arancelaria de Trump es Muy Similar a las Sugerencias de ChatGPT, Seg\u00fan Expertos",
+                                    "url": "https://decrypt.co/es/313443/vibe-governing-formula-arancelaria-de-trump-es-muy-similar-a-las-sugerencias-de-chatgpt-segun-expertos",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 4, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Mujer Paralizada Por Derrame Cerebral Recupera Voz Tras 18 A\u00f1os Gracias a la Inteligencia Artificial",
+                                    "url": "https://decrypt.co/es/313265/mujer-paralizada-por-derrame-cerebral-recupera-voz-tras-18-anos-gracias-a-la-inteligencia-artificial",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 4, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "'Actividad Violenta' en ChatGPT Hace Que el Famoso Hacker de IA 'Pliny' Sea Baneado y Luego Desbaneado",
+                                    "url": "https://decrypt.co/es/313052/actividad-violenta-en-chatgpt-hace-que-el-famoso-hacker-de-ia-pliny-sea-baneado-y-luego-desbaneado",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 3, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "El 'Momento DeepSeek' de EEUU ha Llegado: Laboratorio de IA Respaldado Por Peter Thiel",
                                     "url": "https://decrypt.co/es/313053/el-momento-deepseek-de-eeuu-ha-llegado-laboratorio-de-ia-respaldado-por-peter-thiel",
@@ -12923,30 +12944,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 31, 2025",
                                     "meta": "10 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "C\u00f3mo Freepik se Transform\u00f3 de una Plataforma de Im\u00e1genes Stock a Una Potencia de IA Generativa",
                                     "url": "https://decrypt.co/es/312347/como-freepik-se-transformo-de-una-plataforma-de-imagenes-stock-a-una-potencia-de-ia-generativa",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 31, 2025",
-                                    "meta": "11 min lectura"
+                                    "meta": "11 min lectura",
+                                    "descripcion": "Hace quince a\u00f1os, Freepik era simplemente otro proveedor de im\u00e1genes de stock, ayudando a los dise\u00f1adores a encontrar las visuales adecuadas para sus proyectos. Hoy, es una bestia completamente diferente: un centro de IA generativa que atrae a m\u00e1s de 60 millones de visitantes al mes.\nEl cambio no fue accidental. Fue el resultado de una empresa dispuesta a replantearse su prop\u00f3sito y avanzar m\u00e1s all\u00e1 de las im\u00e1genes est\u00e1ticas hacia algo mucho m\u00e1s grande: un ecosistema creativo completamente poten..."
                                 },
                                 {
                                     "titulo": "Elon Musk Une Sus Imperios: xAI y X se Fusionan Creando un Gigante de $113.000 Millones",
                                     "url": "https://decrypt.co/es/312263/elon-musk-une-sus-imperios-xai-y-x-se-fusionan-creando-un-gigante-de-113-000-millones",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 29, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "En una consolidaci\u00f3n de sus negocios tecnol\u00f3gicos, el propietario de X, Elon Musk, dijo en una publicaci\u00f3n el viernes, que xAI, los desarrolladores de Grok, hab\u00edan adquirido X (anteriormente Twitter). Seg\u00fan Musk, la fusi\u00f3n valora a xAI en $80.000 millones y a X en $33.000 millones.\nMusk compr\u00f3 Twitter por $44.000 millones en abril de 2022. Para octubre de 2024, Fidelity Investments ajust\u00f3 la valoraci\u00f3n de su participaci\u00f3n en X, estimando el valor total de la empresa en aproximadamente $9.400 mil..."
                                 },
                                 {
                                     "titulo": "Juego de Solana 'Star Atlas' Llenar\u00e1 su Galaxia con Agentes de IA de SingularityNET",
                                     "url": "https://decrypt.co/es/312144/juego-de-solana-star-atlas-llenara-su-galaxia-con-agentes-de-ia-de-singularitynet",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 28, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Star Atlas, un videojuego de ciencia ficci\u00f3n basado en Solana, est\u00e1 colaborando con SingularityNET, miembro fundador de la Artificial Superintelligence Alliance, para integrar agentes de IA en su mundo online espacial, seg\u00fan anunciaron ambas compa\u00f1\u00edas el mi\u00e9rcoles.\nEl desarrollador de Star Atlas, ATMTA, dijo que la colaboraci\u00f3n tiene como objetivo utilizar agentes de IA para proporcionar una experiencia de juego inmersiva usando el sistema Autonomous Intelligent Reinforcement Interpreted Symboli..."
+                                },
                                 {
                                     "titulo": "OpenAI Integra Generaci\u00f3n de Im\u00e1genes de GPT-4o en ChatGPT, Con Resultados 'Incre\u00edblemente Mejores'",
                                     "url": "https://decrypt.co/es/311685/openai-integra-generacion-de-imagenes-de-gpt-4o-en-chatgpt-con-resultados-increiblemente-mejores",
@@ -12962,30 +12986,6 @@
                                     "fecha": "Mar 26, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "Aardvark Weather, un nuevo modelo de IA desarrollado por investigadores en Reino Unido y Canad\u00e1, podr\u00eda marcar un punto de inflexi\u00f3n en los pron\u00f3sticos meteorol\u00f3gicos globales al reemplazar las simulaciones meteorol\u00f3gicas tradicionales con inteligencia artificial para maximizar la rentabilidad y precisi\u00f3n.\nInvestigadores de la Universidad de Cambridge, el Instituto Vector de la Universidad de Toronto y el Instituto Alan Turing revelaron los nuevos hallazgos en un informe reciente publicado en Na..."
-                                },
-                                {
-                                    "titulo": "\u00bfMisterio Antiguo o Mentira Moderna? Expertos Desacreditan Afirmaciones Sobre la Pir\u00e1mide de Giza",
-                                    "url": "https://decrypt.co/es/311569/misterio-antiguo-o-mentira-moderna-expertos-desacreditan-afirmaciones-de-la-piramide-de-giza",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 26, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Desde que las pir\u00e1mides de Egipto se elevaron del desierto hace m\u00e1s de 4.000 a\u00f1os, la gente se ha preguntado c\u00f3mo fueron construidas\u2014desencadenando siglos de especulaci\u00f3n, teor\u00edas marginales y afirmaciones descabelladas que involucran tecnolog\u00edas perdidas y extraterrestres.\nEsa especulaci\u00f3n recibi\u00f3 un impulso moderno el oto\u00f1o pasado, cuando un equipo de investigaci\u00f3n chino afirm\u00f3 haber utilizado radares para detectar burbujas de plasma sobre la Gran Pir\u00e1mide de Giza. Estos informes reavivaron te..."
-                                },
-                                {
-                                    "titulo": "Grok Afirma Que su Creador Elon Musk, es Uno de los Mayores Difusores de Desinformaci\u00f3n en X",
-                                    "url": "https://decrypt.co/es/310867/grok-afirma-que-su-creador-elon-musk-es-uno-de-los-mayores-difusores-de-desinformacion-en-x",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 20, 2025",
-                                    "meta": "9 min lectura",
-                                    "descripcion": "El chatbot de IA Grok de Elon Musk, que recientemente fue actualizado y puesto a disposici\u00f3n de los usuarios de X de forma gratuita, est\u00e1 cumpliendo su promesa de no estar censurado, aunque no de la manera que probablemente pretend\u00eda su creador.\nGrok3, que Musk hab\u00eda caracterizado como una \"IA que busca la verdad al m\u00e1ximo\", b\u00e1sicamente piensa que su progenitor es un mentiroso y a menudo proporciona respuestas que contradicen directamente las declaraciones y posiciones pol\u00edticas de Musk, creando..."
-                                },
-                                {
-                                    "titulo": "Modelos de IA Gemini, ChatGPT, Grok y ERNIE Predicen Bracket Ganador del March Madness",
-                                    "url": "https://decrypt.co/es/310700/modelos-de-ia-gemini-chatgpt-grok-y-ernie-predicen-bracket-ganador-del-march-madness",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 20, 2025",
-                                    "meta": "11 min lectura",
-                                    "descripcion": "\u00bfEl resultado? Tristemente, mi bracket qued\u00f3 tan destrozado como el de todos los dem\u00e1s, pero al menos cre\u00ed que mis elecciones ten\u00edan m\u00e1s sustancia que suerte.\nMuchas cosas han cambiado en 365 d\u00edas, y esta vez, he reunido el equivalente en IA del Dream Team: Gemini Researcher de Google , GPT-4.5 Research Agent de OpenAI, Grok-3 with Reasoning and Research de xAI, y el reci\u00e9n lanzado ERNIE X1 de Baidu, que supuestamente supera a DeepSeek R1 y a todos los modelos de razonamiento de OpenAI. Elabor\u00e9..."
                                 }
                             ]
                         }
@@ -12995,13 +12995,29 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
-                            "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
-                            "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "marzo 31, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg"
+                            "titulo": "Tarifas arancelarias de Trump implican un reto para la nueva consola de Nintendo\u00a0",
+                            "url": "https://www.elnacional.com/tecnologia/tarifas-arancelarias-de-trump-implican-un-reto-para-la-nueva-consola-de-nintendo/",
+                            "categoria": "TECNOLOGIA",
+                            "fecha": "abril 4, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/Nintendo-Switch-2.png"
                         },
                         "notas": [
+                            {
+                                "titulo": "Studio Ghibli: las nuevas capacidades de ChatGPT abren debate sobre el impacto de la inteligencia artificial",
+                                "url": "https://www.elnacional.com/tecnologia/studio-ghibli-las-nuevas-capacidades-de-chatgpt-abren-debate-sobre-el-impacto-de-la-inteligencia-artificial/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/unsplash-ghibli-scaled.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "abril 4, 2025",
+                                "extra": "Tras el lanzamiento del generador de im\u00e1genes integrado en ChatGPT (con el modelo GPT-4o), OpenAI sorprendi\u00f3 al mundo. El nuevo\u2026"
+                            },
+                            {
+                                "titulo": "Cientos de personas estrenan el Nintendo Switch 2 en Par\u00eds",
+                                "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-cientos-de-personas-la-estrenan-en-paris/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/Nintendo-cientos-usuarios-estrenan-paris-1.jpeg",
+                                "meta": "GAMERS",
+                                "fecha": "abril 4, 2025",
+                                "extra": "Par\u00eds se convirti\u00f3 en la capital europea del gaming con el estreno de la Nintendo Switch 2. Cientos de afortunados,\u2026"
+                            },
                             {
                                 "titulo": "Nintendo Switch 2 tendr\u00e1 mejoras en el rendimiento y nuevas funcionalidades",
                                 "url": "https://www.elnacional.com/tecnologia/nintendo-switch-2-mejoras-en-rendimiento-y-nuevas-funcionalidades/",
@@ -13043,6 +13059,14 @@
                                 "extra": "Cuando piensas en videojuegos, es posible que te imagines una competencia, un pasatiempo competitivo. Muchos de los juegos m\u00e1s populares\u2026"
                             },
                             {
+                                "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
+                                "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "marzo 31, 2025",
+                                "extra": "No es secreto que la inteligencia artificial (IA) amplifica la creatividad. Y esta idea se afianz\u00f3 desde que los usuarios\u2026"
+                            },
+                            {
                                 "titulo": "Esta es la nueva funci\u00f3n de WhatsApp para los grupos con muchos integrantes",
                                 "url": "https://www.elnacional.com/tecnologia/esta-es-la-nueva-funcion-de-whatsapp-para-los-grupos-con-muchos-integrantes/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/nueva-funcion-de-WhatsApp.jpg",
@@ -13057,30 +13081,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "marzo 28, 2025",
                                 "extra": "En los \u00faltimos a\u00f1os, Meta ha introducido muchas funciones y capacidades de inteligencia artificial (IA) en sus aplicaciones, llegando incluso\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfC\u00f3mo los agentes de inteligencia artificial se convertir\u00e1n en los protagonistas del futuro digital?",
-                                "url": "https://www.elnacional.com/tecnologia/como-los-agentes-de-inteligencia-artificial-se-convertiran-en-los-protagonistas-del-futuro-digital/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/pixabay-androide.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 28, 2025",
-                                "extra": "La inteligencia artificial generativa no para de sorprendernos. El m\u00e1s reciente lanzamiento de OpenAI, un generador de im\u00e1genes a partir\u2026"
-                            },
-                            {
-                                "titulo": "ChatGPT permite eliminar la informaci\u00f3n personal que almacena",
-                                "url": "https://www.elnacional.com/tecnologia/chatgpt-permite-eliminar-la-informacion-personal-que-almacena/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Lo-que-hace-particular-a-este-chatbot-es-que-a-medida-que-los-usuarios-interactuan-con-el-este-va-haciendo-un-registro-de-preferencias-y-datos-Foto-Archivo.jpg",
-                                "meta": "APP",
-                                "fecha": "marzo 28, 2025",
-                                "extra": "En la era de la digitalizaci\u00f3n y la inteligencia artificial, las herramientas como\u00a0ChatGPT,\u00a0desarrolladas por OpenAI, se han vuelto indispensables en\u2026"
-                            },
-                            {
-                                "titulo": "YouTube, popular entre los mayores de 50 a\u00f1os",
-                                "url": "https://www.elnacional.com/tecnologia/youtube-popular-entre-los-mayores-de-50-anos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/YouTube-fue-el-mas-usado-gracias-a-la-popularidad-de-la-plataforma-entre-los-espectadores-mayores-de-50-anos-Foto-Archivo.jpg",
-                                "meta": "APP",
-                                "fecha": "marzo 27, 2025",
-                                "extra": "YouTube acapar\u00f3 m\u00e1s tiempo televisivo que cualquier otro proveedor de entretenimiento en Estados Unidos en febrero gracias a la popularidad\u2026"
                             }
                         ]
                     }
