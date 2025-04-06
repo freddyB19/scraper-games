@@ -12202,6 +12202,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Buenas noticias para los fans de Nintendo: los juegos podr\u00edan costar menos de lo esperado por esta raz\u00f3n",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/05/buenas-noticias-fans-nintendo-juegos-podrian-costar-esperado-razon.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/05/67f11d0544ad4.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN TURRI\u00d3N"
+                        },
+                        {
                             "titulo": "Los aranceles de Trump tambi\u00e9n afectan a la Nintendo Switch 2 en EE.UU",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/04/04/aranceles-trump-tambien-afectan-nintendo-switch-2-ee-uu.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/04/67f021bbdadcb.jpeg",
@@ -12543,13 +12550,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17418688318939.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "TOTW 26 de EA Sports FC 25: Hudson-Odoi, Rice y Pulisic, los m\u00e1s destacados del Equipo de la Semana",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/03/12/67d1c6a1ca4741b62c8b4574.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/03/14/17418037493658.jpeg",
-                            "meta": "FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         }
                     ]
                 },
@@ -12894,15 +12894,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "OpenAI Ofrece ChatGPT Plus de Manera Gratuita Para Estudiantes Universitarios en EEUU y Canad\u00e1",
-                            "url": "https://decrypt.co/es/313471/openai-ofrece-chatgpt-plus-de-manera-gratuita-para-estudiantes-universitarios-en-eeuu-y-canada",
+                            "titulo": "OpenAI Planea Lanzar O3 y O4-Mini Antes de GPT-5, Seg\u00fan Sam Altman",
+                            "url": "https://decrypt.co/es/313523/openai-planea-lanzar-o3-y-o4-mini-antes-de-gpt-5-segun-sam-altman",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/OpenAI-ChatGPT-shutterstock_2241179875-16x9-1-gID_7.jpg@webp",
-                            "descripcion": "OpenAI ofrece su servicio premium de IA, ChatGPT Plus, de forma gratuita a estudiantes universitarios en EE.UU. y Canad\u00e1 por tiempo limitado, seg\u00fan anunci\u00f3 la compa\u00f1\u00eda esta semana.\nLos estudiantes elegibles en instituciones que otorgan t\u00edtulos pueden acceder a ChatGPT Plus gratis entre el 31 de marzo y el 31 de mayo de 2025. La suscripci\u00f3n permanecer\u00e1 activa durante dos meses desde la fecha de solicitud.\nEl sitio web de OpenAI promociona el servicio como una herramienta que \"est\u00e1 ah\u00ed para ayudar...",
-                            "fecha": "Apr 4, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/sam-altman-openai-worldcoin-gID_7.jpeg@webp",
+                            "descripcion": "Sam Altman, CEO de OpenAI, revel\u00f3 el viernes un cambio significativo en los planes de lanzamiento de la compa\u00f1\u00eda, anunciando que dos modelos intermedios llegar\u00e1n antes del muy anticipado GPT-5.\n\"Cambio de planes: Vamos a lanzar o3 y o4-mini despu\u00e9s de todo, probablemente en un par de semanas, y luego GPT-5 en unos meses\", escribi\u00f3 Altman en X el viernes.\n\nchange of plans: we are going to release o3 and o4-mini after all, probably in a couple of weeks, and then do GPT-5 in a few months.\nthere are...",
+                            "fecha": "Apr 5, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "OpenAI Ofrece ChatGPT Plus de Manera Gratuita Para Estudiantes Universitarios en EEUU y Canad\u00e1",
+                                    "url": "https://decrypt.co/es/313471/openai-ofrece-chatgpt-plus-de-manera-gratuita-para-estudiantes-universitarios-en-eeuu-y-canada",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 4, 2025",
+                                    "meta": "3 min lectura"
+                                },
                                 {
                                     "titulo": "\u00bfVibe Governing? F\u00f3rmula Arancelaria de Trump es Muy Similar a las Sugerencias de ChatGPT, Seg\u00fan Expertos",
                                     "url": "https://decrypt.co/es/313443/vibe-governing-formula-arancelaria-de-trump-es-muy-similar-a-las-sugerencias-de-chatgpt-segun-expertos",
@@ -12937,16 +12944,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 1, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Vibe Coding: C\u00f3mo Desarrolladores y Personas Sin Experiencia Est\u00e1n Usando IA Para Crear Aplicaciones y Juegos",
                                     "url": "https://decrypt.co/es/312433/vibe-coding-como-desarrolladores-y-personas-sin-experiencia-estan-usando-ia-para-crear-aplicaciones-y-juegos",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Mar 31, 2025",
-                                    "meta": "10 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "10 min lectura",
+                                    "descripcion": "\u00c9rase una vez, Dios dijo: \"H\u00e1gase la luz\" \u2014y se hizo la luz. Ahora puedes decir: \"H\u00e1gase esta aplicaci\u00f3n\", y la aplicaci\u00f3n aparecer\u00e1 justo ante tus ojos, todo gracias a la magia de la IA.\nEsto es lo que promete el vibe coding.\n\"Solo veo cosas, digo cosas, ejecuto cosas y copio-pego cosas, y mayormente funciona\", tuite\u00f3 Andrej Karpathy \u2014cofundador de OpenAI y ex director de IA en Tesla\u2014 el mes pasado, describiendo su nuevo enfoque de programaci\u00f3n en redes sociales.\nEn lugar de escribir c\u00f3digo met..."
+                                },
                                 {
                                     "titulo": "C\u00f3mo Freepik se Transform\u00f3 de una Plataforma de Im\u00e1genes Stock a Una Potencia de IA Generativa",
                                     "url": "https://decrypt.co/es/312347/como-freepik-se-transformo-de-una-plataforma-de-imagenes-stock-a-una-potencia-de-ia-generativa",
@@ -12978,14 +12986,6 @@
                                     "fecha": "Mar 27, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "OpenAI est\u00e1 integrando capacidades de generaci\u00f3n de im\u00e1genes directamente en ChatGPT, permitiendo a los usuarios crear im\u00e1genes sin salir de la interfaz de chat.\nLa compa\u00f1\u00eda anunci\u00f3 esta funci\u00f3n el martes como parte de su impulso m\u00e1s amplio para hacer que las herramientas de IA sean m\u00e1s \u00fatiles y accesibles a trav\u00e9s de diferentes medios, manteni\u00e9ndose relevante en la escena del arte con IA.\nLa funci\u00f3n es una evoluci\u00f3n de DALL\u00b7E 3, el generador de im\u00e1genes de OpenAI, que se lanz\u00f3 en septiembre de..."
-                                },
-                                {
-                                    "titulo": "Nuevo Modelo de IA Promete Predicciones Meteorol\u00f3gicas M\u00e1s R\u00e1pidas e Inteligentes",
-                                    "url": "https://decrypt.co/es/311693/nuevo-modelo-de-ia-promete-predicciones-meteorologicas-mas-rapidas-e-inteligentes",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Mar 26, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Aardvark Weather, un nuevo modelo de IA desarrollado por investigadores en Reino Unido y Canad\u00e1, podr\u00eda marcar un punto de inflexi\u00f3n en los pron\u00f3sticos meteorol\u00f3gicos globales al reemplazar las simulaciones meteorol\u00f3gicas tradicionales con inteligencia artificial para maximizar la rentabilidad y precisi\u00f3n.\nInvestigadores de la Universidad de Cambridge, el Instituto Vector de la Universidad de Toronto y el Instituto Alan Turing revelaron los nuevos hallazgos en un informe reciente publicado en Na..."
                                 }
                             ]
                         }
@@ -13002,6 +13002,14 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/Nintendo-Switch-2.png"
                         },
                         "notas": [
+                            {
+                                "titulo": "Microsoft cumple 50 a\u00f1os: principales innovaciones, desde los sistemas operativos hasta los PC con IA",
+                                "url": "https://www.elnacional.com/tecnologia/microsoft-cumple-50-anos-principales-innovaciones-desde-los-sistemas-operativos-hasta-los-pc-con-ia/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/Microsoft-.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "abril 5, 2025",
+                                "extra": "Microsoft celebra 50 a\u00f1os de vida, medio siglo de innovaci\u00f3n tecnol\u00f3gica que abarca desde la creaci\u00f3n de un \u2018software\u2019 para\u2026"
+                            },
                             {
                                 "titulo": "Studio Ghibli: las nuevas capacidades de ChatGPT abren debate sobre el impacto de la inteligencia artificial",
                                 "url": "https://www.elnacional.com/tecnologia/studio-ghibli-las-nuevas-capacidades-de-chatgpt-abren-debate-sobre-el-impacto-de-la-inteligencia-artificial/",
@@ -13073,14 +13081,6 @@
                                 "meta": "APP",
                                 "fecha": "marzo 29, 2025",
                                 "extra": "WhatsApp ha lanzado una nueva funci\u00f3n destinada a minimizar las notificaciones en grupos con un gran n\u00famero de participantes, facilitando\u2026"
-                            },
-                            {
-                                "titulo": "Meta est\u00e1 explorando nuevas funciones con inteligencia artificial en Instagram",
-                                "url": "https://www.elnacional.com/tecnologia/meta-esta-explorando-nuevas-funciones-con-inteligencia-artificial-en-instagram/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/pixabay-instagram.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "marzo 28, 2025",
-                                "extra": "En los \u00faltimos a\u00f1os, Meta ha introducido muchas funciones y capacidades de inteligencia artificial (IA) en sus aplicaciones, llegando incluso\u2026"
                             }
                         ]
                     }
