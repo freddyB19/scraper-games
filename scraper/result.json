@@ -12112,7 +12112,7 @@
                                             "06-ene-2025"
                                         ],
                                         "detalle": "En Cambio de marcha vuelve el modo Eliminaci\u00f3n, con una selecci\u00f3n de recompensas y eventos de inspiraci\u00f3n retro para ponerte a prueba.",
-                                        "url": "https://www.ea.com/es-es/games/f1/f1-24/news/f1-24-season-five",
+                                        "url": "https://www.ea.com/es-es/games/f1/f1-24/news/f1-24-season-5",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/ea/f1/f1-24/common/f124-s5.jpg.adapt.crop16x9.431p.jpg"
                                     },
                                     {
@@ -12225,6 +12225,20 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "As\u00ed quedar\u00eda la final entre Bar\u00e7a y Madrid seg\u00fan EA Sports FC 25: Goleada y victoria f\u00e1cil para...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/26/asi-quedaria-final-barca-madrid-ea-sports-fc-25-goleada-victoria-facil.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680bde15c3b62.jpeg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Nunca pens\u00e9 que un remaster pondr\u00eda la industria patas arriba, pero Oblivion IV ha hecho eso y mucho m\u00e1s. An\u00e1lisis",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/26/nunca-pense-remaster-pondria-industria-patas-oblivion-iv-hecho-analisis.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680b76b0e2fa1.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
                         {
                             "titulo": "Si vives en Espa\u00f1a y juegas a Fortnite, puedes ganar hasta 1.000 \u20ac, pero solo por tiempo limitado si eres muy bueno",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/04/25/vives-espana-juegas-fortnite-puedes-ganar-1-000-limitado-bueno.html",
@@ -12560,20 +12574,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/14/67fd52254f27d.jpeg",
                             "meta": "Juegos",
                             "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Abby llega para revolucionar la segunda temporada de TLOU: analizamos el primer cap\u00edtulo",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/15/abby-llega-revolucionar-segunda-temporada-tlou-analizamos-primer-capitulo.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/14/67fd24eb1efd2.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Una filtraci\u00f3n revela que Call of Duty Black Ops 7 llegar\u00e1 en 2025 con muchas sorpresas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/14/filtracion-revela-call-of-duty-black-ops-7-llegara-2025-muchas-sorpresas.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/14/67fd4388729bd.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         }
                     ]
                 },
@@ -12924,15 +12924,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Este Modelo de IA Puede Gritar de Terror Mientras Los Gigantes Permanecen Mudos",
-                            "url": "https://decrypt.co/es/316117/este-modelo-de-ia-puede-gritar-de-terror-mientras-los-gigantes-permanecen-mudos",
+                            "titulo": "\u00bfLa IA Acaba de Describir C\u00f3mo Ser\u00e1 el Futuro de la Humanidad?",
+                            "url": "https://decrypt.co/es/316540/la-ia-acaba-de-describir-como-sera-el-futuro-de-la-humanidad",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/8dac812d-014e-4014-8f4b-b4f4d95cb5af-gID_7.png@webp",
-                            "descripcion": "Nari Labs ha lanzado Dia-1.6B, un modelo de texto a voz de c\u00f3digo abierto que afirma superar a jugadores establecidos como ElevenLabs y Sesame en la generaci\u00f3n de habla emocionalmente expresiva. El modelo es s\u00faper peque\u00f1o, con solo 1.600 millones de par\u00e1metros, pero a\u00fan puede crear di\u00e1logos realistas completos con risas, tos e inflexiones emocionales.\nIncluso puede gritar de terror.\n\nWe just solved text-to-speech AI.\nThis model can simulate perfect emotion, screaming and show genuine alarm.\u2014 cle...",
-                            "fecha": "Apr 25, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/NQpTjxbNg-gID_7.jpeg@webp",
+                            "descripcion": "El jueves se viraliz\u00f3 un tuit\u00a0despu\u00e9s de que un usuario de X le pidiera a ChatGPT que describiera el futuro de la humanidad de una manera \"que ni siquiera la persona m\u00e1s inteligente del mundo pueda entender\".\nLa IA cumpli\u00f3 con una extra\u00f1a cadena de s\u00edmbolos, glifos y caracteres distorsionados que parec\u00edan una mezcla de notaci\u00f3n matem\u00e1tica, runas antiguas y v\u00f3mito digital.\n\nPero cuando se le pidi\u00f3 que descifrara esta informaci\u00f3n sin sentido, la respuesta fue realmente una interesante visi\u00f3n filos...",
+                            "fecha": "Apr 26, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Trump Firma Orden Ejecutiva para Impulsar Educaci\u00f3n en IA a Nivel Nacional",
+                                    "url": "https://decrypt.co/es/316140/trump-firma-orden-ejecutiva-para-impulsar-educacion-en-ia-a-nivel-nacional",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 25, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "SkyReels-V2 Rompe L\u00edmites Temporales: Generador de Video de IA Crea Contenido Infinito Sin Degradaci\u00f3n",
+                                    "url": "https://decrypt.co/es/316127/skyreels-v2-rompe-limites-temporales-generador-de-video-de-ia-crea-contenido-infinito-sin-degradacion",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 25, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "Este Modelo de IA Puede Gritar de Terror Mientras Los Gigantes Permanecen Mudos",
+                                    "url": "https://decrypt.co/es/316117/este-modelo-de-ia-puede-gritar-de-terror-mientras-los-gigantes-permanecen-mudos",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 25, 2025",
+                                    "meta": "6 min lectura"
+                                },
                                 {
                                     "titulo": "Rel\u00e1jate, Sigues Siendo Mejor Jugando 'Doom' Que la Inteligencia Artificial",
                                     "url": "https://decrypt.co/es/315636/relajate-sigues-siendo-mejor-jugando-doom-que-la-inteligencia-artificial",
@@ -12953,30 +12974,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 18, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "xAI de Elon Musk Lanza Grok Studio Para Desafiar a ChatGPT Con Colaboraci\u00f3n en Pantalla Dividida",
                                     "url": "https://decrypt.co/es/315315/xai-de-elon-musk-lanza-grok-studio-para-desafiar-a-chatgpt-con-colaboracion-en-pantalla-dividida",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 17, 2025",
-                                    "meta": "3 min lectura"
+                                    "meta": "3 min lectura",
+                                    "descripcion": "xAI acaba de lanzar Grok Studio ofreciendo a los usuarios una interfaz estilo lienzo para construir aplicaciones, escribir documentos y desarrollar juegos de navegador. La nueva funci\u00f3n enfrenta directamente a la compa\u00f1\u00eda de IA de Elon Musk contra el ChatGPT Canvas de OpenAI y los Artefactos Claude de Anthropic en el competitivo espacio de productividad de la IA.\nGrok Studio permite la colaboraci\u00f3n en tiempo real en pantalla dividida entre los usuarios y la IA, lo que permite trabajar simult\u00e1nea..."
                                 },
                                 {
                                     "titulo": "ChatGPT-4.5 de OpenAI Supera Prueba de Turing Con Tasa de \u00c9xito Del 73%",
                                     "url": "https://decrypt.co/es/314898/chatgpt-4-5-de-openai-supera-prueba-de-turing-con-tasa-de-exito-del-73",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 15, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "ChatGPT-4.5 de OpenAI ha alcanzado un hito que se consideraba que tardar\u00eda d\u00e9cadas en conseguirse: convencer a una mayor\u00eda de participantes en una evaluaci\u00f3n de estilo Test de Turing de que era humano.\nEn un reciente estudio de la Universidad de California, San Diego, que buscaba evaluar si los Large Language Model pueden superar el cl\u00e1sico Test de Turing de tres partes, se inform\u00f3 que GPT-4.5 tuvo \u00e9xito en el 73% de las conversaciones basadas en texto.\nEl estudio mostr\u00f3 que el \u00faltimo Large Lang..."
                                 },
                                 {
                                     "titulo": "Google Lanza IA Para Decodificar Lenguaje de Delfines: se Ejecuta en Tel\u00e9fonos Pixel",
                                     "url": "https://decrypt.co/es/314892/google-lanza-ia-para-decodificar-lenguaje-de-delfines-se-ejecuta-en-telefonos-pixel",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 15, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Google present\u00f3 hoy DolphinGemma, un modelo de IA de c\u00f3digo abierto dise\u00f1ado para decodificar la comunicaci\u00f3n de los delfines mediante el an\u00e1lisis de sus clics, silbidos y pulsos. El anuncio coincidi\u00f3 con el D\u00eda Nacional del Delf\u00edn.\nEl modelo, creado en colaboraci\u00f3n con Georgia Tech y el Wild Dolphin Project (WDP), aprende la estructura de las vocalizaciones de los delfines y puede generar secuencias de sonidos similares a los de estos mam\u00edferos marinos.\nEste avance podr\u00eda ayudar a determinar si..."
+                                },
                                 {
                                     "titulo": "OpenAI Lanza GPT-4.1: Por Qu\u00e9 Este Modelo de IA Superpotente Acabar\u00e1 con GPT-4.5",
                                     "url": "https://decrypt.co/es/314887/openai-lanza-gpt-4-1-por-que-este-modelo-de-ia-superpotente-acabara-con-gpt-4-5",
@@ -12992,30 +13016,6 @@
                                     "fecha": "Apr 15, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Frente a la amenaza inminente de una guerra comercial alimentada por los aranceles de Estados Unidos sobre bienes extranjeros, el fabricante de chips Nvidia est\u00e1 trasladando parte de sus operaciones de fabricaci\u00f3n de supercomputadoras de IA a territorio estadounidense. La compa\u00f1\u00eda anunci\u00f3 el lunes que planea invertir $500.000 millones en desarrollo de infraestructura en Estados Unidos.\nEl anuncio de Nvidia refleja la creciente presi\u00f3n sobre las empresas tecnol\u00f3gicas estadounidenses para localiza..."
-                                },
-                                {
-                                    "titulo": "C\u00f3mo un Fil\u00f3sofo que Critic\u00f3 a Trump y Musk Result\u00f3 Ser un Experimento de IA",
-                                    "url": "https://decrypt.co/es/314672/como-un-filosofo-que-critico-a-trump-y-musk-resulto-ser-un-experimento-de-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 14, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Jianwei Xun, el supuesto fil\u00f3sofo de Hong Kong cuyo libro \"Hypnocracy\" afirma que Elon Musk y el presidente Donald Trump utilizan promesas ut\u00f3picas y lenguaje vac\u00edo, nunca existi\u00f3 realmente, al menos no f\u00edsicamente.\nEn cambio, el aclamado autor fue una creaci\u00f3n \"colaborativa\" entre Andrea Colamedici, un editor italiano, y dos herramientas de IA \u2013 Claude de Anthropic y ChatGPT de OpenAI.\n\"Quer\u00eda escribir un libro que ayudara a las personas a comprender mejor las nuevas formas en que se manifiesta..."
-                                },
-                                {
-                                    "titulo": "La Mejor Guia Detallada Para Hacer Videos Virales Generados Por IA",
-                                    "url": "https://decrypt.co/es/314656/la-mejor-guia-detallada-para-hacer-videos-virales-generados-por-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 14, 2025",
-                                    "meta": "8 min lectura",
-                                    "descripcion": "Si eres un usuario habitual de redes sociales, es posible que te hayas encontrado con videos como este:\n\nChina AI-Generated videos depicting MAGA supporters - including Trump himself - working in warehouses sewing and manufacturing are going viral after the trade war between Beijing and Washington kicked off.pic.twitter.com/XP1jd4oyLC\n\u2014 The American Way With Sheila Kay (@usasheilakay) April 11, 2025\n\nO este:\n\nTrump taking a 30 min lunch break from the factory work at the fat factory model he cre..."
-                                },
-                                {
-                                    "titulo": "OpenAI Mejora Capacidades de Memoria de ChatGPT Permitiendo Acceso Completo al Historial de Conversaciones",
-                                    "url": "https://decrypt.co/es/314466/openai-mejora-capacidades-de-memoria-de-chatgpt-permitiendo-acceso-completo-al-historial-de-conversaciones",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 11, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "OpenAI acaba de presentar una importante actualizaci\u00f3n de las capacidades de memoria de ChatGPT, permitiendo que la IA haga referencia a todo el historial de conversaciones de un usuario para ofrecer respuestas m\u00e1s personalizadas. Esta funci\u00f3n, que se lanza primero para los clientes de pago del nivel Pro de OpenAI, marca un paso hacia sistemas de IA m\u00e1s personalizados.\n\"\u00a1Hemos mejorado enormemente la memoria en ChatGPT\u2014ahora puede hacer referencia a todas tus conversaciones pasadas!\", anunci\u00f3 el..."
                                 }
                             ]
                         }
@@ -13025,13 +13025,37 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "YouTube TV trabaja en un redise\u00f1o para mejorar la navegaci\u00f3n y reproducci\u00f3n de contenido",
-                            "url": "https://www.elnacional.com/tecnologia/youtube-tv-trabaja-en-un-rediseno-para-mejorar-la-reproduccion-de-contenido/",
-                            "categoria": "APP",
-                            "fecha": "abril 24, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/YouTube-TV.jpg"
+                            "titulo": "Hackers est\u00e1n distribuyendo un peligroso malware escondido en falsos trucos de videojuegos",
+                            "url": "https://www.elnacional.com/tecnologia/hackers-estan-distribuyendo-un-peligroso-malware-escondido-en-falsos-trucos-de-videojuegos/",
+                            "categoria": "TECNOLOGIA",
+                            "fecha": "abril 25, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/pixabay-malware.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Spotify aumentar\u00e1 en junio los precios de sus suscripciones en Europa y Am\u00e9rica Latina",
+                                "url": "https://www.elnacional.com/tecnologia/spotify-aumentara-en-junio-los-precios-de-sus-suscripciones-en-europa-y-america-latina/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/01/Capturasd-3.jpg",
+                                "meta": "APP",
+                                "fecha": "abril 25, 2025",
+                                "extra": "La plataforma sueca de m\u00fasica en \u2018streaming\u2019 Spotify aumentar\u00e1 los precios de sus suscripciones en \u00abdocenas de pa\u00edses alrededor del\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfC\u00f3mo la inteligencia artificial est\u00e1 cambiando la manera de contratar?",
+                                "url": "https://www.elnacional.com/tecnologia/como-la-inteligencia-artificial-esta-cambiando-la-manera-de-contratar/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/pixabay-computadora.png",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "abril 25, 2025",
+                                "extra": "Los constantes avances en el desarrollo de la inteligencia artificial y la automatizaci\u00f3n est\u00e1 provocando grandes cambios en el mercado\u2026"
+                            },
+                            {
+                                "titulo": "YouTube TV trabaja en un redise\u00f1o para mejorar la navegaci\u00f3n y reproducci\u00f3n de contenido",
+                                "url": "https://www.elnacional.com/tecnologia/youtube-tv-trabaja-en-un-rediseno-para-mejorar-la-reproduccion-de-contenido/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/YouTube-TV.jpg",
+                                "meta": "APP",
+                                "fecha": "abril 24, 2025",
+                                "extra": "YouTube planea lanzar un redise\u00f1o de su plataforma YouTube TV este verano que ofrecer\u00e1 una interfaz de usuario renovada con\u2026"
+                            },
                             {
                                 "titulo": "China organiza sus primeros Juegos de Robots con inteligencia artificial corporizada",
                                 "url": "https://www.elnacional.com/tecnologia/china-organiza-sus-primeros-juegos-de-robots-con-inteligencia-artificial-corporizada/",
@@ -13087,30 +13111,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "abril 16, 2025",
                                 "extra": "OpenAI explorar\u00e1 el terreno de las redes sociales. La empresa l\u00edder en inteligencia artificial est\u00e1 dando los primeros pasos en\u2026"
-                            },
-                            {
-                                "titulo": "Mark Zuckerberg defendi\u00f3 Facebook en el juicio antimonopolio contra Meta",
-                                "url": "https://www.elnacional.com/tecnologia/mark-zuckerberg-defendio-facebook-en-el-juicio-antimonopolio-contra-meta/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/descarga-2.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "abril 15, 2025",
-                                "extra": "Mark Zuckerberg, el cofundador de Facebook (ahora denominada Meta Platforms), defendi\u00f3 el lunes en un tribunal de Washington D.C. su\u2026"
-                            },
-                            {
-                                "titulo": "Jap\u00f3n va contra Google por violar las leyes antimonopolio",
-                                "url": "https://www.elnacional.com/tecnologia/japon-va-contra-google-por-violar-las-leyes-antimonopolio/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/Japon-no-es-el-unico-pais-que-ha-demandado-a-Google-Foto-Archivo.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "abril 15, 2025",
-                                "extra": "Las autoridades de Jap\u00f3n anunciaron este martes que emitieron una orden de cese y desistimiento contra el gigante tecnol\u00f3gico estadounidense\u2026"
-                            },
-                            {
-                                "titulo": "Por qu\u00e9 X no es una red social (y otras plataformas tampoco)",
-                                "url": "https://www.elnacional.com/tecnologia/por-que-x-no-es-una-red-social-y-otras-plataformas-tampoco/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/unsplash-red-social-x.jpg",
-                                "meta": "APP",
-                                "fecha": "abril 13, 2025",
-                                "extra": "El t\u00e9rmino red social surge en los a\u00f1os 60 del siglo XX en el campo de la sociolog\u00eda, y se\u2026"
                             }
                         ]
                     }
