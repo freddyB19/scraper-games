@@ -12823,15 +12823,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Avance Cu\u00e1ntico Produce Aleatoriedad Inviolable Mejorando Seguridad Blockchain Y Banca Digital",
-                            "url": "https://decrypt.co/es/315978/avance-cuantico-produce-aleatoriedad-inviolable-mejorando-seguridad-blockchain-y-banca-digital",
+                            "titulo": "Elon Musk: Tesla Lanzar\u00e1 en Junio Servicio de Robotaxi en Austin",
+                            "url": "https://decrypt.co/es/316516/elon-musk-tesla-lanzara-en-junio-servicio-de-robotaxi-en-austin",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/midjourney-editor-1745265613855-gID_7.png@webp",
-                            "descripcion": "Un equipo de investigadores de JP Morgan Chase, Quantinuum y otros ha demostrado que las computadoras cu\u00e1nticas pueden producir n\u00fameros \"certificablemente aleatorios\", mejorando potencialmente c\u00f3mo aseguramos todo, desde la banca hasta los sistemas de votaci\u00f3n.\nResulta que los n\u00fameros aleatorios que algunos programas inform\u00e1ticos utilizan no son tan aleatorios.\nEn criptograf\u00eda, la tecnolog\u00eda subyacente a la autenticaci\u00f3n de dos factores y las contrase\u00f1as, por ejemplo, se generan n\u00fameros aleatori...",
-                            "fecha": "Apr 24, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/robotaxi-ai-gID_7.png@webp",
+                            "descripcion": "Tesla lanzar\u00e1 en junio su primer servicio comercial de robotaxi en Austin, Texas, seg\u00fan afirm\u00f3 recientemente el CEO de la empresa, Elon Musk. El lanzamiento inicial contar\u00e1 con 10 a 20 veh\u00edculos Model Y equipados con el software \"Full Self-Driving\" de Tesla, que hasta ahora opera bajo supervisi\u00f3n humana. Musk enfatiz\u00f3 planes para una r\u00e1pida expansi\u00f3n a otros mercados estadounidenses m\u00e1s adelante en el a\u00f1o.\nEn paralelo, Tesla est\u00e1 desarrollando el \"Cybercab\", un veh\u00edculo aut\u00f3nomo dise\u00f1ado espec\u00edf...",
+                            "fecha": "Apr 26, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Avance Cu\u00e1ntico Produce Aleatoriedad Inviolable Mejorando Seguridad Blockchain Y Banca Digital",
+                                    "url": "https://decrypt.co/es/315978/avance-cuantico-produce-aleatoriedad-inviolable-mejorando-seguridad-blockchain-y-banca-digital",
+                                    "categoria": "Technology",
+                                    "fecha": "Apr 24, 2025",
+                                    "meta": "8 min lectura"
+                                },
                                 {
                                     "titulo": "Fabricante de Autom\u00f3viles Chino Presenta Coche Aut\u00f3nomo de $9.500",
                                     "url": "https://decrypt.co/es/315653/fabricante-de-automoviles-chino-presenta-coche-autonomo-de-9-500",
@@ -12866,16 +12873,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Apr 8, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Desarrollador de Bitcoin Quiere Combatir Amenaza de la Computaci\u00f3n Cu\u00e1ntica\u2014Antes de Que Sea un Problema",
                                     "url": "https://decrypt.co/es/313830/desarrollador-de-bitcoin-quiere-combatir-amenaza-de-la-computacion-cuantica-antes-de-que-sea-un-problema",
                                     "categoria": "Technology",
                                     "fecha": "Apr 8, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "A medida que las computadoras cu\u00e1nticas se acercan a romper la criptograf\u00eda actual, los desarrolladores de Bitcoin est\u00e1n compitiendo para proteger la criptomoneda m\u00e1s grande del mundo de la amenaza sin precedentes del descifrado cu\u00e1ntico.\nUna soluci\u00f3n propuesta, descrita en una reciente Propuesta de Mejora de Bitcoin presentada por el tecn\u00f3logo chileno Agustin Cruz, exige una migraci\u00f3n obligatoria a las direcciones del Protocolo de Migraci\u00f3n de Direcciones Resistentes a la Computaci\u00f3n Cu\u00e1ntica p..."
+                                },
                                 {
                                     "titulo": "EY Actualiza Nightfall Con Tecnolog\u00eda de Conocimiento Cero Para Transacciones Privadas en Ethereum",
                                     "url": "https://decrypt.co/es/313269/ey-actualiza-nightfall-con-tecnologia-de-conocimiento-cero-para-transacciones-privadas-en-ethereum",
@@ -12907,14 +12915,6 @@
                                     "fecha": "Apr 2, 2025",
                                     "meta": "6 min lectura",
                                     "descripcion": "Cuando la empresa de pruebas de ADN 23andMe anunci\u00f3 la semana pasada que se declarar\u00eda en bancarrota, surgi\u00f3 una ola de especulaciones.\n\u00bfQu\u00e9 suceder\u00eda con los tesoros de datos gen\u00e9ticos sensibles de m\u00e1s de 15 millones de personas en todo el mundo que hab\u00eda recopilado a lo largo de los a\u00f1os?\nEl jueves, el desarrollador de blockchain de capa uno Sei Network anunci\u00f3 en X que su \u00f3rgano de gobierno, la Fundaci\u00f3n Sei, estaba ofertando para adquirir 23andMe.\nRoban Datos Gen\u00e9ticos de 23andMe en Ataque d..."
-                                },
-                                {
-                                    "titulo": "Trabajadores de TI Norcoreanos se Infiltraron en Proyectos Europeos Basados en Solana: Google",
-                                    "url": "https://decrypt.co/es/312867/trabajadores-de-ti-norcoreanos-se-infiltraron-en-proyectos-europeos-basados-en-solana-google",
-                                    "categoria": "Technology",
-                                    "fecha": "Apr 2, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Los proyectos comprometidos incluyen blockchain, marketplaces, aplicaciones web de IA y el desarrollo de Solana y contratos inteligentes (smart contracts) de Anchor/Rust.\nUn caso involucr\u00f3 la construcci\u00f3n de una plataforma de alojamiento de tokens Nodexa utilizando Next.js y CosmosSDK, mientras que otros incluyeron un marketplace de empleos blockchain construido con el stack MERN y Solana, y el desarrollo de herramientas blockchain mejoradas con IA utilizando Electron y Tailwind CSS.\n\"En respues..."
                                 }
                             ]
                         }
