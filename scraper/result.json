@@ -12581,9 +12581,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 27 de abril",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-27-de-abril-nid28042025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "28 de abril de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-27-de-abril-nid28042025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos gratis de la semana del 24 de abril en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-24-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid24042025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "24 de abril de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-24-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid24042025/"
                         },
@@ -12809,13 +12816,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/xsolla-lanza-lealtad-como-un-servicio-para-JLCOXFRB7ZEHXIBXZCY4TVB5VM.jpg?auth=3c887c251a7314c28dfc02f0f50aaf73aae8e03eb21b93f2f4d21655e65909b6&width=300&height=200&quality=70&smart=true",
                             "fecha": "11 de marzo de 2025",
                             "url_link": "/agencias/xsolla-lanza-lealtad-como-un-servicio-para-desarrolladores-de-juegos-para-crear-conexiones-mas-nid11032025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 09 de marzo",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-09-de-marzo-nid10032025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-36SI3WWTK5AWTPEF34QPAVBPFY.jpg?auth=3645deeb64dacb71b999645350ab6af12c1470cb957332f422122faffc47d234&width=300&height=200&quality=70&smart=true",
-                            "fecha": "10 de marzo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-09-de-marzo-nid10032025/"
                         }
                     ]
                 },
