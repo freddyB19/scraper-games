@@ -13025,11 +13025,11 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Hackers est\u00e1n distribuyendo un peligroso malware escondido en falsos trucos de videojuegos",
-                            "url": "https://www.elnacional.com/tecnologia/hackers-estan-distribuyendo-un-peligroso-malware-escondido-en-falsos-trucos-de-videojuegos/",
-                            "categoria": "TECNOLOGIA",
-                            "fecha": "abril 25, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/pixabay-malware.jpg"
+                            "titulo": "Meta bajo escrutinio por interacciones sexuales de sus chatbots con ni\u00f1os",
+                            "url": "https://www.elnacional.com/tecnologia/chatbots-de-meta-interactuan-sexualmente-con-ninos/",
+                            "categoria": "INTELIGENCIA ARTIFICIAL",
+                            "fecha": "abril 28, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg"
                         },
                         "notas": [
                             {
@@ -13047,6 +13047,14 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "abril 25, 2025",
                                 "extra": "Los constantes avances en el desarrollo de la inteligencia artificial y la automatizaci\u00f3n est\u00e1 provocando grandes cambios en el mercado\u2026"
+                            },
+                            {
+                                "titulo": "Hackers est\u00e1n distribuyendo un peligroso malware escondido en falsos trucos de videojuegos",
+                                "url": "https://www.elnacional.com/tecnologia/hackers-estan-distribuyendo-un-peligroso-malware-escondido-en-falsos-trucos-de-videojuegos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/pixabay-malware.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "abril 25, 2025",
+                                "extra": "La compa\u00f1\u00eda de ciberseguridad Kaspersky ha alertado sobre un malware escondido en falsos trucos de videojuegos. En este caso, los\u2026"
                             },
                             {
                                 "titulo": "YouTube TV trabaja en un redise\u00f1o para mejorar la navegaci\u00f3n y reproducci\u00f3n de contenido",
@@ -13103,14 +13111,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "abril 16, 2025",
                                 "extra": "Desde las 3:00 pm\u00a0del mi\u00e9rcoles 16 de abril de 2025, el servicio de videoconferencia Zoom est\u00e1 experimentando una interrupci\u00f3n masiva,\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfOpenAI est\u00e1 creando su propia red social?",
-                                "url": "https://www.elnacional.com/tecnologia/openai-esta-creando-su-propia-red-social/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/OpenAI.jpeg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "abril 16, 2025",
-                                "extra": "OpenAI explorar\u00e1 el terreno de las redes sociales. La empresa l\u00edder en inteligencia artificial est\u00e1 dando los primeros pasos en\u2026"
                             }
                         ]
                     }
@@ -13119,13 +13119,21 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "\u00bfOpenAI est\u00e1 creando su propia red social?",
-                            "url": "https://www.elnacional.com/tecnologia/openai-esta-creando-su-propia-red-social/",
+                            "titulo": "Meta bajo escrutinio por interacciones sexuales de sus chatbots con ni\u00f1os",
+                            "url": "https://www.elnacional.com/tecnologia/chatbots-de-meta-interactuan-sexualmente-con-ninos/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "abril 16, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/OpenAI.jpeg"
+                            "fecha": "abril 28, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "\u00bfOpenAI est\u00e1 creando su propia red social?",
+                                "url": "https://www.elnacional.com/tecnologia/openai-esta-creando-su-propia-red-social/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/OpenAI.jpeg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "abril 16, 2025",
+                                "extra": "OpenAI explorar\u00e1 el terreno de las redes sociales. La empresa l\u00edder en inteligencia artificial est\u00e1 dando los primeros pasos en\u2026"
+                            },
                             {
                                 "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
                                 "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
@@ -13197,14 +13205,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 4, 2025",
                                 "extra": "El gobierno de Australia anunci\u00f3 este martes la prohibici\u00f3n de la instalaci\u00f3n y uso del modelo chino de inteligencia artificial\u2026"
-                            },
-                            {
-                                "titulo": "Taiw\u00e1n toma medidas en\u00e9rgicas contra DeepSeek por riesgos de seguridad",
-                                "url": "https://www.elnacional.com/tecnologia/taiwan-contra-deepseek-por-riesgos-de-seguridad-gubernamental/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Deepseek-IA.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "febrero 4, 2025",
-                                "extra": "Este lunes, Taiw\u00e1n prohibi\u00f3 por completo a los departamentos gubernamentales utilizar el servicio de la plataforma de inteligencia artificial (IA)\u2026"
                             }
                         ]
                     }
