@@ -11562,6 +11562,54 @@
                         ]
                     },
                     {
+                        "titulo": "EA SPORTS\u2122 College Football 26",
+                        "fecha": "10 de julio de 2025",
+                        "plataformas": [
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/playstation",
+                                "tipo": "PlayStation\u00ae"
+                            },
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/xbox",
+                                "tipo": "Xbox"
+                            }
+                        ],
+                        "genero": [
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/sports",
+                                "genero": "Deportes"
+                            }
+                        ]
+                    },
+                    {
+                        "titulo": "EA SPORTS\u2122 Madden NFL 26",
+                        "fecha": "14 de agosto de 2025",
+                        "plataformas": [
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/pc-download",
+                                "tipo": "Descarga para PC"
+                            },
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/playstation",
+                                "tipo": "PlayStation\u00ae"
+                            },
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/xbox",
+                                "tipo": "Xbox"
+                            },
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/nintendo-switch",
+                                "tipo": "Nintendo Switch"
+                            }
+                        ],
+                        "genero": [
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/sports",
+                                "genero": "Deportes"
+                            }
+                        ]
+                    },
+                    {
                         "titulo": "Star Wars Zero Company\u2122",
                         "fecha": "Pr\u00f3ximamente",
                         "plataformas": [
@@ -11713,6 +11761,16 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "Luchando por la equidad: informe de progreso antitrampas",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "24-abr-2025"
+                                        ],
+                                        "detalle": "Informe de progreso de la tecnolog\u00eda antitrampas de EA.",
+                                        "url": "https://www.ea.com/es-es/security/news/anticheat-progress-report",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/anticheat-progress-report-article-featured-image.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
                                         "titulo": "Presentamos EA Javelin Anticheat",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -11761,16 +11819,6 @@
                                         "detalle": "El director de Hazelight, Josef Fares, nos habla sobre la creaci\u00f3n de momentos in\u00e9ditos en los videojuegos, despu\u00e9s de un gran \u00e9xito y m\u00e1s.",
                                         "url": "https://www.ea.com/es-es/news/split-fiction-director-qa",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/split-fiction-director-qa-article-thumbnail.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "Nuestro compromiso continuo con el juego positivo y con una comunidad acoge\u2026",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "28-feb-2025"
-                                        ],
-                                        "detalle": "Detallamos los esfuerzos de EA para crear las mejores y m\u00e1s positivas experiencias para nuestra comunidad.",
-                                        "url": "https://www.ea.com/es-es/news/2024-transparency-report",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/2024-transparency-report-thumbnail.png.adapt.crop16x9.431p.png"
                                     }
                                 ]
                             },
@@ -12226,6 +12274,55 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Si Zelda Breath of the Wild y Genshin Impact tuviesen un hijo, ser\u00eda exactamente como este RPG. As\u00ed es Cloudheim",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/30/zelda-breath-of-the-wild-genshin-impact-tuviesen-hijo-seria-exactamente-rpg-asi-cloudheim.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/30/6811eccb91d33.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Rockstar ya tiene fecha de lanzamiento para GTA 6 y este movimiento de 2K lo demostrar\u00eda",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/30/rockstar-fecha-lanzamiento-gta-6-movimiento-2k-demostraria.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/30/6811d2414b943.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El Bar\u00e7a tendr\u00e1 que ganar en Mil\u00e1n para estar en la final de la Champions League... al menos seg\u00fan EA Sports FC 25",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/30/barca-tendra-ganar-milan-final-champions-league-ea-sports-fc-25.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/29/68111e9c88d26.jpeg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "\u00bfSe acerca la guerra? Ellie y Dina, a la caza de los lobos: an\u00e1lisis del tercer cap\u00edtulo de The Last of Us",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/29/acerca-guerra-ellie-dina-caza-lobos-analisis-tercer-capitulo-the-last-of-us.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/29/6811128c4d838.png",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Si te gusta Harry Potter y piensas que Dumbledore es un in\u00fatil, ahora puedes dirigir tu propia escuela de magia y demostrarlo",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/29/te-gusta-harry-potter-piensas-dumbledore-inutil-puedes-dirigir-propia-escuela-magia-demostrarlo.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/29/6810c88222f48.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Son 5 juegazos por menos de 10 euros perfectos si est\u00e1s cansado de jugar siempre a lo mismo",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/29/son-5-juegazos-10-euros-perfectos-cansado-jugar-siempre.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/29/6810ad1c865bf.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "GTA 6 ni ha salido y ya ha roto un r\u00e9cord hist\u00f3rico de Rockstar y GTA V de hace casi 5 a\u00f1os",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/29/gta-6-salido-roto-record-historico-rockstar-gta-v-5-anos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/29/6810bf4aefbdd.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "As\u00ed quedar\u00eda la final entre Bar\u00e7a y Madrid seg\u00fan EA Sports FC 25: Goleada y victoria f\u00e1cil para...",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/04/26/asi-quedaria-final-barca-madrid-ea-sports-fc-25-goleada-victoria-facil.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680bde15c3b62.jpeg",
@@ -12525,55 +12622,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/17/6800c83cdb78d.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Fortnite: Battle Royale vs Modo Creativo vs Cero Construcci\u00f3n... \u00bfCu\u00e1l es para ti?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/16/fortnite-battle-royale-vs-creativo-vs-cero-construccion-ti.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/16/67ffe01a2cae0.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Mario Kart World Direct: fecha, horario y d\u00f3nde ver online la conferencia de Nintendo",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/16/mario-kart-world-direct-fecha-horario-ver-online-conferencia-nintendo.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/16/67ffbe1bc398b.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "REMATCH: f\u00fatbol y artes marciales se fusionan en un nuevo juego... \u00a1Y sale bien!",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/16/rematch-futbol-artes-marciales-fusionan-nuevo-juego-sale-bien.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/16/67ff71c376e2c.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Real Madrid - Arsenal: hemos simulado el partido en EA SPORTS FC 25 y...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/16/real-madrid-arsenal-hemos-simulado-partido-ea-sports-fc-25.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/16/67ff69c7a5bf8.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "TFT Clubs, la nueva iniciativa de Riot Games para llevar el TFT un paso m\u00e1s all\u00e1",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/15/tft-clubs-nueva-iniciativa-riot-games-llevar-tft-paso-alla.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/15/67fe7590927ce.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "\u2018The Last of Us 2\u2019: Qui\u00e9n es Eugene y por qu\u00e9 Gail odia a Joel",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/15/the-last-of-us-2-eugene-gail-odia-joel.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/15/67fe687b343d6.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Descubre por qu\u00e9 Ellie, en 'The Last of Us 2', es inmune a los infectados",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/15/descubre-ellie-the-last-of-us-2-inmune-infectados.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/14/67fd52254f27d.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -12924,15 +12972,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "\u00bfLa IA Acaba de Describir C\u00f3mo Ser\u00e1 el Futuro de la Humanidad?",
-                            "url": "https://decrypt.co/es/316540/la-ia-acaba-de-describir-como-sera-el-futuro-de-la-humanidad",
+                            "titulo": "Pol\u00e9mica en Australia: DJ 'Thy' Atrae Miles de Oyentes Antes de Revelarse Que Era una IA",
+                            "url": "https://decrypt.co/es/316824/polemica-en-australia-dj-thy-atrae-miles-de-oyentes-antes-de-revelarse-que-era-una-ia",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/NQpTjxbNg-gID_7.jpeg@webp",
-                            "descripcion": "El jueves se viraliz\u00f3 un tuit\u00a0despu\u00e9s de que un usuario de X le pidiera a ChatGPT que describiera el futuro de la humanidad de una manera \"que ni siquiera la persona m\u00e1s inteligente del mundo pueda entender\".\nLa IA cumpli\u00f3 con una extra\u00f1a cadena de s\u00edmbolos, glifos y caracteres distorsionados que parec\u00edan una mezcla de notaci\u00f3n matem\u00e1tica, runas antiguas y v\u00f3mito digital.\n\nPero cuando se le pidi\u00f3 que descifrara esta informaci\u00f3n sin sentido, la respuesta fue realmente una interesante visi\u00f3n filos...",
-                            "fecha": "Apr 26, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/Decrypt-Wallpaper-Format-1600-x-900-px-10-gID_7.jpg@webp",
+                            "descripcion": "Una estaci\u00f3n de radio australiana est\u00e1 enfrentando cr\u00edticas despu\u00e9s de admitir que uno de sus populares locutores, Thy, es en realidad una DJ generada por IA.\n\"Thy\", quien conduce el programa diario \"Workdays with Thy\" en CADA con sede en Sydney, fue desarrollada utilizando tecnolog\u00eda de ElevenLabs. La estaci\u00f3n no hab\u00eda revelado que Thy era artificial, seg\u00fan un informe de The Sydney Morning Herald.\n\"Cada d\u00eda de la semana de 11 am a 3 pm mientras est\u00e1s en el trabajo, conduciendo, viajando en tran...",
+                            "fecha": "Apr 29, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Investigadora de OpenAI es Obligada a Abandonar EEUU Tras Negarle la Green Card",
+                                    "url": "https://decrypt.co/es/316763/investigadora-de-openai-es-obligada-a-abandonar-eeuu-tras-negarle-la-green-card",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 29, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "\u00bfLa IA Acaba de Describir C\u00f3mo Ser\u00e1 el Futuro de la Humanidad?",
+                                    "url": "https://decrypt.co/es/316540/la-ia-acaba-de-describir-como-sera-el-futuro-de-la-humanidad",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 26, 2025",
+                                    "meta": "6 min lectura"
+                                },
                                 {
                                     "titulo": "Trump Firma Orden Ejecutiva para Impulsar Educaci\u00f3n en IA a Nivel Nacional",
                                     "url": "https://decrypt.co/es/316140/trump-firma-orden-ejecutiva-para-impulsar-educacion-en-ia-a-nivel-nacional",
@@ -12960,23 +13022,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 21, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "OmiGPT Tiene Como Objetivo Ser un Dispositivo de IA Port\u00e1til M\u00e1s Inteligente Por Solo $89",
                                     "url": "https://decrypt.co/es/315563/omigpt-tiene-como-objetivo-ser-un-dispositivo-de-ia-portatil-mas-inteligente-por-solo-89",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 21, 2025",
-                                    "meta": "5 min lectura"
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Mientras algunas empresas han perseguido visiones costosas y de alto concepto sobre wearables o dispositivos port\u00e1tiles de IA siempre activos, una startup de San Francisco est\u00e1 apostando por una alternativa m\u00e1s econ\u00f3mica: un wearable de $89 llamado OmiGPT.\nOmiGPT es un wearable inal\u00e1mbrico de c\u00f3digo abierto del tama\u00f1o aproximado de un d\u00f3lar de plata. Fabricado en aluminio ligero, cuenta con 64GB de almacenamiento y se conecta a ChatGPT de OpenAI mediante una API. El dispositivo puede llevarse en..."
                                 },
                                 {
                                     "titulo": "Inteligencia Artificial Con Ojos y O\u00eddos: OpenAI Lanza Revolucionaria Serie \"o\"",
                                     "url": "https://decrypt.co/es/315502/inteligencia-artificial-con-ojos-y-oidos-openai-lanza-revolucionaria-serie-o",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 18, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "La carrera por dominar la frontera de la IA acaba de dar un nuevo giro argumental\u2014y esta vez, responde, te mira e incluso podr\u00eda escucharte con sentimiento.\nOpenAI lanz\u00f3 hoy su nueva serie de modelos \"o\", presentando o3 y su primo ligero, o4-mini. Estos nuevos modelos no son simplemente chatbots mejorados\u2014son omnimodales, lo que significa que pueden entender y generar texto, imagen, audio y video de forma nativa. No son m\u00f3dulos Frankenstein unidos para simular alfabetizaci\u00f3n visual. Esto es efec..."
+                                },
                                 {
                                     "titulo": "xAI de Elon Musk Lanza Grok Studio Para Desafiar a ChatGPT Con Colaboraci\u00f3n en Pantalla Dividida",
                                     "url": "https://decrypt.co/es/315315/xai-de-elon-musk-lanza-grok-studio-para-desafiar-a-chatgpt-con-colaboracion-en-pantalla-dividida",
@@ -13000,22 +13064,6 @@
                                     "fecha": "Apr 15, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "Google present\u00f3 hoy DolphinGemma, un modelo de IA de c\u00f3digo abierto dise\u00f1ado para decodificar la comunicaci\u00f3n de los delfines mediante el an\u00e1lisis de sus clics, silbidos y pulsos. El anuncio coincidi\u00f3 con el D\u00eda Nacional del Delf\u00edn.\nEl modelo, creado en colaboraci\u00f3n con Georgia Tech y el Wild Dolphin Project (WDP), aprende la estructura de las vocalizaciones de los delfines y puede generar secuencias de sonidos similares a los de estos mam\u00edferos marinos.\nEste avance podr\u00eda ayudar a determinar si..."
-                                },
-                                {
-                                    "titulo": "OpenAI Lanza GPT-4.1: Por Qu\u00e9 Este Modelo de IA Superpotente Acabar\u00e1 con GPT-4.5",
-                                    "url": "https://decrypt.co/es/314887/openai-lanza-gpt-4-1-por-que-este-modelo-de-ia-superpotente-acabara-con-gpt-4-5",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 15, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "OpenAI present\u00f3 GPT-4.1 el lunes, un tr\u00edo de nuevos modelos de IA con ventanas de contexto de hasta un mill\u00f3n de tokens\u2014suficiente para procesar bases de c\u00f3digo completas o peque\u00f1as novelas de una vez. La l\u00ednea incluye las variantes est\u00e1ndar GPT-4.1, Mini y Nano, todas dirigidas a desarrolladores.\nLa \u00faltima oferta de la compa\u00f1\u00eda llega apenas semanas despu\u00e9s del lanzamiento de GPT-4.5, creando una cronolog\u00eda que tiene tanto sentido como el orden de lanzamiento de las pel\u00edculas de Star Wars. \"La d..."
-                                },
-                                {
-                                    "titulo": "Nvidia Invertir\u00e1 $500.000 Millones Para Construir Supercomputadoras de IA en EEUU en Medio de Tensiones Comerciales",
-                                    "url": "https://decrypt.co/es/314869/nvidia-invertira-500-000-millones-para-construir-supercomputadoras-de-ia-en-eeuu-en-medio-de-tensiones-comerciales",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 15, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Frente a la amenaza inminente de una guerra comercial alimentada por los aranceles de Estados Unidos sobre bienes extranjeros, el fabricante de chips Nvidia est\u00e1 trasladando parte de sus operaciones de fabricaci\u00f3n de supercomputadoras de IA a territorio estadounidense. La compa\u00f1\u00eda anunci\u00f3 el lunes que planea invertir $500.000 millones en desarrollo de infraestructura en Estados Unidos.\nEl anuncio de Nvidia refleja la creciente presi\u00f3n sobre las empresas tecnol\u00f3gicas estadounidenses para localiza..."
                                 }
                             ]
                         }
@@ -13032,6 +13080,22 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "WhatsApp lanz\u00f3 nueva funci\u00f3n que evitar\u00e1 que otros reenv\u00eden sus fotos y mensajes: as\u00ed la puede activar",
+                                "url": "https://www.elnacional.com/tecnologia/whatsapp-lanzo-nueva-funcion-que-evitara-que-otros-reenvien-sus-fotos-y-mensajes-asi-la-puede-activar/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/A-continuacion-la-lista-de-modelos-que-dejaran-de-ser-compatibles-con-la-aplicacion-de-WhatsApp-Foto-Archivo.jpg",
+                                "meta": "APP",
+                                "fecha": "abril 29, 2025",
+                                "extra": "Recientemente, la aplicaci\u00f3n WhatsApp tuvo una nueva actualizaci\u00f3n y ahora los usuarios podr\u00e1n contar con mayor seguridad a la hora\u2026"
+                            },
+                            {
+                                "titulo": "El futuro de los juegos de azar: tendencias emergentes en EE.UU.",
+                                "url": "https://www.elnacional.com/empresas-productos/el-futuro-de-los-juegos-de-azar-tendencias-emergentes-en-ee-uu/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/IMAGEN-ACTUALIZADA-NOTA-DE-PRENSA.jpg",
+                                "meta": "Empresas y Productos",
+                                "fecha": "abril 29, 2025",
+                                "extra": "Durante los \u00faltimos a\u00f1os, los casinos online han aumentado su presencia en el \u00e1mbito del entretenimiento online de los Estados\u2026"
+                            },
                             {
                                 "titulo": "Spotify aumentar\u00e1 en junio los precios de sus suscripciones en Europa y Am\u00e9rica Latina",
                                 "url": "https://www.elnacional.com/tecnologia/spotify-aumentara-en-junio-los-precios-de-sus-suscripciones-en-europa-y-america-latina/",
@@ -13095,22 +13159,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "abril 20, 2025",
                                 "extra": "El robot humanoide chino Tiangong cruz\u00f3 la l\u00ednea de meta tras 2 horas, 40 minutos y 42 segundos de carrera,\u2026"
-                            },
-                            {
-                                "titulo": "Meta enfrenta cr\u00edticas por su inteligencia artificial en WhatsApp y la falta de opciones para desactivarla",
-                                "url": "https://www.elnacional.com/tecnologia/meta-enfrenta-criticas-por-su-inteligencia-artificial-en-whatsapp-y-la-falta-de-opciones-para-desactivarla/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/nueva-funcion-de-WhatsApp.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "abril 16, 2025",
-                                "extra": "Hace un a\u00f1o,\u00a0Meta\u00a0introdujo su\u00a0inteligencia artificial\u00a0en\u00a0WhatsApp, recibiendo desde entonces una variedad de comentarios, aunque la mayor\u00eda ha sido\u00a0negativa. Muchos usuarios se\u2026"
-                            },
-                            {
-                                "titulo": "Zoom enfrenta ca\u00edda masiva: m\u00e1s de 50.000 usuarios reportaron problemas",
-                                "url": "https://www.elnacional.com/tecnologia/zoom-enfrenta-caida-masiva-mas-de-50-000-usuarios-reportaron-problemas/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/pixabay-zoom.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "abril 16, 2025",
-                                "extra": "Desde las 3:00 pm\u00a0del mi\u00e9rcoles 16 de abril de 2025, el servicio de videoconferencia Zoom est\u00e1 experimentando una interrupci\u00f3n masiva,\u2026"
                             }
                         ]
                     }
