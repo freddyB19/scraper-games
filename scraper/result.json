@@ -11826,11 +11826,11 @@
                                 "etiqueta": "EA SPORTS FC",
                                 "info": [
                                     {
-                                        "titulo": "EA SPORTS FC\u2122 25 | Premium Pass",
+                                        "titulo": "EA SPORTS FC\u2122 25 | Pase pr\u00e9mium",
                                         "informacion": [
                                             "24-abr-2025"
                                         ],
-                                        "detalle": "As part of Season 7 in EA SPORTS FC 25 we\u2019re adding a new tier to the Season Pass to give you more options when choosing what content you want to pursue across multiple modes.",
+                                        "detalle": "Como parte de la temporada 7 en EA SPORTS FC\u2122 25, vamos a a\u00f1adir un nuevo nivel al pase de temporada para darte m\u00e1s opciones a la hora de elegir distintos contenidos en los diferentes modos.",
                                         "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-25/news/pitch-notes-fc25-premium-pass",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-25/common/articles/fc-25-premium-pass-pitch-notes-thumbnail.png.adapt.crop16x9.431p.png"
                                     },
@@ -12274,7 +12274,42 @@
                     "nombre": "marca",
                     "pagina": [
                         {
-                            "titulo": "Es oficial: GTA 6 confirma su fecha de lanzamiento y se retrasa hasta mayo de 2026",
+                            "titulo": "\"Si solo pudiera jugar a un juego de PlayStation Plus tendr\u00eda claro que esta ser\u00eda mi elecci\u00f3n\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/03/pudiera-jugar-juego-playstation-plus-tendria-claro-seria-mi-eleccion.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/68150d86c76e4.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Si te has aburrido de Ultimate Team y quieres empezar un Modo Carrera, estos son los cinco mejores proyectos que puedes elegir",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/03/te-has-aburrido-ultimate-team-quieres-empezar-carrera-son-cinco-mejores-proyectos-puedes-elegir.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814bd996d67b.jpeg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Este juego de Star Wars era una 'chapuza', pero Galactic Battlegrounds es tan bueno que hasta da rabia",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/03/juego-star-wars-chapuza-galactic-battlegrounds-bueno-da-rabia.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814d6258733d.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Liverpool y Arsenal dominan los TOTS de la Premier League: estos son los 22 elegidos",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/03/liverpool-arsenal-dominan-tots-premier-league-son-22-elegidos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/03/681552f4045b1.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Rayquaza ha llegado a Pok\u00e9mon TCG Pocket con una carta incre\u00edble... \u00a1y as\u00ed puedes conseguirla de forma sencilla!",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/02/rayquaza-llegado-pokemon-tcg-pocket-carta-increible-asi-puedes-conseguirla-forma-sencilla.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814b73df3ff1.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "GTA 6 revela su fecha de lanzamiento y confirma nuestros peores temores: se retrasa hasta 2026",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/05/02/oficial-gta-6-confirma-fecha-lanzamiento-retrasa-mayo-2026.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814b08d3ee8a.jpeg",
                             "meta": "Juegos",
@@ -12587,41 +12622,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/22/6807b026ec51d.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Riot Games cambia de presidente tras la pol\u00e9mica de los cofres Hextech: \u00bfqui\u00e9n es Hoby Darling?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/22/riot-games-cambia-presidente-polemica-cofres-hextech-hoby-darling.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/22/68075d3a09084.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "La nueva patente de Rockstar nos hace so\u00f1ar con GTA 6 y un nuevo creador de personajes para el online",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/22/nueva-patente-rockstar-sonar-gta-6-nuevo-creador-personajes-online.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/22/680750d511617.png",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Un dise\u00f1ador ha recreado el mapa de GTA 6 con el tr\u00e1iler como referencia y se ve incre\u00edble",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/22/disenador-recreado-mapa-gta-6-trailer-referencia-ve-increible.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/22/68074a69879ee.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El shock de Ellie tras lo de Joel representa a todos los fans: an\u00e1lisis del segundo cap\u00edtulo de 'The Last Of Us'",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/22/shock-ellie-representa-todos-fans-analisis-segundo-capitulo-tlou.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/21/68066531847e2.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Este no es el final de Joel y Pedro Pascal en 'The Last of Us 2' y ser\u00e1n decisivos en el futuro de la serie",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/21/final-joel-pedro-pascal-the-last-of-us-2-seran-decisivos-futuro-serie.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/21/68064e43b4c8c.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -12871,15 +12871,29 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Elon Musk: Tesla Lanzar\u00e1 en Junio Servicio de Robotaxi en Austin",
-                            "url": "https://decrypt.co/es/316516/elon-musk-tesla-lanzara-en-junio-servicio-de-robotaxi-en-austin",
+                            "titulo": "Miden se Separa de Polygon Labs, Recauda $25 Millones Para Lanzar su Propio Ecosistema",
+                            "url": "https://decrypt.co/es/317468/miden-se-separa-de-polygon-labs-recauda-25-millones-para-lanzar-su-propio-ecosistema",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/robotaxi-ai-gID_7.png@webp",
-                            "descripcion": "Tesla lanzar\u00e1 en junio su primer servicio comercial de robotaxi en Austin, Texas, seg\u00fan afirm\u00f3 recientemente el CEO de la empresa, Elon Musk. El lanzamiento inicial contar\u00e1 con 10 a 20 veh\u00edculos Model Y equipados con el software \"Full Self-Driving\" de Tesla, que hasta ahora opera bajo supervisi\u00f3n humana. Musk enfatiz\u00f3 planes para una r\u00e1pida expansi\u00f3n a otros mercados estadounidenses m\u00e1s adelante en el a\u00f1o.\nEn paralelo, Tesla est\u00e1 desarrollando el \"Cybercab\", un veh\u00edculo aut\u00f3nomo dise\u00f1ado espec\u00edf...",
-                            "fecha": "Apr 26, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/quarter-spinning-on-table-gID_7.jpg@webp",
+                            "descripcion": "El sistema blockchain Miden, impulsado por tecnolog\u00eda zero-knowledge, ha recaudado $25 millones para separarse de Polygon Labs y desarrollar su propio ecosistema.\nLa ronda de financiaci\u00f3n fue liderada por a16z crypto, 1kx y Hack VC, con la participaci\u00f3n de Finality Capital Partners, Symbolic Capital y P2 Ventures, entre otras firmas, seg\u00fan un comunicado del martes.\nInversores \u00e1ngeles, incluyendo el cofundador de MakerDAO Rune Christensen, el CEO y cofundador de Aptos Avery Ching, y el fundador d...",
+                            "fecha": "May 2, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Amazon Comienza a Desplegar Sat\u00e9lites en un Intento de Desafiar a Starlink de Elon Musk",
+                                    "url": "https://decrypt.co/es/317381/amazon-comienza-a-desplegar-satelites-en-un-intento-de-desafiar-a-starlink-de-elon-musk",
+                                    "categoria": "Technology",
+                                    "fecha": "May 2, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Elon Musk: Tesla Lanzar\u00e1 en Junio Servicio de Robotaxi en Austin",
+                                    "url": "https://decrypt.co/es/316516/elon-musk-tesla-lanzara-en-junio-servicio-de-robotaxi-en-austin",
+                                    "categoria": "Technology",
+                                    "fecha": "Apr 26, 2025",
+                                    "meta": "2 min lectura"
+                                },
                                 {
                                     "titulo": "Avance Cu\u00e1ntico Produce Aleatoriedad Inviolable Mejorando Seguridad Blockchain Y Banca Digital",
                                     "url": "https://decrypt.co/es/315978/avance-cuantico-produce-aleatoriedad-inviolable-mejorando-seguridad-blockchain-y-banca-digital",
@@ -12907,23 +12921,25 @@
                                     "categoria": "Technology",
                                     "fecha": "Apr 14, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "ShareRing Probar\u00e1 Identificaci\u00f3n Blockchain en Pruebas de Verificaci\u00f3n de Edad en Redes Sociales Australianas",
                                     "url": "https://decrypt.co/es/314363/sharering-probara-identificacion-blockchain-en-pruebas-de-verificacion-de-edad-en-redes-sociales-australianas",
                                     "categoria": "Technology",
                                     "fecha": "Apr 10, 2025",
-                                    "meta": "3 min lectura"
+                                    "meta": "3 min lectura",
+                                    "descripcion": "ShareRing ha sido elegida como el primer proveedor de identidad digital para comenzar a probar su tecnolog\u00eda en las pruebas de tecnolog\u00eda de verificaci\u00f3n de $4 millones aprobadas por el gobierno australiano a finales del a\u00f1o pasado para hacer cumplir las restricciones de redes sociales para usuarios menores de edad.\nLa empresa blockchain lanzar\u00e1 un programa piloto con estudiantes escolares en Darwin, probando su plataforma de identidad auto-soberana que permite a los usuarios proporcionar verifi..."
                                 },
                                 {
                                     "titulo": "Cibercriminales Utilizan Plataformas de Correo Masivo Para Propagar Malware PoisonSeed",
                                     "url": "https://decrypt.co/es/313820/cibercriminales-utilizan-plataformas-de-correo-masivo-para-propagar-malware-poisonseed",
                                     "categoria": "Technology",
                                     "fecha": "Apr 8, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Los analistas de amenazas han descubierto una sofisticada campa\u00f1a de malware de dos vertientes dirigida a v\u00edctimas tanto dentro como fuera del ecosistema cripto.\nEn un informe reciente, la firma de inteligencia cibern\u00e9tica Silent Push identific\u00f3 la campa\u00f1a de malware PoisonSeed, que inicialmente se dirige a los usuarios de proveedores de correo masivo, incluyendo Mailchimp y SendGrid.\nUna p\u00e1gina falsa de Mailchimp generada como parte de la campa\u00f1a de malware PoisonSeed. Imagen: Silent Push\nEn un..."
+                                },
                                 {
                                     "titulo": "Desarrollador de Bitcoin Quiere Combatir Amenaza de la Computaci\u00f3n Cu\u00e1ntica\u2014Antes de Que Sea un Problema",
                                     "url": "https://decrypt.co/es/313830/desarrollador-de-bitcoin-quiere-combatir-amenaza-de-la-computacion-cuantica-antes-de-que-sea-un-problema",
@@ -12947,22 +12963,6 @@
                                     "fecha": "Apr 4, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Pectra, una de las mayores actualizaciones de Ethereum desde la transici\u00f3n a un mecanismo de consenso de prueba de participaci\u00f3n en 2022, est\u00e1 ahora programada para llegar a la red principal de Ethereum el 7 de mayo.\nOriginalmente programada para su lanzamiento en marzo de 2025, Pectra fue retrasada debido a problemas de finalidad en la red de pruebas Holesky, pero ha estado funcionando sin incidentes importantes en la red de pruebas Hoodi que se cre\u00f3 como respuesta a los problemas en la red de..."
-                                },
-                                {
-                                    "titulo": "Hackers Preinstalan Malware en Tel\u00e9fonos Baratos Para Robar Cuentas de Redes Sociales y Criptomonedas",
-                                    "url": "https://decrypt.co/es/313174/hackers-preinstalan-malware-en-telefonos-baratos-para-robar-cuentas-de-redes-sociales-y-criptomonedas",
-                                    "categoria": "Technology",
-                                    "fecha": "Apr 3, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Ese smartphone barato puede parecer una ganga, pero podr\u00eda serlo de una manera que no esperabas.\nTel\u00e9fonos falsificados y baratos est\u00e1n siendo vendidos con malware precargados que atacan a usuarios desprevenidos de Android, robando criptomonedas, reemplazando n\u00fameros telef\u00f3nicos durante llamadas y secuestrando sus cuentas de redes sociales.\nLa empresa de ciberseguridad Kaspersky report\u00f3 esta nueva t\u00e9cnica para propagar el peligroso troyano Triada en un an\u00e1lisis reciente. Desde su descubrimiento..."
-                                },
-                                {
-                                    "titulo": "Sei Network Busca Adquirir 23andMe Para Protecci\u00f3n Datos Gen\u00e9ticos de 15 Millones de Personas",
-                                    "url": "https://decrypt.co/es/312882/sei-network-busca-adquirir-23andme-para-proteccion-datos-geneticos-de-15-millones-de-personas",
-                                    "categoria": "Technology",
-                                    "fecha": "Apr 2, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Cuando la empresa de pruebas de ADN 23andMe anunci\u00f3 la semana pasada que se declarar\u00eda en bancarrota, surgi\u00f3 una ola de especulaciones.\n\u00bfQu\u00e9 suceder\u00eda con los tesoros de datos gen\u00e9ticos sensibles de m\u00e1s de 15 millones de personas en todo el mundo que hab\u00eda recopilado a lo largo de los a\u00f1os?\nEl jueves, el desarrollador de blockchain de capa uno Sei Network anunci\u00f3 en X que su \u00f3rgano de gobierno, la Fundaci\u00f3n Sei, estaba ofertando para adquirir 23andMe.\nRoban Datos Gen\u00e9ticos de 23andMe en Ataque d..."
                                 }
                             ]
                         }
@@ -12972,15 +12972,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Elogios Descarados de ChatGPT Desencadenan Reacciones Negativas de los Usuarios",
-                            "url": "https://decrypt.co/es/316973/elogios-descarados-de-chatgpt-desencadenan-reacciones-negativas-de-los-usuarios",
+                            "titulo": "CEO de Duolingo Anuncia Estrategia Enfocada en IA Para Sustituir Tareas Repetitivas",
+                            "url": "https://decrypt.co/es/317451/ceo-de-duolingo-anuncia-estrategia-enfocada-en-ia-para-sustituir-tareas-repetitivas",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/boot-licker-gID_7.png@webp",
-                            "descripcion": "Las plataformas de redes sociales se llenaron de quejas esta semana cuando los usuarios expresaron su frustraci\u00f3n por los elogios cada vez m\u00e1s efusivos del chatbot de OpenAI.\n\"Le pregunt\u00e9 cu\u00e1nto tardan los pl\u00e1tanos en descomponerse, y me respondi\u00f3 con '\u00a1Pregunta asombrosa!' \u00bfQu\u00e9 demonios tiene de asombroso eso?\", pregunt\u00f3 el usuario de Reddit scoldmeforcommenting.\nOtros acudieron a X (anteriormente Twitter) para expresar sus frustraciones, con el CEO de Rome AI, Craig Weiss, llamando a ChatGPT \"...",
-                            "fecha": "Apr 30, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/duolingo-app-gID_7.png@webp",
+                            "descripcion": "Siempre usa interlineado entre los p\u00e1rrafos. El CEO de Duolingo ha dicho que la empresa planea adoptar un enfoque \"primero en IA\" para el trabajo.\nEsto significa que la aplicaci\u00f3n de aprendizaje de idiomas va a \"dejar gradualmente de utilizar contratistas para realizar tareas que la IA pueda manejar\", seg\u00fan el CEO Luis von Ahn.\nEl mensaje se envi\u00f3 por correo electr\u00f3nico a todo el personal antes de ser publicado en la cuenta de LinkedIn de Duolingo.\nA pesar de esta afirmaci\u00f3n audaz, von Ahn fue c...",
+                            "fecha": "May 2, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Elogios Descarados de ChatGPT Desencadenan Reacciones Negativas de los Usuarios",
+                                    "url": "https://decrypt.co/es/316973/elogios-descarados-de-chatgpt-desencadenan-reacciones-negativas-de-los-usuarios",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Apr 30, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "\u00bfQui\u00e9n Ser\u00e1 el Pr\u00f3ximo Papa? Los Principales Modelos de IA no Est\u00e1n de Acuerdo con Los Mercados de Predicci\u00f3n",
                                     "url": "https://decrypt.co/es/316970/quien-sera-el-proximo-papa-los-principales-modelos-de-ia-no-estan-de-acuerdo-con-los-mercados-de-prediccion",
@@ -13015,16 +13022,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 25, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "SkyReels-V2 Rompe L\u00edmites Temporales: Generador de Video de IA Crea Contenido Infinito Sin Degradaci\u00f3n",
                                     "url": "https://decrypt.co/es/316127/skyreels-v2-rompe-limites-temporales-generador-de-video-de-ia-crea-contenido-infinito-sin-degradacion",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 25, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Los generadores de v\u00eddeo de c\u00f3digo abierto est\u00e1n en auge y compitiendo con los gigantes de c\u00f3digo cerrado\nEstos son m\u00e1s personalizables, menos restringidos, incluso sin censura, gratuitos\u2014y ahora producen v\u00eddeos de alta calidad, con tres modelos (Wan, Mochi y Hunyuan) clasificados entre los 10 mejores generadores de v\u00eddeo con IA.\n\nEl \u00faltimo avance consiste en extender la duraci\u00f3n del v\u00eddeo m\u00e1s all\u00e1 de los t\u00edpicos pocos segundos, con dos nuevos modelos que demuestran la capacidad de generar conte..."
+                                },
                                 {
                                     "titulo": "Este Modelo de IA Puede Gritar de Terror Mientras Los Gigantes Permanecen Mudos",
                                     "url": "https://decrypt.co/es/316117/este-modelo-de-ia-puede-gritar-de-terror-mientras-los-gigantes-permanecen-mudos",
@@ -13056,14 +13064,6 @@
                                     "fecha": "Apr 18, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "La carrera por dominar la frontera de la IA acaba de dar un nuevo giro argumental\u2014y esta vez, responde, te mira e incluso podr\u00eda escucharte con sentimiento.\nOpenAI lanz\u00f3 hoy su nueva serie de modelos \"o\", presentando o3 y su primo ligero, o4-mini. Estos nuevos modelos no son simplemente chatbots mejorados\u2014son omnimodales, lo que significa que pueden entender y generar texto, imagen, audio y video de forma nativa. No son m\u00f3dulos Frankenstein unidos para simular alfabetizaci\u00f3n visual. Esto es efec..."
-                                },
-                                {
-                                    "titulo": "xAI de Elon Musk Lanza Grok Studio Para Desafiar a ChatGPT Con Colaboraci\u00f3n en Pantalla Dividida",
-                                    "url": "https://decrypt.co/es/315315/xai-de-elon-musk-lanza-grok-studio-para-desafiar-a-chatgpt-con-colaboracion-en-pantalla-dividida",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 17, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "xAI acaba de lanzar Grok Studio ofreciendo a los usuarios una interfaz estilo lienzo para construir aplicaciones, escribir documentos y desarrollar juegos de navegador. La nueva funci\u00f3n enfrenta directamente a la compa\u00f1\u00eda de IA de Elon Musk contra el ChatGPT Canvas de OpenAI y los Artefactos Claude de Anthropic en el competitivo espacio de productividad de la IA.\nGrok Studio permite la colaboraci\u00f3n en tiempo real en pantalla dividida entre los usuarios y la IA, lo que permite trabajar simult\u00e1nea..."
                                 }
                             ]
                         }
@@ -13080,6 +13080,22 @@
                             "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Microsoft aumenta sus ingresos gracias a su unidad en la nube: as\u00ed est\u00e1 el panorama en Latinoam\u00e9rica",
+                                "url": "https://www.elnacional.com/tecnologia/microsoft-aumenta-sus-ingresos-gracias-a-su-unidad-en-la-nube-asi-esta-el-panorama-en-latinoamerica/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-microsoft.png",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "mayo 2, 2025",
+                                "extra": "Microsoft\u00a0 report\u00f3 ventas y ganancias mejores de lo esperado, algo que sorprende pues con los aranceles anunciados por la administraci\u00f3n\u2026"
+                            },
+                            {
+                                "titulo": "Nintendo excluye del lanzamiento de la Switch 2 a Venezuela y m\u00e1s de 20 pa\u00edses latinoamericanos",
+                                "url": "https://www.elnacional.com/tecnologia/nintendo-excluye-del-lanzamiento-de-la-switch-2-a-venezuela-y-mas-de-20-paises-latinoamericanos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/nintendo.jpeg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "mayo 2, 2025",
+                                "extra": "Los fans de Nintendo, jugadores aficionados y coleccionistas en Venezuela y m\u00e1s de 20 pa\u00edses de Am\u00e9rica Latina, recibieron la\u2026"
+                            },
                             {
                                 "titulo": "Google lanza Gemini para menores de 13 a\u00f1os bajo supervisi\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/gemini-ninos-menores-de-13-anos-podran-usarla-bajo-supervision/",
@@ -13143,22 +13159,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "abril 25, 2025",
                                 "extra": "La compa\u00f1\u00eda de ciberseguridad Kaspersky ha alertado sobre un malware escondido en falsos trucos de videojuegos. En este caso, los\u2026"
-                            },
-                            {
-                                "titulo": "YouTube TV trabaja en un redise\u00f1o para mejorar la navegaci\u00f3n y reproducci\u00f3n de contenido",
-                                "url": "https://www.elnacional.com/tecnologia/youtube-tv-trabaja-en-un-rediseno-para-mejorar-la-reproduccion-de-contenido/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/YouTube-TV.jpg",
-                                "meta": "APP",
-                                "fecha": "abril 24, 2025",
-                                "extra": "YouTube planea lanzar un redise\u00f1o de su plataforma YouTube TV este verano que ofrecer\u00e1 una interfaz de usuario renovada con\u2026"
-                            },
-                            {
-                                "titulo": "China organiza sus primeros Juegos de Robots con inteligencia artificial corporizada",
-                                "url": "https://www.elnacional.com/tecnologia/china-organiza-sus-primeros-juegos-de-robots-con-inteligencia-artificial-corporizada/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/rss-efe81ac16980d03de645dff5dc8fbecae4f8c4efeafw-1200x800-1.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "abril 23, 2025",
-                                "extra": "La ciudad de Wuxi, en la provincia oriental china de Jiangsu, acoger\u00e1 del 24 al 26 de abril los primeros\u2026"
                             }
                         ]
                     }
