@@ -12274,6 +12274,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Hasbro Pulse deslumbra con su nuevo sable l\u00e1ser de Star Wars: una joya para fans y coleccionistas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/04/hasbro-pulse-deslumbra-nuevo-sable-laser-star-wars-joya-fans-coleccionistas.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/03/6816740c1372a.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCA GAMING"
+                        },
+                        {
+                            "titulo": "Celebramos el D\u00eda de Star Wars recordando sus 9 mejores videojuegos",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/04/celebramos-dia-star-wars-recordando-9-mejores-videojuegos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/01/6813ab8f3e697.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "\"Si solo pudiera jugar a un juego de PlayStation Plus tendr\u00eda claro que esta ser\u00eda mi elecci\u00f3n\"",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/03/pudiera-jugar-juego-playstation-plus-tendria-claro-seria-mi-eleccion.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/68150d86c76e4.jpeg",
@@ -12288,7 +12302,7 @@
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         },
                         {
-                            "titulo": "Este juego de Star Wars era una 'chapuza', pero Galactic Battlegrounds es tan bueno que hasta da rabia",
+                            "titulo": "George Lucas se 'copi\u00f3' descaradamente de Age of Empires y lo \u00fanico que logr\u00f3 es crear uno de los mejores juegos de Star Wars de la historia",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/03/juego-star-wars-chapuza-galactic-battlegrounds-bueno-da-rabia.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814d6258733d.jpeg",
                             "meta": "Juegos",
@@ -12606,20 +12620,6 @@
                             "titulo": "Si pensabas que los RPG por turnos estaban muertos, tengo cuatro cosas que decirte: Clair Obscur Expedition 33. An\u00e1lisis",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/23/gta-kingdom-come-goty-2025-llama-clair-obscur-expedition-33-mejor-rpg-ano.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/23/6808ac655f6b9.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "The Elder Scrolls IV: Remastered trae consigo un debate tan est\u00fapido que hasta me cuesta creer que estemos hablando de esto",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/23/the-elder-scrolls-4-oblivion-provoca-discusion-sentido-remake-remaster-verdad-importa.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/23/6808a2b29f1e6.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "20 a\u00f1os despu\u00e9s, The Elder Scrolls 4 regresa con Oblivion Remastered y ya est\u00e1 disponible",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/22/20-anos-despues-the-elder-scrolls-4-regresa-oblivion-remastered-disponible.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/22/6807b026ec51d.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         }
@@ -13185,7 +13185,7 @@
                             {
                                 "titulo": "Meta bajo escrutinio por interacciones sexuales de sus chatbots con ni\u00f1os",
                                 "url": "https://www.elnacional.com/tecnologia/chatbots-de-meta-interactuan-sexualmente-con-ninos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "abril 28, 2025",
                                 "extra": "The Wall Street Journal lo destap\u00f3 todo: revel\u00f3 conversaciones de contenido sexual entre sus asistentes de inteligencia artificial y menores.\u2026"
@@ -13193,7 +13193,7 @@
                             {
                                 "titulo": "\u00bfOpenAI est\u00e1 creando su propia red social?",
                                 "url": "https://www.elnacional.com/tecnologia/openai-esta-creando-su-propia-red-social/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/OpenAI.jpeg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "abril 16, 2025",
                                 "extra": "OpenAI explorar\u00e1 el terreno de las redes sociales. La empresa l\u00edder en inteligencia artificial est\u00e1 dando los primeros pasos en\u2026"
@@ -13201,7 +13201,7 @@
                             {
                                 "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
                                 "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 31, 2025",
                                 "extra": "No es secreto que la inteligencia artificial (IA) amplifica la creatividad. Y esta idea se afianz\u00f3 desde que los usuarios\u2026"
@@ -13209,7 +13209,7 @@
                             {
                                 "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
                                 "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 19, 2025",
                                 "extra": "Google comenz\u00f3 la transici\u00f3n del Asistente de Google a Gemini en dispositivos m\u00f3viles. Este servicio, impulsado por inteligencia artificial (IA),\u2026"
@@ -13217,7 +13217,7 @@
                             {
                                 "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6571088_the_mind_guardian_nuevo_videojuego_samsung_identificar_signos_deterioro.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 12, 2025",
                                 "extra": "Samsung lanz\u00f3 The Mind Guardian, un innovador videojuego impulsado por Inteligencia Artificial (IA) que permite la autoevaluaci\u00f3n de la memoria\u2026"
@@ -13225,7 +13225,7 @@
                             {
                                 "titulo": "Doblaje con IA llega a pel\u00edculas y series gracias a Prime Video",
                                 "url": "https://www.elnacional.com/tecnologia/prime-video-doblaje-con-ia-llega-a-peliculas-y-series/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-084341.png",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 7, 2025",
                                 "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
@@ -13233,7 +13233,7 @@
                             {
                                 "titulo": "Alibaba y la IA: \u00bfuna inversi\u00f3n de 50.000 millones de d\u00f3lares que cambiar\u00e1 el mundo?",
                                 "url": "https://www.elnacional.com/tecnologia/alibaba-y-la-ia-una-inversion-que-cambiara-el-mundo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Alibaba-IA.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 24, 2025",
                                 "extra": "El gigante chino del comercio electr\u00f3nico Alibaba anunci\u00f3 el lunes que invertir\u00e1 m\u00e1s de 50.000 millones de d\u00f3lares en inteligencia\u2026"
@@ -13241,7 +13241,7 @@
                             {
                                 "titulo": "IA revela c\u00f3mo las decisiones diarias moldean la felicidad a largo plazo",
                                 "url": "https://www.elnacional.com/tecnologia/ia-como-las-decisiones-diarias-moldean-la-felicidad-a-largo-plazo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/IA-Felicidad.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 19, 2025",
                                 "extra": "Muchas decisiones cotidianas\u00a0que se hacen d\u00eda a d\u00eda pueden tener un fuerte impacto en las personas. Aunque parezcan peque\u00f1as, incluso\u2026"
@@ -13249,7 +13249,7 @@
                             {
                                 "titulo": "Grok-3, la nueva IA de Elon Musk aterradoramente inteligente",
                                 "url": "https://www.elnacional.com/tecnologia/grok-3-la-nueva-ia-de-elon-musk-aterradoramente-inteligente/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Grok-3-tiene-mas-precision-que-los-modelos-de-Google-o-de-OpenIA-Foto-Archivo.jpg",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 18, 2025",
                                 "extra": "Grok-3, el nuevo modelo de Inteligencia Artificial (IA), fue lanzado por el multimillonario Elon Musk este mes de febrero en\u2026"
