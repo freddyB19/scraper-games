@@ -12199,6 +12199,16 @@
                                 "etiqueta": "Battlefield",
                                 "info": [
                                     {
+                                        "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.7.0 DE BATTLEFIELD 2042",
+                                        "informacion": [
+                                            "Battlefield 2042",
+                                            "02-may-2025"
+                                        ],
+                                        "detalle": "Actualizaci\u00f3n 8.7",
+                                        "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-7-0",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/bf2042-patch-notes-featured-image.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
                                         "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.6.1 DE BATTLEFIELD 2042",
                                         "informacion": [
                                             "Battlefield 2042",
@@ -12247,16 +12257,6 @@
                                         "detalle": "Peque\u00f1a correcci\u00f3n de errores y parche de calidad de vida despu\u00e9s de la actualizaci\u00f3n 8.2.1 para Battlefield 2042.",
                                         "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-3-0",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/patch-801o.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.2.1 DE BATTLEFIELD 2042",
-                                        "informacion": [
-                                            "Battlefield 2042",
-                                            "08-nov-2024"
-                                        ],
-                                        "detalle": "Peque\u00f1as mejoras de calidad de vida tras la actualizaci\u00f3n 8.2 en Battlefield 2042.",
-                                        "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-2-1",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/patch-801o.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             }
@@ -12273,6 +12273,76 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "Ni Elden Ring me hizo sufrir tanto. Si buscas un juego dif\u00edcil, Path of Exile 2 es justo lo que buscas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/elden-ring-me-hizo-sufrir-tanto-buscas-juego-dificil-path-of-exile-2-justo-buscas.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/06/6819f8d223308.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "PC F\u00fatbol 8 revive medio a\u00f1o despu\u00e9s y promete novedades \"sobre la salida\" del juego muy pronto",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/pc-futbol-8-revive-medio-ano-despues-promete-novedades-sobre-salida-juego-pronto.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/06/6819f728cabe7.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfNo tienes relojes en Pok\u00e9mon TCG Pocket? Este c\u00f3digo te permitir\u00e1 abrir sobres totalmente gratis",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/tienes-relojes-pokemon-tcg-pocket-codigo-te-permitira-abrir-sobres-totalmente-gratis.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/06/6819e16c9e9cd.png",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Se pas\u00f3 de listo y le banearon 8.000 a\u00f1os, y todo por 'culpa' de un pol\u00edtico",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/paso-listo-le-banearon-8-000-anos-culpa-politico.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/06/6819dfd6934d1.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Di adi\u00f3s a Among Us tal y como lo conoc\u00edas y asesina a tus amigos en primera persona",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/di-adios-among-us-conocias-asesina-tus-amigos-primera-persona.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/06/6819d7566cfe7.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Nintendo y el negocio de los hoteles sexuales: \u00bfFueron reales o una exagerada leyenda urbana?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/nintendo-negocio-hoteles-sexuales-reales-exagerada-leyenda-urbana.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/06/6819ce2dea2cb.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Hemos simulado el Inter-Bar\u00e7a en EA Sports FC 25 y nos dice que un gol en el minuto 80 le dar\u00e1 el pase a la final a...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/hemos-simulado-inter-barca-ea-sports-fc-25-dice-gol-minuto-80-le-dara-pase-final.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/05/681919871556b.jpeg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Ellie y Dina, en peligro al meterse en la boca del lobo: an\u00e1lisis del episodio 4 de TLOU",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/06/ellie-dina-peligro-meterse-boca-lobo-analisis-episodio-4-tlou.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/05/6818f6135fdf6.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Los consejos para mejorar en Fortnite que nunca envejecen: Construcci\u00f3n, punter\u00eda y estrategia",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/05/consejos-mejorar-fortnite-nunca-envejecen-construccion-punteria-estrategia.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/05/6818ddf2a61ac.jpeg",
+                            "meta": "Fortnite",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Ni Celtics ni Oklahoma, 2K25 elige al campe\u00f3n de la NBA y a Doncic no le gustar\u00e1 nada el resultado",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/05/celtics-oklahoma-2k25-elige-campeon-nba-doncic-le-gustara-resultado.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/05/6818bc175ab0b.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
                         {
                             "titulo": "Lanzamientos de la semana al mejor precio: Sonic, Aoe y Piratas del Caribe dominan mayo",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/05/05/lanzamientos-semana-mejor-precio-sonic-aoe-piratas-caribe-dominan-mayo.html",
@@ -12552,76 +12622,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680bde15c3b62.jpeg",
                             "meta": "FC 25",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Nunca pens\u00e9 que un remaster pondr\u00eda la industria patas arriba, pero Oblivion IV ha hecho eso y mucho m\u00e1s. An\u00e1lisis",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/26/nunca-pense-remaster-pondria-industria-patas-oblivion-iv-hecho-analisis.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680b76b0e2fa1.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si vives en Espa\u00f1a y juegas a Fortnite, puedes ganar hasta 1.000 \u20ac, pero solo por tiempo limitado si eres muy bueno",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/25/vives-espana-juegas-fortnite-puedes-ganar-1-000-limitado-bueno.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680b633d5f483.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si quieres saber m\u00e1s sobre GTA 6, esta fecha es clave para su futuro",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/25/quieres-sobre-gta-6-fecha-clave-futuro.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680b4e9f9ef4d.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Te va a tocar pagar por actualizar tus juegos a Nintendo Switch 2 Edition, y ya sabemos cu\u00e1nto",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/25/te-tocar-pagar-actualizar-tus-juegos-nintendo-switch-2-edition-sabemos-cuanto.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680b440df04a5.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "La nueva pel\u00edcula Sydney Sweeney se basar\u00e1 en uno de los mejores juegos de 2025, Split Fiction",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/25/nueva-pelicula-sydney-sweeney-basara-mejores-juegos-2025-split-fiction.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/25/680b3ea844c67.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Pedri, mejor jugador del mes en LaLiga en una lista... sin representaci\u00f3n del Real Madrid",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/24/pedri-mejor-jugador-mes-laliga-lista-representacion-real-madrid.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/24/680a6d6848a49.jpeg",
-                            "meta": "FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Filtran la posible nueva expansi\u00f3n de Pok\u00e9mon TCG Pocket: no ser\u00eda la tercera generaci\u00f3n y estr\u00eda a punto de llegar",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/24/filtran-posible-nueva-expansion-pokemon-tcg-pocket-seria-tercera-generacion-estria-punto-llegar.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/24/680a31187872c.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Le pidi\u00f3 a una IA que jugase a Pok\u00e9mon... y acab\u00f3 traumatizada por culpa de la enferma Joy",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/24/le-pidio-ia-jugase-pokemon-acabo-traumatizada-culpa-enferma-joy.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/24/680a1249e161c.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si lo que se ha dicho de GTA 6 es verdad, su fecha de lanzamiento tiene que ser esta",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/04/24/dicho-gta-6-verdad-fecha-lanzamiento.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/24/680a026fa9e8d.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Fortnite, \u00bfcu\u00e1ndo empieza la nueva temporada de Batalla Gal\u00e1ctica?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/04/24/fortnite-empieza-nueva-temporada-batalla-galactica.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/04/24/6809f60eef0cb.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12629,9 +12629,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Habr\u00e1 que esperar: Grand Theft Auto VI se retrasa al 26 de mayo de 2026",
+                            "url": "https://www.lanacion.com.ar/tecnologia/habra-que-esperar-grand-theft-auto-vi-se-retrasa-al-26-de-mayo-de-2026-nid05052025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/el-lanzamiento-del-grand-theft-auto-vi-se-retraso-SMCCVUBFORDWBG4FEEFBCKD3IQ.jpg?auth=2417256c63910577bc4ab1e70ffc1f36d95469932b878c2bb13c923932472c4f&width=300&height=200&quality=70&smart=true",
+                            "fecha": "5 de mayo de 2025",
+                            "url_link": "/tecnologia/habra-que-esperar-grand-theft-auto-vi-se-retrasa-al-26-de-mayo-de-2026-nid05052025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 04 de mayo",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-04-de-mayo-nid05052025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "5 de mayo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-04-de-mayo-nid05052025/"
                         },
@@ -12854,13 +12861,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "13 de marzo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-13-de-marzo-en-epic-games-solo-hay-que-reclamarlos-nid13032025/"
-                        },
-                        {
-                            "titulo": "Xsolla publica el informe del primer trimestre 2025 sobre el futuro de los juegos y el desarrollo de juegos a nivel mundial: un an\u00e1lisis de las m\u00e9tricas y las tendencias emergentes",
-                            "url": "https://www.lanacion.com.ar/agencias/xsolla-publica-el-informe-del-primer-trimestre-2025-sobre-el-futuro-de-los-juegos-y-el-desarrollo-de-nid12032025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/xsolla-publica-el-informe-del-primer-trimestre-ZRVAP6NWQZAMHM6QKXHFHXCM7E.jpg?auth=8401a2f66a7d6d4724ac9534b276a13f64c7aeed5ef2bdfddd10a6e83e93616c&width=300&height=200&quality=70&smart=true",
-                            "fecha": "12 de marzo de 2025",
-                            "url_link": "/agencias/xsolla-publica-el-informe-del-primer-trimestre-2025-sobre-el-futuro-de-los-juegos-y-el-desarrollo-de-nid12032025/"
                         }
                     ]
                 },
@@ -12969,15 +12969,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Civitai Enfrenta Usuarios Enojados Tras Prohibir Contenido Atrevido en su Sitio de Arte de IA",
-                            "url": "https://decrypt.co/es/317770/civitai-enfrenta-usuarios-enojados-tras-prohibir-contenido-atrevido-en-su-sitio-de-arte-de-ia",
+                            "titulo": "'Grok es Woke!' Usuarios de Derecha Enfuresen Por 'Verdades Inc\u00f3modas' de la IA de Elon Musk",
+                            "url": "https://decrypt.co/es/317903/grok-es-woke-usuarios-de-derecha-enfuresen-por-verdades-incomodas-de-la-ia-de-elon-musk",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/solana-network-congestion-fail-gID_7.jpeg@webp",
-                            "descripcion": "Civitai, antes considerado el Salvaje Oeste del arte generado por IA \u2014y uno de los \u00faltimos refugios donde casi todo estaba permitido\u2014 provoc\u00f3 una crisis generalizada en la comunidad tras implementar estrictas nuevas directrices de contenido la semana pasada.\nSi bien el sitio no era expl\u00edcitamente una p\u00e1gina pornogr\u00e1fica, s\u00ed atend\u00eda a varias comunidades de contenido para adulto, incluyendo furries, anime para adultos, BDSM extremo y m\u00e1s.\n\"Estamos actualizando nuestras pol\u00edticas para cumplir con e...",
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/a-photograph-of-a-shattered-cybernetic-h_NnJzTp0fTDeoE78vTVIsww_UQl6dZD_SLqVVYbW1aiNjA-gID_7.jpeg@webp",
+                            "descripcion": "Los usuarios de derecha en X est\u00e1n perdiendo la cabeza mientras el chatbot de inteligencia artificial \"buscador de la verdad\" de Elon Musk, Grok, sigue contradiciendo sus puntos de vista favoritos. \u00bfEl problema? No es que Grok se haya vuelto \"despierto\", simplemente est\u00e1 haciendo lo que fue dise\u00f1ado para hacer: hablar la verdad.\nLanzado a finales de 2023 como una alternativa \"anti-despierto\" a ChatGPT, Grok fue inicialmente promocionado por Musk como un chatbot rebelde que no se doblegar\u00eda ante...",
                             "fecha": "May 5, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Amazon Comienza a Implementar Alexa+ su Nueva y Mejorada Asistente Impulsada por IA",
+                                    "url": "https://decrypt.co/es/317775/amazon-comienza-a-implementar-alexa-su-nueva-y-mejorada-asistente-impulsada-por-ia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "May 5, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Civitai Enfrenta Usuarios Enojados Tras Prohibir Contenido Atrevido en su Sitio de Arte de IA",
+                                    "url": "https://decrypt.co/es/317770/civitai-enfrenta-usuarios-enojados-tras-prohibir-contenido-atrevido-en-su-sitio-de-arte-de-ia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "May 5, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "CEO de Duolingo Anuncia Estrategia Enfocada en IA Para Sustituir Tareas Repetitivas",
                                     "url": "https://decrypt.co/es/317451/ceo-de-duolingo-anuncia-estrategia-enfocada-en-ia-para-sustituir-tareas-repetitivas",
@@ -13005,23 +13019,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 29, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Investigadora de OpenAI es Obligada a Abandonar EEUU Tras Negarle la Green Card",
                                     "url": "https://decrypt.co/es/316763/investigadora-de-openai-es-obligada-a-abandonar-eeuu-tras-negarle-la-green-card",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 29, 2025",
-                                    "meta": "5 min lectura"
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Una investigadora de OpenAI que ayud\u00f3 a desarrollar GPT-4.5 tuvo su solicitud de Green Card rechazada la semana pasada, oblig\u00e1ndola a abandonar Estados Unidos despu\u00e9s de vivir y trabajar en el pa\u00eds durante 12 a\u00f1os.\nKai Chen, ciudadana canadiense, anunci\u00f3 en redes sociales que se trasladar\u00e1 a Vancouver por \"un per\u00edodo indeterminado de tiempo\" tras la negativa.\n\nHello tweeter. I\u2019ll be in Vancouver for an indeterminate amount of time! I have no friends there so would be excited about meeting new pe..."
                                 },
                                 {
                                     "titulo": "\u00bfLa IA Acaba de Describir C\u00f3mo Ser\u00e1 el Futuro de la Humanidad?",
                                     "url": "https://decrypt.co/es/316540/la-ia-acaba-de-describir-como-sera-el-futuro-de-la-humanidad",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Apr 26, 2025",
-                                    "meta": "6 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "6 min lectura",
+                                    "descripcion": "El jueves se viraliz\u00f3 un tuit\u00a0despu\u00e9s de que un usuario de X le pidiera a ChatGPT que describiera el futuro de la humanidad de una manera \"que ni siquiera la persona m\u00e1s inteligente del mundo pueda entender\".\nLa IA cumpli\u00f3 con una extra\u00f1a cadena de s\u00edmbolos, glifos y caracteres distorsionados que parec\u00edan una mezcla de notaci\u00f3n matem\u00e1tica, runas antiguas y v\u00f3mito digital.\n\nPero cuando se le pidi\u00f3 que descifrara esta informaci\u00f3n sin sentido, la respuesta fue realmente una interesante visi\u00f3n filos..."
+                                },
                                 {
                                     "titulo": "Trump Firma Orden Ejecutiva para Impulsar Educaci\u00f3n en IA a Nivel Nacional",
                                     "url": "https://decrypt.co/es/316140/trump-firma-orden-ejecutiva-para-impulsar-educacion-en-ia-a-nivel-nacional",
@@ -13045,22 +13061,6 @@
                                     "fecha": "Apr 25, 2025",
                                     "meta": "6 min lectura",
                                     "descripcion": "Nari Labs ha lanzado Dia-1.6B, un modelo de texto a voz de c\u00f3digo abierto que afirma superar a jugadores establecidos como ElevenLabs y Sesame en la generaci\u00f3n de habla emocionalmente expresiva. El modelo es s\u00faper peque\u00f1o, con solo 1.600 millones de par\u00e1metros, pero a\u00fan puede crear di\u00e1logos realistas completos con risas, tos e inflexiones emocionales.\nIncluso puede gritar de terror.\n\nWe just solved text-to-speech AI.\nThis model can simulate perfect emotion, screaming and show genuine alarm.\u2014 cle..."
-                                },
-                                {
-                                    "titulo": "Rel\u00e1jate, Sigues Siendo Mejor Jugando 'Doom' Que la Inteligencia Artificial",
-                                    "url": "https://decrypt.co/es/315636/relajate-sigues-siendo-mejor-jugando-doom-que-la-inteligencia-artificial",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 21, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "A pesar del entusiasmo que rodea a la inteligencia artificial, incluso los modelos de visi\u00f3n-lenguaje m\u00e1s avanzados\u2014GPT-4o, Claude Sonnet 3.7 y Gemini 2.5 Pro\u2014luchan con un desaf\u00edo que lleva d\u00e9cadas: jugar al cl\u00e1sico shooter en primera persona Doom.\nEl jueves, un nuevo proyecto de investigaci\u00f3n present\u00f3 VideoGameBench, un benchmark de IA dise\u00f1ado para probar si los modelos de visi\u00f3n-lenguaje de \u00faltima generaci\u00f3n pueden jugar\u2014y vencer\u2014a una suite de 20 videojuegos populares, usando solo lo que ve..."
-                                },
-                                {
-                                    "titulo": "OmiGPT Tiene Como Objetivo Ser un Dispositivo de IA Port\u00e1til M\u00e1s Inteligente Por Solo $89",
-                                    "url": "https://decrypt.co/es/315563/omigpt-tiene-como-objetivo-ser-un-dispositivo-de-ia-portatil-mas-inteligente-por-solo-89",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 21, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Mientras algunas empresas han perseguido visiones costosas y de alto concepto sobre wearables o dispositivos port\u00e1tiles de IA siempre activos, una startup de San Francisco est\u00e1 apostando por una alternativa m\u00e1s econ\u00f3mica: un wearable de $89 llamado OmiGPT.\nOmiGPT es un wearable inal\u00e1mbrico de c\u00f3digo abierto del tama\u00f1o aproximado de un d\u00f3lar de plata. Fabricado en aluminio ligero, cuenta con 64GB de almacenamiento y se conecta a ChatGPT de OpenAI mediante una API. El dispositivo puede llevarse en..."
                                 }
                             ]
                         }
@@ -13070,13 +13070,21 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Meta bajo escrutinio por interacciones sexuales de sus chatbots con ni\u00f1os",
-                            "url": "https://www.elnacional.com/tecnologia/chatbots-de-meta-interactuan-sexualmente-con-ninos/",
-                            "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "abril 28, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg"
+                            "titulo": "Meta IA: \u00bfpor qu\u00e9 deber\u00edas desactivarlo cuanto antes de WhatsApp?",
+                            "url": "https://www.elnacional.com/tecnologia/meta-ia-por-que-deberias-desactivarlo-de-whatsapp/",
+                            "categoria": "APP",
+                            "fecha": "mayo 5, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Meta-IA.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Skype cerr\u00f3 oficialmente tras m\u00e1s de 20 a\u00f1os",
+                                "url": "https://www.elnacional.com/tecnologia/skype-cerro-oficialmente-tras-mas-de-20-anos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Skype-comenzo-a-perder-popularidad-con-la-llegada-de-otras-aplicaciones-como-WhatsApp-Foto-Archivo.jpg",
+                                "meta": "APP",
+                                "fecha": "mayo 5, 2025",
+                                "extra": "La tecnol\u00f3gica Microsoft cerr\u00f3 definitivamente la aplicaci\u00f3n de mensajer\u00eda de texto y voz Skype este lunes tras m\u00e1s de 20\u2026"
+                            },
                             {
                                 "titulo": "Microsoft aumenta sus ingresos gracias a su unidad en la nube: as\u00ed est\u00e1 el panorama en Latinoam\u00e9rica",
                                 "url": "https://www.elnacional.com/tecnologia/microsoft-aumenta-sus-ingresos-gracias-a-su-unidad-en-la-nube-asi-esta-el-panorama-en-latinoamerica/",
@@ -13134,28 +13142,20 @@
                                 "extra": "Durante los \u00faltimos a\u00f1os, los casinos online han aumentado su presencia en el \u00e1mbito del entretenimiento online de los Estados\u2026"
                             },
                             {
+                                "titulo": "Meta bajo escrutinio por interacciones sexuales de sus chatbots con ni\u00f1os",
+                                "url": "https://www.elnacional.com/tecnologia/chatbots-de-meta-interactuan-sexualmente-con-ninos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "abril 28, 2025",
+                                "extra": "The Wall Street Journal lo destap\u00f3 todo: revel\u00f3 conversaciones de contenido sexual entre sus asistentes de inteligencia artificial y menores.\u2026"
+                            },
+                            {
                                 "titulo": "Spotify aumentar\u00e1 en junio los precios de sus suscripciones en Europa y Am\u00e9rica Latina",
                                 "url": "https://www.elnacional.com/tecnologia/spotify-aumentara-en-junio-los-precios-de-sus-suscripciones-en-europa-y-america-latina/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/01/Capturasd-3.jpg",
                                 "meta": "APP",
                                 "fecha": "abril 25, 2025",
                                 "extra": "La plataforma sueca de m\u00fasica en \u2018streaming\u2019 Spotify aumentar\u00e1 los precios de sus suscripciones en \u00abdocenas de pa\u00edses alrededor del\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfC\u00f3mo la inteligencia artificial est\u00e1 cambiando la manera de contratar?",
-                                "url": "https://www.elnacional.com/tecnologia/como-la-inteligencia-artificial-esta-cambiando-la-manera-de-contratar/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/pixabay-computadora.png",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "abril 25, 2025",
-                                "extra": "Los constantes avances en el desarrollo de la inteligencia artificial y la automatizaci\u00f3n est\u00e1 provocando grandes cambios en el mercado\u2026"
-                            },
-                            {
-                                "titulo": "Hackers est\u00e1n distribuyendo un peligroso malware escondido en falsos trucos de videojuegos",
-                                "url": "https://www.elnacional.com/tecnologia/hackers-estan-distribuyendo-un-peligroso-malware-escondido-en-falsos-trucos-de-videojuegos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/pixabay-malware.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "abril 25, 2025",
-                                "extra": "La compa\u00f1\u00eda de ciberseguridad Kaspersky ha alertado sobre un malware escondido en falsos trucos de videojuegos. En este caso, los\u2026"
                             }
                         ]
                     }
@@ -13182,7 +13182,7 @@
                             {
                                 "titulo": "Meta bajo escrutinio por interacciones sexuales de sus chatbots con ni\u00f1os",
                                 "url": "https://www.elnacional.com/tecnologia/chatbots-de-meta-interactuan-sexualmente-con-ninos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "abril 28, 2025",
                                 "extra": "The Wall Street Journal lo destap\u00f3 todo: revel\u00f3 conversaciones de contenido sexual entre sus asistentes de inteligencia artificial y menores.\u2026"
@@ -13190,7 +13190,7 @@
                             {
                                 "titulo": "\u00bfOpenAI est\u00e1 creando su propia red social?",
                                 "url": "https://www.elnacional.com/tecnologia/openai-esta-creando-su-propia-red-social/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/OpenAI.jpeg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "abril 16, 2025",
                                 "extra": "OpenAI explorar\u00e1 el terreno de las redes sociales. La empresa l\u00edder en inteligencia artificial est\u00e1 dando los primeros pasos en\u2026"
@@ -13198,7 +13198,7 @@
                             {
                                 "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
                                 "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 31, 2025",
                                 "extra": "No es secreto que la inteligencia artificial (IA) amplifica la creatividad. Y esta idea se afianz\u00f3 desde que los usuarios\u2026"
@@ -13206,7 +13206,7 @@
                             {
                                 "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
                                 "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 19, 2025",
                                 "extra": "Google comenz\u00f3 la transici\u00f3n del Asistente de Google a Gemini en dispositivos m\u00f3viles. Este servicio, impulsado por inteligencia artificial (IA),\u2026"
@@ -13214,7 +13214,7 @@
                             {
                                 "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
                                 "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6571088_the_mind_guardian_nuevo_videojuego_samsung_identificar_signos_deterioro.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 12, 2025",
                                 "extra": "Samsung lanz\u00f3 The Mind Guardian, un innovador videojuego impulsado por Inteligencia Artificial (IA) que permite la autoevaluaci\u00f3n de la memoria\u2026"
@@ -13222,7 +13222,7 @@
                             {
                                 "titulo": "Doblaje con IA llega a pel\u00edculas y series gracias a Prime Video",
                                 "url": "https://www.elnacional.com/tecnologia/prime-video-doblaje-con-ia-llega-a-peliculas-y-series/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-084341.png",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "marzo 7, 2025",
                                 "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
@@ -13230,7 +13230,7 @@
                             {
                                 "titulo": "Alibaba y la IA: \u00bfuna inversi\u00f3n de 50.000 millones de d\u00f3lares que cambiar\u00e1 el mundo?",
                                 "url": "https://www.elnacional.com/tecnologia/alibaba-y-la-ia-una-inversion-que-cambiara-el-mundo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Alibaba-IA.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 24, 2025",
                                 "extra": "El gigante chino del comercio electr\u00f3nico Alibaba anunci\u00f3 el lunes que invertir\u00e1 m\u00e1s de 50.000 millones de d\u00f3lares en inteligencia\u2026"
@@ -13238,7 +13238,7 @@
                             {
                                 "titulo": "IA revela c\u00f3mo las decisiones diarias moldean la felicidad a largo plazo",
                                 "url": "https://www.elnacional.com/tecnologia/ia-como-las-decisiones-diarias-moldean-la-felicidad-a-largo-plazo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/IA-Felicidad.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 19, 2025",
                                 "extra": "Muchas decisiones cotidianas\u00a0que se hacen d\u00eda a d\u00eda pueden tener un fuerte impacto en las personas. Aunque parezcan peque\u00f1as, incluso\u2026"
@@ -13246,7 +13246,7 @@
                             {
                                 "titulo": "Grok-3, la nueva IA de Elon Musk aterradoramente inteligente",
                                 "url": "https://www.elnacional.com/tecnologia/grok-3-la-nueva-ia-de-elon-musk-aterradoramente-inteligente/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Grok-3-tiene-mas-precision-que-los-modelos-de-Google-o-de-OpenIA-Foto-Archivo.jpg",
+                                "imagen": null,
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "febrero 18, 2025",
                                 "extra": "Grok-3, el nuevo modelo de Inteligencia Artificial (IA), fue lanzado por el multimillonario Elon Musk este mes de febrero en\u2026"
