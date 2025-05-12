@@ -12274,6 +12274,27 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "C\u00f3mo canjear tus juegos de PS Plus sin utilizar una PS5 o PS54",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/12/canjear-tus-juegos-ps-plus-utilizar-ps5-ps54.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/12/6821dd508a973.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00bfHas vuelto al Ultimate Team de FC 25 por los TOTS? Este SBC puede ser la clave de tu defensa",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/12/has-vuelto-ultimate-team-fc-25-tots-sbc-clave-defensa.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/12/6821d1624bc7e.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Si lo que dicen del mapa de GTA 6 es real, Rockstar nos va a volar la cabeza",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/12/dicen-mapa-gta-6-real-rockstar-volar-cabeza.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/12/6821b5298a6fe.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Un domingo cualquiera de 2006: disfrut\u00e1bamos del mejor juego de f\u00fatbol de la historia y no lo sab\u00edamos",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/05/11/domingo-cualquiera-2006-disfrutabamos-mejor-juego-futbol-historia-sabiamos.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/09/681e46de5948f.jpeg",
@@ -12601,27 +12622,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814d6258733d.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Liverpool y Arsenal dominan los TOTS de la Premier League: estos son los 22 elegidos",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/03/liverpool-arsenal-dominan-tots-premier-league-son-22-elegidos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/03/681552f4045b1.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Rayquaza ha llegado a Pok\u00e9mon TCG Pocket con una carta incre\u00edble... \u00a1y as\u00ed puedes conseguirla de forma sencilla!",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/02/rayquaza-llegado-pokemon-tcg-pocket-carta-increible-asi-puedes-conseguirla-forma-sencilla.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814b73df3ff1.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "GTA 6 revela su fecha de lanzamiento y confirma nuestros peores temores: se retrasa hasta 2026",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/02/oficial-gta-6-confirma-fecha-lanzamiento-retrasa-mayo-2026.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/6814b08d3ee8a.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12629,9 +12629,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 11 de mayo",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-11-de-mayo-nid12052025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "12 de mayo de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-11-de-mayo-nid12052025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos gratis de la semana del 8 de mayo en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-8-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid08052025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "8 de mayo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-8-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid08052025/"
                         },
@@ -12857,13 +12864,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/razer-y-wolrd-anunciaron-una-plataforma-que-ZRC7HJSC5FACXPSTCMR3PSWCJM.jpg?auth=44d56a7badc5abf42754a67eaa0dd364c75d5144296d3800a27810cb96df3a60&width=300&height=200&quality=70&smart=true",
                             "fecha": "17 de marzo de 2025",
                             "url_link": "/tecnologia/contra-los-bots-razer-y-world-quieren-cambiar-para-siempre-como-jugas-videojuegos-nid17032025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 16 de marzo",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-16-de-marzo-nid17032025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-2WHXRJNBQNDE3ASHX2ZRQPKSIQ.jpg?auth=1961efa45d6bc0cfa3083c5116b4bdb28e5c3ae8b25d5f021a004d205f036fb0&width=300&height=200&quality=70&smart=true",
-                            "fecha": "17 de marzo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-16-de-marzo-nid17032025/"
                         }
                     ]
                 },
@@ -12972,15 +12972,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Nueva Versi\u00f3n de Mistral AI Supera a Claude 3.7 y Llama 4 a un Precio Imbatible",
-                            "url": "https://decrypt.co/es/318837/nueva-version-de-mistral-ai-supera-a-claude-3-7-y-llama-4-a-un-precio-imbatible",
+                            "titulo": "Reddit Toma Medidas Tras Infiltraci\u00f3n Secreta de Bots de IA en Foro de Debate",
+                            "url": "https://decrypt.co/es/318858/reddit-toma-medidas-tras-infiltracion-secreta-de-bots-de-ia-en-foro-de-debate",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/mistral-team-102523-gID_7.jpg@webp",
-                            "descripcion": "Mistral Medium 3 se lanz\u00f3 ayer, posicion\u00e1ndose como un desaf\u00edo directo a la econom\u00eda del despliegue de IA empresarial.\nLa startup parisina, fundada en 2023 por antiguos investigadores de Google DeepMind y Meta AI, lanz\u00f3 lo que afirma ofrece un rendimiento de vanguardia a un octavo del costo operativo de modelos comparables.\n\"Mistral Medium 3 ofrece un rendimiento de vanguardia, siendo [...] menos costoso\", dijo la compa\u00f1\u00eda.\nEl modelo representa la oferta propietaria m\u00e1s potente de Mistral AI has...",
-                            "fecha": "May 10, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robot-invasion-gID_7.png@webp",
+                            "descripcion": "Detr\u00e1s de escena, en una de las comunidades m\u00e1s grandes de Reddit, algo espeluznante ha estado gest\u00e1ndose. Durante cuatro meses, bots impulsados por inteligencia Artificial se hicieron pasar por humanos, influenciando opiniones y obteniendo miles de votos positivos.\nEl experimento parec\u00eda estar funcionando\u2014hasta que todos se enteraron.\nReddit anunci\u00f3 planes a principios de esta semana para reforzar la verificaci\u00f3n de usuarios despu\u00e9s de enterarse de que investigadores de la Universidad de Z\u00farich...",
+                            "fecha": "May 11, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Nueva Versi\u00f3n de Mistral AI Supera a Claude 3.7 y Llama 4 a un Precio Imbatible",
+                                    "url": "https://decrypt.co/es/318837/nueva-version-de-mistral-ai-supera-a-claude-3-7-y-llama-4-a-un-precio-imbatible",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "May 10, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "Gemini 2.5 Pro de Google, Destrona a Claude y Lidera Rankings de Codificaci\u00f3n",
                                     "url": "https://decrypt.co/es/318719/gemini-2-5-pro-de-google-destrona-a-claude-y-lidera-rankings-de-codificacion",
@@ -13015,16 +13022,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 6, 2025",
                                     "meta": "5 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "'Grok es Woke!' Usuarios de Derecha Enfuresen Por 'Verdades Inc\u00f3modas' de la IA de Elon Musk",
                                     "url": "https://decrypt.co/es/317903/grok-es-woke-usuarios-de-derecha-enfuresen-por-verdades-incomodas-de-la-ia-de-elon-musk",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 5, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Los usuarios de derecha en X est\u00e1n perdiendo la cabeza mientras el chatbot de inteligencia artificial \"buscador de la verdad\" de Elon Musk, Grok, sigue contradiciendo sus puntos de vista favoritos. \u00bfEl problema? No es que Grok se haya vuelto \"despierto\", simplemente est\u00e1 haciendo lo que fue dise\u00f1ado para hacer: hablar la verdad.\nLanzado a finales de 2023 como una alternativa \"anti-despierto\" a ChatGPT, Grok fue inicialmente promocionado por Musk como un chatbot rebelde que no se doblegar\u00eda ante..."
+                                },
                                 {
                                     "titulo": "Amazon Comienza a Implementar Alexa+ su Nueva y Mejorada Asistente Impulsada por IA",
                                     "url": "https://decrypt.co/es/317775/amazon-comienza-a-implementar-alexa-su-nueva-y-mejorada-asistente-impulsada-por-ia",
@@ -13056,14 +13064,6 @@
                                     "fecha": "Apr 30, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "Las plataformas de redes sociales se llenaron de quejas esta semana cuando los usuarios expresaron su frustraci\u00f3n por los elogios cada vez m\u00e1s efusivos del chatbot de OpenAI.\n\"Le pregunt\u00e9 cu\u00e1nto tardan los pl\u00e1tanos en descomponerse, y me respondi\u00f3 con '\u00a1Pregunta asombrosa!' \u00bfQu\u00e9 demonios tiene de asombroso eso?\", pregunt\u00f3 el usuario de Reddit scoldmeforcommenting.\nOtros acudieron a X (anteriormente Twitter) para expresar sus frustraciones, con el CEO de Rome AI, Craig Weiss, llamando a ChatGPT \"..."
-                                },
-                                {
-                                    "titulo": "\u00bfQui\u00e9n Ser\u00e1 el Pr\u00f3ximo Papa? Los Principales Modelos de IA no Est\u00e1n de Acuerdo con Los Mercados de Predicci\u00f3n",
-                                    "url": "https://decrypt.co/es/316970/quien-sera-el-proximo-papa-los-principales-modelos-de-ia-no-estan-de-acuerdo-con-los-mercados-de-prediccion",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Apr 30, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "Tras la muerte del Papa Francisco, el Colegio de Cardenales ya se est\u00e1 preparando para reunirse en el c\u00f3nclave la pr\u00f3xima semana y celebrar lo que podr\u00eda ser el evento m\u00e1s importante en la religi\u00f3n cat\u00f3lica para las pr\u00f3ximas d\u00e9cadas: elegir un nuevo papa.\nDurante estos d\u00edas, los cat\u00f3licos rezan para que el Esp\u00edritu Santo d\u00e9 a sus l\u00edderes suficiente entendimiento y luz para dejar todas las diferencias a un lado y elegir al mejor candidato para gobernar la iglesia, fusionando efectivamente los rei..."
                                 }
                             ]
                         }
@@ -13073,13 +13073,21 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "La seguridad digital en las aulas: un reto en tiempos de inteligencia artificial",
-                            "url": "https://www.elnacional.com/tecnologia/la-seguridad-digital-en-las-aulas-un-reto-en-tiempos-de-inteligencia-artificial/",
-                            "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "mayo 10, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-aulas.png"
+                            "titulo": "Apple enfrenta a una nueva demanda colectiva de desarrolladores por comisiones de la App Store",
+                            "url": "https://www.elnacional.com/tecnologia/apple-enfrenta-a-una-nueva-demanda-colectiva-de-desarrolladores-por-comisiones-de-la-app-store/",
+                            "categoria": "APP",
+                            "fecha": "mayo 11, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-laptop-apple.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "La seguridad digital en las aulas: un reto en tiempos de inteligencia artificial",
+                                "url": "https://www.elnacional.com/tecnologia/la-seguridad-digital-en-las-aulas-un-reto-en-tiempos-de-inteligencia-artificial/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-aulas.png",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "mayo 10, 2025",
+                                "extra": "La digitalizaci\u00f3n educativa avanza r\u00e1pidamente en Latinoam\u00e9rica. Sin embargo, esta transformaci\u00f3n enfrenta desaf\u00edos \u00fanicos en la regi\u00f3n. La falta de\u2026"
+                            },
                             {
                                 "titulo": "WhatsApp incorporar\u00e1 funci\u00f3n para resumir mensajes mediante Meta AI",
                                 "url": "https://www.elnacional.com/tecnologia/whatsapp-incorporara-funcion-para-resumir-mensajes-mediante-meta-ai/",
@@ -13151,14 +13159,6 @@
                                 "meta": "APP",
                                 "fecha": "abril 30, 2025",
                                 "extra": "X ahora permite a los suscriptores Premium publicar y visualizar videos en resoluci\u00f3n 4K directamente en la plataforma. Esta mejora\u2026"
-                            },
-                            {
-                                "titulo": "WhatsApp lanz\u00f3 nueva funci\u00f3n que evitar\u00e1 que otros reenv\u00eden sus fotos y mensajes: as\u00ed la puede activar",
-                                "url": "https://www.elnacional.com/tecnologia/whatsapp-lanzo-nueva-funcion-que-evitara-que-otros-reenvien-sus-fotos-y-mensajes-asi-la-puede-activar/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/A-continuacion-la-lista-de-modelos-que-dejaran-de-ser-compatibles-con-la-aplicacion-de-WhatsApp-Foto-Archivo.jpg",
-                                "meta": "APP",
-                                "fecha": "abril 29, 2025",
-                                "extra": "Recientemente, la aplicaci\u00f3n WhatsApp tuvo una nueva actualizaci\u00f3n y ahora los usuarios podr\u00e1n contar con mayor seguridad a la hora\u2026"
                             }
                         ]
                     }
