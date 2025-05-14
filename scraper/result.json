@@ -12274,6 +12274,34 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Minecraft: c\u00f3mo crear y configurar un servidor gratis en PC",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/14/minecraft-crear-configurar-servidor-gratis-pc.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/14/68246a52302ef.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El retraso de GTA 6 provoc\u00f3 que el n\u00famero de prevenci\u00f3n del suicidio se viralizase",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/14/retraso-gta-6-provoco-numero-prevencion-suicidio-viralizase.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/14/68244fe5d7397.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Si Steam te falla y no puedes jugar, la culpa la vuelve a tener LaLiga y la jornada de f\u00fatbol",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/13/steam-te-falla-puedes-jugar-culpa-vuelve-laliga-jornada-futbol.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/13/6823a5065100d.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Si eres un enamorado del f\u00fatbol espa\u00f1ol y del Modo Carrera, este mod de Primera RFEF para EA Sports FC 25 te va a volver loco",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/13/enamorado-futbol-espanol-carrera-mod-primera-rfef-ea-sports-fc-25-te-volver-loco.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/13/68236f3e23a39.jpeg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Ni GTA, ni The Witcher. La mejor colaboraci\u00f3n de 2025 es de una saga de JRPG legendaria, y ser\u00e1 con Magic",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/05/13/gta-the-witcher-mejor-colaboracion-2025-saga-jrpg-legendaria-sera-magic.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/13/682326cf659cf.jpeg",
@@ -12594,34 +12622,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/05/68189cadaf2e5.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Cabrear a Vin\u00edcius Jr. en EA FC 25 no es buena idea: mi experiencia como entrenador del Real Madrid fue de todo menos buena",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/05/cabrear-vinicius-jr-ea-fc-25-buena-idea-real-madrid-pique-culpa.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/05/6818984a64a6f.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"Que GTA 6 se retrase es lo mejor que nos pod\u00eda pasar\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/05/gta-6-retrase-mejor-podia-pasar.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/05/68188f705adec.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfPor qu\u00e9 le echar\u00edas ketchup a un videojuego? Es una locura, pero tiene un motivo oculto que te sorprender\u00e1",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/05/le-echarias-ketchup-videojuego-locura-motivo-oculto-te-sorprendera.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/02/68149cc480e65.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Seguramente no te acuerdes de \u00e9l, pero este juego es gratis y te puede salvar el d\u00eda en caso de que haya otro apag\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/04/seguramente-te-acuerdes-juego-gratis-te-salvar-dia-caso-haya-apagon.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/04/68179d07a4675.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         }
                     ]
                 },
@@ -12972,15 +12972,29 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "5 Prompts Secretos de ChatGPT Que Convertir\u00e1n Tu IA en Una Bestia Poderosa",
-                            "url": "https://decrypt.co/es/319252/5-prompts-secretos-de-chatgpt-que-convertiran-tu-ia-en-una-bestia-poderosa",
+                            "titulo": "Meta Elimina Anuncio Deepfake de IA Despu\u00e9s de Que Jamie Lee Curtis Llamara a Mark Zuckerberg",
+                            "url": "https://decrypt.co/es/319502/meta-elimina-anuncio-deepfake-de-ia-despues-de-que-jamie-lee-curtis-llamara-a-mark-zuckerberg",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/6554661635-gID_7.png@webp",
-                            "descripcion": "ChatGPT podr\u00eda parecer solo otro chatbot con personalidad, pero eso no es del todo cierto. La mayor\u00eda de las personas no se dan cuenta de que est\u00e1n utilizando una fracci\u00f3n de sus capacidades porque no saben c\u00f3mo hacer las preguntas correctas, o no tienen la creatividad para probar cosas nuevas con sus IAs.\nLa ingenier\u00eda de prompts \u2014el arte de elaborar instrucciones precisas para la IA\u2014 ha explotado a medida que los usuarios descubren que cambiar la forma en que se habla a la m\u00e1quina cambia dr\u00e1st...",
-                            "fecha": "May 12, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jamie-lee-curtis-gID_7.jpg@webp",
+                            "descripcion": "Jamie Lee Curtis, ganadora del Premio de la Academia, confront\u00f3 p\u00fablicamente al CEO de Meta, Mark Zuckerberg, el lunes despu\u00e9s de descubrir que su imagen hab\u00eda sido utilizada sin permiso en un anuncio generado por inteligencia artificial.\n\"Ha llegado a esto @zuck\", escribi\u00f3 Curtis en Instagram, etiquetando directamente a Zuckerberg despu\u00e9s de intentar sin \u00e9xito contactar a Meta y al CEO a trav\u00e9s de canales privados.\nEl anuncio, al que Curtis no nombr\u00f3, reutiliz\u00f3 im\u00e1genes de una entrevista anteri...",
+                            "fecha": "May 13, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Este Astuto Truco de Google Messages te Permite Usar IA en Vuelos Sin Pagar Tarifas de Wi-Fi",
+                                    "url": "https://decrypt.co/es/319482/este-astuto-truco-de-google-messages-te-permite-usar-ia-en-vuelos-sin-pagar-tarifas-de-wi-fi",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "May 13, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "5 Prompts Secretos de ChatGPT Que Convertir\u00e1n Tu IA en Una Bestia Poderosa",
+                                    "url": "https://decrypt.co/es/319252/5-prompts-secretos-de-chatgpt-que-convertiran-tu-ia-en-una-bestia-poderosa",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "May 12, 2025",
+                                    "meta": "13 min lectura"
+                                },
                                 {
                                     "titulo": "Reddit Toma Medidas Tras Infiltraci\u00f3n Secreta de Bots de IA en Foro de Debate",
                                     "url": "https://decrypt.co/es/318858/reddit-toma-medidas-tras-infiltracion-secreta-de-bots-de-ia-en-foro-de-debate",
@@ -13008,23 +13022,25 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 8, 2025",
                                     "meta": "6 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Strategy Abraza la IA: Michael Saylor Dice Que Construy\u00f3 su Imperio de Bitcoin Con la Ayuda de un Chatbot",
                                     "url": "https://decrypt.co/es/318283/strategy-abraza-la-ia-michael-saylor-dice-que-construyo-su-imperio-de-bitcoin-con-la-ayuda-de-un-chatbot",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 8, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Ya sabemos que Strategy est\u00e1 apostando todo a Bitcoin\u2014ahora le est\u00e1 dando espacio a la nueva palabra de moda favorita de Wall Street: IA\nDurante el evento Strategy World de la empresa, el fundador y presidente ejecutivo Michael Saylor explic\u00f3 c\u00f3mo la inteligencia artificial ayud\u00f3 a dise\u00f1ar productos financieros innovadores que impulsaron su tesorer\u00eda de Bitcoin, que ahora tiene un asombroso valor de $52.000 millones\u2014un aumento de m\u00e1s de 200x desde su inversi\u00f3n inicial de $250 millones hace cinco..."
                                 },
                                 {
                                     "titulo": "Regresa de la Muerte: Hombre Asesinado en Incidente de Ira 'Testifica' en Tribunal",
                                     "url": "https://decrypt.co/es/318563/regresa-de-la-muerte-hombre-asesinado-en-incidente-de-ira-testifica-en-tribunal",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 8, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Christopher Pelkey habl\u00f3 directamente con el hombre que le dispar\u00f3 y mat\u00f3 durante un incidente de ira en la carretera en Arizona en 2021\u2014tres a\u00f1os y medio despu\u00e9s de su muerte.\n\"A Su Se\u00f1or\u00eda, Juez Lang, gracias por estar disponible para ver este caso hasta el final. Especialmente cuando el juicio reprogramado coincidi\u00f3 con las vacaciones de primavera de su hija\", dijo la versi\u00f3n de IA de Christopher Pelkey en un video presentado en el tribunal de Phoenix, Arizona.\n\"A Gabriel Horcasitas, el hombr..."
+                                },
                                 {
                                     "titulo": "Tether se Suma a la Carrera de la IA Con Plataforma de C\u00f3digo Abierto y Pagos en Bitcoin y USDT",
                                     "url": "https://decrypt.co/es/318007/tether-se-suma-a-la-carrera-de-la-ia-con-plataforma-de-codigo-abierto-y-pagos-en-bitcoin-y-usdt",
@@ -13048,22 +13064,6 @@
                                     "fecha": "May 5, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Amazon ha comenzado a implementar Alexa+, su nueva asistente impulsada por inteligencia artificial generativa, a m\u00e1s de 100.000 usuarios tempranos en una vista previa limitada, meses despu\u00e9s de que la compa\u00f1\u00eda programara originalmente el lanzamiento para octubre pasado.\nEl gigante minorista primero anunci\u00f3 planes para una versi\u00f3n mejorada de Alexa impulsada por inteligencia artificial generativa durante su evento anual de hardware de oto\u00f1o en septiembre de 2023, posicionando al asistente como un..."
-                                },
-                                {
-                                    "titulo": "Civitai Enfrenta Usuarios Enojados Tras Prohibir Contenido Atrevido en su Sitio de Arte de IA",
-                                    "url": "https://decrypt.co/es/317770/civitai-enfrenta-usuarios-enojados-tras-prohibir-contenido-atrevido-en-su-sitio-de-arte-de-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 5, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Civitai, antes considerado el Salvaje Oeste del arte generado por IA \u2014y uno de los \u00faltimos refugios donde casi todo estaba permitido\u2014 provoc\u00f3 una crisis generalizada en la comunidad tras implementar estrictas nuevas directrices de contenido la semana pasada.\nSi bien el sitio no era expl\u00edcitamente una p\u00e1gina pornogr\u00e1fica, s\u00ed atend\u00eda a varias comunidades de contenido para adulto, incluyendo furries, anime para adultos, BDSM extremo y m\u00e1s.\n\"Estamos actualizando nuestras pol\u00edticas para cumplir con e..."
-                                },
-                                {
-                                    "titulo": "CEO de Duolingo Anuncia Estrategia Enfocada en IA Para Sustituir Tareas Repetitivas",
-                                    "url": "https://decrypt.co/es/317451/ceo-de-duolingo-anuncia-estrategia-enfocada-en-ia-para-sustituir-tareas-repetitivas",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 2, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Siempre usa interlineado entre los p\u00e1rrafos. El CEO de Duolingo ha dicho que la empresa planea adoptar un enfoque \"primero en IA\" para el trabajo.\nEsto significa que la aplicaci\u00f3n de aprendizaje de idiomas va a \"dejar gradualmente de utilizar contratistas para realizar tareas que la IA pueda manejar\", seg\u00fan el CEO Luis von Ahn.\nEl mensaje se envi\u00f3 por correo electr\u00f3nico a todo el personal antes de ser publicado en la cuenta de LinkedIn de Duolingo.\nA pesar de esta afirmaci\u00f3n audaz, von Ahn fue c..."
                                 }
                             ]
                         }
