@@ -12274,6 +12274,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "El drama de PC F\u00fatbol 8 se alarga y anuncia su tercer retraso consecutivo: no saldr\u00e1 este s\u00e1bado",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/drama-pc-futbol-8-alarga-anuncia-tercer-retraso-consecutivo-saldra-sabado.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/6831c559b26db.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Cronolog\u00eda de PC F\u00fatbol 8 y sus interminables retrasos: \u00bfCu\u00e1ntos ha tenido en total?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/cronologia-pc-futbol-8-interminables-retrasos-cuantos-tenido-total.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/6831bf6bbc2dc.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "El juego con m\u00e1s retrasos de la historia puede ser publicado hoy: Fecha y hora del estreno de PC F\u00fatbol 8... o no",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/juego-retrasos-historia-publicado-hoy-fecha-hora-estreno-pc-futbol-8.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/68319118b8415.jpeg",
@@ -12606,20 +12620,6 @@
                             "titulo": "PC F\u00fatbol 8 revela su nueva fecha de lanzamiento y esta vez s\u00ed que parece la definitiva",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/05/15/pc-futbol-8-revela-nueva-fecha-lanzamiento-vez-parece-definitiva.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/15/6825cc9952eb2.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfQuieres un goleador sin dejarte un dineral? Estos son los 10 mejores atacantes j\u00f3venes para Modo Carrera en EA Sports FC 25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/15/quieres-goleador-dejarte-dineral-son-10-mejores-atacantes-jovenes-carrera-ea-sports-fc-25.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/15/68260b9f5f93e.jpeg",
-                            "meta": "FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Me di de pu\u00f1etazos contra una Roomba por el bien de mi familia... y no es lo peor que hice en este JRPG",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/15/me-di-punetazos-roomba-bien-mi-familia-peor-hice-jrpg.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/15/YPN081e9XYJFwhK_z.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         }
@@ -13084,9 +13084,25 @@
                         },
                         "notas": [
                             {
+                                "titulo": "X recupera la normalidad tras dejar de funcionar en varios pa\u00edses",
+                                "url": "https://www.elnacional.com/tecnologia/x-recupera-la-normalidad-tras-dejar-de-funcionar-en-varios-paises/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/X.jpg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "mayo 24, 2025",
+                                "extra": "La plataforma X, anteriormente conocida como Twitter,\u00a0ha recuperado su funcionamiento normal\u00a0este s\u00e1bado despu\u00e9s de sufrir una interrupci\u00f3n de aproximadamente\u00a090 minutos\u2026"
+                            },
+                            {
+                                "titulo": "La red social X presenta fallas en varios pa\u00edses",
+                                "url": "https://www.elnacional.com/tecnologia/la-red-social-x-presenta-fallas-en-varios-paises/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Red-social-X.jpeg",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "mayo 24, 2025",
+                                "extra": "La plataforma X, anteriormente conocida como Twitter, dej\u00f3 de funcionar con normalidad alrededor de las 14:20 horas (12:20 GMT) de\u2026"
+                            },
+                            {
                                 "titulo": "La millonaria apuesta de OpenAI por Jony Ive: \u00bfun reto para Apple?",
                                 "url": "https://www.elnacional.com/tecnologia/la-millonaria-apuesta-de-openai-por-jony-ive-un-reto-para-apple/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-chatgpt.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 23, 2025",
                                 "extra": "El brit\u00e1nico Jony Ive, reconocido por ser el dise\u00f1ador de la primera versi\u00f3n del iPhone, anunci\u00f3 recientemente el siguiente paso\u2026"
@@ -13094,7 +13110,7 @@
                             {
                                 "titulo": "Empresas de tecnolog\u00eda reportan m\u00e1s de 60.000 despidos en lo que va del a\u00f1o",
                                 "url": "https://www.elnacional.com/tecnologia/empresas-de-tecnologia-reportan-mas-de-60-000-despidos-en-lo-que-va-del-ano/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-despidos.png",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 23, 2025",
                                 "extra": "El 2025 apunta a ser otro a\u00f1o de recortes de personal significativos en la industria tecnol\u00f3gica. Si en 2023 una\u2026"
@@ -13102,7 +13118,7 @@
                             {
                                 "titulo": "Pac-Man, leyenda de los videojuegos, cumple 45 a\u00f1os",
                                 "url": "https://www.elnacional.com/tecnologia/pac-man-leyenda-de-los-videojuegos-cumple-45-anos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-23-075306.png",
                                 "meta": "GAMERS",
                                 "fecha": "mayo 23, 2025",
                                 "extra": "El 22 de mayo de 1980, hace 45 a\u00f1os, ve\u00eda la luz en Jap\u00f3n Pac-Man, ic\u00f3nico videojuego del \u201ccomecocos\u201d que,\u2026"
@@ -13126,7 +13142,7 @@
                             {
                                 "titulo": "C\u00f3mo el iGaming puede vencer las estafas de bonos sin dep\u00f3sito de casinos",
                                 "url": "https://www.elnacional.com/empresas-productos/como-el-igaming-puede-vencer-las-estafas-de-bonos-sin-deposito-de-casinos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Image-19-abr-2025-18_11_35.png",
                                 "meta": "Empresas y Productos",
                                 "fecha": "mayo 19, 2025",
                                 "extra": "El abuso de bonos de iGaming se produce cuando los jugadores aprovechan ofertas promocionales dirigidas a nuevos usuarios. Esto incluye\u2026"
@@ -13134,7 +13150,7 @@
                             {
                                 "titulo": "Agentes de IA: \u00bfen qu\u00e9 consiste la tecnolog\u00eda que dominar\u00e1 el mundo?",
                                 "url": "https://www.elnacional.com/tecnologia/agentes-de-ia-en-que-consiste-la-tecnologia-que-dominara-el-mundo/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-vendedora.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 16, 2025",
                                 "extra": "Si pensaba que la inteligencia artificial generativa hab\u00eda llegado a su m\u00e1ximo potencial, prep\u00e1rese para los agentes de IA, una\u2026"
@@ -13142,26 +13158,10 @@
                             {
                                 "titulo": "TikTok activ\u00f3 meditaciones nocturnas para el bienestar infantil",
                                 "url": "https://www.elnacional.com/tecnologia/tiktok-activo-meditaciones-nocturnas-para-el-bienestar-infantil/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/TikTok-Bienestar.jpg",
                                 "meta": "APP",
                                 "fecha": "mayo 16, 2025",
                                 "extra": "En un esfuerzo por fomentar h\u00e1bitos de sue\u00f1o saludables entre sus usuarios m\u00e1s j\u00f3venes, TikTok introdujo una innovadora funci\u00f3n de\u2026"
-                            },
-                            {
-                                "titulo": "Microsoft despedir\u00e1 a 6.000 trabajadores",
-                                "url": "https://www.elnacional.com/tecnologia/microsoft-despedira-a-6-000-trabajadores/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
-                                "fecha": "mayo 14, 2025",
-                                "extra": "En un movimiento sorpresivo que contrasta con sus recientes resultados financieros positivos, el gigante tecnol\u00f3gico Microsoft anunci\u00f3 este martes una\u2026"
-                            },
-                            {
-                                "titulo": "Apple y firma de neurotecnolog\u00eda trabajan en habilitar control de dispositivos con el pensamiento",
-                                "url": "https://www.elnacional.com/tecnologia/apple-desarrollara-control-de-dispositivos-con-el-pensamiento/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Apple-computadora.webp",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "mayo 14, 2025",
-                                "extra": "El gigante tecnol\u00f3gico Apple y la firma de neurotecnolog\u00eda Synchron anunciaron una colaboraci\u00f3n pionera para permitir el control de dispositivos\u2026"
                             }
                         ]
                     }
