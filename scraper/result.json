@@ -12199,6 +12199,16 @@
                                 "etiqueta": "Battlefield",
                                 "info": [
                                     {
+                                        "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.8.0 DE BATTLEFIELD 2042",
+                                        "informacion": [
+                                            "Battlefield 2042",
+                                            "23-may-2025"
+                                        ],
+                                        "detalle": "\u00a1La actualizaci\u00f3n 8.8.0 vuelve a introducir la Batalla de Nordvik en Battlefield 2042!",
+                                        "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-8-0",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/bf2042-patch-notes-featured-image.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
                                         "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.7.0 DE BATTLEFIELD 2042",
                                         "informacion": [
                                             "Battlefield 2042",
@@ -12247,16 +12257,6 @@
                                         "detalle": "La actualizaci\u00f3n 8.4 trae dos nuevos veh\u00edculos de Env\u00edos del arc\u00f3n y m\u00e1s modificaciones y cambios de equilibrio a Battlefield 2042.",
                                         "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-4-0",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/images/2025/01/bf2042-update-840-25-featuredimage.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "ACTUALIZACI\u00d3N N.\u00ba 8.3.0 DE BATTLEFIELD 2042",
-                                        "informacion": [
-                                            "Battlefield 2042",
-                                            "29-nov-2024"
-                                        ],
-                                        "detalle": "Peque\u00f1a correcci\u00f3n de errores y parche de calidad de vida despu\u00e9s de la actualizaci\u00f3n 8.2.1 para Battlefield 2042.",
-                                        "url": "https://www.ea.com/es-es/games/battlefield/battlefield-2042/news/battlefield-2042-update-notes-8-3-0",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/news/common/patch-801o.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             }
@@ -12273,6 +12273,41 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "Summer Game Fest 2025: fecha y horario de todas las conferencias del NO-E3",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/29/summer-game-fest-2025-fecha-horario-todas-conferencias-e3.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/29/683818233077c.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El nuevo juego de Elden Ring cabrea a sus jugadores. \u00bfSe aleja Nightrein de la esencia FromSoftware?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/29/nuevo-juego-elden-ring-cabrea-jugadores-aleja-nightrein-esencia-fromsoftware.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/29/YUpKq1eE0xTtmCEYP.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Anunciado el nuevo Pok\u00e9mon Presents para este mismo verano junto a Leyendas Z-A",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/anunciado-nuevo-pokemon-presents-verano-leyendas-z.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/6837199a68bd3.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Leyendas Pok\u00e9mon: Z-A confirma su fecha de lanzamiento por sorpresa",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/leyendas-pokemon-z-confirma-fecha-lanzamiento-sorpresa.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/68371120d93eb.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "FC 25 dicta sentencia: el Betis perder\u00e1 la Conference si no defiende bien a este crack del Chelsea",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/fc-25-dicta-sentencia-betis-perdera-conference-defiende-bien-crack-chelsea.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
                         {
                             "titulo": "\"S\u00ed, GTA 6 podr\u00eda 'reventar' la econom\u00eda de todo un pa\u00eds por un d\u00eda. Esto es lo que me dicen los datos\"",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/28/gta-6-podria-reventar-economia-pais-dia-esto-me-dicen-datos.html",
@@ -12587,41 +12622,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/20/682c43ced1179.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Joel confirma la mentira m\u00e1s dura para Ellie en un cap\u00edtulo muy emotivo: an\u00e1lisis del episodio 6 de The Last Of Us",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/20/joel-confirma-mentira-dura-ellie-capitulo-emotivo-analisis-episodio-6-the-last-of-us.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/19/682b6883771d8.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Desde Darth Vader hasta Luke Skywalker: Estas son todas las skins de Star Wars disponibles en Fortnite",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/19/darth-vader-luke-skywalker-son-todas-skins-star-wars-disponibles-fortnite.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/17/6828579094b7d.jpeg",
-                            "meta": "Fortnite",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "2K25 predice los equipos que estar\u00e1n en la final de la NBA y el resultado no gustar\u00e1 nada a los fans de los Kincks",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/19/2k25-predice-equipos-estaran-final-nba-resultado-gustara-fans-kincks.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/19/682b30fb098ef.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Ya est\u00e1n aqu\u00ed los TOTS de LaLiga: estos son los nominados al equipo del a\u00f1o de la competici\u00f3n espa\u00f1ola",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/19/estan-aqui-tots-laliga-son-nominados-equipo-ano-competicion-espanola.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/19/682b084dc92be.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Ni GTA, ni TLOU. El juego que de verdad necesita un remake sali\u00f3 en PS1 y es pura nostalgia noventera",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/19/juegos-bugs-bunny-perdido-clasico-condenado-prensa.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/19/YQazq1eAlszUNAcej.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12629,9 +12629,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": [
+                                "<span class=\"com-lead\">Jugar sin competir. </span>",
+                                "El boom de los videojuegos sin metas ni recompensas"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/jugar-sin-competir-el-boom-de-los-videojuegos-sin-metas-ni-recompensas-nid28052025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/una-vista-del-stardew-VA4376BQXBFXBI6JSBP4ITCSKA.jpg?auth=608d8bbb35460ba657cf5b279aa3da63c7cd4809888deb8a6c0e855f981d5ef4&width=300&height=200&quality=70&smart=true",
+                            "fecha": "28 de mayo de 2025",
+                            "url_link": "/tecnologia/jugar-sin-competir-el-boom-de-los-videojuegos-sin-metas-ni-recompensas-nid28052025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 25 de mayo",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-25-de-mayo-nid26052025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "26 de mayo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-25-de-mayo-nid26052025/"
                         },
@@ -12860,13 +12870,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "7 de abril de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-06-de-abril-nid07042025/"
-                        },
-                        {
-                            "titulo": "Lanzamientos de videojuegos en Abril de 2025 en Steam: esta es la lista",
-                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-abril-de-2025-en-steam-esta-es-la-lista-nid03042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-abril-de-2025-en-UEI2JJCBIFGEPOHFCW3ERPLGNU.jpg?auth=1096573f5873d3aa28defb71b179a66c1a022d97dfecfe1545dfec330a4e5c29&width=300&height=200&quality=70&smart=true",
-                            "fecha": "3 de abril de 2025",
-                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-abril-de-2025-en-steam-esta-es-la-lista-nid03042025/"
                         }
                     ]
                 },
@@ -12975,15 +12978,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Civitai Adopta las Criptomonedas Tras Prohibici\u00f3n Del Procesador de Tarjetas de Cr\u00e9dito por Contenido Expl\u00edcito de IA",
-                            "url": "https://decrypt.co/es/322290/civitai-adopta-las-criptomonedas-tras-prohibicion-del-procesador-de-tarjetas-de-credito-por-contenido-explicito-de-ia",
+                            "titulo": "Harvard Desarroll\u00f3 Modelo de IA Que Predice Supervivencia al C\u00e1ncer Basada en An\u00e1lisis Facial",
+                            "url": "https://decrypt.co/es/322414/harvard-desarrolla-modelo-de-ia-que-predice-supervivencia-al-cancer-basada-en-analisis-facial",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/crypto-payment-gID_7.jpg@webp",
-                            "descripcion": "Civitai, el mayor repositorio del mundo de modelos de IA generativa, introdujo pagos con criptomonedas este mes despu\u00e9s de perder su procesador de tarjetas de cr\u00e9dito debido a contenido expl\u00edcito generado por IA, ofreciendo soporte para comprar Buzz, los tokens virtuales no-Web3 de la plataforma.\nEl sitio de intercambio de modelos de IA ahora acepta USDC, USDT, Litecoin, Ethereum, TRON, Solana, Dogecoin y Shiba Inu a trav\u00e9s del procesador de pagos NowPayments. Bitcoin fue excluido debido a las a...",
-                            "fecha": "May 27, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/DALL%C2%B7E-2023-10-15-15.04.44-Illustration-of-a-neural-network-structure-with-digital-nodes-and-connections-forming-a-human-face.-The-surrounding-area-is-filled-with-lines-of-progr-gID_7.png@webp",
+                            "descripcion": "Un nuevo modelo de inteligencia artificial desarrollado en la Universidad de Harvard, llamado FaceAge, estima la edad biol\u00f3gica mediante el an\u00e1lisis de caracter\u00edsticas faciales en fotograf\u00edas, y podr\u00eda ayudar a predecir la supervivencia al c\u00e1ncer al indicar qu\u00e9 tan mayor se ve un paciente en relaci\u00f3n con su edad real.\nEntrenado con im\u00e1genes de 58.851 personas sanas, FaceAge fue posteriormente probado en pacientes con c\u00e1ncer para explorar si verse mayor que la edad cronol\u00f3gica podr\u00eda se\u00f1alar peor...",
+                            "fecha": "May 28, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Civitai Adopta las Criptomonedas Tras Prohibici\u00f3n Del Procesador de Tarjetas de Cr\u00e9dito por Contenido Expl\u00edcito de IA",
+                                    "url": "https://decrypt.co/es/322290/civitai-adopta-las-criptomonedas-tras-prohibicion-del-procesador-de-tarjetas-de-credito-por-contenido-explicito-de-ia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "May 27, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "Misma Consigna, Diferente Laura: Respuestas de IA Revelan Patrones Raciales",
                                     "url": "https://decrypt.co/es/322037/misma-consigna-diferente-laura-respuestas-de-ia-revelan-patrones-raciales",
@@ -13018,16 +13028,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 22, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Visi\u00f3n Futurista de Nvidia: 'F\u00e1bricas de IA' Con Millones de Agentes y Robots Trabajando Con Humanos",
                                     "url": "https://decrypt.co/es/321224/vision-futurista-de-nvidia-fabricas-de-ia-con-millones-de-agentes-y-robots-trabajando-con-humanos",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 21, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Durante el evento Computex 2025 celebrado en Taipei esta semana, el CEO de Nvidia, Jensen Huang, present\u00f3 una visi\u00f3n m\u00e1s agresiva del futuro de su empresa, enfatizando la necesidad de infraestructura dedicada para la inteligencia artificial y el compromiso de Nvidia de dar al mundo lo que necesita.\n\"La IA se trata ahora de infraestructura, y esta infraestructura, al igual que internet, al igual que la electricidad, necesita f\u00e1bricas\", dijo Huang a la audiencia. \"Aplicas energ\u00eda, y produce algo i..."
+                                },
                                 {
                                     "titulo": "Google Revela Lentes Android XR Con Integraci\u00f3n de IA Gemini",
                                     "url": "https://decrypt.co/es/321338/google-revela-lentes-android-xr-con-integracion-de-ia-gemini",
@@ -13059,14 +13070,6 @@
                                     "fecha": "May 20, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "ChatGPT es mucho m\u00e1s efectivo para cambiar tu opini\u00f3n que las personas reales, siempre y cuando conozca algunos datos clave sobre ti, muestra una nueva investigaci\u00f3n.\nEn un nuevo estudio publicado en Nature Human Behavior, los investigadores descubrieron que GPT-4 armado con informaci\u00f3n demogr\u00e1fica b\u00e1sica sobre los oponentes del debate era significativamente m\u00e1s persuasivo que los humanos, mucho m\u00e1s persuasivo.\nEl hallazgo llega en un momento en que comienzan a surgir preocupaciones sobre la cap..."
-                                },
-                                {
-                                    "titulo": "De Trabajo Sexual a Exploraci\u00f3n Espacial: Seis Trabajos que los Robots Est\u00e1n a Punto de Tomar",
-                                    "url": "https://decrypt.co/es/320785/de-trabajo-sexual-a-exploracion-espacial-seis-trabajos-que-los-robots-estan-a-punto-de-tomar",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 19, 2025",
-                                    "meta": "9 min lectura",
-                                    "descripcion": "Los robots ya no solo est\u00e1n ensamblando autom\u00f3viles o aspirando pisos. Ahora colocan azulejos, patrullan vecindarios y se adentran en espacios tan personales como el dormitorio, como una escena de una pel\u00edcula de ciencia ficci\u00f3n.\nA medida que la automatizaci\u00f3n se acelera, las m\u00e1quinas est\u00e1n asumiendo tareas antes reservadas para humanos, desde los sitios de construcci\u00f3n hasta las esquinas de las calles. Esta difuminaci\u00f3n de la l\u00ednea entre novedad y necesidad desaf\u00eda lo que significa trabajar, re..."
                                 }
                             ]
                         }
@@ -13086,7 +13089,7 @@
                             {
                                 "titulo": "Por qu\u00e9 algunos expertos creen que la inteligencia artificial ya cobr\u00f3 conciencia",
                                 "url": "https://www.elnacional.com/entretenimiento/por-que-algunos-expertos-creen-que-la-inteligencia-artificial-ya-cobro-conciencia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/IA6.jpg",
                                 "meta": "BBC News Mundo",
                                 "fecha": "mayo 27, 2025",
                                 "extra": "Entro a la cabina con cierta inquietud. Estoy a punto de ser sometido a una iluminaci\u00f3n estrobosc\u00f3pica mientras suena una\u2026"
@@ -13094,7 +13097,7 @@
                             {
                                 "titulo": "X recupera la normalidad tras dejar de funcionar en varios pa\u00edses",
                                 "url": "https://www.elnacional.com/tecnologia/x-recupera-la-normalidad-tras-dejar-de-funcionar-en-varios-paises/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/X.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 24, 2025",
                                 "extra": "La plataforma X, anteriormente conocida como Twitter,\u00a0ha recuperado su funcionamiento normal\u00a0este s\u00e1bado despu\u00e9s de sufrir una interrupci\u00f3n de aproximadamente\u00a090 minutos\u2026"
@@ -13102,7 +13105,7 @@
                             {
                                 "titulo": "La red social X presenta fallas en varios pa\u00edses",
                                 "url": "https://www.elnacional.com/tecnologia/la-red-social-x-presenta-fallas-en-varios-paises/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Red-social-X.jpeg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 24, 2025",
                                 "extra": "La plataforma X, anteriormente conocida como Twitter, dej\u00f3 de funcionar con normalidad alrededor de las 14:20 horas (12:20 GMT) de\u2026"
@@ -13110,7 +13113,7 @@
                             {
                                 "titulo": "La millonaria apuesta de OpenAI por Jony Ive: \u00bfun reto para Apple?",
                                 "url": "https://www.elnacional.com/tecnologia/la-millonaria-apuesta-de-openai-por-jony-ive-un-reto-para-apple/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-chatgpt.jpg",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 23, 2025",
                                 "extra": "El brit\u00e1nico Jony Ive, reconocido por ser el dise\u00f1ador de la primera versi\u00f3n del iPhone, anunci\u00f3 recientemente el siguiente paso\u2026"
@@ -13118,7 +13121,7 @@
                             {
                                 "titulo": "Empresas de tecnolog\u00eda reportan m\u00e1s de 60.000 despidos en lo que va del a\u00f1o",
                                 "url": "https://www.elnacional.com/tecnologia/empresas-de-tecnologia-reportan-mas-de-60-000-despidos-en-lo-que-va-del-ano/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-despidos.png",
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 23, 2025",
                                 "extra": "El 2025 apunta a ser otro a\u00f1o de recortes de personal significativos en la industria tecnol\u00f3gica. Si en 2023 una\u2026"
@@ -13126,7 +13129,7 @@
                             {
                                 "titulo": "Pac-Man, leyenda de los videojuegos, cumple 45 a\u00f1os",
                                 "url": "https://www.elnacional.com/tecnologia/pac-man-leyenda-de-los-videojuegos-cumple-45-anos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-23-075306.png",
                                 "meta": "GAMERS",
                                 "fecha": "mayo 23, 2025",
                                 "extra": "El 22 de mayo de 1980, hace 45 a\u00f1os, ve\u00eda la luz en Jap\u00f3n Pac-Man, ic\u00f3nico videojuego del \u201ccomecocos\u201d que,\u2026"
@@ -13142,7 +13145,7 @@
                             {
                                 "titulo": "El \u00abpadre del iPhone\u00bb Jony Ive y OpenAI apuestan por un futuro dise\u00f1ado por la IA",
                                 "url": "https://www.elnacional.com/tecnologia/openai-y-jony-ive-apuestan-por-un-futuro-disenado-por-la-ia/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-22-113437.png",
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "mayo 22, 2025",
                                 "extra": "En esta efervescente \u00abEra de la IA\u00bb, una empresa ha brillado con luz propia: OpenAI. Muchos sostienen que fue precisamente\u2026"
@@ -13158,7 +13161,7 @@
                             {
                                 "titulo": "C\u00f3mo el iGaming puede vencer las estafas de bonos sin dep\u00f3sito de casinos",
                                 "url": "https://www.elnacional.com/empresas-productos/como-el-igaming-puede-vencer-las-estafas-de-bonos-sin-deposito-de-casinos/",
-                                "imagen": null,
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Image-19-abr-2025-18_11_35.png",
                                 "meta": "Empresas y Productos",
                                 "fecha": "mayo 19, 2025",
                                 "extra": "El abuso de bonos de iGaming se produce cuando los jugadores aprovechan ofertas promocionales dirigidas a nuevos usuarios. Esto incluye\u2026"
