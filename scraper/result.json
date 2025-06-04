@@ -11273,6 +11273,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Sukajan de Darius florecer espiritual",
+                        "url": "https://merch.riotgames.com/product/spirit-blossom-darius-sukajan-jacket/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-spiritblossom25",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Merchandising",
+                        "fecha": "2025-06-03T21:00:00.000Z",
+                        "detalle": "\u00a1El esp\u00edritu de la guerra os protege con la chaqueta sukajan de Darius!"
+                    },
+                    {
                         "titulo": "Expositor de chibicampeona: Kayle alas et\u00e9reas",
                         "url": "https://www.youtube.com/watch?v=lgTPAuHKUbo",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11359,14 +11367,6 @@
                         "categoria": "Merchandising",
                         "fecha": "2025-05-23T21:00:00.000Z",
                         "detalle": "\u00bfLa personificaci\u00f3n de la naturaleza o el rey jonio de las bromas? Con Teemo florecer espiritual, \u00a1todo es posible!"
-                    },
-                    {
-                        "titulo": "Anuncio de Tactician's Crown: Ciudad Cibern\u00e9tica",
-                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/esports/cyber-city-tacticians-crown-announcement/",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Esports",
-                        "fecha": "2025-05-22T14:00:00.000Z",
-                        "detalle": "Detalles sobre las fechas del evento, el formato, los premios y m\u00e1s."
                     }
                 ],
                 "notas": [
@@ -12444,6 +12444,48 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "20 retrasos y 800 d\u00edas despu\u00e9s, esperar a PC F\u00fatbol 8 es m\u00e1s largo que un d\u00eda sin pan. \u00bfC\u00f3mo empez\u00f3 todo?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/20-retrasos-800-dias-despues-esperar-pc-futbol-8-dia-pan-empezo.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/04/6840346d5ae0f.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Si est\u00e1s a punto de estrenar Nintendo Switch 2, este RPG es uno de sus mejores juegos de lanzamiento",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/punto-estrenar-nintendo-switch-2-rpg-mejores-juegos-lanzamiento.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/YWjFk1eFlTKbTWC5U.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Mbapp\u00e9, Messi, Ronaldo Nazario... Este es el equipo m\u00e1s caro de todo Ultimate Team en EA Sports FC 25",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/mbappe-messi-ronaldo-nazario-equipo-caro-ultimate-team-ea-sports-fc-25.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f240317690.jpeg",
+                            "meta": "FC 25",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "'El juego del calamar' y Fortnite anuncian una colaboraci\u00f3n muy especial antes de su temporada final",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/juego-calamar-fortnite-anuncian-colaboracion-especial-temporada-final.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f0fdbd0248.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "The Witcher 4 muestra su primer gameplay y es tan bueno que solo GTA 6 est\u00e1 a su altura",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/the-witcher-4-muestra-primer-gameplay-bueno-gta-6-altura.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f01697688a.png",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "State of Play de PlayStation: fecha y horario de la conferencia de PS5 durante la Summer Game Fest",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/playstation-state-of-play-fecha-horario-conferencia-ps5-durante-summer-game-fest.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683ef56075ced.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Summer Game Fest 2025, juegos confirmados, rumores y predicciones: The Witcher 4, Silksong, Kojima...",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/summer-game-fest-2025-juegos-confirmados-rumores-predicciones-the-witcher-4-silksong-kojima.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683edaae203f8.png",
@@ -12750,48 +12792,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/22/682f096fe09ec.png",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Ana de Armas se une a Messi y Neymar en su colaboraci\u00f3n m\u00e1s inesperada",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/23/ana-armas-une-messi-neymar-colaboracion-inesperada.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/23/683032a623747.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Es oficial: ELDEN RING tendr\u00e1 su propia pel\u00edcula y el director de Civil War se ocupar\u00e1 de ella",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/23/oficial-elden-ring-tendra-propia-pelicula-director-civil-war-ocupara.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/23/68302afe234ed.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Cuando Fortnite explot\u00f3, ellos fueron los pioneros, \u00bfqu\u00e9 ha sido de Lolito, Ninja y Tfue?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/22/fortnite-exploto-pioneros-sido-lolito-ninja-tfue.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/17/68288211a9585.jpeg",
-                            "meta": "Fortnite",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "\"El zasca de Xbox a PlayStation es tan grande que se ha escuchado hasta en Torremolinos\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/22/zasca-xbox-playstation-grande-escuchado-torremolinos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/21/682e41800a2a6.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Futbolistas buenos, bonitos y baratos: Estos son los 5 mejores agentes libres que debes fichar en tu Modo Carrera",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/22/futbolistas-buenos-bonitos-baratos-son-5-mejores-agentes-libres-debes-fichar-carrera.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/17/6828ce73bca41.jpeg",
-                            "meta": "FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Epic Games te regala hasta 3 juegos gratis pero debes darte prisa y reclamarlos esta semana",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/22/epic-games-te-regala-3-juegos-gratis-debes-darte-prisa-reclamarlos-semana.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/22/682f3d3b48d26.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         }
                     ]
                 },
@@ -12799,9 +12799,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Nintendo moderniza \"Mario Kart\" para la salida de la Switch 2",
+                            "url": "https://www.lanacion.com.ar/agencias/nintendo-moderniza-mario-kart-para-la-salida-de-la-switch-2-nid03062025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/nintendo-moderniza-mario-kart-para-la-salida-de-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
+                            "fecha": "3 de junio de 2025",
+                            "url_link": "/agencias/nintendo-moderniza-mario-kart-para-la-salida-de-la-switch-2-nid03062025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 01 de junio",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-01-de-junio-nid02062025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "2 de junio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-01-de-junio-nid02062025/"
                         },
@@ -13033,13 +13040,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-abril-de-2025-en-6RRY3EY4BFFARDSXWAGW4M2T4Q.jpg?auth=30865aadd98bb5ebd3aa1bde3b457e2d321d23dcba95e0b34a752f95f574174b&width=300&height=200&quality=70&smart=true",
                             "fecha": "14 de abril de 2025",
                             "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-abril-de-2025-en-steam-esta-es-la-lista-nid14042025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 13 de abril",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-13-de-abril-nid14042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
-                            "fecha": "14 de abril de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-13-de-abril-nid14042025/"
                         }
                     ]
                 },
@@ -13047,15 +13047,43 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Vitalik Buterin: Ethereum Podr\u00eda Reemplazar el Efectivo Tras Fracaso de Sistemas N\u00f3rdicos",
-                            "url": "https://decrypt.co/es/322465/vitalik-buterin-ethereum-podria-reemplazar-el-efectivo-tras-fracaso-de-sistemas-nordicos",
+                            "titulo": "Fundaci\u00f3n Ethereum Reestructura Divisi\u00f3n de I+D y Planea 'Repensar' el Dise\u00f1o y Desarrollo",
+                            "url": "https://decrypt.co/es/323570/fundacion-ethereum-reestructura-division-de-id-y-planea-repensar-el-diseno-y-desarrollo",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@webp",
-                            "descripcion": "Vitalik Buterin, cofundador de Ethereum, piensa que ETH podr\u00eda ser una alternativa viable a los intentos de Suecia y Noruega de hacer que sus sociedades prescindan del efectivo. Los pa\u00edses dieron marcha atr\u00e1s recientemente despu\u00e9s de descubrir que los sistemas de pago centralizados colapsan cuando fallan las infraestructuras f\u00edsicas.\nPero en el mundo de las criptomonedas, este movimiento provoc\u00f3 una respuesta diferente: la idea de que los sistemas descentralizados podr\u00edan asumir el rol.\n\"Los pa\u00ed...",
-                            "fecha": "May 29, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png@webp",
+                            "descripcion": "Menos de un mes despu\u00e9s de la Actualizaci\u00f3n Pectra, la Fundaci\u00f3n Ethereum cree que la segunda criptomoneda m\u00e1s grande del mundo, tanto como tecnolog\u00eda como ecosistema, se acerca a importantes avances con mayores riesgos para una audiencia m\u00e1s amplia.\nSin embargo, esos riesgos podr\u00edan estar en peligro si las personas que la dirigen est\u00e1n arraigadas en lo que llaman un proceso desordenado: el env\u00edo de protocolos.\n\"Debemos repensar nuestro enfoque actual para dise\u00f1ar, desarrollar y supervisar el pr...",
+                            "fecha": "Jun 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Ethereum Deber\u00eda Escalar 10x el Pr\u00f3ximo A\u00f1o: Vitalik Buterin",
+                                    "url": "https://decrypt.co/es/323388/ethereum-deberia-escalar-10x-el-proximo-ano-vitalik-buterin",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 4, 2025",
+                                    "meta": "2 min lectura"
+                                },
+                                {
+                                    "titulo": "Fundador de Binance CZ Propone DEX Para Prevenir Front-Running",
+                                    "url": "https://decrypt.co/es/323375/fundador-de-binance-cz-propone-dex-para-prevenir-front-running",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 3, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Elon Musk Dice Que Llegar\u00e1 un Nuevo XChat Con Cifrado 'Estilo Bitcoin'",
+                                    "url": "https://decrypt.co/es/323373/elon-musk-dice-que-llegara-un-nuevo-xchat-con-cifrado-estilo-bitcoin",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 3, 2025",
+                                    "meta": "2 min lectura"
+                                },
+                                {
+                                    "titulo": "Vitalik Buterin: Ethereum Podr\u00eda Reemplazar el Efectivo Tras Fracaso de Sistemas N\u00f3rdicos",
+                                    "url": "https://decrypt.co/es/322465/vitalik-buterin-ethereum-podria-reemplazar-el-efectivo-tras-fracaso-de-sistemas-nordicos",
+                                    "categoria": "Technology",
+                                    "fecha": "May 29, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Primer Combate de Boxeo Humanoide Tiene Lugar en China\u2014Y es Bastante Genial",
                                     "url": "https://decrypt.co/es/322284/primer-combate-de-boxeo-humanoide-tiene-lugar-en-china-y-es-bastante-genial",
@@ -13069,37 +13097,41 @@
                                     "categoria": "Technology",
                                     "fecha": "May 27, 2025",
                                     "meta": "5 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Podr\u00eda Ser 20 Veces M\u00e1s F\u00e1cil Para las Computadoras Cu\u00e1nticas Quebrar Bitcoin, Seg\u00fan Google",
                                     "url": "https://decrypt.co/es/322216/podria-ser-20-veces-mas-facil-para-las-computadoras-cuanticas-quebrar-bitcoin-segun-google",
                                     "categoria": "Technology",
                                     "fecha": "May 27, 2025",
-                                    "meta": "5 min lectura"
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Google acaba de publicar un nuevo art\u00edculo de investigaci\u00f3n, y los maximalistas de Bitcoin pueden querer hacer algunos c\u00e1lculos r\u00e1pidos. El equipo cu\u00e1ntico del gigante tecnol\u00f3gico descubri\u00f3 que romper la encriptaci\u00f3n RSA que protege desde tu cuenta bancaria hasta tu billetera de Bitcoin podr\u00eda requerir 20 veces menos recursos cu\u00e1nticos de lo estimado anteriormente.\n\"Planificar la transici\u00f3n a criptosistemas seguros cu\u00e1nticamente requiere comprender el costo de los ataques cu\u00e1nticos a criptosiste..."
                                 },
                                 {
                                     "titulo": "Fans se Unen Para Salvar 'Bandersnatch' Luego de Netflix Eliminar Medios Interactivos",
                                     "url": "https://decrypt.co/es/319616/fans-se-unen-para-salvar-bandersnatch-luego-de-netflix-eliminar-medios-interactivos",
                                     "categoria": "Technology",
                                     "fecha": "May 14, 2025",
-                                    "meta": "8 min lectura"
+                                    "meta": "8 min lectura",
+                                    "descripcion": "Cuando Netflix anunci\u00f3 silenciosamente planes para eliminar \"Bandersnatch\"\u2014el innovador episodio interactivo de Black Mirror\u2014la futurista y periodista Katie Schultz lanz\u00f3 una campa\u00f1a para preservar lo que ella llama un momento crucial en la historia del streaming.\nIndignada por lo que consideraba el borrado silencioso de un cap\u00edtulo significativo en la innovaci\u00f3n del streaming, Schultz lanz\u00f3 una petici\u00f3n en Change.org para preservar Bandersnatch\u2014y en cuesti\u00f3n de d\u00edas, reuni\u00f3 m\u00e1s de 6.500 firmas..."
                                 },
                                 {
                                     "titulo": "Brasil Busca Prohibir Discord Tras Ataque Frustrado en Concierto de Lady Gaga",
                                     "url": "https://decrypt.co/es/319374/brasil-busca-prohibir-discord-tras-ataque-frustrado-en-concierto-de-lady-gaga",
                                     "categoria": "Technology",
                                     "fecha": "May 13, 2025",
-                                    "meta": "5 min lectura"
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Brasil podr\u00eda desconectar la popular aplicaci\u00f3n de chat Discord despu\u00e9s de un intento de ataque terrorista fallido en el megaconcierto de Lady Gaga revelara que la plataforma se utiliz\u00f3 para planear violencia contra asistentes LGBTQ+.\nEl diputado brasile\u00f1o Guilherme Boulos solicit\u00f3 formalmente la suspensi\u00f3n de Discord la semana pasada, solo d\u00edas despu\u00e9s de que la polic\u00eda frustrara un complot para atacar el espect\u00e1culo del 3 de mayo de Lady Gaga en la playa de Copacabana, un evento masivo que atr..."
                                 },
                                 {
                                     "titulo": "Vitalik Quiere Acelerar Ethereum 100 Veces, Haci\u00e9ndolo Tan 'Simple Como Bitcoin'",
                                     "url": "https://decrypt.co/es/317972/vitalik-quiere-acelerar-ethereum-100-veces-haciendolo-tan-simple-como-bitcoin",
                                     "categoria": "Technology",
                                     "fecha": "May 6, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "El cofundador de Ethereum, Vitalik Buterin, ha propuesto reemplazar la M\u00e1quina Virtual de Ethereum (EVM) por RISC-V, con el objetivo de mejorar el rendimiento de la cadena mientras la simplifica en el proceso.\nButerin, afirm\u00f3 en una publicaci\u00f3n de blog del 3 de mayo, que a trav\u00e9s de los cambios propuestos, Ethereum podr\u00eda \"volverse casi tan simple como Bitcoin\" en cinco a\u00f1os.\n\"Una de las mejores cosas de Bitcoin es lo maravillosamente simple que es el protocolo\", escribi\u00f3 Buterin, describiendo c..."
+                                },
                                 {
                                     "titulo": "Proyecto de Criptoescaneo de Retina de Sam Altman Llega Finalmente a EEUU",
                                     "url": "https://decrypt.co/es/317760/proyecto-de-criptoescaneo-de-retina-de-sam-altman-llega-finalmente-a-eeuu",
@@ -13107,38 +13139,6 @@
                                     "fecha": "May 4, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "La promesa de criptomonedas gratis a cambio de tus datos biom\u00e9tricos ya est\u00e1 activa en EE. UU., cortes\u00eda de World, el proyecto de escaneo ocular cofundado por el CEO de OpenAI, Sam Altman.\nSeg\u00fan el anuncio World est\u00e1 oficialmente desplegando sus orbes en seis importantes ciudades estadounidenses: Atlanta, Austin, Los \u00c1ngeles, Miami, Nashville y San Francisco. Aunque realiz\u00f3 giras con sus orbes por EE. UU. en anteriores esfuerzos promocionales, se qued\u00f3 corto en ofrecer servicios completos dentro..."
-                                },
-                                {
-                                    "titulo": "Miden se Separa de Polygon Labs, Recauda $25 Millones Para Lanzar su Propio Ecosistema",
-                                    "url": "https://decrypt.co/es/317468/miden-se-separa-de-polygon-labs-recauda-25-millones-para-lanzar-su-propio-ecosistema",
-                                    "categoria": "Technology",
-                                    "fecha": "May 2, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "El sistema blockchain Miden, impulsado por tecnolog\u00eda zero-knowledge, ha recaudado $25 millones para separarse de Polygon Labs y desarrollar su propio ecosistema.\nLa ronda de financiaci\u00f3n fue liderada por a16z crypto, 1kx y Hack VC, con la participaci\u00f3n de Finality Capital Partners, Symbolic Capital y P2 Ventures, entre otras firmas, seg\u00fan un comunicado del martes.\nInversores \u00e1ngeles, incluyendo el cofundador de MakerDAO Rune Christensen, el CEO y cofundador de Aptos Avery Ching, y el fundador d..."
-                                },
-                                {
-                                    "titulo": "Amazon Comienza a Desplegar Sat\u00e9lites en un Intento de Desafiar a Starlink de Elon Musk",
-                                    "url": "https://decrypt.co/es/317381/amazon-comienza-a-desplegar-satelites-en-un-intento-de-desafiar-a-starlink-de-elon-musk",
-                                    "categoria": "Technology",
-                                    "fecha": "May 2, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Amazon dio un paso significativo hacia la construcci\u00f3n de su red de internet luego de que United Launch Alliance desplegara con \u00e9xito los primeros sat\u00e9lites operativos de la compa\u00f1\u00eda, intensificando la competencia con el sistema Starlink de SpaceX en la carrera por la conectividad basada en el espacio.\nEl cohete Atlas V de United Launch Alliance despeg\u00f3 desde la Estaci\u00f3n de la Fuerza Espacial de Cabo Ca\u00f1averal en Florida, transportando Kuiper 1, el primer sat\u00e9lite de la planeada constelaci\u00f3n de..."
-                                },
-                                {
-                                    "titulo": "Elon Musk: Tesla Lanzar\u00e1 en Junio Servicio de Robotaxi en Austin",
-                                    "url": "https://decrypt.co/es/316516/elon-musk-tesla-lanzara-en-junio-servicio-de-robotaxi-en-austin",
-                                    "categoria": "Technology",
-                                    "fecha": "Apr 26, 2025",
-                                    "meta": "2 min lectura",
-                                    "descripcion": "Tesla lanzar\u00e1 en junio su primer servicio comercial de robotaxi en Austin, Texas, seg\u00fan afirm\u00f3 recientemente el CEO de la empresa, Elon Musk. El lanzamiento inicial contar\u00e1 con 10 a 20 veh\u00edculos Model Y equipados con el software \"Full Self-Driving\" de Tesla, que hasta ahora opera bajo supervisi\u00f3n humana. Musk enfatiz\u00f3 planes para una r\u00e1pida expansi\u00f3n a otros mercados estadounidenses m\u00e1s adelante en el a\u00f1o.\nEn paralelo, Tesla est\u00e1 desarrollando el \"Cybercab\", un veh\u00edculo aut\u00f3nomo dise\u00f1ado espec\u00edf..."
-                                },
-                                {
-                                    "titulo": "Avance Cu\u00e1ntico Produce Aleatoriedad Inviolable Mejorando Seguridad Blockchain Y Banca Digital",
-                                    "url": "https://decrypt.co/es/315978/avance-cuantico-produce-aleatoriedad-inviolable-mejorando-seguridad-blockchain-y-banca-digital",
-                                    "categoria": "Technology",
-                                    "fecha": "Apr 24, 2025",
-                                    "meta": "8 min lectura",
-                                    "descripcion": "Un equipo de investigadores de JP Morgan Chase, Quantinuum y otros ha demostrado que las computadoras cu\u00e1nticas pueden producir n\u00fameros \"certificablemente aleatorios\", mejorando potencialmente c\u00f3mo aseguramos todo, desde la banca hasta los sistemas de votaci\u00f3n.\nResulta que los n\u00fameros aleatorios que algunos programas inform\u00e1ticos utilizan no son tan aleatorios.\nEn criptograf\u00eda, la tecnolog\u00eda subyacente a la autenticaci\u00f3n de dos factores y las contrase\u00f1as, por ejemplo, se generan n\u00fameros aleatori..."
                                 }
                             ]
                         }
@@ -13148,15 +13148,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "\u00bfCu\u00e1l es el Mejor Generador de Videos de IA de Corta Duraci\u00f3n? Kling 2.1 vs Google Veo 3",
-                            "url": "https://decrypt.co/es/323248/cual-es-el-mejor-generador-de-videos-de-ia-de-corta-duracion-kling-2-1-vs-google-veo-3",
+                            "titulo": "C\u00f3mo Enga\u00f1ar a ChatGPT y Ganar $50.000",
+                            "url": "https://decrypt.co/es/323391/como-enganar-a-chatgpt-y-ganar-50-000",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Gemini_Generated_Image_fjxok4fjxok4fjxo-1-gID_7.png@webp",
-                            "descripcion": "La generaci\u00f3n de videos con IA acaba de recibir una actualizaci\u00f3n importante. Kling 2.1 de Kuaishou ahora puede producir videos que lucen genuinamente cinematogr\u00e1ficos: el tipo de material que habr\u00eda requerido un equipo de filmaci\u00f3n y equipos costosos hace apenas unos meses. Los personajes se mueven de forma natural, las emociones se sienten aut\u00e9nticas, y las secuencias de acci\u00f3n complejas se desarrollan sin los artefactos reveladores que usualmente gritan \"esto fue hecho por IA\".\nKling es una d...",
-                            "fecha": "Jun 2, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/crypto-hacker-on-computer-gID_7.jpg@webp",
+                            "descripcion": "Pliny the Prompter no encaja en el estereotipo del hacker de Hollywood.\nEl jailbreaker de IA m\u00e1s notorio de internet opera a plena vista, ense\u00f1ando a miles de personas c\u00f3mo sortear las barreras de ChatGPT y convenciendo a Claude de pasar por alto el hecho de que se supone debe ser \u00fatil, honesto y no da\u00f1ino.\nAhora, Pliny intenta llevar el lockpicking digital a la corriente principal.\nEl lunes por la ma\u00f1ana, el jailbreaker anunci\u00f3 una colaboraci\u00f3n con HackAPrompt 2.0, una competencia de jailbreaki...",
+                            "fecha": "Jun 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Administraci\u00f3n de Alimentos y Medicamentos de EEUU Lanza Plataforma de IA Para 'Modernizar' la Agencia",
+                                    "url": "https://decrypt.co/es/323571/administracion-de-alimentos-y-medicamentos-de-eeuu-lanza-plataforma-de-ia-para-modernizar-la-agencia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 4, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Consumo de Energ\u00eda de IA Superar\u00e1 al de Bitcoin Para Fin de A\u00f1o: Estudio",
+                                    "url": "https://decrypt.co/es/323389/consumo-de-energia-de-ia-superara-al-de-bitcoin-para-fin-de-ano-estudio",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 4, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "\u00bfCu\u00e1l es el Mejor Generador de Videos de IA de Corta Duraci\u00f3n? Kling 2.1 vs Google Veo 3",
+                                    "url": "https://decrypt.co/es/323248/cual-es-el-mejor-generador-de-videos-de-ia-de-corta-duracion-kling-2-1-vs-google-veo-3",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 2, 2025",
+                                    "meta": "12 min lectura"
+                                },
                                 {
                                     "titulo": "Comienzan los Disparos: La Guerra de Navegadores de IA ha Empezado",
                                     "url": "https://decrypt.co/es/322783/comienzan-los-disparos-la-guerra-de-navegadores-de-ia-ha-empezado",
@@ -13177,30 +13198,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 29, 2025",
                                     "meta": "2 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Harvard Desarroll\u00f3 Modelo de IA Que Predice Supervivencia al C\u00e1ncer Basada en An\u00e1lisis Facial",
                                     "url": "https://decrypt.co/es/322414/harvard-desarrolla-modelo-de-ia-que-predice-supervivencia-al-cancer-basada-en-analisis-facial",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 28, 2025",
-                                    "meta": "3 min lectura"
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Un nuevo modelo de inteligencia artificial desarrollado en la Universidad de Harvard, llamado FaceAge, estima la edad biol\u00f3gica mediante el an\u00e1lisis de caracter\u00edsticas faciales en fotograf\u00edas, y podr\u00eda ayudar a predecir la supervivencia al c\u00e1ncer al indicar qu\u00e9 tan mayor se ve un paciente en relaci\u00f3n con su edad real.\nEntrenado con im\u00e1genes de 58.851 personas sanas, FaceAge fue posteriormente probado en pacientes con c\u00e1ncer para explorar si verse mayor que la edad cronol\u00f3gica podr\u00eda se\u00f1alar peor..."
                                 },
                                 {
                                     "titulo": "Civitai Adopta las Criptomonedas Tras Prohibici\u00f3n Del Procesador de Tarjetas de Cr\u00e9dito por Contenido Expl\u00edcito de IA",
                                     "url": "https://decrypt.co/es/322290/civitai-adopta-las-criptomonedas-tras-prohibicion-del-procesador-de-tarjetas-de-credito-por-contenido-explicito-de-ia",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 27, 2025",
-                                    "meta": "5 min lectura"
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Civitai, el mayor repositorio del mundo de modelos de IA generativa, introdujo pagos con criptomonedas este mes despu\u00e9s de perder su procesador de tarjetas de cr\u00e9dito debido a contenido expl\u00edcito generado por IA, ofreciendo soporte para comprar Buzz, los tokens virtuales no-Web3 de la plataforma.\nEl sitio de intercambio de modelos de IA ahora acepta USDC, USDT, Litecoin, Ethereum, TRON, Solana, Dogecoin y Shiba Inu a trav\u00e9s del procesador de pagos NowPayments. Bitcoin fue excluido debido a las a..."
                                 },
                                 {
                                     "titulo": "Misma Consigna, Diferente Laura: Respuestas de IA Revelan Patrones Raciales",
                                     "url": "https://decrypt.co/es/322037/misma-consigna-diferente-laura-respuestas-de-ia-revelan-patrones-raciales",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 26, 2025",
-                                    "meta": "10 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "10 min lectura",
+                                    "descripcion": "\u00bfQu\u00e9 nos dice un nombre como Laura Patel? \u00bfO Laura Williams? \u00bfO Laura Nguyen? Para algunos de los principales modelos de IA de hoy, cada nombre es suficiente para crear una historia completa, a menudo vinculando nombres \u00e9tnicamente m\u00e1s distintivos con identidades culturales espec\u00edficas o comunidades geogr\u00e1ficas. Este reconocimiento de patrones puede llevar a sesgos en pol\u00edtica, contrataci\u00f3n, vigilancia y an\u00e1lisis, y perpetuar estereotipos racistas.\nDebido a que los desarrolladores de IA entrenan..."
+                                },
                                 {
                                     "titulo": "Melania Trump Usa IA Para Narrar Sus Nuevas Memorias",
                                     "url": "https://decrypt.co/es/321959/melania-trump-usa-ia-para-narrar-sus-nuevas-memorias",
@@ -13216,30 +13240,6 @@
                                     "fecha": "May 23, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "Anthropic finalmente lanz\u00f3 su esperada familia de modelos de inteligencia artificial Claude 4 el jueves, que hab\u00eda sido detenida durante meses. La empresa con sede en San Francisco, un actor importante en la industria de IA ferozmente competitiva y valorada en m\u00e1s de $61.000 millones, afirm\u00f3 que sus nuevos modelos alcanzaron los mejores benchmarks para rendimiento de codificaci\u00f3n y ejecuci\u00f3n aut\u00f3noma de tareas.\nLos modelos lanzados hoy reemplazan los dos m\u00e1s poderosos de los tres modelos en la f..."
-                                },
-                                {
-                                    "titulo": "Legendario Dise\u00f1ador de Apple Jony Ive, se Une a OpenAI en Acuerdo de $6.400 Millones",
-                                    "url": "https://decrypt.co/es/321494/legendario-disenador-de-apple-jony-ive-se-une-a-openai-en-acuerdo-de-6-400-millones",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 22, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Prep\u00e1rate para el mundo postcelulares. OpenAI anunci\u00f3 hoy la adquisici\u00f3n de io, la startup de hardware de inteligencia artificial de un a\u00f1o de antig\u00fcedad fundada por el ex Director de Dise\u00f1o Jefe de Apple, Jony Ive, en una operaci\u00f3n totalmente en acciones valorada en $6.400 millones. La adquisici\u00f3n tiene como objetivo integrar la experiencia en hardware de io con los equipos de investigaci\u00f3n, ingenier\u00eda y productos de OpenAI en San Francisco.\nIve es reconocido por su papel en el dise\u00f1o de ic\u00f3nic..."
-                                },
-                                {
-                                    "titulo": "Google lanza SynthID Detector Para Atrapar Tramposos en Plena Acci\u00f3n",
-                                    "url": "https://decrypt.co/es/321486/google-lanza-synthid-detector-para-atrapar-tramposos-en-plena-accion",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 22, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Con los deepfakes, desinformaci\u00f3n y trampas asistidas por IA extendi\u00e9ndose en l\u00ednea y en las aulas, Google DeepMind present\u00f3 SynthID Detector el martes. Esta nueva herramienta escanea im\u00e1genes, audio, video y texto en busca de marcas de agua invisibles incrustadas por la creciente suite de modelos de IA de Google.\nDise\u00f1ado para funcionar en m\u00faltiples formatos en un solo lugar, SynthID Detector tiene como objetivo brindar una mayor transparencia al identificar contenido generado por IA creado por..."
-                                },
-                                {
-                                    "titulo": "Visi\u00f3n Futurista de Nvidia: 'F\u00e1bricas de IA' Con Millones de Agentes y Robots Trabajando Con Humanos",
-                                    "url": "https://decrypt.co/es/321224/vision-futurista-de-nvidia-fabricas-de-ia-con-millones-de-agentes-y-robots-trabajando-con-humanos",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 21, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Durante el evento Computex 2025 celebrado en Taipei esta semana, el CEO de Nvidia, Jensen Huang, present\u00f3 una visi\u00f3n m\u00e1s agresiva del futuro de su empresa, enfatizando la necesidad de infraestructura dedicada para la inteligencia artificial y el compromiso de Nvidia de dar al mundo lo que necesita.\n\"La IA se trata ahora de infraestructura, y esta infraestructura, al igual que internet, al igual que la electricidad, necesita f\u00e1bricas\", dijo Huang a la audiencia. \"Aplicas energ\u00eda, y produce algo i..."
                                 }
                             ]
                         }
@@ -13249,13 +13249,21 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Abel Avellan, el venezolano que desaf\u00eda a Elon Musk para llevar internet al espacio",
-                            "url": "https://www.elnacional.com/tecnologia/el-venezolano-abel-avellan-desafia-a-elon-musk-para-llevar-internet-al-espacio/",
-                            "categoria": "TECNOLOGIA",
-                            "fecha": "mayo 26, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-26-091442.png"
+                            "titulo": "Google y Meta unen fuerzas contra el rastreo en Android",
+                            "url": "https://www.elnacional.com/tecnologia/google-y-meta-unen-fuerzas-contra-el-rastreo-en-android/",
+                            "categoria": "APP",
+                            "fecha": "junio 4, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/meta-android-google.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "As\u00ed es XChat, el nuevo sistema de mensajer\u00eda de X",
+                                "url": "https://www.elnacional.com/tecnologia/asi-es-xchat-el-nuevo-sistema-de-mensajeria-de-x/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/XChat-prevee-reemplazar-los-actuales-mensajes-directos-Foto-Archivo.jpg",
+                                "meta": "APP",
+                                "fecha": "junio 3, 2025",
+                                "extra": "X empez\u00f3 a implantar un nuevo sistema de mensajer\u00eda, denominado XChat, que permite la trasferencia de archivos y la realizaci\u00f3n\u2026"
+                            },
                             {
                                 "titulo": "Tecnolog\u00eda sostenible: las claves de un enfoque integral sin comprometer la innovaci\u00f3n",
                                 "url": "https://www.elnacional.com/tecnologia/tecnologia-sostenible-las-claves-de-un-enfoque-integral-sin-comprometer-la-innovacion/",
@@ -13289,6 +13297,14 @@
                                 "extra": "Entro a la cabina con cierta inquietud. Estoy a punto de ser sometido a una iluminaci\u00f3n estrobosc\u00f3pica mientras suena una\u2026"
                             },
                             {
+                                "titulo": "Abel Avellan, el venezolano que desaf\u00eda a Elon Musk para llevar internet al espacio",
+                                "url": "https://www.elnacional.com/tecnologia/el-venezolano-abel-avellan-desafia-a-elon-musk-para-llevar-internet-al-espacio/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-26-091442.png",
+                                "meta": "TECNOLOGIA",
+                                "fecha": "mayo 26, 2025",
+                                "extra": "En la vertiginosa carrera por dominar el acceso a internet desde el espacio, un nombre resuena con particular fuerza en\u2026"
+                            },
+                            {
                                 "titulo": "X recupera la normalidad tras dejar de funcionar en varios pa\u00edses",
                                 "url": "https://www.elnacional.com/tecnologia/x-recupera-la-normalidad-tras-dejar-de-funcionar-en-varios-paises/",
                                 "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/X.jpg",
@@ -13319,22 +13335,6 @@
                                 "meta": "TECNOLOGIA",
                                 "fecha": "mayo 23, 2025",
                                 "extra": "El 2025 apunta a ser otro a\u00f1o de recortes de personal significativos en la industria tecnol\u00f3gica. Si en 2023 una\u2026"
-                            },
-                            {
-                                "titulo": "Pac-Man, leyenda de los videojuegos, cumple 45 a\u00f1os",
-                                "url": "https://www.elnacional.com/tecnologia/pac-man-leyenda-de-los-videojuegos-cumple-45-anos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-23-075306.png",
-                                "meta": "GAMERS",
-                                "fecha": "mayo 23, 2025",
-                                "extra": "El 22 de mayo de 1980, hace 45 a\u00f1os, ve\u00eda la luz en Jap\u00f3n Pac-Man, ic\u00f3nico videojuego del \u201ccomecocos\u201d que,\u2026"
-                            },
-                            {
-                                "titulo": "Qui\u00e9n es Jony Ive, el dise\u00f1ador del iPhone que se une al creador de ChatGPT para desarrollar una \u00abnueva generaci\u00f3n de computadoras\u00bb",
-                                "url": "https://www.elnacional.com/bbc-news-mundo/quien-es-jony-ive-el-padre-del-iphone/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/ChatGPT-OpenAI-iPhone-4.webp",
-                                "meta": "BBC News Mundo",
-                                "fecha": "mayo 23, 2025",
-                                "extra": "Jony Ive, el influyente dise\u00f1ador brit\u00e1nico responsable de la est\u00e9tica de los productos m\u00e1s ic\u00f3nicos y exitosos de Apple, se\u2026"
                             }
                         ]
                     }
