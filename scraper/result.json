@@ -11273,6 +11273,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Ganadores - Concurso del Florecer espiritual",
+                        "url": "/es-es/news/community/winners-spirit-blossom-fan-art-contest",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Comunidad",
+                        "fecha": "2025-06-04T15:00:00.000Z",
+                        "detalle": "\u00a1Enhorabuena a todos los participantes!"
+                    },
+                    {
                         "titulo": "Sukajan de Darius florecer espiritual",
                         "url": "https://merch.riotgames.com/product/spirit-blossom-darius-sukajan-jacket/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-spiritblossom25",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11359,14 +11367,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-05-26T14:00:00.000Z",
                         "detalle": "Briar cosplay de Tiburcio chibi es, sin lugar a dudas, la mayor fan de Tiburcio."
-                    },
-                    {
-                        "titulo": "Figura de Teemo florecer espiritual",
-                        "url": "https://merch.riotgames.com/product/spirit-blossom-teemo-figure/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-spiritblossom25",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Merchandising",
-                        "fecha": "2025-05-23T21:00:00.000Z",
-                        "detalle": "\u00bfLa personificaci\u00f3n de la naturaleza o el rey jonio de las bromas? Con Teemo florecer espiritual, \u00a1todo es posible!"
                     }
                 ],
                 "notas": [
@@ -11475,6 +11475,13 @@
             "nombre": "easport",
             "info": {
                 "noticias": [
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/gavin-cooper-f1/f1-gavin-cooper-article-1.png.adapt.crop16x9.431p.png",
+                        "titulo": "Preguntas y respuestas sobre F1 25: Gavin Cooper, director creativo, habla \u2026",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "30-may-2025",
+                        "descripcion": "El director creativo de F1, Gavin Cooper, habla con \u00abNoticias de EA\u00bb sobre F1 25, los v\u00ednculos con la superproducci\u00f3n cinematogr\u00e1fica, la tecnolog\u00eda de vanguardia y la creaci\u00f3n de su mayor juego hasta la fecha."
+                    },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/intro-to-ea-javelin-anticheat-article/intro-to-ea-javelin-article-thumbnail.png.adapt.crop16x9.431p.png",
                         "titulo": "Presentamos EA Javelin Anticheat",
@@ -11593,13 +11600,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "29-oct-2024",
                         "descripcion": "Jinsong Li, jefe de ingenier\u00eda de EA SPORTS FC, responde 5 preguntas sobre el desarrollo de EA SPORTS FC 25 y sobre las carreras profesionales en el sector tecnol\u00f3gico."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/jon-armstrong-wrc-article-thumbnail.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Piloto del World Rally Championship, campe\u00f3n de eSports y empleado de EA",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "03-oct-2024",
-                        "descripcion": "En Codemasters, el piloto de WRC y campe\u00f3n de eSports, Jon Armstrong, est\u00e1 ayudando a hacer que WRC sea el mejor juego posible."
                     }
                 ],
                 "novedades": [
@@ -11931,6 +11931,16 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "Preguntas y respuestas sobre F1 25: Gavin Cooper, director creativo, habla \u2026",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "30-may-2025"
+                                        ],
+                                        "detalle": "El director creativo de F1, Gavin Cooper, habla con \u00abNoticias de EA\u00bb sobre F1 25, los v\u00ednculos con la superproducci\u00f3n cinematogr\u00e1fica, la tecnolog\u00eda de vanguardia y la creaci\u00f3n de su mayor juego hasta la fecha.",
+                                        "url": "https://www.ea.com/es-es/news/f1-25-qa",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/gavin-cooper-f1/f1-gavin-cooper-article-1.png.adapt.crop16x9.431p.png"
+                                    },
+                                    {
                                         "titulo": "Luchando por la equidad: informe de progreso antitrampas",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -11979,16 +11989,6 @@
                                         "detalle": "En EA, los nuevos avances e innovaciones tecnol\u00f3gicas mejoran el desarrollo y la experiencia de juego para millones de personas y fans.",
                                         "url": "https://www.ea.com/es-es/news/ea-gdc-2025",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-gdc-2025-article-thumbnail.png.adapt.crop16x9.431p.png"
-                                    },
-                                    {
-                                        "titulo": "Split Fiction: entrevista con el director Josef Fares",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "07-mar-2025"
-                                        ],
-                                        "detalle": "El director de Hazelight, Josef Fares, nos habla sobre la creaci\u00f3n de momentos in\u00e9ditos en los videojuegos, despu\u00e9s de un gran \u00e9xito y m\u00e1s.",
-                                        "url": "https://www.ea.com/es-es/news/split-fiction-director-qa",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/split-fiction-director-qa-article-thumbnail.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12444,6 +12444,62 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "PC F\u00fatbol 8 ni est\u00e1, ni se le espera, pero ya da igual, y es gracias a SEGA y el Manchester City",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/pc-futbol-8-le-espera-da-igual-gracias-sega-manchester-city.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/6841794bd7391.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Lo est\u00e1 reventando en Steam y todav\u00eda no ha salido, REMATCH quiere convertirse en el rey de los videojuegos de f\u00fatbol",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/di-adios-fc-25-juego-futbol-mejores-numeros-ea-sports-salido-truco-rematch.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/6841666979d4d.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "2K25 'decide' el resultado de las finales de la NBA y completa una temporada hist\u00f3rica de esta estrella",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/2k25-decide-resultado-finales-nba-completa-temporada-historica-estrella.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f41daa727f.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Es uno de los mejores RPG t\u00e1cticos de la historia y ha vuelto por sorpresa. PlayStation confirma el regreso de Final Fantasy Tactics",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/mejores-rpg-tacticos-historia-vuelto-sorpresa-playstation-confirma-regreso-final-fantasy-tactics.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/YXK281eGCv7JN5_U6.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Desde Rusia con amor: PlayStation seduce a los fans de James Bond con su nuevo juego, 007 First Light",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/rusia-amor-playstation-seduce-fans-james-bond-nuevo-juego-07-first-light.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/YXJs01eGCaRcvkrif.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Si eres fan de Marvel, esto te interesa: PlayStation ha anunciado Tokon Fighting Souls, no es exclusivo y luce incre\u00edble",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/fan-marvel-esto-te-interesa-playstation-anunciado-tokon-fighting-souls-exclusivo-luce-increible.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "State of Play de PS5: reacci\u00f3n y resumen de todos los anuncios y trailers del evento de PlayStation",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/6840a3f3f49425d14d64ec4c-directo.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/17490748415782.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Pereira confiesa el dineral que le ha pagado Ibai por estar en la Velada del A\u00f1o 5 y la cifra te sorprender\u00e1",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/pereira-confiesa-dineral-le-pagado-ibai-velada-ano-5-cifra-te-sorprendera.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/04/YXAeM1eG5rNlz6UDG.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
                             "titulo": "20 retrasos y 800 d\u00edas despu\u00e9s, esperar a PC F\u00fatbol 8 es m\u00e1s largo que un d\u00eda sin pan. \u00bfC\u00f3mo empez\u00f3 todo?",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/20-retrasos-800-dias-despues-esperar-pc-futbol-8-dia-pan-empezo.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/04/6840346d5ae0f.jpeg",
@@ -12479,7 +12535,7 @@
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "State of Play de PlayStation: fecha y horario de la conferencia de PS5 durante la Summer Game Fest",
+                            "titulo": "State of play: fecha, horario y d\u00f3nde ver la conferencia de PS5 en directo hoy",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/playstation-state-of-play-fecha-horario-conferencia-ps5-durante-summer-game-fest.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683ef56075ced.jpeg",
                             "meta": "Juegos",
@@ -12736,62 +12792,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/6831bf6bbc2dc.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El juego con m\u00e1s retrasos de la historia puede ser publicado hoy: Fecha y hora del estreno de PC F\u00fatbol 8... o no",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/juego-retrasos-historia-publicado-hoy-fecha-hora-estreno-pc-futbol-8.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/68319118b8415.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "PlayStation Plus: Este 'infinito' juego de carreras es gratuito y es la opci\u00f3n perfecta para tu grupo de amigos",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/playstation-plus-infinito-juego-carreras-gratuito-opcion-perfecta-grupo-amigos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/22/682f3826b5e7a.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Lamine Yamal, estrella de unos TOTS dominados por el Barcelona: as\u00ed es el equipo de la temporada de LaLiga en FC25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/lamine-yamal-estrella-tots-dominados-barcelona-asi-equipo-temporada-laliga-fc25.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/683184ccbb7a6.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "PlayStation y Nintendo, salpicadas por la nueva moda china acusada de machista",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/china-han-encontrado-solucion-perfecta-compras-pareja-morir-intento-respuesta-ps5-nintendo.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/22/682f236116635.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "PC F\u00fatbol 8 se retrasa de nuevo por culpa de otro problema 'inesperado'... y no es ninguna sorpresa",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/23/pc-futbol-8-retrasa-nuevo-culpa-problema-inesperado-ninguna-sorpresa.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/23/6830b001f2f39.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "PC F\u00fatbol 8 sufre otro retraso: se pospone la previa del juego justo antes de su lanzamiento",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/23/pc-futbol-8-sufre-retraso-pospone-previa-juego-justo-lanzamiento.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/23/6830596c2c23d.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00bfQuieres a Cristiano, Messi o Modric en tu Modo Carrera de FC 25 pero se retiran? As\u00ed puedes conseguirlos con 18 a\u00f1os",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/23/quieres-cristiano-messi-modric-carrera-fc-25-retiran-asi-puedes-conseguirlos-18-anos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/22/682f5f59cbce9.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Este mazo de Pok\u00e9mon TCG Pocket con Oricorio y Magnezone est\u00e1 arrasando y es as\u00ed de f\u00e1cil de usar",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/23/mazo-pokemon-tcg-pocket-oricorio-magnezone-arrasando-asi-facil.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/22/682f096fe09ec.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
                         }
                     ]
                 },
@@ -12799,9 +12799,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Jugadores de Nintendo se abalanzan sobre la esperada consola Switch 2",
+                            "url": "https://www.lanacion.com.ar/agencias/jugadores-de-nintendo-se-abalanzan-sobre-la-esperada-consola-switch-2-nid05062025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/jugadores-de-nintendo-se-abalanzan-sobre-la-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
+                            "fecha": "5 de junio de 2025",
+                            "url_link": "/agencias/jugadores-de-nintendo-se-abalanzan-sobre-la-esperada-consola-switch-2-nid05062025/"
+                        },
+                        {
                             "titulo": "Nintendo moderniza \"Mario Kart\" para la salida de la Switch 2",
                             "url": "https://www.lanacion.com.ar/agencias/nintendo-moderniza-mario-kart-para-la-salida-de-la-switch-2-nid03062025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/nintendo-moderniza-mario-kart-para-la-salida-de-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/nintendo-moderniza-mario-kart-para-la-salida-de-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
                             "fecha": "3 de junio de 2025",
                             "url_link": "/agencias/nintendo-moderniza-mario-kart-para-la-salida-de-la-switch-2-nid03062025/"
                         },
@@ -13033,130 +13040,33 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/para-2027-se-espera-que-la-industria-de-los-ZRC7HJSC5FACXPSTCMR3PSWCJM.jpg?auth=44d56a7badc5abf42754a67eaa0dd364c75d5144296d3800a27810cb96df3a60&width=300&height=200&quality=70&smart=false&focal=2028,991",
                             "fecha": "16 de abril de 2025",
                             "url_link": "/economia/IA/la-ia-impulsa-una-industria-que-mueve-miles-de-millones-de-dolares-nid16042025/"
-                        },
-                        {
-                            "titulo": "Lanzamientos de videojuegos en Abril de 2025 en Steam: esta es la lista",
-                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-abril-de-2025-en-steam-esta-es-la-lista-nid14042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-abril-de-2025-en-6RRY3EY4BFFARDSXWAGW4M2T4Q.jpg?auth=30865aadd98bb5ebd3aa1bde3b457e2d321d23dcba95e0b34a752f95f574174b&width=300&height=200&quality=70&smart=true",
-                            "fecha": "14 de abril de 2025",
-                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-abril-de-2025-en-steam-esta-es-la-lista-nid14042025/"
                         }
                     ]
                 },
                 {
                     "nombre": "decrypt_tecnologia",
-                    "pagina": {
-                        "principal": {
-                            "titulo": "Fundaci\u00f3n Ethereum Reestructura Divisi\u00f3n de I+D y Planea 'Repensar' el Dise\u00f1o y Desarrollo",
-                            "url": "https://decrypt.co/es/323570/fundacion-ethereum-reestructura-division-de-id-y-planea-repensar-el-diseno-y-desarrollo",
-                            "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png@webp",
-                            "descripcion": "Menos de un mes despu\u00e9s de la Actualizaci\u00f3n Pectra, la Fundaci\u00f3n Ethereum cree que la segunda criptomoneda m\u00e1s grande del mundo, tanto como tecnolog\u00eda como ecosistema, se acerca a importantes avances con mayores riesgos para una audiencia m\u00e1s amplia.\nSin embargo, esos riesgos podr\u00edan estar en peligro si las personas que la dirigen est\u00e1n arraigadas en lo que llaman un proceso desordenado: el env\u00edo de protocolos.\n\"Debemos repensar nuestro enfoque actual para dise\u00f1ar, desarrollar y supervisar el pr...",
-                            "fecha": "Jun 4, 2025"
-                        },
-                        "notas": {
-                            "cortas": [
-                                {
-                                    "titulo": "Ethereum Deber\u00eda Escalar 10x el Pr\u00f3ximo A\u00f1o: Vitalik Buterin",
-                                    "url": "https://decrypt.co/es/323388/ethereum-deberia-escalar-10x-el-proximo-ano-vitalik-buterin",
-                                    "categoria": "Technology",
-                                    "fecha": "Jun 4, 2025",
-                                    "meta": "2 min lectura"
-                                },
-                                {
-                                    "titulo": "Fundador de Binance CZ Propone DEX Para Prevenir Front-Running",
-                                    "url": "https://decrypt.co/es/323375/fundador-de-binance-cz-propone-dex-para-prevenir-front-running",
-                                    "categoria": "Technology",
-                                    "fecha": "Jun 3, 2025",
-                                    "meta": "3 min lectura"
-                                },
-                                {
-                                    "titulo": "Elon Musk Dice Que Llegar\u00e1 un Nuevo XChat Con Cifrado 'Estilo Bitcoin'",
-                                    "url": "https://decrypt.co/es/323373/elon-musk-dice-que-llegara-un-nuevo-xchat-con-cifrado-estilo-bitcoin",
-                                    "categoria": "Technology",
-                                    "fecha": "Jun 3, 2025",
-                                    "meta": "2 min lectura"
-                                },
-                                {
-                                    "titulo": "Vitalik Buterin: Ethereum Podr\u00eda Reemplazar el Efectivo Tras Fracaso de Sistemas N\u00f3rdicos",
-                                    "url": "https://decrypt.co/es/322465/vitalik-buterin-ethereum-podria-reemplazar-el-efectivo-tras-fracaso-de-sistemas-nordicos",
-                                    "categoria": "Technology",
-                                    "fecha": "May 29, 2025",
-                                    "meta": "4 min lectura"
-                                },
-                                {
-                                    "titulo": "Primer Combate de Boxeo Humanoide Tiene Lugar en China\u2014Y es Bastante Genial",
-                                    "url": "https://decrypt.co/es/322284/primer-combate-de-boxeo-humanoide-tiene-lugar-en-china-y-es-bastante-genial",
-                                    "categoria": "Technology",
-                                    "fecha": "May 27, 2025",
-                                    "meta": "4 min lectura"
-                                },
-                                {
-                                    "titulo": "Este Proyecto te Permite Enviar Bitcoin Sin Tener Acceso a Internet",
-                                    "url": "https://decrypt.co/es/322283/este-proyecto-te-permite-enviar-bitcoin-sin-tener-acceso-a-internet",
-                                    "categoria": "Technology",
-                                    "fecha": "May 27, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
-                                {
-                                    "titulo": "Podr\u00eda Ser 20 Veces M\u00e1s F\u00e1cil Para las Computadoras Cu\u00e1nticas Quebrar Bitcoin, Seg\u00fan Google",
-                                    "url": "https://decrypt.co/es/322216/podria-ser-20-veces-mas-facil-para-las-computadoras-cuanticas-quebrar-bitcoin-segun-google",
-                                    "categoria": "Technology",
-                                    "fecha": "May 27, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Google acaba de publicar un nuevo art\u00edculo de investigaci\u00f3n, y los maximalistas de Bitcoin pueden querer hacer algunos c\u00e1lculos r\u00e1pidos. El equipo cu\u00e1ntico del gigante tecnol\u00f3gico descubri\u00f3 que romper la encriptaci\u00f3n RSA que protege desde tu cuenta bancaria hasta tu billetera de Bitcoin podr\u00eda requerir 20 veces menos recursos cu\u00e1nticos de lo estimado anteriormente.\n\"Planificar la transici\u00f3n a criptosistemas seguros cu\u00e1nticamente requiere comprender el costo de los ataques cu\u00e1nticos a criptosiste..."
-                                },
-                                {
-                                    "titulo": "Fans se Unen Para Salvar 'Bandersnatch' Luego de Netflix Eliminar Medios Interactivos",
-                                    "url": "https://decrypt.co/es/319616/fans-se-unen-para-salvar-bandersnatch-luego-de-netflix-eliminar-medios-interactivos",
-                                    "categoria": "Technology",
-                                    "fecha": "May 14, 2025",
-                                    "meta": "8 min lectura",
-                                    "descripcion": "Cuando Netflix anunci\u00f3 silenciosamente planes para eliminar \"Bandersnatch\"\u2014el innovador episodio interactivo de Black Mirror\u2014la futurista y periodista Katie Schultz lanz\u00f3 una campa\u00f1a para preservar lo que ella llama un momento crucial en la historia del streaming.\nIndignada por lo que consideraba el borrado silencioso de un cap\u00edtulo significativo en la innovaci\u00f3n del streaming, Schultz lanz\u00f3 una petici\u00f3n en Change.org para preservar Bandersnatch\u2014y en cuesti\u00f3n de d\u00edas, reuni\u00f3 m\u00e1s de 6.500 firmas..."
-                                },
-                                {
-                                    "titulo": "Brasil Busca Prohibir Discord Tras Ataque Frustrado en Concierto de Lady Gaga",
-                                    "url": "https://decrypt.co/es/319374/brasil-busca-prohibir-discord-tras-ataque-frustrado-en-concierto-de-lady-gaga",
-                                    "categoria": "Technology",
-                                    "fecha": "May 13, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Brasil podr\u00eda desconectar la popular aplicaci\u00f3n de chat Discord despu\u00e9s de un intento de ataque terrorista fallido en el megaconcierto de Lady Gaga revelara que la plataforma se utiliz\u00f3 para planear violencia contra asistentes LGBTQ+.\nEl diputado brasile\u00f1o Guilherme Boulos solicit\u00f3 formalmente la suspensi\u00f3n de Discord la semana pasada, solo d\u00edas despu\u00e9s de que la polic\u00eda frustrara un complot para atacar el espect\u00e1culo del 3 de mayo de Lady Gaga en la playa de Copacabana, un evento masivo que atr..."
-                                },
-                                {
-                                    "titulo": "Vitalik Quiere Acelerar Ethereum 100 Veces, Haci\u00e9ndolo Tan 'Simple Como Bitcoin'",
-                                    "url": "https://decrypt.co/es/317972/vitalik-quiere-acelerar-ethereum-100-veces-haciendolo-tan-simple-como-bitcoin",
-                                    "categoria": "Technology",
-                                    "fecha": "May 6, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "El cofundador de Ethereum, Vitalik Buterin, ha propuesto reemplazar la M\u00e1quina Virtual de Ethereum (EVM) por RISC-V, con el objetivo de mejorar el rendimiento de la cadena mientras la simplifica en el proceso.\nButerin, afirm\u00f3 en una publicaci\u00f3n de blog del 3 de mayo, que a trav\u00e9s de los cambios propuestos, Ethereum podr\u00eda \"volverse casi tan simple como Bitcoin\" en cinco a\u00f1os.\n\"Una de las mejores cosas de Bitcoin es lo maravillosamente simple que es el protocolo\", escribi\u00f3 Buterin, describiendo c..."
-                                },
-                                {
-                                    "titulo": "Proyecto de Criptoescaneo de Retina de Sam Altman Llega Finalmente a EEUU",
-                                    "url": "https://decrypt.co/es/317760/proyecto-de-criptoescaneo-de-retina-de-sam-altman-llega-finalmente-a-eeuu",
-                                    "categoria": "Technology",
-                                    "fecha": "May 4, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "La promesa de criptomonedas gratis a cambio de tus datos biom\u00e9tricos ya est\u00e1 activa en EE. UU., cortes\u00eda de World, el proyecto de escaneo ocular cofundado por el CEO de OpenAI, Sam Altman.\nSeg\u00fan el anuncio World est\u00e1 oficialmente desplegando sus orbes en seis importantes ciudades estadounidenses: Atlanta, Austin, Los \u00c1ngeles, Miami, Nashville y San Francisco. Aunque realiz\u00f3 giras con sus orbes por EE. UU. en anteriores esfuerzos promocionales, se qued\u00f3 corto en ofrecer servicios completos dentro..."
-                                }
-                            ]
-                        }
-                    }
+                    "pagina": null
                 },
                 {
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "C\u00f3mo Enga\u00f1ar a ChatGPT y Ganar $50.000",
-                            "url": "https://decrypt.co/es/323391/como-enganar-a-chatgpt-y-ganar-50-000",
+                            "titulo": "Video Deepfake de Trump Pide Velociraptores para la Patrulla Fronteriza: Acumula 1,2 Millones de Vistas",
+                            "url": "https://decrypt.co/es/323740/video-deepfake-de-trump-pide-velociraptores-para-la-patrulla-fronteriza-acumula-12-millones-de-vistas",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/crypto-hacker-on-computer-gID_7.jpg@webp",
-                            "descripcion": "Pliny the Prompter no encaja en el estereotipo del hacker de Hollywood.\nEl jailbreaker de IA m\u00e1s notorio de internet opera a plena vista, ense\u00f1ando a miles de personas c\u00f3mo sortear las barreras de ChatGPT y convenciendo a Claude de pasar por alto el hecho de que se supone debe ser \u00fatil, honesto y no da\u00f1ino.\nAhora, Pliny intenta llevar el lockpicking digital a la corriente principal.\nEl lunes por la ma\u00f1ana, el jailbreaker anunci\u00f3 una colaboraci\u00f3n con HackAPrompt 2.0, una competencia de jailbreaki...",
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@webp",
+                            "descripcion": "Quiz\u00e1s sea una se\u00f1al de los tiempos cuando nada es demasiado extra\u00f1o para ser descartado.\nUn video deepfake del presidente de Estados Unidos, Donald Trump, pidiendo el regreso de Velocirraptores y Pterod\u00e1ctilos para patrullar la frontera con M\u00e9xico se volvi\u00f3 viral el martes, acumulando m\u00e1s de 1.200.000 visualizaciones y 20.000 me gusta.\nEl clip, claramente etiquetado al final como un deepfake y subido a X el lunes, muestra a un Trump renderizado de manera convincente en la Oficina Oval de la Cas...",
                             "fecha": "Jun 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "C\u00f3mo Enga\u00f1ar a ChatGPT y Ganar $50.000",
+                                    "url": "https://decrypt.co/es/323391/como-enganar-a-chatgpt-y-ganar-50-000",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 4, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Administraci\u00f3n de Alimentos y Medicamentos de EEUU Lanza Plataforma de IA Para 'Modernizar' la Agencia",
                                     "url": "https://decrypt.co/es/323571/administracion-de-alimentos-y-medicamentos-de-eeuu-lanza-plataforma-de-ia-para-modernizar-la-agencia",
@@ -13191,16 +13101,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 29, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "CEO de Robinhood Predice Empresas Impulsadas por IA, Las Compara Con Bitcoin y Satoshi",
                                     "url": "https://decrypt.co/es/322447/ceo-de-robinhood-predice-empresas-impulsadas-por-ia-las-compara-con-bitcoin-y-satoshi",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "May 29, 2025",
-                                    "meta": "2 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "2 min lectura",
+                                    "descripcion": "El jefe de Robinhood, Vlad Tenev, dijo que la inteligencia artificial llevar\u00e1 a requisitos m\u00ednimos de personal en las empresas y compar\u00f3 tales estructuras hipot\u00e9ticas con la forma en que Satoshi Nakamoto cre\u00f3 Bitcoin.\nHablando en Bitcoin 2025 en Las Vegas, Tenev dijo que las \"empresas de una sola persona\" impulsadas por IA se convertir\u00edan en la norma, junto con activos tokenizados.\nEl CEO y cofundador de Robinhood hizo alusi\u00f3n a Satoshi Nakamoto\u2014el misterioso y seud\u00f3nimo creador (o creadores) de..."
+                                },
                                 {
                                     "titulo": "Harvard Desarroll\u00f3 Modelo de IA Que Predice Supervivencia al C\u00e1ncer Basada en An\u00e1lisis Facial",
                                     "url": "https://decrypt.co/es/322414/harvard-desarrolla-modelo-de-ia-que-predice-supervivencia-al-cancer-basada-en-analisis-facial",
@@ -13232,14 +13143,6 @@
                                     "fecha": "May 24, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "La primera dama de Estados Unidos, Melania Trump, ha lanzado la versi\u00f3n en audiolibro de sus memorias llamada \"Melania\", utilizando una r\u00e9plica de su voz generada por inteligencia artificial, marcando la primera vez que una primera dama estadounidense ha utilizado IA para narrar una publicaci\u00f3n comercial.\nEl modelo de voz fue creado \"bajo su direcci\u00f3n y supervisi\u00f3n\" en colaboraci\u00f3n con la startup de audio con IA ElevenLabs, seg\u00fan su sitio web oficial.\nEl audiolibro, lanzado el jueves, est\u00e1 dispo..."
-                                },
-                                {
-                                    "titulo": "Anthropic Lanza Claude 4, Aniquilando a Rivales de IA y Tambi\u00e9n Presupuestos",
-                                    "url": "https://decrypt.co/es/321742/anthropic-lanza-claude-4-aniquilando-a-rivales-de-ia-y-tambien-a-los-presupuestos",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 23, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Anthropic finalmente lanz\u00f3 su esperada familia de modelos de inteligencia artificial Claude 4 el jueves, que hab\u00eda sido detenida durante meses. La empresa con sede en San Francisco, un actor importante en la industria de IA ferozmente competitiva y valorada en m\u00e1s de $61.000 millones, afirm\u00f3 que sus nuevos modelos alcanzaron los mejores benchmarks para rendimiento de codificaci\u00f3n y ejecuci\u00f3n aut\u00f3noma de tareas.\nLos modelos lanzados hoy reemplazan los dos m\u00e1s poderosos de los tres modelos en la f..."
                                 }
                             ]
                         }
