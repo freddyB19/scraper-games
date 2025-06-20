@@ -11273,103 +11273,111 @@
                 ],
                 "noticias": [
                     {
-                        "titulo": "Ganadores - Concurso del Florecer espiritual",
-                        "url": "/es-es/news/community/winners-spirit-blossom-fan-art-contest",
+                        "titulo": "Presentamos League of Legends Game Changers Rising",
+                        "url": "https://lolesports.com/es-es/news/introducing-league-of-legends-game-changers-rising",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Comunidad",
-                        "fecha": "2025-06-04T15:00:00.000Z",
-                        "detalle": "\u00a1Enhorabuena a todos los participantes!"
+                        "categoria": "Esports",
+                        "fecha": "2025-06-19T14:00:00.000Z",
+                        "detalle": "Nos alegra mucho anunciar nuestro torneo oficial femenino de LoL."
                     },
                     {
-                        "titulo": "Sukajan de Darius florecer espiritual",
-                        "url": "https://merch.riotgames.com/product/spirit-blossom-darius-sukajan-jacket/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-spiritblossom25",
+                        "titulo": "Explicaci\u00f3n del formato | MSI 2025",
+                        "url": "https://www.youtube.com/watch?v=M2lZkHApGgs",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Merchandising",
-                        "fecha": "2025-06-03T21:00:00.000Z",
-                        "detalle": "\u00a1El esp\u00edritu de la guerra os protege con la chaqueta sukajan de Darius!"
+                        "categoria": "Esports",
+                        "fecha": "2025-06-17T15:00:00.000Z",
+                        "detalle": "Enciende el fuego interior. Es el MSI 2025. Toda la informaci\u00f3n sobre el torneo en Vancouver."
                     },
                     {
-                        "titulo": "Expositor de chibicampeona: Kayle alas et\u00e9reas",
-                        "url": "https://www.youtube.com/watch?v=lgTPAuHKUbo",
+                        "titulo": "Gu\u00eda del MSI 2025",
+                        "url": "https://lolesports.com/es-es/news/msi-2025-primer",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-06-17T15:00:00.000Z",
+                        "detalle": "\u00a1Todo lo que necesit\u00e1is saber sobre el MSI!"
+                    },
+                    {
+                        "titulo": "El retorno de Arena",
+                        "url": "/es-es/news/game-updates/the-return-of-arena",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
                         "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-30T13:00:00.000Z",
-                        "detalle": "\u00a1La Convergencia est\u00e1 bajo su jurisdicci\u00f3n! Kayle alas et\u00e9reas chibi ya est\u00e1 operativa en TFT."
+                        "fecha": "2025-06-16T17:00:00.000Z",
+                        "detalle": "Arena regresa durante el resto de 2025."
                     },
                     {
-                        "titulo": "Briar chibi y Briar cosplay de Tiburcio chibi",
-                        "url": "https://www.youtube.com/watch?v=bwfQJKcH4Z4",
+                        "titulo": "De Rogue a Natus Vincere: una nueva era de la LEC",
+                        "url": "https://lolesports.com/es-es/news/from-rogue-to-natus-vincere-a-new-era-begins-in-lec",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-06-13T14:00:00.000Z",
+                        "detalle": "Damos la bienvenida al nuevo equipo de la LEC, NAVI, y recordamos el legado de Rogue."
+                    },
+                    {
+                        "titulo": "Expositor de tem\u00e1tica: Velada por los 6 a\u00f1itos",
+                        "url": "https://www.youtube.com/watch?v=yp6No3nuawc",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
                         "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-29T13:00:00.000Z",
-                        "detalle": "Qu\u00e9 hambreeee... \u00a1Tenemos antojo de una nueva chibi! \u00a1Briar chibi y Briar cosplay de Tiburcio chibi vienen a darle un bocado a la Convergencia con la versi\u00f3n 14.5!"
+                        "fecha": "2025-06-12T13:00:00.000Z",
+                        "detalle": "Celebrad la Velada por los 6 a\u00f1itos con una arena que dice: \"Gane o pierda, \u00a1me voy de fiesta!\"."
                     },
                     {
-                        "titulo": "Hall of Legends 2025: Kai'Sa",
-                        "url": "https://merch.riotgames.com/product/hall-of-legends-2025-kaisa-statue/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-hol25",
+                        "titulo": "Hall of Legends: Uzi",
+                        "url": "https://www.youtube.com/watch?v=LwYOQl1vptg",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Merchandising",
-                        "fecha": "2025-05-28T21:00:00.000Z",
-                        "detalle": "Celebrad la llegada de Uzi al Hall of Legends con la figura de Kai'Sa leyenda inmortal a escala 1/6."
+                        "categoria": "Esports",
+                        "fecha": "2025-06-11T15:00:00.000Z",
+                        "detalle": "\u00a1Presentamos al nuevo elegido! No os perd\u00e1is el documental presentado por Mercedes-Benz."
                     },
                     {
-                        "titulo": "El orgullo de la comunidad",
-                        "url": "/es-es/news/community/pride-community-feature",
+                        "titulo": "Recompensas Marriott Bonvoy: LoL y mundo real",
+                        "url": "https://lolesports.com/es-es/news/unlock-rewards-for-lol-and-irl-with-marriott-bonvoy",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Comunidad",
-                        "fecha": "2025-05-28T15:00:00.000Z",
-                        "detalle": "Destacamos a algunos de los incre\u00edbles creadores que hacen de LoL un juego m\u00e1s positivo, atrevido y alegre."
+                        "categoria": "Esports",
+                        "fecha": "2025-06-11T14:00:00.000Z",
+                        "detalle": "Conseguid un cofre hextech gratis cortes\u00eda del socio oficial de la LEC: Marriott Bonvoy."
                     },
                     {
-                        "titulo": "Notas de la versi\u00f3n 14.5 de Teamfight Tactics (2025)",
-                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/teamfight-tactics-patch-14-5-notes-2025/",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-27T18:00:00.000Z",
-                        "detalle": "La versi\u00f3n 14.5 trae consigo cambios para renovar y mejorar objetos importantes y a\u00f1adir cuatro artefactos nuevos. Adem\u00e1s, incluye ajustes de equilibrio para Ciudad Cibern\u00e9tica y Renacer: Remix r\u00fanico."
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 25.11",
-                        "url": "/es-es/news/game-updates/patch-25-11-notes",
+                        "titulo": "Notas de la versi\u00f3n 25.12",
+                        "url": "/es-es/news/game-updates/patch-25-12-notes",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
                         "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-27T18:00:00.000Z",
-                        "detalle": "Dadle un buen bocado a la versi\u00f3n 25.11 \ud83e\uddb7"
+                        "fecha": "2025-06-10T18:05:00.000Z",
+                        "detalle": "Bienvenido al Hall of Legends, Uzi."
                     },
                     {
-                        "titulo": "Hall of Legends",
-                        "url": "https://halloflegends.leagueoflegends.com/es-es/",
+                        "titulo": "Notas de la versi\u00f3n 14.6 de TFT (2025)",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/teamfight-tactics-patch-14-6-notes-2025",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
                         "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-27T16:00:00.000Z",
-                        "detalle": "\u00a1Os damos la bienvenida al sal\u00f3n de la fama de League of Legends!"
+                        "fecha": "2025-06-10T18:00:00.000Z",
+                        "detalle": "La versi\u00f3n 14.6 marca la llegada del sexto aniversario de TFT, el regreso de Fiesta de Pingu y la implementaci\u00f3n de un mont\u00f3n de mejoras."
                     },
                     {
-                        "titulo": "Tr\u00e1iler del evento del Hall of Legends: Uzi",
-                        "url": "https://www.youtube.com/watch?v=qHn9BZqlMbU",
+                        "titulo": "Nuevo campo de batalla de ARAM: Paso de Koeshin",
+                        "url": "https://www.youtube.com/watch?v=aE2ySr0V2gU",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
                         "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-27T15:00:00.000Z",
-                        "detalle": "Una nueva leyenda reclama el trono. \u00a1Bienvenido al Hall of Legends, Uzi!"
+                        "fecha": "2025-06-09T15:15:00.000Z",
+                        "detalle": "El velo entre este reino y el espiritual se rompe. Los esp\u00edritus inquietos incitan una nueva batalla."
                     },
                     {
-                        "titulo": "VELADA POR LOS 6 A\u00d1ITOS DE TFT",
-                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/tfts-6-year-bash/",
+                        "titulo": "Desarrollo: ARAM, Puente a ciegas",
+                        "url": "/es-es/news/dev/dev-all-random-all-mid-blind-bridge",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-26T16:00:00.000Z",
-                        "detalle": "\u00a1Est\u00e1is todos invitados a la Fiesta de Pingu!"
-                    },
-                    {
-                        "titulo": "No intent\u00e9is comeros a vuestros \u00eddolos",
-                        "url": "https://www.youtube.com/watch?v=Zekj8IzfI6w",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-05-26T14:00:00.000Z",
-                        "detalle": "Briar cosplay de Tiburcio chibi es, sin lugar a dudas, la mayor fan de Tiburcio."
+                        "categoria": "Desarrollo",
+                        "fecha": "2025-06-09T15:00:00.000Z",
+                        "detalle": "Repaso a mapas y actualizaciones en la selecci\u00f3n de campe\u00f3n disponibles en ARAM a partir de 25.13."
                     }
                 ],
                 "notas": [
+                    {
+                        "titulo": "Notas de la versi\u00f3n 25.12",
+                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-12-notes",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-06-10T18:05:00.000Z",
+                        "detalle": "Bienvenido al Hall of Legends, Uzi."
+                    },
                     {
                         "titulo": "Notas de la versi\u00f3n 25.11",
                         "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-11-notes",
@@ -11457,14 +11465,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-01-07T19:00:00.000Z",
                         "detalle": "\u00a1Os damos la bienvenida a Noxus y a la temporada 1!"
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 14.24",
-                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-14-24-notes",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2024-12-10T19:00:00.000Z",
-                        "detalle": "\u00a1Nos lanzamos de cabeza hacia lo arcano en la versi\u00f3n 14.24!"
                     }
                 ]
             }
@@ -11475,6 +11475,13 @@
             "nombre": "easport",
             "info": {
                 "noticias": [
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/switch-2-ea-games/digital-signage-16x9.png.adapt.crop16x9.431p.png",
+                        "titulo": "Juegos de EA y el lanzamiento del sistema Nintendo Switch\u2122 2",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "05-jun-2025",
+                        "descripcion": "Las experiencias de entretenimiento interactivo de EA llegan a Nintendo Switch 2. Juega ya a Split Fiction, EA SPORTS, y mucho m\u00e1s."
+                    },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/gavin-cooper-f1/f1-gavin-cooper-article-1.png.adapt.crop16x9.431p.png",
                         "titulo": "Preguntas y respuestas sobre F1 25: Gavin Cooper, director creativo, habla \u2026",
@@ -11593,13 +11600,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "18-nov-2024",
                         "descripcion": "Acortar brechas de habilidades de CTIAM, reforzar las pr\u00e1cticas inclusivas y mucho m\u00e1s."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/jinsong1.png.adapt.crop16x9.431p.png",
-                        "titulo": "5 preguntas para el jefe de ingenier\u00eda de EA SPORTS FC",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "29-oct-2024",
-                        "descripcion": "Jinsong Li, jefe de ingenier\u00eda de EA SPORTS FC, responde 5 preguntas sobre el desarrollo de EA SPORTS FC 25 y sobre las carreras profesionales en el sector tecnol\u00f3gico."
                     }
                 ],
                 "novedades": [
@@ -11894,6 +11894,12 @@
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/simcity-buildit-mono-logo.png"
                     },
                     {
+                        "titulo": "Peggle\u2122 Blast",
+                        "url": "https://www.ea.com/es-es/games/peggle/peggle-blast",
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/peggle-blast-keyart.jpg.adapt.crop1x1.767p.jpg",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/peggle-blast-mono-logo.png"
+                    },
+                    {
                         "titulo": "Plants vs. Zombies 2",
                         "url": "https://www.ea.com/es-es/games/plants-vs-zombies/plants-vs-zombies-2",
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/plants-vs-zombies-2-keyart.jpg.adapt.crop1x1.767p.jpg",
@@ -11930,6 +11936,16 @@
                             {
                                 "etiqueta": "Noticias de EA",
                                 "info": [
+                                    {
+                                        "titulo": "Juegos de EA y el lanzamiento del sistema Nintendo Switch\u2122 2",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "05-jun-2025"
+                                        ],
+                                        "detalle": "Las experiencias de entretenimiento interactivo de EA llegan a Nintendo Switch 2. Juega ya a Split Fiction, EA SPORTS, y mucho m\u00e1s.",
+                                        "url": "https://www.ea.com/es-es/news/switch-2-ea-games",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/switch-2-ea-games/digital-signage-16x9.png.adapt.crop16x9.431p.png"
+                                    },
                                     {
                                         "titulo": "Preguntas y respuestas sobre F1 25: Gavin Cooper, director creativo, habla \u2026",
                                         "informacion": [
@@ -11979,16 +11995,6 @@
                                         "detalle": "\u00a1Este mes, en EA hemos celebrado el Mes de la Historia de la Mujer con charlas inaugurales, eventos, oportunidades para crear contactos y mucho m\u00e1s!",
                                         "url": "https://www.ea.com/es-es/news/whm-2025",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/whm-2025-thumbnail.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "EA en la GDC: IA, aprendizaje autom\u00e1tico y mucho m\u00e1s",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "21-mar-2025"
-                                        ],
-                                        "detalle": "En EA, los nuevos avances e innovaciones tecnol\u00f3gicas mejoran el desarrollo y la experiencia de juego para millones de personas y fans.",
-                                        "url": "https://www.ea.com/es-es/news/ea-gdc-2025",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-gdc-2025-article-thumbnail.png.adapt.crop16x9.431p.png"
                                     }
                                 ]
                             },
@@ -12444,354 +12450,354 @@
                     "nombre": "marca",
                     "pagina": [
                         {
-                            "titulo": "PC F\u00fatbol 8 ni est\u00e1, ni se le espera, pero ya da igual, y es gracias a SEGA y el Manchester City",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/pc-futbol-8-le-espera-da-igual-gracias-sega-manchester-city.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/6841794bd7391.jpeg",
+                            "titulo": "La saga Borderlands llega a GeForce NOW para que puedas 'hacer el gamberro' este verano",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/saga-borderlands-llega-geforce-now-puedas-gamberro-verano.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/685523fb9a9d0.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
+                            "titulo": "Si quieres ganar sin parar en REMATCH, estos son los 5 errores m\u00e1s comunes que debes evitar s\u00ed o s\u00ed",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/quieres-ganar-parar-rematch-son-5-errores-comunes-debes-evitar.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/6855304c760e7.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Lo est\u00e1 reventando en Steam y todav\u00eda no ha salido, REMATCH quiere convertirse en el rey de los videojuegos de f\u00fatbol",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/di-adios-fc-25-juego-futbol-mejores-numeros-ea-sports-salido-truco-rematch.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/6841666979d4d.jpeg",
+                            "titulo": "Anunciados m\u00e1s detalles sobre Pok\u00e9mon GO Road Trip 2025 en Valencia",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/anunciados-detalles-sobre-pokemon-go-road-trip-2025-valencia.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/68552818eccd2.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
+                            "titulo": "A REMATCH le falta una mec\u00e1nica indispensable y es ahora o nunca: tenemos que pedirla ya",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/rematch-le-falta-mecanica-indispensable-nunca-pedirla.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/68551a40ed609.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "2K25 'decide' el resultado de las finales de la NBA y completa una temporada hist\u00f3rica de esta estrella",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/2k25-decide-resultado-finales-nba-completa-temporada-historica-estrella.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f41daa727f.jpeg",
+                            "titulo": "Black Myth: Wukong, Call of Duty: Black Ops 6 y EA SPORTS FC 25 destacan en las 'Ofertas de Mitad de A\u00f1o' de PlayStation Store",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/black-myth-wukong-call-of-duty-black-ops-6-ea-sports-fc-25-destacan-ofertas-mitad-ano-playstation-store.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/685521b35abdb.jpeg",
                             "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
+                            "autor": "\u00c1LVARO P\u00c9REZ"
                         },
                         {
-                            "titulo": "Es uno de los mejores RPG t\u00e1cticos de la historia y ha vuelto por sorpresa. PlayStation confirma el regreso de Final Fantasy Tactics",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/mejores-rpg-tacticos-historia-vuelto-sorpresa-playstation-confirma-regreso-final-fantasy-tactics.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/YXK281eGCv7JN5_U6.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Desde Rusia con amor: PlayStation seduce a los fans de James Bond con su nuevo juego, 007 First Light",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/rusia-amor-playstation-seduce-fans-james-bond-nuevo-juego-07-first-light.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/YXJs01eGCaRcvkrif.jpeg",
+                            "titulo": "\u00a1Por fin! Donkey Kong Bananza ha resuelto uno de los mayores misterios de Super Mario en toda su historia",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/donkey-kong-bananza-resuelto-mayores-misterios-super-mario-toda-historia.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/19/6853f4d9dbb71.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Si eres fan de Marvel, esto te interesa: PlayStation ha anunciado Tokon Fighting Souls, no es exclusivo y luce incre\u00edble",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/05/fan-marvel-esto-te-interesa-playstation-anunciado-tokon-fighting-souls-exclusivo-luce-increible.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/.jpeg",
+                            "titulo": "GTA 6 revolucionar\u00e1 una de sus mec\u00e1nicas m\u00e1s criticadas con una IA sin precedentes si esto que cuentan es real",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/19/gta-6-revolucionara-mecanicas-criticadas-ia-precedentes-esto-cuentan-real.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/19/6853dbf9915e9.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "State of Play de PS5: reacci\u00f3n y resumen de todos los anuncios y trailers del evento de PlayStation",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/6840a3f3f49425d14d64ec4c-directo.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/17490748415782.jpeg",
+                            "titulo": "Es el mejor homenaje a Zelda que existe y lo puedes jugar gratis si tienes Game Pass",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/19/mejor-homenaje-zelda-existe-puedes-jugar-gratis-tienes-game-pass.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/Yc2eE1eKhQUK3taAg.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Pereira confiesa el dineral que le ha pagado Ibai por estar en la Velada del A\u00f1o 5 y la cifra te sorprender\u00e1",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/pereira-confiesa-dineral-le-pagado-ibai-velada-ano-5-cifra-te-sorprendera.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/04/YXAeM1eG5rNlz6UDG.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "20 retrasos y 800 d\u00edas despu\u00e9s, esperar a PC F\u00fatbol 8 es m\u00e1s largo que un d\u00eda sin pan. \u00bfC\u00f3mo empez\u00f3 todo?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/20-retrasos-800-dias-despues-esperar-pc-futbol-8-dia-pan-empezo.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/04/6840346d5ae0f.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Si est\u00e1s a punto de estrenar Nintendo Switch 2, este RPG es uno de sus mejores juegos de lanzamiento",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/04/punto-estrenar-nintendo-switch-2-rpg-mejores-juegos-lanzamiento.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/YWjFk1eFlTKbTWC5U.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Mbapp\u00e9, Messi, Ronaldo Nazario... Este es el equipo m\u00e1s caro de todo Ultimate Team en EA Sports FC 25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/mbappe-messi-ronaldo-nazario-equipo-caro-ultimate-team-ea-sports-fc-25.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f240317690.jpeg",
-                            "meta": "FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "'El juego del calamar' y Fortnite anuncian una colaboraci\u00f3n muy especial antes de su temporada final",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/juego-calamar-fortnite-anuncian-colaboracion-especial-temporada-final.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f0fdbd0248.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "The Witcher 4 muestra su primer gameplay y es tan bueno que solo GTA 6 est\u00e1 a su altura",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/the-witcher-4-muestra-primer-gameplay-bueno-gta-6-altura.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683f01697688a.png",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "State of play: fecha, horario y d\u00f3nde ver la conferencia de PS5 en directo hoy",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/playstation-state-of-play-fecha-horario-conferencia-ps5-durante-summer-game-fest.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683ef56075ced.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Summer Game Fest 2025, juegos confirmados, rumores y predicciones: The Witcher 4, Silksong, Kojima...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/summer-game-fest-2025-juegos-confirmados-rumores-predicciones-the-witcher-4-silksong-kojima.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683edaae203f8.png",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "EA Sports escucha a la comunidad y a\u00f1ade estas mejoras en el \u00faltimo parche de FC 25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/ea-sports-escucha-comunidad-anade-mejoras-ultimo-parche-fc-25.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683ed90e4691e.jpeg",
+                            "titulo": "Ni Courtois ni Casillas, el mejor portero de la historia de Ultimate Team... \u00a1es un central!",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/19/courtois-casillas-mejor-portero-historia-ultimate-team-central.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/6852be7cb30e9.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
                         },
                         {
-                            "titulo": "Summer Game Fest 2025: fecha y horario de todas las conferencias del NO-E3",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/summer-game-fest-2025-fecha-horario-todas-conferencias-e3.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/29/683818233077c.jpeg",
+                            "titulo": "El Real Madrid debuta en el Mundial de Clubes... y en Fortnite",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/18/real-madrid-debuta-mundial-clubes-fortnite.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/6852940d3421d.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Si esto que dicen de GTA 6 y su mapa es real, ni te imaginas la locura en la que Rockstar est\u00e1 trabajando",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/esto-dicen-gta-6-mapa-real-te-imaginas-locura-rockstar-trabajando.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683eb799c1a75.png",
+                            "titulo": "PC F\u00fatbol 8, desaparecido. 21 d\u00edas despu\u00e9s \"el equipo contin\u00faa trabajando\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/18/pc-futbol-8-desaparecido-21-dias-despues-equipo-continua-trabajando.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/685289757bda3.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "PC F\u00fatbol 8 estar\u00eda listo en menos de 24 horas si se cumple esta condici\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/pc-futbol-8-estaria-listo-24-horas-cumple-condicion.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683eaf7d9e39f.jpeg",
+                            "titulo": "\"Todo fue una estafa\". Miles de jugadores invirtieron 300.000 euros en un videojuego, pero se han esfumado",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/18/estafa-miles-jugadores-invirtieron-300-000-euros-jrpg-han-esfumado.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/qs1eKdtkS5ZT68.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Discord provoca que tus juegos y tu PC funcionen peor. Arreglarlo es as\u00ed de f\u00e1cil",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/18/discord-provoca-tus-juegos-pc-funcionen-peor-arreglarlo-asi-facil.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/68526dfc001fd.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "FC 26, a la vuelta de la esquina: esta ser\u00eda la fecha de salida del nuevo t\u00edtulo de EA Sports",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/17/fc-26-vuelta-esquina-seria-fecha-salida-nuevo-titulo-ea-sports.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/17/685146da35c57.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "As\u00ed es Yunara, la nueva campeona ADC de League of Legends",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/asi-yunara-nueva-campeona-adc-league-of-legends.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/685044b128252.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
+                            "titulo": "Si FC 26 es como dicen las filtraciones, puede ser el mejor de la historia: FIFA Street, comprar tu propia casa, coche...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/fc-26-dicen-filtraciones-mejor-historia-fifa-street-comprar-propia-casa-coche.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/685004145ac96.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "REMATCH es justo lo que necesitaba este verano: regates, patadas a las canillas y volver al f\u00fatbol de barrio",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/rematch-justo-necesitaba-verano-regates-patadas-canillas-volver-futbol-barrio.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/YbNQU1eJ_8i_CUYRh.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Me retaron a ligarme a mi lavadora, la enga\u00f1\u00e9 con el retrete y descubr\u00ed lo que era el amor verdadero",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/me-retaron-ligarme-mi-lavadora-engane-retrete-descubri-amor-verdadero.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/684fd52314d6d.jpeg",
                             "meta": "Juegos",
                             "autor": "M. J."
                         },
                         {
-                            "titulo": "Fecha y horario del \u00d13, la conferencia de habla hispana que se celebra durante la Summer Game Fest",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/03/fecha-horario-n3-conferencia-habla-hispana-celebra-durante-summer-game-fest.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/03/683ea7af1769c.jpeg",
+                            "titulo": "\"GTA 6 y Rockstar nos van a traicionar\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/06/16/gta-6-rockstar-traicionar.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/684ffd619b3ab.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Fans de Football Manager, tenemos buenas noticias: SEGA presenta Football Club Champions 2025",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/02/fans-football-manager-buenas-noticias-sega-presenta-football-club-champions-2025.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/02/683da13c9067c.png",
+                            "titulo": "Como Genshin Impact, pero con f\u00fatbol y mucho m\u00e1s fanservice. Este gacha deportivo fue el rey de los juegos de m\u00f3vil, pero...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/genshin-impact-futbol-fanservice-gacha-deportivo-rey-juegos-movil.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/YaQHK1eJ0jMuvHVjV.jpeg",
                             "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
+                            "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Fortnite se une a la Kings League por el Mundial: la mejor celebraci\u00f3n pasar\u00e1 a ser un baile del juego",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/02/fortnite-une-kings-league-mundial-mejor-celebracion-pasara-baile-juego.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/02/683d7a98049dc.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "\"Con el \u00fanico objetivo de regatear m\u00e1s y mejor\": As\u00ed era uno de los mejores juegos de f\u00fatbol de la historia",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/01/unico-objetivo-regatear-mejor-asi-mejores-juegos-futbol-historia.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/31/683aeec91aae1.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Si eres amante de la NBA debes jugar a este videojuego que llegar\u00e1 gratis a PS Plus en muy pocos d\u00edas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/31/amante-nba-debes-jugar-videojuego-llegara-gratis-ps-plus-pocos-dias.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/683756af4aed4.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "\u00bfPodr\u00e1 Luis Enrique vengar al Bar\u00e7a? Esto es lo que pasar\u00e1 en la final de la Champions League seg\u00fan EA Sports FC 25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/31/podra-luis-enrique-vengar-barca-esto-pasara-final-champions-league-ea-sports-fc-25.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/YUXkQ1eDoWSI9nUcy.jpeg",
+                            "titulo": "Ni Lamine Yamal ni Demb\u00e9l\u00e9: Este ser\u00e1 el pr\u00f3ximo ganador del Bal\u00f3n de Oro seg\u00fan EA Sports FC 25",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/14/lamine-yamal-dembele-sera-proximo-ganador-balon-oro-ea-sports-fc-25.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/11/6849aca01618f.jpeg",
                             "meta": "FC 25",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         },
                         {
-                            "titulo": "FromSoftware, a juicio: jugamos a Elden Ring Nightreign, \u00bfel souls cooperativo que necesit\u00e1bamos?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/30/fromsoftware-juicio-jugamos-elden-ring-nightreign-souls-cooperativo-necesitabamos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/30/YVPj81eEULPNeDMUI.jpeg",
+                            "titulo": "No hay mejor juego gratis en PS Plus que este para pasar un fin de semana 'm\u00e1gico'",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/14/hay-mejor-juego-gratis-ps-plus-pasar-semana-magico.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684b0c574f705.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Ni Baldur's Gate 3, ni Resident Evil 4. Las Vtubers tienen el mejor juego de 2023, y no lo digo, lo dice Steam",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/14/baldur-s-gate-3-resident-evil-4-vtubers-mejor-juego-2023-digo-dice-steam.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/YaQ421eJ06khI7fVX.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "C\u00f3mo empezar a jugar a Minecraft con mods: gu\u00eda paso a paso en 2025",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/30/empezar-jugar-minecraft-mods-guia-paso-paso-2025.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/29/68383daf10acf.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "De Alexander-Arnold a Nico Paz: \u00bfpor cu\u00e1nto puedes fichar en el FC 25 a los jugadores que suenan para el Madrid?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/30/alexander-arnold-nico-paz-cuanto-puedes-fichar-fc-25-jugadores-suenan-madrid.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/30/6839992d10c29.jpeg",
+                            "titulo": "FC 26 en mundo abierto, \u00bfm\u00e1s cerca que nunca? Esta filtraci\u00f3n reactiva los rumores sobre el futuro del juego",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/13/fc-26-mundo-abierto-cerca-nunca-filtracion-reactiva-rumores-sobre-futuro-juego.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/684c0bc1acccd.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
                         },
                         {
-                            "titulo": "Es uno de los mejores RPG de la d\u00e9cada y lo puedes jugar gratis. Se llama Sea of Stars y lo tienes Game Pass",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/30/mejores-rpg-decada-puedes-jugar-gratis-llama-sea-of-stars-tienes-game-pass.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/29/IJIiUE.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "He probado esta nueva carta de Pok\u00e9mon TCG Pocket y mi mazo de Pikachu EX vuelve a ser invencible",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/30/he-probado-nueva-carta-pokemon-tcg-pocket-mi-mazo-pikachu-ex-vuelve-invencible.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/30/6839818f9fe9a.jpeg",
+                            "titulo": "EA Sports 'revive' Ultimate Team y trae este SBC con el mejor centrocampista del juego",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/13/ea-sports-revive-ultimate-team-trae-sbc-mejor-centrocampista-juego.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/684c03597ae2c.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
                         },
                         {
-                            "titulo": "Messi y Cristiano Ronaldo siguen entre los mejores del FC 25: estas son sus impresionantes cartas TOTS",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/29/messi-cristiano-ronaldo-siguen-mejores-fc-25-son-impresionantes-cartas-tots.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/29/683834b4e3e1d.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "El nuevo juego de Elden Ring cabrea a sus jugadores. \u00bfSe aleja Nightrein de la esencia FromSoftware?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/29/nuevo-juego-elden-ring-cabrea-jugadores-aleja-nightrein-esencia-fromsoftware.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/29/YUpKq1eE0xTtmCEYP.jpeg",
+                            "titulo": "Esta nueva mec\u00e1nica de GTA 6 cambiar\u00eda por completo el final del juego si esta filtraci\u00f3n es real",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/13/nueva-mecanica-gta-6-cambiaria-completo-final-juego-filtracion-real.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/684bf0d624c73.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Anunciado el nuevo Pok\u00e9mon Presents para este mismo verano junto a Leyendas Z-A",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/anunciado-nuevo-pokemon-presents-verano-leyendas-z.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/6837199a68bd3.jpeg",
+                            "titulo": "El juego m\u00e1s sexy de PS5 llega a PC con ganas de demostrar que es algo m\u00e1s que curvas y chicas guapas. Stellar Blade arrasa en Steam",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/13/juego-sexy-ps5-llega-pc-ganas-demostrar-curvas-chicas-guapas-stellar-blade-arrasa-steam.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/960_ejRT.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Leyendas Pok\u00e9mon: Z-A confirma su fecha de lanzamiento por sorpresa",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/leyendas-pokemon-z-confirma-fecha-lanzamiento-sorpresa.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/68371120d93eb.jpeg",
+                            "titulo": "El drama de PC F\u00fatbol llega a Consumo de Andaluc\u00eda y una inspecci\u00f3n podr\u00eda complicar a\u00fan m\u00e1s las cosas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/drama-pc-futbol-llega-consumo-andalucia-inspeccion-podria-complicar-aun-cosas.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aed6195263.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Tiene un 96% de cr\u00edticas positivas, lo tienes 'gratis' en PC y llegar\u00e1 este mes a PlayStation y Switch. As\u00ed es Against the Storm",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/96-criticas-positivas-tienes-gratis-pc-llegara-mes-playstation-switch-asi-against-the-storm.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/Ya4PY1eIhXakDWHlj.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "FC 25 dicta sentencia: el Betis perder\u00e1 la Conference si no defiende bien a este crack del Chelsea",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/fc-25-dicta-sentencia-betis-perdera-conference-defiende-bien-crack-chelsea.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "\"S\u00ed, GTA 6 podr\u00eda 'reventar' la econom\u00eda de todo un pa\u00eds por un d\u00eda. Esto es lo que me dicen los datos\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/28/gta-6-podria-reventar-economia-pais-dia-esto-me-dicen-datos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/6836d8de4cce8.jpeg",
+                            "titulo": "Repasito al Bar\u00e7a y Champions. He simulado a Alexander-Arnold en su primera temporada con el Real Madrid y...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/repasito-barca-champions-he-simulado-alexander-arnold-primera-temporada-real-madrid.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aba95863a1.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Pok\u00e9mon TCG Rivales Predestinados: mejores cartas y m\u00e1s caras del nuevo set de Escarlata y P\u00farpura",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/pokemon-tcg-rivales-predestinados-mejores-cartas-caras-nuevo-set-escarlata-purpura.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/28/6836c8b72a5ef.jpeg",
+                            "titulo": "Con este juego volver\u00e1s a enamorarte de un modo manager online: Bienvenidos a Striker Manager 3",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/juego-volveras-enamorarte-manager-online-bienvenidos-striker-manager-3.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/mbeP3R.jpeg",
                             "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Magic x Final Fantasy: desvelamos en exclusiva la nueva criatura artefacto con la que arrasar\u00e1s el campo rival",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/28/magic-x-final-fantasy-desvelamos-exclusiva-nueva-criatura-artefacto-arrasaras-campo-rival.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/27/68360a9f5a9bc.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\"Adi\u00f3s, PC F\u00fatbol. Adi\u00f3s para siempre. Fue bonito mientras dur\u00f3\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/05/27/adios-pc-futbol-adios-siempre-bonito-duro.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/27/6835fdb2d5a61.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "PC F\u00fatbol 8 no ten\u00eda suficiente con un nuevo retraso: ahora hasta se atreve con dos posibles fechas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/27/chiste-cuenta-pc-futbol-8-retrasa-vez-fecha.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/27/6835eedbe7b0e.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Seguramente te hayas olvidado de ellos, pero estos objetos eran incre\u00edbles y deber\u00edan volver a Fortnite",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/27/seguramente-te-hayas-olvidado-objetos-increibles-deberian-volver-fortnite.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/27/6835d600d17de.jpeg",
-                            "meta": "Fortnite",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         },
                         {
-                            "titulo": "PS Plus tira la casa por la ventana con los juegos de junio de 2025: NBA 2K25, GTA 3 y m\u00e1s",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/27/ps-plus-tira-casa-ventana-juegos-junio-2025-nba-2k25-gta-3.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/27/6835b4dcec18a.jpeg",
+                            "titulo": "Se filtra una supuesta mec\u00e1nica de GTA 6 antes de su tercer tr\u00e1iler y esta s\u00ed que parece real, pero estar\u00eda descartada",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/filtra-supuesta-mecanica-gta-6-tercer-trailer-parece-real-estaria-descartada.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aa2738fee3.jpeg",
+                            "meta": "Juegos",
+                            "autor": "M. J."
+                        },
+                        {
+                            "titulo": "Si eres fan de los JRPG y Final Fantasy, no puedes perderte esta nueva colaboraci\u00f3n con Magic",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/fan-jrpg-final-fantasy-puedes-perderte-nueva-colaboracion-magic.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684a9d634a5db.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         },
                         {
-                            "titulo": "Los Ultraentes asaltan Pok\u00e9mon TCG Pocket: llegan las nuevas cartas de 'Crisis Ultradimensional'",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/27/ultraentes-asaltan-pokemon-tcg-pocket-llegan-nuevas-cartas-crisis-ultradimensional.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/27/6835a1afd4616.jpeg",
+                            "titulo": "\u00bfDe qui\u00e9n es la licencia de PC F\u00fatbol? Hemos investigado y esta es la respuesta",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/licencia-pc-futbol-hemos-investigado-respuesta.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/11/684959b884a77.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El Liverpool puede hacer el fichaje m\u00e1s caro de la historia de la Premier: \u00bfpor cu\u00e1nto podr\u00eda fichar a Wirtz en el FC 25?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/11/liverpool-fichaje-caro-historia-premier-cuanto-podria-fichar-wirtz-fc-25.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/11/684975fe041d9.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
                         },
                         {
-                            "titulo": "Final de la segunda temporada de 'The last of us': La pelea entre Abby y Ellie la culmina por todo lo alto",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/27/te-deje-vivir-arruinaste-pelea-abby-ellie-culmina-alto-segunda-temporada-tlou.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/26/68344a5b0c97d.jpeg",
+                            "titulo": "Fortnite vuelve a colaborar con el mundo del f\u00fatbol: esta es la quinta estrella que llega al juego de Epic Games",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/11/fortnite-vuelve-colaborar-mundo-futbol-quinta-estrella-llega-juego-epic-games.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/11/68495465ecade.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
                         },
                         {
-                            "titulo": "\u00bfQuieres mejorar tu Modo Carrera? Estos jugadores espa\u00f1oles son una ganga, y seguro que no los ten\u00edas en cuenta",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/26/quieres-mejorar-carrera-jugadores-espanoles-son-ganga-seguro-tenias-cuenta.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/26/683454b4b38e9.png",
+                            "titulo": "Jam\u00e1s so\u00f1\u00e9 con una mec\u00e1nica as\u00ed en Mario Kart World. El nuevo exclusivo de Switch 2 es una caja de sorpresas",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/11/jamas-sone-mecanica-asi-mario-kart-world-nuevo-exclusivo-switch-2-caja-sorpresas.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/11/YZdCE1eIKhEz156or.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\"No esperaba mucho del EA Sports F1 25... y me he llevado una sorpresa tremenda''",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/10/esperaba-ea-sports-f1-25-me-he-llevado-sorpresa-tremenda.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/6848673b95a34.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Todos los cambios de League of Legends con el Acto 2 de Florecer Espiritual",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/10/todos-cambios-league-of-legends-acto-2-florecer-espiritual.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/68485339458eb.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
+                            "titulo": "El fichaje del verano ya est\u00e1 aqu\u00ed: Striker Manager 3 x MARCA: Nueva Copa, productos especiales y regalos",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/10/fichaje-verano-aqui-striker-manager-3-x-marca-nueva-copa-cosmeticos-regalos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/68482824349c6.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "As\u00ed ser\u00e1 la temporada de debut de Huijsen en el Real Madrid seg\u00fan FC 25: tres t\u00edtulos pero pocos minutos",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/10/asi-sera-temporada-debut-huijsen-real-madrid-fc-25-tres-titulos-pocos-minutos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/68481df1251c0.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
                         },
                         {
-                            "titulo": "GTA 6 podr\u00eda colapsar la econom\u00eda de todo un continente. En Estados Unidos est\u00e1n aterrados de Rockstar y sus consecuencias laborales",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/26/maxima-preocupacion-estados-unidos-perdidas-millonarias-podria-ocasionar-gta-6.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/26/87X.jpeg",
+                            "titulo": "Con este trucazo de Mario Kart World podr\u00e1s conseguir monedas infinitas sin mover un solo dedo",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/10/trucazo-mario-kart-world-podras-conseguir-monedas-infinitas-mover-dedo.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/YZCoi1eI11goL90Z6.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni en sue\u00f1os pens\u00e9 que GTA 6 podr\u00eda ser capaz de algo as\u00ed, pero su nuevo mapa ir\u00eda incluso m\u00e1s lejos de lo que cre\u00edamos",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/10/suenos-pense-gta-6-podria-capaz-asi-nuevo-mapa-iria-lejos-creiamos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/6847e9e81d073.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Si Pok\u00e9mon reacciona con Switch 2, podr\u00eda salvar uno de sus juegos m\u00e1s virales, pero tienen que actuar ya",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/pokemon-reacciona-switch-2-podria-salvar-juegos-virales-actuar.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/6846e09316ba8.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Mejores ofertas y lanzamientos de la semana: el MMO de Dune, lo nuevo del creador de GTA 5 y mucho m\u00e1s",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/mejores-ofertas-lanzamientos-semana-mmo-dune-nuevo-creador-gta-5.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/6846c6956f858.png",
+                            "meta": "Juegos",
+                            "autor": "M.J."
+                        },
+                        {
+                            "titulo": "El nuevo juego gratis de Dragon Ball es justo lo que buscaba como jugador de League of Legends",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/nuevo-juego-gratis-dragon-ball-justo-buscaba-jugador-league-of-legends.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/1eHi3kHlgd9O.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Gore, sangre y desmembramientos llegan a GTA 6. Si esto que dicen es real, \u00bfRockstar tendr\u00eda problemas?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/gore-sangre-desmembramientos-llegan-gta-6-esto-dicen-real-rockstar-tendria-problemas.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/6846952789099.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "GTA 6 sufre una filtraci\u00f3n masiva y desvela decenas de novedades",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/gta-6-sufre-filtracion-masiva-desvela-decenas-novedades.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/68468d9fd5073.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00d13 2025: A Espa\u00f1a y LATAM no les falta talento y estos 69 juegos lo demuestran. Resumen con todos los tr\u00e1ileres",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/08/n3-2025-espana-latam-les-falta-talento-69-juegos-demuestran-resumen-todos-traileres.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/06/6842f25d4ab43.png",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Las 'primeras veces' de las estrellas de la NBA en el 2K: As\u00ed llegaron al juego Curry, LeBron, Jokic, Giannis...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/08/primeras-veces-estrellas-nba-2k-asi-llegaron-juego-curry-lebron-jokic-giannis.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/6841de42bdc72.jpeg",
                             "meta": "Juegos",
                             "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Gu\u00eda b\u00e1sica de Project Zomboid: c\u00f3mo construir tu primer gran refugio",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/26/guia-basica-project-zomboid-construir-primer-gran-refugio.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/23/683086415325b.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El incre\u00edble caso de Luka Modric en EA Sports FC: lleg\u00f3 y se fue del Real Madrid con la misma valoraci\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/25/increible-caso-luka-modric-ea-sports-fc-llego-real-madrid-valoracion.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/23/6830714459b92.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "El drama de PC F\u00fatbol 8 se alarga y anuncia su tercer retraso consecutivo: no saldr\u00e1 este s\u00e1bado",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/drama-pc-futbol-8-alarga-anuncia-tercer-retraso-consecutivo-saldra-sabado.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/6831c559b26db.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Cronolog\u00eda de PC F\u00fatbol 8 y sus interminables retrasos: \u00bfCu\u00e1ntos ha tenido en total?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/05/24/cronologia-pc-futbol-8-interminables-retrasos-cuantos-tenido-total.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/05/24/6831bf6bbc2dc.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12799,9 +12805,159 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 19 de junio en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-19-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid19062025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "19 de junio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-19-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid19062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Blitz Royale. </span>",
+                                "Fortnite tiene un modo nuevo de juego para celulares: partidas de 5 minutos"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/fortnite-anuncia-blitz-royale-un-nuevo-modo-de-juego-para-moviles-con-partidas-de-5-minutos-nid17062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/fortnite-ha-anunciado-el-lanzamiento-de-blitz-G2NIVC5EZZBEJIBQR62LOTOG5E.jpg?auth=31105f6061fec0d67ce64cc0417df6d78afe206249c7fce05a6c04ffbcf8859c&width=300&height=200&quality=70&smart=true",
+                            "fecha": "17 de junio de 2025",
+                            "url_link": "/tecnologia/fortnite-anuncia-blitz-royale-un-nuevo-modo-de-juego-para-moviles-con-partidas-de-5-minutos-nid17062025/"
+                        },
+                        {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 15 de junio",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-15-de-junio-nid16062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "16 de junio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-15-de-junio-nid16062025/"
+                        },
+                        {
+                            "titulo": "Lanzamientos de videojuegos en Junio de 2025 en Steam: esta es la lista",
+                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-junio-de-2025-en-steam-esta-es-la-lista-nid14062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-junio-de-2025-en-2WHXRJNBQNDE3ASHX2ZRQPKSIQ.jpg?auth=1961efa45d6bc0cfa3083c5116b4bdb28e5c3ae8b25d5f021a004d205f036fb0&width=300&height=200&quality=70&smart=true",
+                            "fecha": "14 de junio de 2025",
+                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-junio-de-2025-en-steam-esta-es-la-lista-nid14062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">\"Mi revoluci\u00f3n\". </span>",
+                                "Es argentina y sali\u00f3 campeona mundial de Counter Strike 2: su lucha contra los prejuicios y un entrenamiento \u201cestilo F1\u2033"
+                            ],
+                            "url": "https://www.lanacion.com.ar/sociedad/es-argentina-juega-en-un-equipo-de-brasil-y-salio-campeona-del-mundo-de-counter-strike-2-nid14062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/lucia-dubra-durante-los-playoffs-de-la-esl-impact-STNX2HCIKNAFZPOR2NHANTRX2U.jpg?auth=07885f924f2928ea6601cdc796ed391bf5ed1d08d389b15848079330034ec75b&width=300&height=200&quality=70&smart=true",
+                            "fecha": "14 de junio de 2025",
+                            "url_link": "/sociedad/es-argentina-juega-en-un-equipo-de-brasil-y-salio-campeona-del-mundo-de-counter-strike-2-nid14062025/"
+                        },
+                        {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 12 de junio en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-12-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid12062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "12 de junio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-12-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid12062025/"
+                        },
+                        {
+                            "titulo": "Ventas de Nintendo Switch 2 imponen nuevo r\u00e9cord en solo cuatro d\u00edas",
+                            "url": "https://www.lanacion.com.ar/agencias/ventas-de-nintendo-switch-2-imponen-nuevo-record-en-solo-cuatro-dias-nid11062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/ventas-de-nintendo-switch-2-imponen-nuevo-record-ZM7JGEUW45EZNNAVTXARAK4ATY.jpg?auth=4f87087f422171d27873a24480fd4f7c2b8f0074bf5731280b7047bc4f0187b3&width=300&height=200&quality=70&smart=true",
+                            "fecha": "11 de junio de 2025",
+                            "url_link": "/agencias/ventas-de-nintendo-switch-2-imponen-nuevo-record-en-solo-cuatro-dias-nid11062025/"
+                        },
+                        {
+                            "titulo": "Switch 2 bate el r\u00e9cord como la consola m\u00e1s r\u00e1pidamente vendida de la compa\u00f1\u00eda",
+                            "url": "https://www.lanacion.com.ar/agencias/switch-2-bate-el-record-como-la-consola-mas-rapidamente-vendida-de-la-compania-nid11062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/la-switch-2-bate-el-record-como-la-consola-mas-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
+                            "fecha": "11 de junio de 2025",
+                            "url_link": "/agencias/switch-2-bate-el-record-como-la-consola-mas-rapidamente-vendida-de-la-compania-nid11062025/"
+                        },
+                        {
+                            "titulo": "Nintendo dice que vendi\u00f3 un r\u00e9cord de 3,5 millones de consolas Switch en cuatro d\u00edas",
+                            "url": "https://www.lanacion.com.ar/agencias/nintendo-dice-que-vendio-un-record-de-35-millones-de-consolas-switch-en-cuatro-dias-nid11062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/nintendo-dice-que-vendio-un-record-de-35-millones-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
+                            "fecha": "11 de junio de 2025",
+                            "url_link": "/agencias/nintendo-dice-que-vendio-un-record-de-35-millones-de-consolas-switch-en-cuatro-dias-nid11062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">A examen. </span>",
+                                "Probamos una notebook para videojuegos que es potencia pura"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/rog-strix-scar-18-probamos-una-notebook-para-videojuegos-que-es-potencia-pura-nid10062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/una-notebook-gamer-rog-strix-scar-de-asus-con-R2S7CJNJEZD4RNDOUMAC3UN64Y.jpg?auth=b1646a12966ac7bba508c3b892077d51233e197f6476de36ef3390232109fc2c&width=300&height=200&quality=70&smart=true",
+                            "fecha": "10 de junio de 2025",
+                            "url_link": "/tecnologia/rog-strix-scar-18-probamos-una-notebook-para-videojuegos-que-es-potencia-pura-nid10062025/"
+                        },
+                        {
+                            "titulo": "Actores de videojuegos de Hollywood en huelga llegan a un acuerdo provisional con los estudios",
+                            "url": "https://www.lanacion.com.ar/agencias/actores-de-videojuegos-de-hollywood-en-huelga-llegan-a-un-acuerdo-provisional-con-los-estudios-nid10062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/inteligencia-artificial-de-openai-chatgpt-google-U3MJBHURUBEAVNKCCYOKVESRMM.jpg?auth=447a18fc3caf991ebd82a6cf2cc159a8ab5a08da39575471fafa8a524115e6f0&width=300&height=200&quality=70&smart=true",
+                            "fecha": "10 de junio de 2025",
+                            "url_link": "/agencias/actores-de-videojuegos-de-hollywood-en-huelga-llegan-a-un-acuerdo-provisional-con-los-estudios-nid10062025/"
+                        },
+                        {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 08 de junio",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-08-de-junio-nid09062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "9 de junio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-08-de-junio-nid09062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Una palanca y muchos botones para los juegos tipo arcade. </span>",
+                                "As\u00ed es el nuevo joystick que present\u00f3 PlayStation para consola y PC"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/playstation-presenta-su-primer-joystick-para-combates-estilo-arcade-y-con-conexion-inalambrica-de-nid06062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/project-defiant-es-el-nuevo-nombre-del-joystick-Q6ABMGWXQ5H6RDJ5RDX74QH5UI.jpg?auth=877de980d22e837927f6f8266420d446645b6a94450d3689f2a6aaf6c60cb45d&width=300&height=200&quality=70&smart=true",
+                            "fecha": "6 de junio de 2025",
+                            "url_link": "/tecnologia/playstation-presenta-su-primer-joystick-para-combates-estilo-arcade-y-con-conexion-inalambrica-de-nid06062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Llegada accidentada de la consola. </span>",
+                                "Denuncian perforaciones en la pantalla de la Switch 2 por abrochar los tickets de compra"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/llegada-accidentada-de-nintendo-switch-2-denuncian-perforaciones-en-la-pantalla-por-abrochar-los-nid06062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/algunos-usuarios-de-una-tienda-en-nueva-york-se-HXRPX3AKAVHELCSM35HAZJQNHY.JPG?auth=afa864ff5581b5622ca416ee52a8e3f0064cffa45071374b020769fd37851fe3&width=300&height=200&quality=70&smart=true",
+                            "fecha": "6 de junio de 2025",
+                            "url_link": "/tecnologia/llegada-accidentada-de-nintendo-switch-2-denuncian-perforaciones-en-la-pantalla-por-abrochar-los-nid06062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Filas para comprarla. </span>",
+                                "Cu\u00e1l es el precio de la nueva Nintendo Switch 2 sin los aranceles de Donald Trump"
+                            ],
+                            "url": "https://www.lanacion.com.ar/estados-unidos/cual-es-el-precio-de-la-nueva-nintendo-switch-2-sin-los-aranceles-de-donald-trump-nid05062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/la-nintendo-switch-2-se-lanzo-al-mercado-y-logro-VEH3ZBSALZBHXHUL3YYSVOWJFE.png?auth=4e1faa60fadafb4724ffb796c5bf0e4f6aa06f00f79fb8aa05272a2031cc5597&width=300&height=200&quality=70&smart=true",
+                            "fecha": "5 de junio de 2025",
+                            "url_link": "/estados-unidos/cual-es-el-precio-de-la-nueva-nintendo-switch-2-sin-los-aranceles-de-donald-trump-nid05062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Todos los juegos. </span>",
+                                "State of Play: 007 First Light, Nioh 3 y m\u00e1s novedades de PlayStation para este a\u00f1o y 2026"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/state-of-play-007-first-light-nioh-3-y-mas-novedades-de-playstation-para-este-ano-y-2026-nid05062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/sony-celebro-su-state-of-play-el-evento-donde-EKULT266ANDEBD2KYYZNF6MTDE.jpg?auth=a64b6d2c72f1d10309572bab1afb0d987c6856bb63e27c1b1f146b2b964f5143&width=300&height=200&quality=70&smart=true",
+                            "fecha": "5 de junio de 2025",
+                            "url_link": "/tecnologia/state-of-play-007-first-light-nioh-3-y-mas-novedades-de-playstation-para-este-ano-y-2026-nid05062025/"
+                        },
+                        {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 5 de junio en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-5-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid05062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "5 de junio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-5-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid05062025/"
+                        },
+                        {
+                            "titulo": [
+                                "<span class=\"com-lead\">Colas a la medianoche y un precio sin aranceles. </span>",
+                                "La Nintendo Switch 2 sali\u00f3 a la venta en todo el mundo"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/colas-a-la-medianoche-y-un-precio-sin-aranceles-la-nintendo-switch-2-salio-a-la-venta-en-todo-el-nid05062025/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/un-comprador-de-una-nintendo-switch-2-que-hizo-YEIW5EZ3OFGBDF7CMVDO5SAU7I.JPG?auth=6c93ce3530691b5828f51543014aecd74702bc64db737c447f7a6547cd099a1e&width=300&height=200&quality=70&smart=true",
+                            "fecha": "5 de junio de 2025",
+                            "url_link": "/tecnologia/colas-a-la-medianoche-y-un-precio-sin-aranceles-la-nintendo-switch-2-salio-a-la-venta-en-todo-el-nid05062025/"
+                        },
+                        {
                             "titulo": "Jugadores de Nintendo se abalanzan sobre la esperada consola Switch 2",
                             "url": "https://www.lanacion.com.ar/agencias/jugadores-de-nintendo-se-abalanzan-sobre-la-esperada-consola-switch-2-nid05062025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/jugadores-de-nintendo-se-abalanzan-sobre-la-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/jugadores-de-nintendo-se-abalanzan-sobre-la-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
                             "fecha": "5 de junio de 2025",
                             "url_link": "/agencias/jugadores-de-nintendo-se-abalanzan-sobre-la-esperada-consola-switch-2-nid05062025/"
                         },
@@ -12896,253 +13052,206 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/los-auriculares-g522-lightspeed-de-logitech-se-YBLMJK46AVBV5POHIRXDJ2WDB4.jpg?auth=cb087455337c4847d05b15f8db94c87ed0fc6215cf0b9f641fe297e399947bcd&width=300&height=200&quality=70&smart=true",
                             "fecha": "21 de mayo de 2025",
                             "url_link": "/tecnologia/logitech-g522-lightspeed-asi-son-los-nuevos-auriculares-inalambricos-para-gamers-nid21052025/"
-                        },
-                        {
-                            "titulo": "Fortnite vuelve a estar disponible en la tienda App Store de Apple en EE.UU.",
-                            "url": "https://www.lanacion.com.ar/estados-unidos/fortnite-vuelve-a-estar-disponible-en-la-tienda-app-store-de-apple-en-eeuu-nid20052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/fortnite-vuelve-a-estar-disponible-en-la-tienda-NPYQID74GBGR7I2Q7OVY2KULLE.jpg?auth=03092ce9bdf6f6004e475fa413f0109127e0032d96ab2af691795dffc8213e1c&width=300&height=200&quality=70&smart=true",
-                            "fecha": "20 de mayo de 2025",
-                            "url_link": "/estados-unidos/fortnite-vuelve-a-estar-disponible-en-la-tienda-app-store-de-apple-en-eeuu-nid20052025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Fue bueno mientras dur\u00f3. </span>",
-                                "Activision cierra Call of Duty: Warzone Mobile"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/fue-bueno-mientras-duro-activision-cierra-call-of-duty-warzone-mobile-nid19052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/una-captura-de-pantalla-del-call-of-duty-warzone-4LIMPBYD2VD5XKLNKNRTQLBNSQ.jpg?auth=d2eba941975a6af3af12289404a2ea3686f5bb899f5226fb5bda716549017332&width=300&height=200&quality=70&smart=true",
-                            "fecha": "19 de mayo de 2025",
-                            "url_link": "/tecnologia/fue-bueno-mientras-duro-activision-cierra-call-of-duty-warzone-mobile-nid19052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 18 de mayo",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-18-de-mayo-nid19052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-TV4H2YK37FEMHFYNB3IQPRN6IE.jpg?auth=e5a79656894e2fcaf8071eb895ec89b2b6189773b0b270dc01e6c28851c4b456&width=300&height=200&quality=70&smart=true",
-                            "fecha": "19 de mayo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-18-de-mayo-nid19052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 15 de mayo en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-15-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid15052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "15 de mayo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-15-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid15052025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Falta la aprobaci\u00f3n de Apple. </span>",
-                                "Fortnite vuelve a la App Store en Estados Unidos"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/fortnite-vuelve-a-la-app-store-en-estados-unidos-a-falta-de-la-aprobacion-de-apple-nid12052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/fortnite-volvera-al-iphone-el-viernes-la-compania-QZMKM2IBJJFXJEXAZW7IJJJURQ.jpg?auth=934c36b8c59aaf67a4627d98bed4043a3c1310b97510adc8d16916621574fcc7&width=300&height=200&quality=70&smart=true",
-                            "fecha": "12 de mayo de 2025",
-                            "url_link": "/tecnologia/fortnite-vuelve-a-la-app-store-en-estados-unidos-a-falta-de-la-aprobacion-de-apple-nid12052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 11 de mayo",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-11-de-mayo-nid12052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
-                            "fecha": "12 de mayo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-11-de-mayo-nid12052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 8 de mayo en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-8-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid08052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "8 de mayo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-8-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid08052025/"
-                        },
-                        {
-                            "titulo": "Xsolla adquiere Ludo con el prop\u00f3sito de impulsar la captaci\u00f3n y monetizaci\u00f3n de jugadores",
-                            "url": "https://www.lanacion.com.ar/agencias/xsolla-adquiere-ludo-con-el-proposito-de-impulsar-la-captacion-y-monetizacion-de-jugadores-nid08052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/xsolla-adquiere-ludo-con-el-proposito-de-impulsar-4BYLX4PWTNBCPAMCGV5FZFQEKI.jpg?auth=411512bfbfca7c105f9d05e5400e0ad201b36eeb0c2a5b0fc33cc3f5b7e8fff3&width=300&height=200&quality=70&smart=true",
-                            "fecha": "8 de mayo de 2025",
-                            "url_link": "/agencias/xsolla-adquiere-ludo-con-el-proposito-de-impulsar-la-captacion-y-monetizacion-de-jugadores-nid08052025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Jason y Luc\u00eda, los protagonistas.   </span>",
-                                "Grand Theft Auto VI tiene nuevo trailer para atemperar la larga espera"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/grand-theft-auto-vi-tiene-nuevo-trailer-para-atemperar-la-larga-espera-nid06052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/jason-y-lucia-son-los-protagonistas-del-juego-CKZQGMPYOZA6NEO5BVRPACIKVY.jpg?auth=f8606ff5099043cc467d084b0ca58731419c992981ea7f8b33857975d48c515a&width=300&height=200&quality=70&smart=true",
-                            "fecha": "6 de mayo de 2025",
-                            "url_link": "/tecnologia/grand-theft-auto-vi-tiene-nuevo-trailer-para-atemperar-la-larga-espera-nid06052025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Habr\u00e1 que esperar. </span>",
-                                "Grand Theft Auto VI se retrasa al 26 de mayo de 2026"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/habra-que-esperar-grand-theft-auto-vi-se-retrasa-al-26-de-mayo-de-2026-nid05052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/el-lanzamiento-del-grand-theft-auto-vi-se-retraso-SMCCVUBFORDWBG4FEEFBCKD3IQ.jpg?auth=2417256c63910577bc4ab1e70ffc1f36d95469932b878c2bb13c923932472c4f&width=300&height=200&quality=70&smart=true",
-                            "fecha": "5 de mayo de 2025",
-                            "url_link": "/tecnologia/habra-que-esperar-grand-theft-auto-vi-se-retrasa-al-26-de-mayo-de-2026-nid05052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 04 de mayo",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-04-de-mayo-nid05052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
-                            "fecha": "5 de mayo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-04-de-mayo-nid05052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 1 de mayo en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-1-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid01052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "1 de mayo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-1-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid01052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 27 de abril",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-27-de-abril-nid28042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
-                            "fecha": "28 de abril de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-27-de-abril-nid28042025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 24 de abril en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-24-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid24042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "24 de abril de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-24-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid24042025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 20 de abril",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-20-de-abril-nid21042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
-                            "fecha": "21 de abril de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-20-de-abril-nid21042025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 17 de abril en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-17-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid17042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "17 de abril de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-17-de-abril-en-epic-games-solo-hay-que-reclamarlos-nid17042025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">No es s\u00f3lo para Steam. </span>",
-                                "En qu\u00e9 tiendas los videojuegos son m\u00e1s baratos por la nueva regulaci\u00f3n del Gobierno"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/steam-mas-barato-el-gobierno-elimina-el-30-de-impuesto-a-las-ganancias-en-la-venta-de-videojuegos-nid17042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/la-agencia-de-control-y-recaudacion-aduanero-arca-LY7QUHPK75CZHM3YS26RO3SYT4.jpg?auth=8610a09fb300db345ffce2c0c52fcbb4a6087e34f6c19956d2b19b15850504e4&width=300&height=200&quality=70&smart=true",
-                            "fecha": "17 de abril de 2025",
-                            "url_link": "/tecnologia/steam-mas-barato-el-gobierno-elimina-el-30-de-impuesto-a-las-ganancias-en-la-venta-de-videojuegos-nid17042025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">\"Una nueva era\".  </span>",
-                                "La IA impulsa una industria que mueve miles de millones de d\u00f3lares"
-                            ],
-                            "url": "https://www.lanacion.com.ar/economia/IA/la-ia-impulsa-una-industria-que-mueve-miles-de-millones-de-dolares-nid16042025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/para-2027-se-espera-que-la-industria-de-los-ZRC7HJSC5FACXPSTCMR3PSWCJM.jpg?auth=44d56a7badc5abf42754a67eaa0dd364c75d5144296d3800a27810cb96df3a60&width=300&height=200&quality=70&smart=false&focal=2028,991",
-                            "fecha": "16 de abril de 2025",
-                            "url_link": "/economia/IA/la-ia-impulsa-una-industria-que-mueve-miles-de-millones-de-dolares-nid16042025/"
                         }
                     ]
                 },
                 {
                     "nombre": "decrypt_tecnologia",
-                    "pagina": null
-                },
-                {
-                    "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Video Deepfake de Trump Pide Velociraptores para la Patrulla Fronteriza: Acumula 1,2 Millones de Vistas",
-                            "url": "https://decrypt.co/es/323740/video-deepfake-de-trump-pide-velociraptores-para-la-patrulla-fronteriza-acumula-12-millones-de-vistas",
-                            "categoria": "Artificial Intelligence",
+                            "titulo": "La Desregulaci\u00f3n de Drones de Trump Aumenta Temores de Ataques Terroristas Dom\u00e9sticos",
+                            "url": "https://decrypt.co/es/325326/la-desregulacion-de-drones-de-trump-aumenta-temores-de-ataques-terroristas-domesticos",
+                            "categoria": "Technology",
                             "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@webp",
-                            "descripcion": "Quiz\u00e1s sea una se\u00f1al de los tiempos cuando nada es demasiado extra\u00f1o para ser descartado.\nUn video deepfake del presidente de Estados Unidos, Donald Trump, pidiendo el regreso de Velocirraptores y Pterod\u00e1ctilos para patrullar la frontera con M\u00e9xico se volvi\u00f3 viral el martes, acumulando m\u00e1s de 1.200.000 visualizaciones y 20.000 me gusta.\nEl clip, claramente etiquetado al final como un deepfake y subido a X el lunes, muestra a un Trump renderizado de manera convincente en la Oficina Oval de la Cas...",
-                            "fecha": "Jun 4, 2025"
+                            "descripcion": "A principios de este mes, el presidente Donald Trump firm\u00f3 un amplio conjunto de \u00f3rdenes ejecutivas destinadas a desregular los drones comerciales, autos voladores y jets supers\u00f3nicos, con la promesa de \"restaurar la soberan\u00eda del espacio a\u00e9reo estadounidense\".\nPero mientras los cielos se abren a la innovaci\u00f3n, los expertos en seguridad nacional est\u00e1n haciendo sonar las alarmas: la revoluci\u00f3n de los drones ya est\u00e1 siendo militarizada.\nDesde zonas de guerra en Ir\u00e1n y Ucrania hasta ataques insurge...",
+                            "fecha": "Jun 16, 2025"
                         },
                         "notas": {
                             "cortas": [
                                 {
-                                    "titulo": "C\u00f3mo Enga\u00f1ar a ChatGPT y Ganar $50.000",
-                                    "url": "https://decrypt.co/es/323391/como-enganar-a-chatgpt-y-ganar-50-000",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 4, 2025",
-                                    "meta": "4 min lectura"
-                                },
-                                {
-                                    "titulo": "Administraci\u00f3n de Alimentos y Medicamentos de EEUU Lanza Plataforma de IA Para 'Modernizar' la Agencia",
-                                    "url": "https://decrypt.co/es/323571/administracion-de-alimentos-y-medicamentos-de-eeuu-lanza-plataforma-de-ia-para-modernizar-la-agencia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 4, 2025",
+                                    "titulo": "Conoce a Olto: La Scooter El\u00e9ctrica de $3.500 Que Aspira Ser el iPhone de la Micromovilidad",
+                                    "url": "https://decrypt.co/es/325306/conoce-a-olto-la-scooter-electrica-de-3-500-que-aspira-ser-el-iphone-de-la-micromovilidad",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 16, 2025",
                                     "meta": "3 min lectura"
                                 },
                                 {
-                                    "titulo": "Consumo de Energ\u00eda de IA Superar\u00e1 al de Bitcoin Para Fin de A\u00f1o: Estudio",
-                                    "url": "https://decrypt.co/es/323389/consumo-de-energia-de-ia-superara-al-de-bitcoin-para-fin-de-ano-estudio",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 4, 2025",
+                                    "titulo": "Startup DIMO Lanza Empresa DePIN en Jap\u00f3n Para Ayudar a Fabricantes de Autos a Monetizar Datos de Veh\u00edculos",
+                                    "url": "https://decrypt.co/es/324992/startup-dimo-lanza-empresa-depin-en-japon-para-ayudar-a-fabricantes-de-autos-a-monetizar-datos-de-vehiculos",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 14, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Shopify Implementar\u00e1 Pagos Con la Stablecoin USDC en Base en Colaboraci\u00f3n Con el Equipo de Coinbase",
+                                    "url": "https://decrypt.co/es/324970/shopify-implementara-pagos-con-la-stablecoin-usdc-en-base-en-colaboracion-con-el-equipo-de-coinbase",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 13, 2025",
                                     "meta": "4 min lectura"
                                 },
                                 {
-                                    "titulo": "\u00bfCu\u00e1l es el Mejor Generador de Videos de IA de Corta Duraci\u00f3n? Kling 2.1 vs Google Veo 3",
-                                    "url": "https://decrypt.co/es/323248/cual-es-el-mejor-generador-de-videos-de-ia-de-corta-duracion-kling-2-1-vs-google-veo-3",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 2, 2025",
-                                    "meta": "12 min lectura"
+                                    "titulo": "Veh\u00edculos Aut\u00f3nomos de Waymo Son Incendiados Durante Protesta de ICE en Los \u00c1ngeles",
+                                    "url": "https://decrypt.co/es/324545/vehiculos-autonomos-de-waymo-son-incendiados-durante-protesta-de-ice-en-los-angeles",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 11, 2025",
+                                    "meta": "2 min lectura"
                                 },
                                 {
-                                    "titulo": "Comienzan los Disparos: La Guerra de Navegadores de IA ha Empezado",
-                                    "url": "https://decrypt.co/es/322783/comienzan-los-disparos-la-guerra-de-navegadores-de-ia-ha-empezado",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 30, 2025",
-                                    "meta": "9 min lectura"
+                                    "titulo": "Se Dispara el Uso de VPN en Francia Tras Bloqueo de Pornhub Por Restricciones de Edad",
+                                    "url": "https://decrypt.co/es/323993/se-dispara-el-uso-de-vpn-en-francia-tras-bloqueo-de-pornhub-por-restricciones-de-edad",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 6, 2025",
+                                    "meta": "4 min lectura"
                                 },
                                 {
-                                    "titulo": "Zar de IA y Criptomonedas David Sacks Dice Que EEUU Podr\u00eda Comprar M\u00e1s Bitcoin",
-                                    "url": "https://decrypt.co/es/322455/zar-de-ia-y-criptomonedas-david-sacks-dice-que-eeuu-podria-comprar-mas-bitcoin",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 29, 2025",
+                                    "titulo": "Fundaci\u00f3n Ethereum Reestructura Divisi\u00f3n de I+D y Planea 'Repensar' el Dise\u00f1o y Desarrollo",
+                                    "url": "https://decrypt.co/es/323570/fundacion-ethereum-reestructura-division-de-id-y-planea-repensar-el-diseno-y-desarrollo",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 4, 2025",
                                     "meta": "4 min lectura"
                                 }
                             ],
                             "extensas": [
                                 {
-                                    "titulo": "CEO de Robinhood Predice Empresas Impulsadas por IA, Las Compara Con Bitcoin y Satoshi",
-                                    "url": "https://decrypt.co/es/322447/ceo-de-robinhood-predice-empresas-impulsadas-por-ia-las-compara-con-bitcoin-y-satoshi",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 29, 2025",
+                                    "titulo": "Ethereum Deber\u00eda Escalar 10x el Pr\u00f3ximo A\u00f1o: Vitalik Buterin",
+                                    "url": "https://decrypt.co/es/323388/ethereum-deberia-escalar-10x-el-proximo-ano-vitalik-buterin",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 4, 2025",
                                     "meta": "2 min lectura",
-                                    "descripcion": "El jefe de Robinhood, Vlad Tenev, dijo que la inteligencia artificial llevar\u00e1 a requisitos m\u00ednimos de personal en las empresas y compar\u00f3 tales estructuras hipot\u00e9ticas con la forma en que Satoshi Nakamoto cre\u00f3 Bitcoin.\nHablando en Bitcoin 2025 en Las Vegas, Tenev dijo que las \"empresas de una sola persona\" impulsadas por IA se convertir\u00edan en la norma, junto con activos tokenizados.\nEl CEO y cofundador de Robinhood hizo alusi\u00f3n a Satoshi Nakamoto\u2014el misterioso y seud\u00f3nimo creador (o creadores) de..."
+                                    "descripcion": "Las capacidades del blockchain de Ethereum deber\u00edan crecer diez veces durante el pr\u00f3ximo a\u00f1o, seg\u00fan el cofundador de la red, Vitalik Buterin.\nHablando en ETHGlobal Prague 2025 la semana pasada, el emprendedor cripto predijo que la red de criptomonedas detr\u00e1s de la segunda moneda digital m\u00e1s grande por capitalizaci\u00f3n de mercado deber\u00eda mejorar los costos y la velocidad pronto.\n\"En general, creo que hay mucho espacio para escalar de manera segura\", afirm\u00f3. \"Mi punto de vista es que generalmente de..."
                                 },
                                 {
-                                    "titulo": "Harvard Desarroll\u00f3 Modelo de IA Que Predice Supervivencia al C\u00e1ncer Basada en An\u00e1lisis Facial",
-                                    "url": "https://decrypt.co/es/322414/harvard-desarrolla-modelo-de-ia-que-predice-supervivencia-al-cancer-basada-en-analisis-facial",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "May 28, 2025",
+                                    "titulo": "Fundador de Binance CZ Propone DEX Para Prevenir Front-Running",
+                                    "url": "https://decrypt.co/es/323375/fundador-de-binance-cz-propone-dex-para-prevenir-front-running",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 3, 2025",
                                     "meta": "3 min lectura",
-                                    "descripcion": "Un nuevo modelo de inteligencia artificial desarrollado en la Universidad de Harvard, llamado FaceAge, estima la edad biol\u00f3gica mediante el an\u00e1lisis de caracter\u00edsticas faciales en fotograf\u00edas, y podr\u00eda ayudar a predecir la supervivencia al c\u00e1ncer al indicar qu\u00e9 tan mayor se ve un paciente en relaci\u00f3n con su edad real.\nEntrenado con im\u00e1genes de 58.851 personas sanas, FaceAge fue posteriormente probado en pacientes con c\u00e1ncer para explorar si verse mayor que la edad cronol\u00f3gica podr\u00eda se\u00f1alar peor..."
+                                    "descripcion": "El fundador de Binance, Changpeng \"CZ\" Zhao, propuso el domingo un nuevo tipo de exchange descentralizado que oculta las operaciones, posiciones y dep\u00f3sitos del p\u00fablico, para proteger a los traders de los ataques de front-running y liquidaci\u00f3n.\n\"Dados los eventos recientes, creo que ahora podr\u00eda ser un buen momento para que alguien lance un DEX de futuros perpetuos dark pool\", escribi\u00f3 Zhao en X. \"Siempre me ha intrigado el hecho de que todos puedan ver tus \u00f3rdenes en tiempo real en un DEX. El p..."
                                 },
                                 {
-                                    "titulo": "Civitai Adopta las Criptomonedas Tras Prohibici\u00f3n Del Procesador de Tarjetas de Cr\u00e9dito por Contenido Expl\u00edcito de IA",
-                                    "url": "https://decrypt.co/es/322290/civitai-adopta-las-criptomonedas-tras-prohibicion-del-procesador-de-tarjetas-de-credito-por-contenido-explicito-de-ia",
-                                    "categoria": "Artificial Intelligence",
+                                    "titulo": "Elon Musk Dice Que Llegar\u00e1 un Nuevo XChat Con Cifrado 'Estilo Bitcoin'",
+                                    "url": "https://decrypt.co/es/323373/elon-musk-dice-que-llegara-un-nuevo-xchat-con-cifrado-estilo-bitcoin",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 3, 2025",
+                                    "meta": "2 min lectura",
+                                    "descripcion": "Elon Musk anunci\u00f3 el domingo que X pronto lanzar\u00e1 una nueva funci\u00f3n de mensajer\u00eda llamada XChat, destacando capacidades como conversaciones encriptadas, mensajes que desaparecen, transferencia de archivos, y llamadas de audio y video.\nPero la publicaci\u00f3n caus\u00f3 confusi\u00f3n despu\u00e9s de que el CEO de X dijera que la funci\u00f3n est\u00e1 \"construida en Rust con encriptaci\u00f3n (estilo Bitcoin), una arquitectura completamente nueva\", lo que provoc\u00f3 una avalancha de respuestas esc\u00e9pticas de desarrolladores de Bitco..."
+                                },
+                                {
+                                    "titulo": "Vitalik Buterin: Ethereum Podr\u00eda Reemplazar el Efectivo Tras Fracaso de Sistemas N\u00f3rdicos",
+                                    "url": "https://decrypt.co/es/322465/vitalik-buterin-ethereum-podria-reemplazar-el-efectivo-tras-fracaso-de-sistemas-nordicos",
+                                    "categoria": "Technology",
+                                    "fecha": "May 29, 2025",
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Vitalik Buterin, cofundador de Ethereum, piensa que ETH podr\u00eda ser una alternativa viable a los intentos de Suecia y Noruega de hacer que sus sociedades prescindan del efectivo. Los pa\u00edses dieron marcha atr\u00e1s recientemente despu\u00e9s de descubrir que los sistemas de pago centralizados colapsan cuando fallan las infraestructuras f\u00edsicas.\nPero en el mundo de las criptomonedas, este movimiento provoc\u00f3 una respuesta diferente: la idea de que los sistemas descentralizados podr\u00edan asumir el rol.\n\"Los pa\u00ed..."
+                                },
+                                {
+                                    "titulo": "Primer Combate de Boxeo Humanoide Tiene Lugar en China\u2014Y es Bastante Genial",
+                                    "url": "https://decrypt.co/es/322284/primer-combate-de-boxeo-humanoide-tiene-lugar-en-china-y-es-bastante-genial",
+                                    "categoria": "Technology",
                                     "fecha": "May 27, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Civitai, el mayor repositorio del mundo de modelos de IA generativa, introdujo pagos con criptomonedas este mes despu\u00e9s de perder su procesador de tarjetas de cr\u00e9dito debido a contenido expl\u00edcito generado por IA, ofreciendo soporte para comprar Buzz, los tokens virtuales no-Web3 de la plataforma.\nEl sitio de intercambio de modelos de IA ahora acepta USDC, USDT, Litecoin, Ethereum, TRON, Solana, Dogecoin y Shiba Inu a trav\u00e9s del procesador de pagos NowPayments. Bitcoin fue excluido debido a las a..."
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Los robots ahora est\u00e1n luchando entre s\u00ed, \u00a1y son bastante buenos en ello!\nEl lunes, tuvo lugar la Competencia Mundial de Robots del Grupo de Medios Chinos (CMG) - Serie de Lucha Mecha en lo que se denomin\u00f3 como el \"primer combate de boxeo entre humanoides\", aunque el evento se asemejaba m\u00e1s a una competencia de artes marciales mixtas.\nCuatro robots se enfrentaron en un ring de boxeo controlado por humanos en ringside, en una exhibici\u00f3n sorprendentemente entretenida de la destreza ciborg.\nCreados..."
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "nombre": "decrypt_ia",
+                    "pagina": {
+                        "principal": {
+                            "titulo": "Firma de Infraestructura de IA Gradient, Obtiene $10 Millones Para Desarrollar Protocolos en Solana",
+                            "url": "https://decrypt.co/es/326166/firma-de-infraestructura-de-ia-gradient-obtiene-10-millones-para-desarrollar-protocolos-en-solana",
+                            "categoria": "Artificial Intelligence",
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/decentralized-autonomous-organization-dao-gID_7.jpg@webp",
+                            "descripcion": "Gradient Network cerr\u00f3 una ronda de financiaci\u00f3n semilla de $10 millones para construir lo que denomina una pila de infraestructura de IA descentralizada, con las firmas de capital de riesgo Pantera Capital y Multicoin Capital liderando la inversi\u00f3n junto a HSG (anteriormente Sequoia Capital China).\nLa startup con sede en Singapur planea usar los fondos para desarrollar dos protocolos centrales\u2014Lattica y Parallax\u2014que permitir\u00edan que los modelos de inteligencia artificial funcionen a trav\u00e9s de un...",
+                            "fecha": "Jun 20, 2025"
+                        },
+                        "notas": {
+                            "cortas": [
+                                {
+                                    "titulo": "La IA Puede Ayudar a la Industria Cripto, Pero Tambi\u00e9n Aumentar el Fraude: Comisionada de la CFTC",
+                                    "url": "https://decrypt.co/es/325852/la-ia-puede-ayudar-a-la-industria-cripto-pero-tambien-aumentar-el-fraude-comisionada-de-la-cftc",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 19, 2025",
+                                    "meta": "3 min lectura"
                                 },
                                 {
-                                    "titulo": "Misma Consigna, Diferente Laura: Respuestas de IA Revelan Patrones Raciales",
-                                    "url": "https://decrypt.co/es/322037/misma-consigna-diferente-laura-respuestas-de-ia-revelan-patrones-raciales",
+                                    "titulo": "Meta Intenta Reclutar Personal de OpenAI Pagando Bonos de $100 Millones: Sam Altman",
+                                    "url": "https://decrypt.co/es/325841/meta-intenta-reclutar-personal-de-openai-pagando-bonos-de-100-millones-sam-altman",
                                     "categoria": "Artificial Intelligence",
-                                    "fecha": "May 26, 2025",
-                                    "meta": "10 min lectura",
-                                    "descripcion": "\u00bfQu\u00e9 nos dice un nombre como Laura Patel? \u00bfO Laura Williams? \u00bfO Laura Nguyen? Para algunos de los principales modelos de IA de hoy, cada nombre es suficiente para crear una historia completa, a menudo vinculando nombres \u00e9tnicamente m\u00e1s distintivos con identidades culturales espec\u00edficas o comunidades geogr\u00e1ficas. Este reconocimiento de patrones puede llevar a sesgos en pol\u00edtica, contrataci\u00f3n, vigilancia y an\u00e1lisis, y perpetuar estereotipos racistas.\nDebido a que los desarrolladores de IA entrenan..."
+                                    "fecha": "Jun 19, 2025",
+                                    "meta": "3 min lectura"
                                 },
                                 {
-                                    "titulo": "Melania Trump Usa IA Para Narrar Sus Nuevas Memorias",
-                                    "url": "https://decrypt.co/es/321959/melania-trump-usa-ia-para-narrar-sus-nuevas-memorias",
+                                    "titulo": "xAI de Elon Musk Busca $4.300 Millones en Financiamiento Fresco: Bloomberg",
+                                    "url": "https://decrypt.co/es/325768/xai-de-elon-musk-busca-4-300-millones-en-financiamiento-fresco-bloomberg",
                                     "categoria": "Artificial Intelligence",
-                                    "fecha": "May 24, 2025",
+                                    "fecha": "Jun 18, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "C\u00f3mo Los Inmigrantes y Manifestantes Est\u00e1n Siendo Atrapados Por la Red de IA Del ICE",
+                                    "url": "https://decrypt.co/es/325324/como-los-inmigrantes-y-manifestantes-estan-siendo-atrapados-por-la-red-de-ia-del-ice",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 16, 2025",
+                                    "meta": "5 min lectura"
+                                },
+                                {
+                                    "titulo": "5 Razones Por Las Que Claude AI de Anthropic es Mejor Que un Analista de Criptomonedas, Corredor o Doctor",
+                                    "url": "https://decrypt.co/es/325298/5-razones-por-las-que-claude-ai-de-anthropic-es-mejor-que-un-analista-de-criptomonedas-corredor-o-doctor",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 16, 2025",
+                                    "meta": "8 min lectura"
+                                },
+                                {
+                                    "titulo": "Meta Invierte $14.000 Millones en Scale AI Para 'Profundizar' su Trabajo en Superinteligencia",
+                                    "url": "https://decrypt.co/es/325076/meta-invierte-14-000-millones-en-scale-ai-para-profundizar-su-trabajo-en-superinteligencia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 16, 2025",
+                                    "meta": "4 min lectura"
+                                }
+                            ],
+                            "extensas": [
+                                {
+                                    "titulo": "Fabricante de Juguetes Hot Wheels y Barbie Utilizar\u00e1 Tecnolog\u00eda de OpenAI Para Aumentar su Poductividad",
+                                    "url": "https://decrypt.co/es/325066/fabricante-de-juguetes-hot-wheels-y-barbie-utilizara-tecnologia-de-openai-para-aumentar-su-poductividad",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 16, 2025",
                                     "meta": "3 min lectura",
-                                    "descripcion": "La primera dama de Estados Unidos, Melania Trump, ha lanzado la versi\u00f3n en audiolibro de sus memorias llamada \"Melania\", utilizando una r\u00e9plica de su voz generada por inteligencia artificial, marcando la primera vez que una primera dama estadounidense ha utilizado IA para narrar una publicaci\u00f3n comercial.\nEl modelo de voz fue creado \"bajo su direcci\u00f3n y supervisi\u00f3n\" en colaboraci\u00f3n con la startup de audio con IA ElevenLabs, seg\u00fan su sitio web oficial.\nEl audiolibro, lanzado el jueves, est\u00e1 dispo..."
+                                    "descripcion": "El gigante de los juguetes Mattel anunci\u00f3 el jueves que se asociar\u00e1 con el gigante de la inteligencia artificial OpenAI para crear los primeros productos impulsados por IA de una importante empresa de juguetes, marcando la expansi\u00f3n de OpenAI m\u00e1s all\u00e1 del software empresarial hacia el entretenimiento para consumidores.\nLa colaboraci\u00f3n utilizar\u00e1 la tecnolog\u00eda de OpenAI para desarrollar nuevos productos para las marcas de Mattel, y se espera que el primer producto impulsado por IA de las compa\u00f1\u00edas..."
+                                },
+                                {
+                                    "titulo": "Startup Espa\u00f1ola Recauda $215 Millones Prometiendo Reducir 95% Los Modelos de IA Sin Perder Rendimiento",
+                                    "url": "https://decrypt.co/es/325010/startup-espanola-recauda-215-millones-prometiendo-reducir-95-los-modelos-de-ia-sin-perder-rendimiento",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 15, 2025",
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Una startup de inteligencia artificial espa\u00f1ola acaba de convencer a los inversores de entregar $215 millones bas\u00e1ndose en una afirmaci\u00f3n audaz: pueden reducir los Large Language Models (LLMs) en un 95% sin comprometer su rendimiento.\nLa innovaci\u00f3n de Multiverse Computing se basa en su tecnolog\u00eda CompactifAI, un m\u00e9todo de compresi\u00f3n que toma prestados conceptos matem\u00e1ticos de la f\u00edsica cu\u00e1ntica para reducir los modelos de IA al tama\u00f1o de un smartphone.\nLa empresa de San Sebasti\u00e1n dice que su mod..."
+                                },
+                                {
+                                    "titulo": "El Mercado de IA de la India Est\u00e1 Listo Para Triplicarse, Alcanzando los $17.000 Millones Para 2027, Seg\u00fan BCG",
+                                    "url": "https://decrypt.co/es/325000/el-mercado-de-ia-de-la-india-esta-listo-para-triplicarse-alcanzando-los-17-000-millones-para-2027-segun-bcg",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 14, 2025",
+                                    "meta": "3 min lectura",
+                                    "descripcion": "El mercado de inteligencia artificial de India se triplicar\u00e1 hasta alcanzar los $17.000 millones para 2027, posicionando al pa\u00eds como una de las econom\u00edas de IA de m\u00e1s r\u00e1pido crecimiento en el mundo, seg\u00fan un estudio de Boston Consulting Group publicado el martes.\nLa proyecci\u00f3n marca un enorme aumento impulsado por el incremento en las inversiones en tecnolog\u00eda empresarial, una s\u00f3lida infraestructura digital y una base de talento en expansi\u00f3n que ya comprende 600.000 profesionales de IA\u201416% de l..."
+                                },
+                                {
+                                    "titulo": "Disney, Universal y DreamWorks Demandan a Midjourney, lo Llaman un 'Pozo Sin Fondo de Plagio'",
+                                    "url": "https://decrypt.co/es/324990/disney-universal-y-dreamworks-demandan-a-midjourney-lo-llaman-un-pozo-sin-fondo-de-plagio",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 14, 2025",
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Disney y Universal, junto con varios otros estudios de cine estadounidenses, han presentado una demanda contra la empresa de inteligencia artificial Midjourney, alegando que su popular herramienta de generaci\u00f3n de im\u00e1genes viola sistem\u00e1ticamente los derechos de autor al crear reproducciones no autorizadas de personajes famosos.\nLa demanda, presentada el mi\u00e9rcoles en un tribunal federal de Estados Unidos, acusa a Midjourney de funcionar como un \"pozo sin fondo de plagio\".\n\"Al apropiarse de las ob..."
+                                },
+                                {
+                                    "titulo": "ChatGPT Est\u00e1 Devorando Internet: OpenAI Controla el 80% Del Mercado de IA",
+                                    "url": "https://decrypt.co/es/324977/chatgpt-esta-devorando-internet-openai-controla-el-80-del-mercado-de-ia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 14, 2025",
+                                    "meta": "6 min lectura",
+                                    "descripcion": "El \u00faltimo informe de tr\u00e1fico de Similarweb revela una verdad inc\u00f3moda sobre el mercado de IA generativa: Mientras el mundo debate qu\u00e9 modelo de IA es t\u00e9cnicamente superior, ChatGPT ya ha ganado la guerra de adopci\u00f3n de usuarios por un margen tan vasto que desaf\u00eda las m\u00e9tricas de competencia convencionales.\nCon 5.500 millones de visitas en mayo de 2025, ChatGPT controla aproximadamente el 80% de todo el tr\u00e1fico de IA generativa. Para comprender esta escala: ChatGPT recibe m\u00e1s visitas que Gemini d..."
                                 }
                             ]
                         }
@@ -13152,92 +13261,92 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Google y Meta unen fuerzas contra el rastreo en Android",
-                            "url": "https://www.elnacional.com/tecnologia/google-y-meta-unen-fuerzas-contra-el-rastreo-en-android/",
+                            "titulo": "Facebook convertir\u00e1 todos sus videos en reels",
+                            "url": "https://www.elnacional.com/tecnologia/facebook-convertira-todos-sus-videos-en-reels/",
                             "categoria": "APP",
-                            "fecha": "junio 4, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/meta-android-google.jpg"
+                            "fecha": "junio 18, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Facebook.jpg"
                         },
                         "notas": [
                             {
-                                "titulo": "As\u00ed es XChat, el nuevo sistema de mensajer\u00eda de X",
-                                "url": "https://www.elnacional.com/tecnologia/asi-es-xchat-el-nuevo-sistema-de-mensajeria-de-x/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/XChat-prevee-reemplazar-los-actuales-mensajes-directos-Foto-Archivo.jpg",
+                                "titulo": "D\u00eda Mundial del Wi-Fi: el desaf\u00edo de la conectividad en Venezuela",
+                                "url": "https://www.elnacional.com/tecnologia/dia-mundial-del-wi-fi-el-desafio-de-la-conectividad-en-venezuela/",
+                                "imagen": null,
+                                "meta": "TECNOLOGIA",
+                                "fecha": "junio 20, 2025",
+                                "extra": "Cada 20 de junio, el mundo celebra el D\u00eda Mundial del Wi-Fi, una jornada dedicada a reconocer la profunda transformaci\u00f3n\u2026"
+                            },
+                            {
+                                "titulo": "Nace el primer clon de perro de 2025",
+                                "url": "https://www.elnacional.com/tecnologia/nace-el-primer-clon-de-perro-de-2025/",
+                                "imagen": null,
+                                "meta": "TECNOLOGIA",
+                                "fecha": "junio 19, 2025",
+                                "extra": "La compa\u00f1\u00eda Ovoclone anunci\u00f3 el nacimiento del primer clon de perro de 2025 gen\u00e9ticamente id\u00e9ntico (99.99%) al original, fallecido a\u2026"
+                            },
+                            {
+                                "titulo": "Gemini ahora entiende los videos",
+                                "url": "https://www.elnacional.com/tecnologia/gemini-ahora-entiende-los-videos/",
+                                "imagen": null,
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "junio 18, 2025",
+                                "extra": "El futuro de la interacci\u00f3n con la inteligencia artificial se vuelve m\u00e1s din\u00e1mico. Gemini, el modelo de IA de Google,\u2026"
+                            },
+                            {
+                                "titulo": "Meta prueba opci\u00f3n de \u201crepost\u201d para las publicaciones de Instagram",
+                                "url": "https://www.elnacional.com/tecnologia/meta-prueba-opcion-de-repost-para-las-publicaciones-de-instagram/",
+                                "imagen": null,
                                 "meta": "APP",
-                                "fecha": "junio 3, 2025",
-                                "extra": "X empez\u00f3 a implantar un nuevo sistema de mensajer\u00eda, denominado XChat, que permite la trasferencia de archivos y la realizaci\u00f3n\u2026"
+                                "fecha": "junio 17, 2025",
+                                "extra": "Instagram comenz\u00f3 a probar una nueva opci\u00f3n de \u00abrepost\u00bb para las publicaciones compartidas en la red social, de manera que\u2026"
                             },
                             {
-                                "titulo": "Tecnolog\u00eda sostenible: las claves de un enfoque integral sin comprometer la innovaci\u00f3n",
-                                "url": "https://www.elnacional.com/tecnologia/tecnologia-sostenible-las-claves-de-un-enfoque-integral-sin-comprometer-la-innovacion/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-tecnologia-1.jpg",
+                                "titulo": "El ascenso de la IA y la resistencia de X",
+                                "url": "https://www.elnacional.com/tecnologia/el-ascenso-de-la-ia-y-la-resistencia-de-x/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Redes-sociales-IA.webp",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "junio 17, 2025",
+                                "extra": "El panorama actual del consumo de informaci\u00f3n digital muestra una interesante dicotom\u00eda. Por un lado, una tendencia creciente entre los\u2026"
+                            },
+                            {
+                                "titulo": "El poder oculto de los correos fr\u00edos: por qu\u00e9 las empresas B2B no deben ignorarlos en 2025",
+                                "url": "https://www.elnacional.com/empresas-productos/el-poder-oculto-de-los-correos-frios-por-que-las-empresas-b2b-no-deben-ignorarlos-en-2025/",
+                                "imagen": null,
+                                "meta": "Empresas y Productos",
+                                "fecha": "junio 16, 2025",
+                                "extra": "Aunque el marketing digital evoluciona cada a\u00f1o, los correos electr\u00f3nicos en fr\u00edo siguen siendo una de las estrategias m\u00e1s efectivas\u2026"
+                            },
+                            {
+                                "titulo": "Microsoft fortaleci\u00f3 el control de sus servicios en la nube en Europa",
+                                "url": "https://www.elnacional.com/tecnologia/microsoft-fortalecio-el-control-de-sus-servicios-en-la-nube-en-europa/",
+                                "imagen": null,
                                 "meta": "TECNOLOGIA",
-                                "fecha": "mayo 30, 2025",
-                                "extra": "A pesar de todas sus ventajas, la tecnolog\u00eda es fuente de contaminaci\u00f3n ambiental. En esta \u00e9poca mayor conciencia, el sector\u2026"
+                                "fecha": "junio 16, 2025",
+                                "extra": "El gigante tecnol\u00f3gico estadounidense Microsoft anunci\u00f3 el pasado lunes un importante refuerzo en la vigilancia de sus servicios en la\u2026"
                             },
                             {
-                                "titulo": "As\u00ed funciona la nueva actualizaci\u00f3n de notas de voz en WhatsApp",
-                                "url": "https://www.elnacional.com/tecnologia/whatsapp-asi-funciona-la-nueva-actualizacion-en-sus-notas-de-voz/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/WhatsApp-notas-de-voz-1.webp",
+                                "titulo": "Digitel inaugura el internet 5G en Venezuela con servicio fijo inal\u00e1mbrico",
+                                "url": "https://www.elnacional.com/tecnologia/digitel-inaugura-el-internet-5g-en-venezuela-con-servicio-fijo-inalambrico/",
+                                "imagen": null,
+                                "meta": "TECNOLOGIA",
+                                "fecha": "junio 14, 2025",
+                                "extra": "La empresa privada Digitel anunci\u00f3 este viernes el lanzamiento de su servicio de \u2018Internet Fijo Inal\u00e1mbrico 5G\u2019 en Venezuela, el\u2026"
+                            },
+                            {
+                                "titulo": "El emprendedor que cre\u00f3 app para el cuidado de las mascotas",
+                                "url": "https://www.elnacional.com/life-style/el-emprendedor-que-creo-una-app-para-el-cuidado-de-las-mascotas/",
+                                "imagen": null,
                                 "meta": "APP",
-                                "fecha": "mayo 30, 2025",
-                                "extra": "La plataforma de WhatsApp realiz\u00f3 una sustancial mejora a la funci\u00f3n\u00a0\u2018Chat de Audio en Curso\u2019\u00a0este mes de mayo. Anteriormente, esta\u2026"
+                                "fecha": "junio 13, 2025",
+                                "extra": "Latinoam\u00e9rica no se ha quedado atr\u00e1s en adoptar las tendencias globales del sector, como la tenencia de mascotas. De hecho,\u2026"
                             },
                             {
-                                "titulo": "X pausa el cifrado de sus mensajes directos para mejorarlo",
-                                "url": "https://www.elnacional.com/tecnologia/x-pausa-el-cifrado-de-sus-mensajes-directos-para-mejorarlo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/EuropaPress_5351140_logo_red_social_antigua_twitter.jpg",
+                                "titulo": "Instagram permitir\u00e1 reorganizar la cuadr\u00edcula del perfil",
+                                "url": "https://www.elnacional.com/tecnologia/instagram-permitira-reorganizar-la-cuadricula-del-perfil/",
+                                "imagen": null,
                                 "meta": "APP",
-                                "fecha": "mayo 29, 2025",
-                                "extra": "La red social X va a implementar mejoras en la caracter\u00edstica que permite encriptar los mensajes directos, lo que impedir\u00e1\u2026"
-                            },
-                            {
-                                "titulo": "Por qu\u00e9 algunos expertos creen que la inteligencia artificial ya cobr\u00f3 conciencia",
-                                "url": "https://www.elnacional.com/entretenimiento/por-que-algunos-expertos-creen-que-la-inteligencia-artificial-ya-cobro-conciencia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/IA6.jpg",
-                                "meta": "BBC News Mundo",
-                                "fecha": "mayo 27, 2025",
-                                "extra": "Entro a la cabina con cierta inquietud. Estoy a punto de ser sometido a una iluminaci\u00f3n estrobosc\u00f3pica mientras suena una\u2026"
-                            },
-                            {
-                                "titulo": "Abel Avellan, el venezolano que desaf\u00eda a Elon Musk para llevar internet al espacio",
-                                "url": "https://www.elnacional.com/tecnologia/el-venezolano-abel-avellan-desafia-a-elon-musk-para-llevar-internet-al-espacio/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-26-091442.png",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "mayo 26, 2025",
-                                "extra": "En la vertiginosa carrera por dominar el acceso a internet desde el espacio, un nombre resuena con particular fuerza en\u2026"
-                            },
-                            {
-                                "titulo": "X recupera la normalidad tras dejar de funcionar en varios pa\u00edses",
-                                "url": "https://www.elnacional.com/tecnologia/x-recupera-la-normalidad-tras-dejar-de-funcionar-en-varios-paises/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/X.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "mayo 24, 2025",
-                                "extra": "La plataforma X, anteriormente conocida como Twitter,\u00a0ha recuperado su funcionamiento normal\u00a0este s\u00e1bado despu\u00e9s de sufrir una interrupci\u00f3n de aproximadamente\u00a090 minutos\u2026"
-                            },
-                            {
-                                "titulo": "La red social X presenta fallas en varios pa\u00edses",
-                                "url": "https://www.elnacional.com/tecnologia/la-red-social-x-presenta-fallas-en-varios-paises/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Red-social-X.jpeg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "mayo 24, 2025",
-                                "extra": "La plataforma X, anteriormente conocida como Twitter, dej\u00f3 de funcionar con normalidad alrededor de las 14:20 horas (12:20 GMT) de\u2026"
-                            },
-                            {
-                                "titulo": "La millonaria apuesta de OpenAI por Jony Ive: \u00bfun reto para Apple?",
-                                "url": "https://www.elnacional.com/tecnologia/la-millonaria-apuesta-de-openai-por-jony-ive-un-reto-para-apple/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/pixabay-chatgpt.jpg",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "mayo 23, 2025",
-                                "extra": "El brit\u00e1nico Jony Ive, reconocido por ser el dise\u00f1ador de la primera versi\u00f3n del iPhone, anunci\u00f3 recientemente el siguiente paso\u2026"
-                            },
-                            {
-                                "titulo": "Empresas de tecnolog\u00eda reportan m\u00e1s de 60.000 despidos en lo que va del a\u00f1o",
-                                "url": "https://www.elnacional.com/tecnologia/empresas-de-tecnologia-reportan-mas-de-60-000-despidos-en-lo-que-va-del-ano/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-despidos.png",
-                                "meta": "TECNOLOGIA",
-                                "fecha": "mayo 23, 2025",
-                                "extra": "El 2025 apunta a ser otro a\u00f1o de recortes de personal significativos en la industria tecnol\u00f3gica. Si en 2023 una\u2026"
+                                "fecha": "junio 13, 2025",
+                                "extra": "Instagram permitir\u00e1 reorganizar la cuadr\u00edcula en el perfil de los usuarios, editando la posici\u00f3n de las publicaciones que se hicieron\u2026"
                             }
                         ]
                     }
@@ -13246,13 +13355,53 @@
                     "nombre": "elnacional_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "El \u00abpadre del iPhone\u00bb Jony Ive y OpenAI apuestan por un futuro dise\u00f1ado por la IA",
-                            "url": "https://www.elnacional.com/tecnologia/openai-y-jony-ive-apuestan-por-un-futuro-disenado-por-la-ia/",
+                            "titulo": "Gemini ahora entiende los videos",
+                            "url": "https://www.elnacional.com/tecnologia/gemini-ahora-entiende-los-videos/",
                             "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "mayo 22, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-22-113437.png"
+                            "fecha": "junio 18, 2025",
+                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/EuropaPress_6636401_ia_google_gemini.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "El ascenso de la IA y la resistencia de X",
+                                "url": "https://www.elnacional.com/tecnologia/el-ascenso-de-la-ia-y-la-resistencia-de-x/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Redes-sociales-IA.webp",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "junio 17, 2025",
+                                "extra": "El panorama actual del consumo de informaci\u00f3n digital muestra una interesante dicotom\u00eda. Por un lado, una tendencia creciente entre los\u2026"
+                            },
+                            {
+                                "titulo": "Wikipedia paus\u00f3 res\u00famenes de los art\u00edculos generados por IA",
+                                "url": "https://www.elnacional.com/tecnologia/wikipedia-pauso-resumenes-de-los-articulos-generados-por-ia/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Wikipedia.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "junio 12, 2025",
+                                "extra": "Wikimedia Foundation paus\u00f3 la prueba que mostraba un resumen generado por inteligencia artificial en la parte superior de los art\u00edculos\u2026"
+                            },
+                            {
+                                "titulo": "CEO de OpenAI cifra el consumo de agua y energ\u00eda de ChatGPT en m\u00ednimos hist\u00f3ricos",
+                                "url": "https://www.elnacional.com/tecnologia/chatgpt-consume-agua-en-minimos-historicos/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Agua-ChatGPT.webp",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "junio 11, 2025",
+                                "extra": "Sam Altman, director ejecutivo de OpenAI, revel\u00f3 recientemente datos concretos sobre el consumo de recursos asociado a las consultas de\u2026"
+                            },
+                            {
+                                "titulo": "\u00bfDebe saber el lector si una noticia ha sido escrita con IA? El reto \u00e9tico del periodismo\u00a0moderno",
+                                "url": "https://www.elnacional.com/tecnologia/debe-saber-el-lector-si-una-noticia-ha-sido-escrita-con-ia-el-reto-etico-del-periodismo-moderno/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/pixabay-robot.jpg",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "junio 7, 2025",
+                                "extra": "\u00bfDebe saber un lector de prensa que lo que est\u00e1 leyendo ha sido escrito con la ayuda de una inteligencia\u2026"
+                            },
+                            {
+                                "titulo": "El \u00abpadre del iPhone\u00bb Jony Ive y OpenAI apuestan por un futuro dise\u00f1ado por la IA",
+                                "url": "https://www.elnacional.com/tecnologia/openai-y-jony-ive-apuestan-por-un-futuro-disenado-por-la-ia/",
+                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-22-113437.png",
+                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "fecha": "mayo 22, 2025",
+                                "extra": "En esta efervescente \u00abEra de la IA\u00bb, una empresa ha brillado con luz propia: OpenAI. Muchos sostienen que fue precisamente\u2026"
+                            },
                             {
                                 "titulo": "Google presenta Veo, la IA que da voz y vida a los videos",
                                 "url": "https://www.elnacional.com/tecnologia/google-presenta-veo-la-ia-que-da-voz-y-vida-a-los-videos/",
@@ -13292,46 +13441,6 @@
                                 "meta": "INTELIGENCIA ARTIFICIAL",
                                 "fecha": "abril 28, 2025",
                                 "extra": "The Wall Street Journal lo destap\u00f3 todo: revel\u00f3 conversaciones de contenido sexual entre sus asistentes de inteligencia artificial y menores.\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfOpenAI est\u00e1 creando su propia red social?",
-                                "url": "https://www.elnacional.com/tecnologia/openai-esta-creando-su-propia-red-social/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/OpenAI.jpeg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "abril 16, 2025",
-                                "extra": "OpenAI explorar\u00e1 el terreno de las redes sociales. La empresa l\u00edder en inteligencia artificial est\u00e1 dando los primeros pasos en\u2026"
-                            },
-                            {
-                                "titulo": "El Studio Ghibli y ChatGPT: \u00bfqu\u00e9 opina Hayao Miyazaki de la IA?",
-                                "url": "https://www.elnacional.com/tecnologia/el-studio-ghibli-y-chatgpt-que-opina-hayao-miyazaki-de-la-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Chat-JPT.jpeg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "marzo 31, 2025",
-                                "extra": "No es secreto que la inteligencia artificial (IA) amplifica la creatividad. Y esta idea se afianz\u00f3 desde que los usuarios\u2026"
-                            },
-                            {
-                                "titulo": "Cambio total o nada: Gemini reemplaza al Asistente de Google",
-                                "url": "https://www.elnacional.com/tecnologia/todo-o-nada-gemini-reemplaza-al-asistente-de-google/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/gemini-ai-google.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "marzo 19, 2025",
-                                "extra": "Google comenz\u00f3 la transici\u00f3n del Asistente de Google a Gemini en dispositivos m\u00f3viles. Este servicio, impulsado por inteligencia artificial (IA),\u2026"
-                            },
-                            {
-                                "titulo": "Samsung lanz\u00f3 The Mind Guardian, un videojuego para identificar s\u00edntomas de deterioro cognitivo",
-                                "url": "https://www.elnacional.com/tecnologia/samsung-lanzo-videojuego-que-identifica-deterioro-cognitivo/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/EuropaPress_6571088_the_mind_guardian_nuevo_videojuego_samsung_identificar_signos_deterioro.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "marzo 12, 2025",
-                                "extra": "Samsung lanz\u00f3 The Mind Guardian, un innovador videojuego impulsado por Inteligencia Artificial (IA) que permite la autoevaluaci\u00f3n de la memoria\u2026"
-                            },
-                            {
-                                "titulo": "Doblaje con IA llega a pel\u00edculas y series gracias a Prime Video",
-                                "url": "https://www.elnacional.com/tecnologia/prime-video-doblaje-con-ia-llega-a-peliculas-y-series/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-03-07-084341.png",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "marzo 7, 2025",
-                                "extra": "Amazon comenz\u00f3 un programa piloto de doblaje con Inteligencia Artificial (IA) en pel\u00edculas y series de Amazon Prime, un formato\u2026"
                             }
                         ]
                     }
