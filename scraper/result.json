@@ -11273,6 +11273,22 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Merchandising del MSI 2025",
+                        "url": "https://merch.riotgames.com/collection/MSI-2025/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Merchandising",
+                        "fecha": "2025-06-20T21:00:00.000Z",
+                        "detalle": "\u00a1Preparaos para rivalidades, redenciones y jugadones con el merchandising oficial del MSI 2025!"
+                    },
+                    {
+                        "titulo": "Enciende el fuego interior | MSI 2025",
+                        "url": "https://www.youtube.com/watch?v=1t7HX7ugwTQ",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-06-20T15:00:00.000Z",
+                        "detalle": "\u00bfQui\u00e9n encontrar\u00e1 su fuerza interior para alcanzar la victoria?"
+                    },
+                    {
                         "titulo": "Presentamos League of Legends Game Changers Rising",
                         "url": "https://lolesports.com/es-es/news/introducing-league-of-legends-game-changers-rising",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11351,22 +11367,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-06-10T18:00:00.000Z",
                         "detalle": "La versi\u00f3n 14.6 marca la llegada del sexto aniversario de TFT, el regreso de Fiesta de Pingu y la implementaci\u00f3n de un mont\u00f3n de mejoras."
-                    },
-                    {
-                        "titulo": "Nuevo campo de batalla de ARAM: Paso de Koeshin",
-                        "url": "https://www.youtube.com/watch?v=aE2ySr0V2gU",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-09T15:15:00.000Z",
-                        "detalle": "El velo entre este reino y el espiritual se rompe. Los esp\u00edritus inquietos incitan una nueva batalla."
-                    },
-                    {
-                        "titulo": "Desarrollo: ARAM, Puente a ciegas",
-                        "url": "/es-es/news/dev/dev-all-random-all-mid-blind-bridge",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Desarrollo",
-                        "fecha": "2025-06-09T15:00:00.000Z",
-                        "detalle": "Repaso a mapas y actualizaciones en la selecci\u00f3n de campe\u00f3n disponibles en ARAM a partir de 25.13."
                     }
                 ],
                 "notas": [
@@ -12450,6 +12450,41 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Es uno de los diez videojuegos m\u00e1s vendidos de la historia y lo podemos jugar gratis en PS Plus",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/21/diez-videojuegos-vendidos-historia-jugar-gratis-ps-plus.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/17/6851b4a36daef.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Flamengo 'se r\u00ede' del Chelsea tras ganarle... con un recuerdo a este m\u00edtico juego de f\u00fatbol",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/21/flamengo-rie-chelsea-ganarle-recuerdo-mitico-juego-futbol.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/21/68569635597a6.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "S\u00ed, Disney tiene su propio juego de cartas, y es genial. Aladd\u00edn y Jafar vuelven a Lorcana y es tan bueno como las pelis de nuestra infancia",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/21/disney-propio-juego-cartas-genial-aladdin-jafar-vuelven-lorcana-bueno-pelis-nuestra-infancia.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/21/68566e6ed8c7d.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni el superremate con efecto, ni el bug a\u00e9reo. La clave de REMATCH es una t\u00e9cnica mucho m\u00e1s sencilla",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/21/superremate-efecto-bug-aereo-clave-rematch-tecnica-sencilla.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/685536759382d.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Eevee y sus evoluciones son los protagonistas de Arboleda de Eevee: el nuevo sobre de Pok\u00e9mon TCGP",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/eevee-evoluciones-son-protagonistas-arboleda-eevee-nuevo-sobre-pokemon-tcgp.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/68556ecf33bf6.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
                             "titulo": "La saga Borderlands llega a GeForce NOW para que puedas 'hacer el gamberro' este verano",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/20/saga-borderlands-llega-geforce-now-puedas-gamberro-verano.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/20/685523fb9a9d0.jpeg",
@@ -12763,41 +12798,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/6846c6956f858.png",
                             "meta": "Juegos",
                             "autor": "M.J."
-                        },
-                        {
-                            "titulo": "El nuevo juego gratis de Dragon Ball es justo lo que buscaba como jugador de League of Legends",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/nuevo-juego-gratis-dragon-ball-justo-buscaba-jugador-league-of-legends.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/1eHi3kHlgd9O.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Gore, sangre y desmembramientos llegan a GTA 6. Si esto que dicen es real, \u00bfRockstar tendr\u00eda problemas?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/gore-sangre-desmembramientos-llegan-gta-6-esto-dicen-real-rockstar-tendria-problemas.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/6846952789099.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "GTA 6 sufre una filtraci\u00f3n masiva y desvela decenas de novedades",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/09/gta-6-sufre-filtracion-masiva-desvela-decenas-novedades.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/09/68468d9fd5073.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "\u00d13 2025: A Espa\u00f1a y LATAM no les falta talento y estos 69 juegos lo demuestran. Resumen con todos los tr\u00e1ileres",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/08/n3-2025-espana-latam-les-falta-talento-69-juegos-demuestran-resumen-todos-traileres.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/06/6842f25d4ab43.png",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Las 'primeras veces' de las estrellas de la NBA en el 2K: As\u00ed llegaron al juego Curry, LeBron, Jokic, Giannis...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/08/primeras-veces-estrellas-nba-2k-asi-llegaron-juego-curry-lebron-jokic-giannis.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/05/6841de42bdc72.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -13059,15 +13059,29 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "La Desregulaci\u00f3n de Drones de Trump Aumenta Temores de Ataques Terroristas Dom\u00e9sticos",
-                            "url": "https://decrypt.co/es/325326/la-desregulacion-de-drones-de-trump-aumenta-temores-de-ataques-terroristas-domesticos",
+                            "titulo": "Corea del Norte Apunta a Profesionales Cripto con Nuevo Malware de Estafas de Contrataci\u00f3n",
+                            "url": "https://decrypt.co/es/326243/corea-del-norte-apunta-a-profesionales-cripto-con-nuevo-malware-de-estafas-de-contratacion",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-02-gID_7.png@webp",
-                            "descripcion": "A principios de este mes, el presidente Donald Trump firm\u00f3 un amplio conjunto de \u00f3rdenes ejecutivas destinadas a desregular los drones comerciales, autos voladores y jets supers\u00f3nicos, con la promesa de \"restaurar la soberan\u00eda del espacio a\u00e9reo estadounidense\".\nPero mientras los cielos se abren a la innovaci\u00f3n, los expertos en seguridad nacional est\u00e1n haciendo sonar las alarmas: la revoluci\u00f3n de los drones ya est\u00e1 siendo militarizada.\nDesde zonas de guerra en Ir\u00e1n y Ucrania hasta ataques insurge...",
-                            "fecha": "Jun 16, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@webp",
+                            "descripcion": "Los hackers norcoreanos est\u00e1n atrayendo a profesionales de criptomonedas hacia elaboradas entrevistas de trabajo falsas dise\u00f1adas para robar sus datos e implementar malware sofisticado en sus dispositivos.\nUn nuevo troyano de acceso remoto basado en Python llamado \"PylangGhost\", vincula el malware a un colectivo de hackers afiliado a Corea del Norte llamado \"Famous Chollima\", tambi\u00e9n conocido como \"Wagemole\", seg\u00fan inform\u00f3 el mi\u00e9rcoles la firma de investigaci\u00f3n de inteligencia de amenazas Cisco...",
+                            "fecha": "Jun 20, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Violaci\u00f3n Masiva de Datos Afecta a Miles de Inicios de Sesi\u00f3n en Google, Facebook y GitHub",
+                                    "url": "https://decrypt.co/es/326238/violacion-masiva-de-datos-afecta-a-miles-de-inicios-de-sesion-en-google-facebook-y-github",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 20, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "La Desregulaci\u00f3n de Drones de Trump Aumenta Temores de Ataques Terroristas Dom\u00e9sticos",
+                                    "url": "https://decrypt.co/es/325326/la-desregulacion-de-drones-de-trump-aumenta-temores-de-ataques-terroristas-domesticos",
+                                    "categoria": "Technology",
+                                    "fecha": "Jun 16, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "Conoce a Olto: La Scooter El\u00e9ctrica de $3.500 Que Aspira Ser el iPhone de la Micromovilidad",
                                     "url": "https://decrypt.co/es/325306/conoce-a-olto-la-scooter-electrica-de-3-500-que-aspira-ser-el-iphone-de-la-micromovilidad",
@@ -13095,23 +13109,25 @@
                                     "categoria": "Technology",
                                     "fecha": "Jun 11, 2025",
                                     "meta": "2 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Se Dispara el Uso de VPN en Francia Tras Bloqueo de Pornhub Por Restricciones de Edad",
                                     "url": "https://decrypt.co/es/323993/se-dispara-el-uso-de-vpn-en-francia-tras-bloqueo-de-pornhub-por-restricciones-de-edad",
                                     "categoria": "Technology",
                                     "fecha": "Jun 6, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Los usuarios franceses de Pornhub se dirigieron masivamente a ProtonVPN esta semana despu\u00e9s de que el sitio para adultos bloqueara el acceso desde Francia en protesta por las nuevas reglas de verificaci\u00f3n de edad impuestas por el gobierno, seg\u00fan inform\u00f3 la empresa, afirmando que los registros para el servicio aumentaron 1.000% en solo 30 minutos.\nProtonVPN forma parte de un conjunto de herramientas de privacidad desarrolladas por Proton AG, una empresa con sede en Suiza m\u00e1s conocida por su servi..."
                                 },
                                 {
                                     "titulo": "Fundaci\u00f3n Ethereum Reestructura Divisi\u00f3n de I+D y Planea 'Repensar' el Dise\u00f1o y Desarrollo",
                                     "url": "https://decrypt.co/es/323570/fundacion-ethereum-reestructura-division-de-id-y-planea-repensar-el-diseno-y-desarrollo",
                                     "categoria": "Technology",
                                     "fecha": "Jun 4, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Menos de un mes despu\u00e9s de la Actualizaci\u00f3n Pectra, la Fundaci\u00f3n Ethereum cree que la segunda criptomoneda m\u00e1s grande del mundo, tanto como tecnolog\u00eda como ecosistema, se acerca a importantes avances con mayores riesgos para una audiencia m\u00e1s amplia.\nSin embargo, esos riesgos podr\u00edan estar en peligro si las personas que la dirigen est\u00e1n arraigadas en lo que llaman un proceso desordenado: el env\u00edo de protocolos.\n\"Debemos repensar nuestro enfoque actual para dise\u00f1ar, desarrollar y supervisar el pr..."
+                                },
                                 {
                                     "titulo": "Ethereum Deber\u00eda Escalar 10x el Pr\u00f3ximo A\u00f1o: Vitalik Buterin",
                                     "url": "https://decrypt.co/es/323388/ethereum-deberia-escalar-10x-el-proximo-ano-vitalik-buterin",
@@ -13135,22 +13151,6 @@
                                     "fecha": "Jun 3, 2025",
                                     "meta": "2 min lectura",
                                     "descripcion": "Elon Musk anunci\u00f3 el domingo que X pronto lanzar\u00e1 una nueva funci\u00f3n de mensajer\u00eda llamada XChat, destacando capacidades como conversaciones encriptadas, mensajes que desaparecen, transferencia de archivos, y llamadas de audio y video.\nPero la publicaci\u00f3n caus\u00f3 confusi\u00f3n despu\u00e9s de que el CEO de X dijera que la funci\u00f3n est\u00e1 \"construida en Rust con encriptaci\u00f3n (estilo Bitcoin), una arquitectura completamente nueva\", lo que provoc\u00f3 una avalancha de respuestas esc\u00e9pticas de desarrolladores de Bitco..."
-                                },
-                                {
-                                    "titulo": "Vitalik Buterin: Ethereum Podr\u00eda Reemplazar el Efectivo Tras Fracaso de Sistemas N\u00f3rdicos",
-                                    "url": "https://decrypt.co/es/322465/vitalik-buterin-ethereum-podria-reemplazar-el-efectivo-tras-fracaso-de-sistemas-nordicos",
-                                    "categoria": "Technology",
-                                    "fecha": "May 29, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Vitalik Buterin, cofundador de Ethereum, piensa que ETH podr\u00eda ser una alternativa viable a los intentos de Suecia y Noruega de hacer que sus sociedades prescindan del efectivo. Los pa\u00edses dieron marcha atr\u00e1s recientemente despu\u00e9s de descubrir que los sistemas de pago centralizados colapsan cuando fallan las infraestructuras f\u00edsicas.\nPero en el mundo de las criptomonedas, este movimiento provoc\u00f3 una respuesta diferente: la idea de que los sistemas descentralizados podr\u00edan asumir el rol.\n\"Los pa\u00ed..."
-                                },
-                                {
-                                    "titulo": "Primer Combate de Boxeo Humanoide Tiene Lugar en China\u2014Y es Bastante Genial",
-                                    "url": "https://decrypt.co/es/322284/primer-combate-de-boxeo-humanoide-tiene-lugar-en-china-y-es-bastante-genial",
-                                    "categoria": "Technology",
-                                    "fecha": "May 27, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Los robots ahora est\u00e1n luchando entre s\u00ed, \u00a1y son bastante buenos en ello!\nEl lunes, tuvo lugar la Competencia Mundial de Robots del Grupo de Medios Chinos (CMG) - Serie de Lucha Mecha en lo que se denomin\u00f3 como el \"primer combate de boxeo entre humanoides\", aunque el evento se asemejaba m\u00e1s a una competencia de artes marciales mixtas.\nCuatro robots se enfrentaron en un ring de boxeo controlado por humanos en ringside, en una exhibici\u00f3n sorprendentemente entretenida de la destreza ciborg.\nCreados..."
                                 }
                             ]
                         }
@@ -13160,15 +13160,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Firma de Infraestructura de IA Gradient, Obtiene $10 Millones Para Desarrollar Protocolos en Solana",
-                            "url": "https://decrypt.co/es/326166/firma-de-infraestructura-de-ia-gradient-obtiene-10-millones-para-desarrollar-protocolos-en-solana",
+                            "titulo": "China Restaurar\u00e1 Pel\u00edculas Cl\u00e1sicas de Bruce Lee, Jackie Chan y Jet Li Mediante IA",
+                            "url": "https://decrypt.co/es/326332/china-restaurara-peliculas-clasicas-de-bruce-lee-jackie-chan-y-jet-li-mediante-ia",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/decentralized-autonomous-organization-dao-gID_7.jpg@webp",
-                            "descripcion": "Gradient Network cerr\u00f3 una ronda de financiaci\u00f3n semilla de $10 millones para construir lo que denomina una pila de infraestructura de IA descentralizada, con las firmas de capital de riesgo Pantera Capital y Multicoin Capital liderando la inversi\u00f3n junto a HSG (anteriormente Sequoia Capital China).\nLa startup con sede en Singapur planea usar los fondos para desarrollar dos protocolos centrales\u2014Lattica y Parallax\u2014que permitir\u00edan que los modelos de inteligencia artificial funcionen a trav\u00e9s de un...",
-                            "fecha": "Jun 20, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bruce-lee-decrypt-style-scaled-gID_7.jpg@webp",
+                            "descripcion": "China ha lanzado una iniciativa de inteligencia artificial, o IA, de $14 millones para restaurar digitalmente 100 pel\u00edculas cl\u00e1sicas de artes marciales, incluidas las favoritas de los fan\u00e1ticos protagonizadas por Bruce Lee, Jackie Chan y Jet Li.\nLa Fundaci\u00f3n de Cine de China anunci\u00f3 el Proyecto de Patrimonio de Cine de Kung Fu en el 27\u00ba Festival Internacional de Cine de Shanghai, centr\u00e1ndose en t\u00edtulos cl\u00e1sicos como \"Fist of Fury,\" \"The Big Boss,\" \"Once Upon a Time in China\" y \"Drunken Master\" p...",
+                            "fecha": "Jun 21, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Firma de Infraestructura de IA Gradient, Obtiene $10 Millones Para Desarrollar Protocolos en Solana",
+                                    "url": "https://decrypt.co/es/326166/firma-de-infraestructura-de-ia-gradient-obtiene-10-millones-para-desarrollar-protocolos-en-solana",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 20, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "La IA Puede Ayudar a la Industria Cripto, Pero Tambi\u00e9n Aumentar el Fraude: Comisionada de la CFTC",
                                     "url": "https://decrypt.co/es/325852/la-ia-puede-ayudar-a-la-industria-cripto-pero-tambien-aumentar-el-fraude-comisionada-de-la-cftc",
@@ -13203,16 +13210,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 16, 2025",
                                     "meta": "8 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Meta Invierte $14.000 Millones en Scale AI Para 'Profundizar' su Trabajo en Superinteligencia",
                                     "url": "https://decrypt.co/es/325076/meta-invierte-14-000-millones-en-scale-ai-para-profundizar-su-trabajo-en-superinteligencia",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 16, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "La empresa tecnol\u00f3gica multinacional estadounidense Meta ha realizado una inversi\u00f3n significativa en Scale AI, la startup de etiquetado de datos esencial para el entrenamiento de sistemas de inteligencia artificial, reclutando a su joven fundador Alexandr Wang para desarrollar un laboratorio de \"superinteligencia\" centrado en lograr la inteligencia artificial general (AGI).\nMediante la inversi\u00f3n de $14.300 millones, Meta adquiri\u00f3 una participaci\u00f3n del 49% en Scale AI, elevando su valoraci\u00f3n a m\u00e1..."
+                                },
                                 {
                                     "titulo": "Fabricante de Juguetes Hot Wheels y Barbie Utilizar\u00e1 Tecnolog\u00eda de OpenAI Para Aumentar su Poductividad",
                                     "url": "https://decrypt.co/es/325066/fabricante-de-juguetes-hot-wheels-y-barbie-utilizara-tecnologia-de-openai-para-aumentar-su-poductividad",
@@ -13244,14 +13252,6 @@
                                     "fecha": "Jun 14, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Disney y Universal, junto con varios otros estudios de cine estadounidenses, han presentado una demanda contra la empresa de inteligencia artificial Midjourney, alegando que su popular herramienta de generaci\u00f3n de im\u00e1genes viola sistem\u00e1ticamente los derechos de autor al crear reproducciones no autorizadas de personajes famosos.\nLa demanda, presentada el mi\u00e9rcoles en un tribunal federal de Estados Unidos, acusa a Midjourney de funcionar como un \"pozo sin fondo de plagio\".\n\"Al apropiarse de las ob..."
-                                },
-                                {
-                                    "titulo": "ChatGPT Est\u00e1 Devorando Internet: OpenAI Controla el 80% Del Mercado de IA",
-                                    "url": "https://decrypt.co/es/324977/chatgpt-esta-devorando-internet-openai-controla-el-80-del-mercado-de-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 14, 2025",
-                                    "meta": "6 min lectura",
-                                    "descripcion": "El \u00faltimo informe de tr\u00e1fico de Similarweb revela una verdad inc\u00f3moda sobre el mercado de IA generativa: Mientras el mundo debate qu\u00e9 modelo de IA es t\u00e9cnicamente superior, ChatGPT ya ha ganado la guerra de adopci\u00f3n de usuarios por un margen tan vasto que desaf\u00eda las m\u00e9tricas de competencia convencionales.\nCon 5.500 millones de visitas en mayo de 2025, ChatGPT controla aproximadamente el 80% de todo el tr\u00e1fico de IA generativa. Para comprender esta escala: ChatGPT recibe m\u00e1s visitas que Gemini d..."
                                 }
                             ]
                         }
@@ -13261,189 +13261,99 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Facebook convertir\u00e1 todos sus videos en reels",
-                            "url": "https://www.elnacional.com/tecnologia/facebook-convertira-todos-sus-videos-en-reels/",
-                            "categoria": "APP",
-                            "fecha": "junio 18, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Facebook.jpg"
+                            "titulo": "Llega la publicidad paga a WhatsApp: \u00bfc\u00f3mo sacarle provecho al sistema de monetizaci\u00f3n?",
+                            "url": "https://www.elnacional.com/2025/06/llega-la-publicidad-paga-a-whatsapp-como-sacarle-provecho-al-sistema-de-monetizacion/",
+                            "categoria": "Noticias",
+                            "fecha": "junio 20, 2025",
+                            "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2022/05/19180023/whatsapp-2105015_1280.jpg"
                         },
                         "notas": [
                             {
                                 "titulo": "D\u00eda Mundial del Wi-Fi: el desaf\u00edo de la conectividad en Venezuela",
-                                "url": "https://www.elnacional.com/tecnologia/dia-mundial-del-wi-fi-el-desafio-de-la-conectividad-en-venezuela/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
+                                "url": "https://www.elnacional.com/2025/06/dia-mundial-del-wi-fi-el-desafio-de-la-conectividad-en-venezuela/",
+                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/06/pixabay-wifi-2-640x640.jpg",
+                                "meta": "Noticias",
                                 "fecha": "junio 20, 2025",
-                                "extra": "Cada 20 de junio, el mundo celebra el D\u00eda Mundial del Wi-Fi, una jornada dedicada a reconocer la profunda transformaci\u00f3n\u2026"
+                                "extra": "El D\u00eda Mundial del Wi-Fi celebra la conectividad global, pero contrasta con la realidad en Venezuela, marcada por bajas velocidades,\u2026"
                             },
                             {
                                 "titulo": "Nace el primer clon de perro de 2025",
-                                "url": "https://www.elnacional.com/tecnologia/nace-el-primer-clon-de-perro-de-2025/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
+                                "url": "https://www.elnacional.com/2025/06/nace-el-primer-clon-de-perro-de-2025/",
+                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/06/Ovoclone-asegura-que-el-2025-sera-un-ano-prometedor-para-la-clonacion-animal-Foto-Archivo-640x409.jpg",
+                                "meta": "Noticias",
                                 "fecha": "junio 19, 2025",
-                                "extra": "La compa\u00f1\u00eda Ovoclone anunci\u00f3 el nacimiento del primer clon de perro de 2025 gen\u00e9ticamente id\u00e9ntico (99.99%) al original, fallecido a\u2026"
+                                "extra": "Enrique Criado, CEO de Ovoclone y embri\u00f3logo, asegur\u00f3 que la compa\u00f1\u00eda espera poder anunciar pr\u00f3ximamente m\u00e1s nacimientos de mascotas clonadas\u2026"
                             },
                             {
                                 "titulo": "Gemini ahora entiende los videos",
-                                "url": "https://www.elnacional.com/tecnologia/gemini-ahora-entiende-los-videos/",
-                                "imagen": null,
-                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "url": "https://www.elnacional.com/2025/06/gemini-ahora-entiende-los-videos/",
+                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/06/EuropaPress_6636401_ia_google_gemini-640x360.jpg",
+                                "meta": "Inteligencia Artificial",
                                 "fecha": "junio 18, 2025",
-                                "extra": "El futuro de la interacci\u00f3n con la inteligencia artificial se vuelve m\u00e1s din\u00e1mico. Gemini, el modelo de IA de Google,\u2026"
+                                "extra": "Grabar un video, por ejemplo, de un electrodom\u00e9stico que no funciona, y pedirle a Gemini que diagnostique el problema bas\u00e1ndose\u2026"
+                            },
+                            {
+                                "titulo": "Facebook convertir\u00e1 todos sus videos en reels",
+                                "url": "https://www.elnacional.com/2025/06/facebook-convertira-todos-sus-videos-en-reels/",
+                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/06/Facebook-640x426.jpg",
+                                "meta": "App",
+                                "fecha": "junio 18, 2025",
+                                "extra": "El cambio responde a la intenci\u00f3n de Meta de \"simplificar la creaci\u00f3n y publicaci\u00f3n de videos\", y por ello, todos\u2026"
                             },
                             {
                                 "titulo": "Meta prueba opci\u00f3n de \u201crepost\u201d para las publicaciones de Instagram",
-                                "url": "https://www.elnacional.com/tecnologia/meta-prueba-opcion-de-repost-para-las-publicaciones-de-instagram/",
-                                "imagen": null,
-                                "meta": "APP",
+                                "url": "https://www.elnacional.com/2025/06/meta-prueba-opcion-de-repost-para-las-publicaciones-de-instagram/",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==",
+                                "meta": "App",
                                 "fecha": "junio 17, 2025",
-                                "extra": "Instagram comenz\u00f3 a probar una nueva opci\u00f3n de \u00abrepost\u00bb para las publicaciones compartidas en la red social, de manera que\u2026"
+                                "extra": "La red social solo permite compartir contenido publicado por otras cuentas \u00fanicamente a trav\u00e9s de las historias, por lo que\u2026"
                             },
                             {
                                 "titulo": "El ascenso de la IA y la resistencia de X",
-                                "url": "https://www.elnacional.com/tecnologia/el-ascenso-de-la-ia-y-la-resistencia-de-x/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Redes-sociales-IA.webp",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
+                                "url": "https://www.elnacional.com/2025/06/el-ascenso-de-la-ia-y-la-resistencia-de-x/",
+                                "imagen": "",
+                                "meta": "Inteligencia Artificial",
                                 "fecha": "junio 17, 2025",
-                                "extra": "El panorama actual del consumo de informaci\u00f3n digital muestra una interesante dicotom\u00eda. Por un lado, una tendencia creciente entre los\u2026"
+                                "extra": "La red social X (antes Twitter), a pesar de las constantes cr\u00edticas por ser un vector de extremismo, ha demostrado\u2026"
                             },
                             {
                                 "titulo": "El poder oculto de los correos fr\u00edos: por qu\u00e9 las empresas B2B no deben ignorarlos en 2025",
-                                "url": "https://www.elnacional.com/empresas-productos/el-poder-oculto-de-los-correos-frios-por-que-las-empresas-b2b-no-deben-ignorarlos-en-2025/",
-                                "imagen": null,
+                                "url": "https://www.elnacional.com/2025/06/el-poder-oculto-de-los-correos-frios-por-que-las-empresas-b2b-no-deben-ignorarlos-en-2025/",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGqAQAAAACzachDAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+DaGygABYQdEywAAAABJRU5ErkJggg==",
                                 "meta": "Empresas y Productos",
                                 "fecha": "junio 16, 2025",
-                                "extra": "Aunque el marketing digital evoluciona cada a\u00f1o, los correos electr\u00f3nicos en fr\u00edo siguen siendo una de las estrategias m\u00e1s efectivas\u2026"
+                                "extra": "El correo fr\u00edo es un mensaje enviado sin relaci\u00f3n previa con el destinatario. Aunque antes se ve\u00eda como algo intrusivo,\u2026"
                             },
                             {
                                 "titulo": "Microsoft fortaleci\u00f3 el control de sus servicios en la nube en Europa",
-                                "url": "https://www.elnacional.com/tecnologia/microsoft-fortalecio-el-control-de-sus-servicios-en-la-nube-en-europa/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
+                                "url": "https://www.elnacional.com/2025/06/microsoft-fortalecio-el-control-de-sus-servicios-en-la-nube-en-europa/",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGmAQAAAADEqwg4AAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAngaFhgAB769flAAAAABJRU5ErkJggg==",
+                                "meta": "Noticias",
                                 "fecha": "junio 16, 2025",
-                                "extra": "El gigante tecnol\u00f3gico estadounidense Microsoft anunci\u00f3 el pasado lunes un importante refuerzo en la vigilancia de sus servicios en la\u2026"
+                                "extra": "Esta medida se tom\u00f3 en un contexto de crecientes preocupaciones sobre la soberan\u00eda de los datos y la legislaci\u00f3n extraterritorial\u2026"
                             },
                             {
                                 "titulo": "Digitel inaugura el internet 5G en Venezuela con servicio fijo inal\u00e1mbrico",
-                                "url": "https://www.elnacional.com/tecnologia/digitel-inaugura-el-internet-5g-en-venezuela-con-servicio-fijo-inalambrico/",
-                                "imagen": null,
-                                "meta": "TECNOLOGIA",
+                                "url": "https://www.elnacional.com/2025/06/digitel-inaugura-el-internet-5g-en-venezuela-con-servicio-fijo-inalambrico/",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHaAQAAAAC4S8WCAAAAAnRSTlMAAHaTzTgAAAA8SURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwJsBlfoAAQbdt14AAAAASUVORK5CYII=",
+                                "meta": "Noticias",
                                 "fecha": "junio 14, 2025",
-                                "extra": "La empresa privada Digitel anunci\u00f3 este viernes el lanzamiento de su servicio de \u2018Internet Fijo Inal\u00e1mbrico 5G\u2019 en Venezuela, el\u2026"
+                                "extra": "Seg\u00fan Luis Bernardo P\u00e9rez, presidente de Digitel, los estados Barinas y Nueva Esparta ser\u00e1n las primeras regiones en las que\u2026"
                             },
                             {
                                 "titulo": "El emprendedor que cre\u00f3 app para el cuidado de las mascotas",
-                                "url": "https://www.elnacional.com/life-style/el-emprendedor-que-creo-una-app-para-el-cuidado-de-las-mascotas/",
-                                "imagen": null,
-                                "meta": "APP",
+                                "url": "https://www.elnacional.com/2025/06/el-emprendedor-que-creo-una-app-para-el-cuidado-de-las-mascotas/",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==",
+                                "meta": "App",
                                 "fecha": "junio 13, 2025",
-                                "extra": "Latinoam\u00e9rica no se ha quedado atr\u00e1s en adoptar las tendencias globales del sector, como la tenencia de mascotas. De hecho,\u2026"
-                            },
-                            {
-                                "titulo": "Instagram permitir\u00e1 reorganizar la cuadr\u00edcula del perfil",
-                                "url": "https://www.elnacional.com/tecnologia/instagram-permitira-reorganizar-la-cuadricula-del-perfil/",
-                                "imagen": null,
-                                "meta": "APP",
-                                "fecha": "junio 13, 2025",
-                                "extra": "Instagram permitir\u00e1 reorganizar la cuadr\u00edcula en el perfil de los usuarios, editando la posici\u00f3n de las publicaciones que se hicieron\u2026"
+                                "extra": "Con enfoque centrado en el usuario y sus mascotas, Dosty busca simplificar y mejorar la experiencia del cuidado animal en\u2026"
                             }
                         ]
                     }
                 },
                 {
                     "nombre": "elnacional_ia",
-                    "pagina": {
-                        "principal": {
-                            "titulo": "Gemini ahora entiende los videos",
-                            "url": "https://www.elnacional.com/tecnologia/gemini-ahora-entiende-los-videos/",
-                            "categoria": "INTELIGENCIA ARTIFICIAL",
-                            "fecha": "junio 18, 2025",
-                            "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/EuropaPress_6636401_ia_google_gemini.jpg"
-                        },
-                        "notas": [
-                            {
-                                "titulo": "El ascenso de la IA y la resistencia de X",
-                                "url": "https://www.elnacional.com/tecnologia/el-ascenso-de-la-ia-y-la-resistencia-de-x/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Redes-sociales-IA.webp",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "junio 17, 2025",
-                                "extra": "El panorama actual del consumo de informaci\u00f3n digital muestra una interesante dicotom\u00eda. Por un lado, una tendencia creciente entre los\u2026"
-                            },
-                            {
-                                "titulo": "Wikipedia paus\u00f3 res\u00famenes de los art\u00edculos generados por IA",
-                                "url": "https://www.elnacional.com/tecnologia/wikipedia-pauso-resumenes-de-los-articulos-generados-por-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Wikipedia.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "junio 12, 2025",
-                                "extra": "Wikimedia Foundation paus\u00f3 la prueba que mostraba un resumen generado por inteligencia artificial en la parte superior de los art\u00edculos\u2026"
-                            },
-                            {
-                                "titulo": "CEO de OpenAI cifra el consumo de agua y energ\u00eda de ChatGPT en m\u00ednimos hist\u00f3ricos",
-                                "url": "https://www.elnacional.com/tecnologia/chatgpt-consume-agua-en-minimos-historicos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/Agua-ChatGPT.webp",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "junio 11, 2025",
-                                "extra": "Sam Altman, director ejecutivo de OpenAI, revel\u00f3 recientemente datos concretos sobre el consumo de recursos asociado a las consultas de\u2026"
-                            },
-                            {
-                                "titulo": "\u00bfDebe saber el lector si una noticia ha sido escrita con IA? El reto \u00e9tico del periodismo\u00a0moderno",
-                                "url": "https://www.elnacional.com/tecnologia/debe-saber-el-lector-si-una-noticia-ha-sido-escrita-con-ia-el-reto-etico-del-periodismo-moderno/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/06/pixabay-robot.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "junio 7, 2025",
-                                "extra": "\u00bfDebe saber un lector de prensa que lo que est\u00e1 leyendo ha sido escrito con la ayuda de una inteligencia\u2026"
-                            },
-                            {
-                                "titulo": "El \u00abpadre del iPhone\u00bb Jony Ive y OpenAI apuestan por un futuro dise\u00f1ado por la IA",
-                                "url": "https://www.elnacional.com/tecnologia/openai-y-jony-ive-apuestan-por-un-futuro-disenado-por-la-ia/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Captura-de-pantalla-2025-05-22-113437.png",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "mayo 22, 2025",
-                                "extra": "En esta efervescente \u00abEra de la IA\u00bb, una empresa ha brillado con luz propia: OpenAI. Muchos sostienen que fue precisamente\u2026"
-                            },
-                            {
-                                "titulo": "Google presenta Veo, la IA que da voz y vida a los videos",
-                                "url": "https://www.elnacional.com/tecnologia/google-presenta-veo-la-ia-que-da-voz-y-vida-a-los-videos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/Veo-Google-IA.webp",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "mayo 21, 2025",
-                                "extra": "Google lanz\u00f3 este martes su nuevo modelo de generaci\u00f3n de video con inteligencia artificial (IA), Veo 3, que por primera\u2026"
-                            },
-                            {
-                                "titulo": "La seguridad digital en las aulas: un reto en tiempos de inteligencia artificial",
-                                "url": "https://www.elnacional.com/tecnologia/la-seguridad-digital-en-las-aulas-un-reto-en-tiempos-de-inteligencia-artificial/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/05/pixabay-aulas.png",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "mayo 10, 2025",
-                                "extra": "La digitalizaci\u00f3n educativa avanza r\u00e1pidamente en Latinoam\u00e9rica. Sin embargo, esta transformaci\u00f3n enfrenta desaf\u00edos \u00fanicos en la regi\u00f3n. La falta de\u2026"
-                            },
-                            {
-                                "titulo": "Google lanza Gemini para menores de 13 a\u00f1os bajo supervisi\u00f3n",
-                                "url": "https://www.elnacional.com/tecnologia/gemini-ninos-menores-de-13-anos-podran-usarla-bajo-supervision/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/Ninos-Gemini.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "abril 30, 2025",
-                                "extra": "Google abrir\u00e1 el acceso a Gemini a menores de 13 a\u00f1os bajo supervisi\u00f3n parental a trav\u00e9s de Family Link. La\u2026"
-                            },
-                            {
-                                "titulo": "ChatGPT es tambi\u00e9n un asistente de compras",
-                                "url": "https://www.elnacional.com/tecnologia/chatgpt-ahora-es-un-nuevo-asistente-de-compras/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/chatgpt-1.webp",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "abril 30, 2025",
-                                "extra": "ChatGPT ahora es un nuevo asistente de compras: OpenAI integrar\u00e1 funciones para facilitar la compra online. La compa\u00f1\u00eda anunci\u00f3 una\u2026"
-                            },
-                            {
-                                "titulo": "Meta bajo escrutinio por interacciones sexuales de sus chatbots con ni\u00f1os",
-                                "url": "https://www.elnacional.com/tecnologia/chatbots-de-meta-interactuan-sexualmente-con-ninos/",
-                                "imagen": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/04/EuropaPress_6682642_ventana_conversacion_meta_ai.jpg",
-                                "meta": "INTELIGENCIA ARTIFICIAL",
-                                "fecha": "abril 28, 2025",
-                                "extra": "The Wall Street Journal lo destap\u00f3 todo: revel\u00f3 conversaciones de contenido sexual entre sus asistentes de inteligencia artificial y menores.\u2026"
-                            }
-                        ]
-                    }
+                    "pagina": null
                 }
             ]
         }
