@@ -11273,6 +11273,46 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Camiseta de hockey del MSI 2025",
+                        "url": "https://merch.riotgames.com/product/msi-2025-hockey-jersey/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Merchandising",
+                        "fecha": "2025-06-24T21:00:00.000Z",
+                        "detalle": "\u00a1Luc\u00edos dentro y fuera de la pista de hielo con la camiseta de hockey oficial del MSI 2025!"
+                    },
+                    {
+                        "titulo": "Notas de la versi\u00f3n 25.13",
+                        "url": "/es-es/news/game-updates/patch-25-13-notes",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-06-24T18:00:00.000Z",
+                        "detalle": "Florescencia ind\u00f3mita ha entrado en el chat de la versi\u00f3n 25.13 \ud83e\udeb7"
+                    },
+                    {
+                        "titulo": "Notas de la versi\u00f3n 14.7 de TFT (2025)",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/teamfight-tactics-patch-14-7-notes-2025/",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-06-24T18:00:00.000Z",
+                        "detalle": "La 14.7 es una versi\u00f3n de equilibrio para Ciudad Cibern\u00e9tica m\u00e1s ligera enfocada en la parte competitiva, puesto que se jugar\u00e1 en diversas competiciones, entre las que se incluye nuestra \u00faltima Tactician's Crown de Ciudad Cibern\u00e9tica (del 11 al 13 de julio). Aunque se trate de cambios de poco peso para Ciudad Cibern\u00e9tica, tambi\u00e9n hay ajustes sustanciales para Double Up que buscan reducir el n\u00famero de unidades de 3 estrellas de coste 4. Y nuestros otros modos tambi\u00e9n siguen despegando, \u00a1con actualizaciones de equilibrio tanto para Fiesta de Pingu como para Renacer: Remix r\u00fanico!"
+                    },
+                    {
+                        "titulo": "Resumen de las habilidades de Yunara",
+                        "url": "/es-es/news/game-updates/yunara-abilities-rundown",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-06-24T17:00:00.000Z",
+                        "detalle": "La Fe Inquebrantable llegar\u00e1 con la versi\u00f3n 25.14."
+                    },
+                    {
+                        "titulo": "Expositor de la campeona: Yunara",
+                        "url": "https://www.youtube.com/watch?v=V91RpT6JmAo",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-06-24T16:00:00.000Z",
+                        "detalle": "Desatad todo el potencial de vuestro esp\u00edritu con Yunara, la Fe Inquebrantable."
+                    },
+                    {
                         "titulo": "Merchandising del MSI 2025",
                         "url": "https://merch.riotgames.com/collection/MSI-2025/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11327,49 +11367,17 @@
                         "categoria": "Esports",
                         "fecha": "2025-06-13T14:00:00.000Z",
                         "detalle": "Damos la bienvenida al nuevo equipo de la LEC, NAVI, y recordamos el legado de Rogue."
-                    },
-                    {
-                        "titulo": "Expositor de tem\u00e1tica: Velada por los 6 a\u00f1itos",
-                        "url": "https://www.youtube.com/watch?v=yp6No3nuawc",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-12T13:00:00.000Z",
-                        "detalle": "Celebrad la Velada por los 6 a\u00f1itos con una arena que dice: \"Gane o pierda, \u00a1me voy de fiesta!\"."
-                    },
-                    {
-                        "titulo": "Hall of Legends: Uzi",
-                        "url": "https://www.youtube.com/watch?v=LwYOQl1vptg",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Esports",
-                        "fecha": "2025-06-11T15:00:00.000Z",
-                        "detalle": "\u00a1Presentamos al nuevo elegido! No os perd\u00e1is el documental presentado por Mercedes-Benz."
-                    },
-                    {
-                        "titulo": "Recompensas Marriott Bonvoy: LoL y mundo real",
-                        "url": "https://lolesports.com/es-es/news/unlock-rewards-for-lol-and-irl-with-marriott-bonvoy",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Esports",
-                        "fecha": "2025-06-11T14:00:00.000Z",
-                        "detalle": "Conseguid un cofre hextech gratis cortes\u00eda del socio oficial de la LEC: Marriott Bonvoy."
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 25.12",
-                        "url": "/es-es/news/game-updates/patch-25-12-notes",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-10T18:05:00.000Z",
-                        "detalle": "Bienvenido al Hall of Legends, Uzi."
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 14.6 de TFT (2025)",
-                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/teamfight-tactics-patch-14-6-notes-2025",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-10T18:00:00.000Z",
-                        "detalle": "La versi\u00f3n 14.6 marca la llegada del sexto aniversario de TFT, el regreso de Fiesta de Pingu y la implementaci\u00f3n de un mont\u00f3n de mejoras."
                     }
                 ],
                 "notas": [
+                    {
+                        "titulo": "Notas de la versi\u00f3n 25.13",
+                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-13-notes",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-06-24T18:00:00.000Z",
+                        "detalle": "Florescencia ind\u00f3mita ha entrado en el chat de la versi\u00f3n 25.13 \ud83e\udeb7"
+                    },
                     {
                         "titulo": "Notas de la versi\u00f3n 25.12",
                         "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-12-notes",
@@ -11457,14 +11465,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-01-22T19:00:00.000Z",
                         "detalle": "\u00a1Arrodillaos ante la versi\u00f3n 25.S1.2! \ud83d\udc51"
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 25.S1.1",
-                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-s1-1-notes",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-07T19:00:00.000Z",
-                        "detalle": "\u00a1Os damos la bienvenida a Noxus y a la temporada 1!"
                     }
                 ]
             }
@@ -11770,6 +11770,30 @@
                             {
                                 "url": "https://www.ea.com/es-es/games/library/nintendo-switch",
                                 "tipo": "Nintendo Switch"
+                            }
+                        ],
+                        "genero": [
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/sports",
+                                "genero": "Deportes"
+                            }
+                        ]
+                    },
+                    {
+                        "titulo": "skate.\u2122",
+                        "fecha": "Pr\u00f3ximamente",
+                        "plataformas": [
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/pc",
+                                "tipo": "Descarga para PC"
+                            },
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/playstation",
+                                "tipo": "PlayStation\u00ae"
+                            },
+                            {
+                                "url": "https://www.ea.com/es-es/games/library/xbox",
+                                "tipo": "Xbox"
                             }
                         ],
                         "genero": [
@@ -12450,6 +12474,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Iniesta, Kroos, Marcelo...: EA Sports FC 26 llenar\u00e1 Ultimate Team de leyendas con sus nuevos Iconos",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/24/iniesta-kroos-marcelo-ea-sports-fc-26-llenara-ultimate-team-leyendas-nuevos-iconos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/24/685ac93a0f16c.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Este es el actor de cine al que homenajear\u00e1 GTA VI en la fecha de su lanzamiento",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/24/actor-cine-homenajeara-gta-vi-fecha-lanzamiento.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/24/685a7ab42b580.jpeg",
@@ -12791,13 +12822,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/6848673b95a34.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Todos los cambios de League of Legends con el Acto 2 de Florecer Espiritual",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/10/todos-cambios-league-of-legends-acto-2-florecer-espiritual.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/10/68485339458eb.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
                         }
                     ]
                 },
@@ -12805,9 +12829,19 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": [
+                                "<span class=\"com-lead\">Death Stranding 2. </span>",
+                                "Probamos el nuevo y singular juego del legendario Hideo Kojima"
+                            ],
+                            "url": "https://www.lanacion.com.ar/tecnologia/death-stranding-2-probamos-el-nuevo-y-singular-juego-del-legendario-hideo-kojima-nid24062025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/una-captura-del-juego-death-stranding-2-con-el-UOYAJ4IJ4BA7ZH6VKDE4YWWFKY.jpg?auth=bdd705dca02fe080ab1698215ebbb25b81ef66ed06a171072bba5dc42132f523&width=300&height=200&quality=70&smart=true",
+                            "fecha": "24 de junio de 2025",
+                            "url_link": "/tecnologia/death-stranding-2-probamos-el-nuevo-y-singular-juego-del-legendario-hideo-kojima-nid24062025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 22 de junio",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-22-de-junio-nid23062025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "23 de junio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-22-de-junio-nid23062025/"
                         },
@@ -13042,13 +13076,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "22 de mayo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-22-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid22052025/"
-                        },
-                        {
-                            "titulo": "Lanzamientos de videojuegos en Mayo de 2025 en Steam: esta es la lista",
-                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-mayo-de-2025-en-steam-esta-es-la-lista-nid21052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-mayo-de-2025-en-2WHXRJNBQNDE3ASHX2ZRQPKSIQ.jpg?auth=1961efa45d6bc0cfa3083c5116b4bdb28e5c3ae8b25d5f021a004d205f036fb0&width=300&height=200&quality=70&smart=true",
-                            "fecha": "21 de mayo de 2025",
-                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-mayo-de-2025-en-steam-esta-es-la-lista-nid21052025/"
                         }
                     ]
                 },
@@ -13266,9 +13293,25 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Juez de EE UU respalda entrenar robot de IA con libros sin permiso de autores",
+                                "url": "https://www.elnacional.com/2025/06/juez-de-eeuu-respalda-entrenar-robot-de-ia-con-libros/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/24183015/images-5.jpeg",
+                                "meta": "Inteligencia Artificial",
+                                "fecha": "junio 24, 2025",
+                                "extra": "Un juez en Estados Unidos (EE UU) desestim\u00f3 que la empresa Anthropic haya infrigido la ley de derechos de autor\u2026"
+                            },
+                            {
+                                "titulo": "Los celulares que se quedar\u00e1n sin WhatsApp desde el 1 de julio de 2025",
+                                "url": "https://www.elnacional.com/2025/06/los-celulares-que-se-quedaran-sin-whatsapp-desde-el-1-de-julio-de-2025/",
+                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/02/La-antiguedad-de-los-dispositivos-es-la-causa-por-la-que-ya-no-se-actualiza-la-App-Foto-iStock-640x285.jpg",
+                                "meta": "App",
+                                "fecha": "junio 24, 2025",
+                                "extra": "Esta decisi\u00f3n impactar\u00e1 a usuarios de diferentes marcas cuyos dispositivos funcionen con versiones anteriores a Android 5 o iOS 15.1"
+                            },
+                            {
                                 "titulo": "D\u00eda Mundial del Wi-Fi: el desaf\u00edo de la conectividad en Venezuela",
                                 "url": "https://www.elnacional.com/2025/06/dia-mundial-del-wi-fi-el-desafio-de-la-conectividad-en-venezuela/",
-                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/06/pixabay-wifi-2-640x640.jpg",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/24164802/pixabay-wifi-2-640x640.jpg",
                                 "meta": "Noticias",
                                 "fecha": "junio 20, 2025",
                                 "extra": "El D\u00eda Mundial del Wi-Fi celebra la conectividad global, pero contrasta con la realidad en Venezuela, marcada por bajas velocidades,\u2026"
@@ -13284,7 +13327,7 @@
                             {
                                 "titulo": "Gemini ahora entiende los videos",
                                 "url": "https://www.elnacional.com/2025/06/gemini-ahora-entiende-los-videos/",
-                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/06/EuropaPress_6636401_ia_google_gemini-640x360.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQAAAADvSXf8AAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg90/t7AEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADdx6AABMM5UuwAAAABJRU5ErkJggg==",
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "junio 18, 2025",
                                 "extra": "Grabar un video, por ejemplo, de un electrodom\u00e9stico que no funciona, y pedirle a Gemini que diagnostique el problema bas\u00e1ndose\u2026"
@@ -13292,7 +13335,7 @@
                             {
                                 "titulo": "Facebook convertir\u00e1 todos sus videos en reels",
                                 "url": "https://www.elnacional.com/2025/06/facebook-convertira-todos-sus-videos-en-reels/",
-                                "imagen": "https://www.elnacional.com/wp-content/uploads/2025/06/Facebook-640x426.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGqAQAAAACzachDAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+DaGygABYQdEywAAAABJRU5ErkJggg==",
                                 "meta": "App",
                                 "fecha": "junio 18, 2025",
                                 "extra": "El cambio responde a la intenci\u00f3n de Meta de \"simplificar la creaci\u00f3n y publicaci\u00f3n de videos\", y por ello, todos\u2026"
@@ -13328,22 +13371,6 @@
                                 "meta": "Noticias",
                                 "fecha": "junio 16, 2025",
                                 "extra": "Esta medida se tom\u00f3 en un contexto de crecientes preocupaciones sobre la soberan\u00eda de los datos y la legislaci\u00f3n extraterritorial\u2026"
-                            },
-                            {
-                                "titulo": "Digitel inaugura el internet 5G en Venezuela con servicio fijo inal\u00e1mbrico",
-                                "url": "https://www.elnacional.com/2025/06/digitel-inaugura-el-internet-5g-en-venezuela-con-servicio-fijo-inalambrico/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHaAQAAAAC4S8WCAAAAAnRSTlMAAHaTzTgAAAA8SURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwJsBlfoAAQbdt14AAAAASUVORK5CYII=",
-                                "meta": "Noticias",
-                                "fecha": "junio 14, 2025",
-                                "extra": "Seg\u00fan Luis Bernardo P\u00e9rez, presidente de Digitel, los estados Barinas y Nueva Esparta ser\u00e1n las primeras regiones en las que\u2026"
-                            },
-                            {
-                                "titulo": "El emprendedor que cre\u00f3 app para el cuidado de las mascotas",
-                                "url": "https://www.elnacional.com/2025/06/el-emprendedor-que-creo-una-app-para-el-cuidado-de-las-mascotas/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==",
-                                "meta": "App",
-                                "fecha": "junio 13, 2025",
-                                "extra": "Con enfoque centrado en el usuario y sus mascotas, Dosty busca simplificar y mejorar la experiencia del cuidado animal en\u2026"
                             }
                         ]
                     }
