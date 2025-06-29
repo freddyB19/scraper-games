@@ -11273,6 +11273,22 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Chaqueta del MSI 2025",
+                        "url": "https://merch.riotgames.com/product/msi-2025-coach-jacket/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Merchandising",
+                        "fecha": "2025-06-28T21:00:00.000Z",
+                        "detalle": "\u00a1Animad a vuestra regi\u00f3n en su lucha por la gloria con la chaqueta de entrenador del MSI 2025!"
+                    },
+                    {
+                        "titulo": "Blossom & Blade - Desaf\u00edo de ARAM",
+                        "url": "/es-es/news/community/blossom-blade-aram-challenge",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Comunidad",
+                        "fecha": "2025-06-27T13:00:00.000Z",
+                        "detalle": "Disfrutad de la amistad y la comunidad en pleno caos con los desaf\u00edos de ARAM de FTW."
+                    },
+                    {
                         "titulo": "Morgana florecer espiritual",
                         "url": "https://www.youtube.com/watch?v=ozv9KijoYrk",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11351,22 +11367,6 @@
                         "categoria": "Merchandising",
                         "fecha": "2025-06-20T21:00:00.000Z",
                         "detalle": "\u00a1Preparaos para rivalidades, redenciones y jugadones con el merchandising oficial del MSI 2025!"
-                    },
-                    {
-                        "titulo": "Enciende el fuego interior | MSI 2025",
-                        "url": "https://www.youtube.com/watch?v=1t7HX7ugwTQ",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Esports",
-                        "fecha": "2025-06-20T15:00:00.000Z",
-                        "detalle": "\u00bfQui\u00e9n encontrar\u00e1 su fuerza interior para alcanzar la victoria?"
-                    },
-                    {
-                        "titulo": "Presentamos League of Legends Game Changers Rising",
-                        "url": "https://lolesports.com/es-es/news/introducing-league-of-legends-game-changers-rising",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Esports",
-                        "fecha": "2025-06-19T14:00:00.000Z",
-                        "detalle": "Nos alegra mucho anunciar nuestro torneo oficial femenino de LoL."
                     }
                 ],
                 "notas": [
@@ -11475,6 +11475,13 @@
             "nombre": "easport",
             "info": {
                 "noticias": [
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/fc-futures-year-2-article-uefa-euros-berlin-16x9-featured-image.jpg.adapt.crop16x9.431p.jpg",
+                        "titulo": "EA SPORTS FC FUTURES duplica su impacto en el f\u00fatbol base a\u00f1o tras a\u00f1o",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "24-jun-2025",
+                        "descripcion": "EA SPORTS FC FUTURES ha duplicado su impacto interanual, permitiendo el acceso al f\u00fatbol base a m\u00e1s de 340\u00a0000* personas en el segundo a\u00f1o."
+                    },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/switch-2-ea-games/digital-signage-16x9.png.adapt.crop16x9.431p.png",
                         "titulo": "Juegos de EA y el lanzamiento del sistema Nintendo Switch\u2122 2",
@@ -11593,13 +11600,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "21-nov-2024",
                         "descripcion": "Las funciones de accesibilidad de Dragon Age: The Veilguard permiten a personas con distintas discapacidades de todo el mundo disfrutar del juego."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/ea-unicef-game-changers-coalition-thumbnail.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "GVGC se asocia con UNICEF para la Game Changers Coalition",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "18-nov-2024",
-                        "descripcion": "Acortar brechas de habilidades de CTIAM, reforzar las pr\u00e1cticas inclusivas y mucho m\u00e1s."
                     }
                 ],
                 "novedades": [
@@ -11961,6 +11961,16 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "EA SPORTS FC FUTURES duplica su impacto en el f\u00fatbol base a\u00f1o tras a\u00f1o",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "24-jun-2025"
+                                        ],
+                                        "detalle": "EA SPORTS FC FUTURES ha duplicado su impacto interanual, permitiendo el acceso al f\u00fatbol base a m\u00e1s de 340\u00a0000* personas en el segundo a\u00f1o.",
+                                        "url": "https://www.ea.com/es-es/news/fc-futures-year-2-impact",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/fc-futures-year-2-article-uefa-euros-berlin-16x9-featured-image.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "Juegos de EA y el lanzamiento del sistema Nintendo Switch\u2122 2",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -12009,16 +12019,6 @@
                                         "detalle": "A trav\u00e9s del compromiso del John Madden Legacy Commitment to Education, EA reinvierte en las comunidades donde vivimos, trabajamos y jugamos.",
                                         "url": "https://www.ea.com/es-es/news/madden-fund-2025",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/madden-fund-2025-article-thumbnail.jpg.adapt.crop16x9.431p.jpg"
-                                    },
-                                    {
-                                        "titulo": "Celebramos el Mes de la Historia de la Mujer en EA",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "31-mar-2025"
-                                        ],
-                                        "detalle": "\u00a1Este mes, en EA hemos celebrado el Mes de la Historia de la Mujer con charlas inaugurales, eventos, oportunidades para crear contactos y mucho m\u00e1s!",
-                                        "url": "https://www.ea.com/es-es/news/whm-2025",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/whm-2025-thumbnail.jpg.adapt.crop16x9.431p.jpg"
                                     }
                                 ]
                             },
@@ -12474,6 +12474,27 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "EA Sports FC 26 Ultimate y Est\u00e1ndar: Beneficios y qu\u00e9 edici\u00f3n deber\u00edas comprar",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/28/ea-sports-fc-26-ultimate-estandar-beneficios-edicion-deberias-comprar.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/28/686032b814997.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Ni Trivial, ni Risk. Es uno de los juegos de mesa m\u00e1s famosos de la historia y lo tienes gratis en PS Plus",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/28/trivial-risk-juegos-mesa-famosos-historia-tienes-gratis-ps-plus.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/wMxjHbu5.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "EA Sports se pone las pilas y confirma un gran cambio para FC 26 escuchando a la comunidad",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/27/ea-sports-pone-pilas-confirma-gran-cambio-fc-26-escuchando-comunidad.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/27/YepnC1eNfYGZgd5uX.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
                             "titulo": "Fans del FC 26, est\u00e1is de enhorabuena: este m\u00edtico estadio podr\u00eda volver al juego seis a\u00f1os despu\u00e9s",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/26/fans-fc-26-estais-enhorabuena-mitico-estadio-podria-volver-juego-seis-anos-despues.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/24/685a92421d339.png",
@@ -12799,27 +12820,6 @@
                             "titulo": "Repasito al Bar\u00e7a y Champions. He simulado a Alexander-Arnold en su primera temporada con el Real Madrid y...",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/repasito-barca-champions-he-simulado-alexander-arnold-primera-temporada-real-madrid.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aba95863a1.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Con este juego volver\u00e1s a enamorarte de un modo manager online: Bienvenidos a Striker Manager 3",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/juego-volveras-enamorarte-manager-online-bienvenidos-striker-manager-3.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/mbeP3R.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Se filtra una supuesta mec\u00e1nica de GTA 6 antes de su tercer tr\u00e1iler y esta s\u00ed que parece real, pero estar\u00eda descartada",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/filtra-supuesta-mecanica-gta-6-tercer-trailer-parece-real-estaria-descartada.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aa2738fee3.jpeg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
-                        },
-                        {
-                            "titulo": "Si eres fan de los JRPG y Final Fantasy, no puedes perderte esta nueva colaboraci\u00f3n con Magic",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/fan-jrpg-final-fantasy-puedes-perderte-nueva-colaboracion-magic.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684a9d634a5db.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
                         }
@@ -13181,15 +13181,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Modelo de IA AlphaGenome de Google Permite Leer el ADN\u2014Y Est\u00e1 en GitHub",
-                            "url": "https://decrypt.co/es/327175/modelo-de-ia-alphagenome-de-google-permite-leer-el-adn-y-esta-en-github",
+                            "titulo": "Administraci\u00f3n Trump Planea Abrir Tierras Federales para Megacentros de IA: Reuters",
+                            "url": "https://decrypt.co/es/327551/administracion-trump-planea-abrir-tierras-federales-para-megacentros-de-ia-reuters",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@webp",
-                            "descripcion": "AlphaGenome de Google DeepMind, que se anunci\u00f3 hoy, no es solo otra entrada en la carrera de la IA para la ciencia. Con acceso a la API disponible para investigaciones no comerciales, y una extensa documentaci\u00f3n y soporte de la comunidad alojado en GitHub, se\u00f1ala que la gen\u00f3mica, una vez confinada a laboratorios especializados y conjuntos de datos con acceso restringido, se est\u00e1 moviendo r\u00e1pidamente hacia la ciencia abierta.\nEsto es realmente importante.\nImagina que tu ADN es como un manual de i...",
-                            "fecha": "Jun 27, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-05-scaled-gID_7.jpeg@webp",
+                            "descripcion": "La administraci\u00f3n Trump est\u00e1 considerando una serie de \u00f3rdenes ejecutivas destinadas a expandir la infraestructura necesaria para apoyar el crecimiento de la inteligencia artificial, seg\u00fan un informe de Reuters publicado el viernes.\nLas acciones propuestas, a\u00fan no confirmadas por la Casa Blanca, incluir\u00edan supuestamente medidas para facilitar el acceso a la red el\u00e9ctrica, agilizar los procesos de permisos y abrir tierras federales para la construcci\u00f3n de centros de datos a gran escala.\nReuters,...",
+                            "fecha": "Jun 28, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "MrBeast Retira Herramienta de IA Tras Pol\u00e9mica por Copiar Miniaturas de Creadores de Contenido",
+                                    "url": "https://decrypt.co/es/327541/mrbeast-retira-herramienta-de-ia-tras-polemica-por-copiar-miniaturas-de-creadores-de-contenido",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 28, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Juez Falla a Favor de Meta en Demanda Por Uso de Libros Con Derechos de Autor Para Entrenar IA",
+                                    "url": "https://decrypt.co/es/327240/juez-falla-a-favor-de-meta-en-demanda-por-uso-de-libros-con-derechos-de-autor-para-entrenar-ia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 27, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "Modelo de IA AlphaGenome de Google Permite Leer el ADN\u2014Y Est\u00e1 en GitHub",
+                                    "url": "https://decrypt.co/es/327175/modelo-de-ia-alphagenome-de-google-permite-leer-el-adn-y-esta-en-github",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 27, 2025",
+                                    "meta": "7 min lectura"
+                                },
                                 {
                                     "titulo": "Baidu Patenta Sistema de IA para Traducir Maullidos de Gatos a Lenguaje Humano",
                                     "url": "https://decrypt.co/es/327037/baidu-patenta-sistema-de-ia-para-traducir-maullidos-de-gatos-a-lenguaje-humano",
@@ -13210,30 +13231,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 20, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "La IA Puede Ayudar a la Industria Cripto, Pero Tambi\u00e9n Aumentar el Fraude: Comisionada de la CFTC",
                                     "url": "https://decrypt.co/es/325852/la-ia-puede-ayudar-a-la-industria-cripto-pero-tambien-aumentar-el-fraude-comisionada-de-la-cftc",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 19, 2025",
-                                    "meta": "3 min lectura"
+                                    "meta": "3 min lectura",
+                                    "descripcion": "La comisionada de la CFTC, Kristin Johnson, cree que la inteligencia artificial puede ofrecer enormes ventajas para el sector de las criptomonedas, pero tambi\u00e9n puede exacerbar el riesgo de fraude.\nHablando en DigiAssets 2025, Johnson dijo que el machine learning y las redes neuronales est\u00e1n analizando ahora vastas cantidades de datos en tiempo real, incluyendo la acci\u00f3n del precio y el sentimiento en las redes sociales.\nSi bien elogi\u00f3 el potencial de la IA para acelerar los tiempos de liquidaci..."
                                 },
                                 {
                                     "titulo": "Meta Intenta Reclutar Personal de OpenAI Pagando Bonos de $100 Millones: Sam Altman",
                                     "url": "https://decrypt.co/es/325841/meta-intenta-reclutar-personal-de-openai-pagando-bonos-de-100-millones-sam-altman",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 19, 2025",
-                                    "meta": "3 min lectura"
+                                    "meta": "3 min lectura",
+                                    "descripcion": "El gigante tecnol\u00f3gico multinacional Meta est\u00e1 ofreciendo bonos de firma de hasta $100 millones a los empleados de OpenAI junto con paquetes de compensaci\u00f3n anual que superan esa cantidad, aleg\u00f3 el CEO de OpenAI, Sam Altman, en el podcast \"Uncapped\" del lunes.\nMeta hab\u00eda estado haciendo \"ofertas gigantes a muchas personas de nuestro equipo\", dijo Altman en el podcast, que se emiti\u00f3 el martes y fue presentado por su hermano, Jack Altman.\nEn la conversaci\u00f3n, Altman dijo que ninguno de los \"mejores..."
                                 },
                                 {
                                     "titulo": "xAI de Elon Musk Busca $4.300 Millones en Financiamiento Fresco: Bloomberg",
                                     "url": "https://decrypt.co/es/325768/xai-de-elon-musk-busca-4-300-millones-en-financiamiento-fresco-bloomberg",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 18, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "La startup de inteligencia artificial de Elon Musk, xAI, est\u00e1 buscando $4.300 millones en nueva financiaci\u00f3n de capital, seg\u00fan report\u00f3 Bloomberg, lo que indica un fuerte impulso de expansi\u00f3n para la empresa.\nLa \u00faltima financiaci\u00f3n se suma a un plan separado de $5.000 millones en financiamiento de deuda anunciado a principios de este mes. Las recaudaciones subrayan el renovado enfoque de Musk en desarrollar sus empresas de inteligencia artificial despu\u00e9s de abandonar en mayo la administraci\u00f3n Tru..."
+                                },
                                 {
                                     "titulo": "C\u00f3mo Los Inmigrantes y Manifestantes Est\u00e1n Siendo Atrapados Por la Red de IA Del ICE",
                                     "url": "https://decrypt.co/es/325324/como-los-inmigrantes-y-manifestantes-estan-siendo-atrapados-por-la-red-de-ia-del-ice",
@@ -13249,30 +13273,6 @@
                                     "fecha": "Jun 16, 2025",
                                     "meta": "8 min lectura",
                                     "descripcion": "Cuando Anthropic lanz\u00f3 Opus 4 recientemente, la actualizaci\u00f3n lleg\u00f3 sin mucha expectativa pero con mucho valor: una IA que no solo responde preguntas, sino que se adentra en ellas y puede ser s\u00faper \u00fatil como un verdadero Asistente de IA. En nuestras pruebas, Claude super\u00f3 incluso a ChatGPT en tareas de investigaci\u00f3n usando la funci\u00f3n de b\u00fasqueda web, sin siquiera activar el modelo de investigaci\u00f3n profunda.\nPor eso lo elegimos para un desaf\u00edo: ver qu\u00e9 tan lejos llega su razonamiento cuando se le..."
-                                },
-                                {
-                                    "titulo": "Meta Invierte $14.000 Millones en Scale AI Para 'Profundizar' su Trabajo en Superinteligencia",
-                                    "url": "https://decrypt.co/es/325076/meta-invierte-14-000-millones-en-scale-ai-para-profundizar-su-trabajo-en-superinteligencia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 16, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "La empresa tecnol\u00f3gica multinacional estadounidense Meta ha realizado una inversi\u00f3n significativa en Scale AI, la startup de etiquetado de datos esencial para el entrenamiento de sistemas de inteligencia artificial, reclutando a su joven fundador Alexandr Wang para desarrollar un laboratorio de \"superinteligencia\" centrado en lograr la inteligencia artificial general (AGI).\nMediante la inversi\u00f3n de $14.300 millones, Meta adquiri\u00f3 una participaci\u00f3n del 49% en Scale AI, elevando su valoraci\u00f3n a m\u00e1..."
-                                },
-                                {
-                                    "titulo": "Fabricante de Juguetes Hot Wheels y Barbie Utilizar\u00e1 Tecnolog\u00eda de OpenAI Para Aumentar su Poductividad",
-                                    "url": "https://decrypt.co/es/325066/fabricante-de-juguetes-hot-wheels-y-barbie-utilizara-tecnologia-de-openai-para-aumentar-su-poductividad",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 16, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "El gigante de los juguetes Mattel anunci\u00f3 el jueves que se asociar\u00e1 con el gigante de la inteligencia artificial OpenAI para crear los primeros productos impulsados por IA de una importante empresa de juguetes, marcando la expansi\u00f3n de OpenAI m\u00e1s all\u00e1 del software empresarial hacia el entretenimiento para consumidores.\nLa colaboraci\u00f3n utilizar\u00e1 la tecnolog\u00eda de OpenAI para desarrollar nuevos productos para las marcas de Mattel, y se espera que el primer producto impulsado por IA de las compa\u00f1\u00edas..."
-                                },
-                                {
-                                    "titulo": "Startup Espa\u00f1ola Recauda $215 Millones Prometiendo Reducir 95% Los Modelos de IA Sin Perder Rendimiento",
-                                    "url": "https://decrypt.co/es/325010/startup-espanola-recauda-215-millones-prometiendo-reducir-95-los-modelos-de-ia-sin-perder-rendimiento",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 15, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Una startup de inteligencia artificial espa\u00f1ola acaba de convencer a los inversores de entregar $215 millones bas\u00e1ndose en una afirmaci\u00f3n audaz: pueden reducir los Large Language Models (LLMs) en un 95% sin comprometer su rendimiento.\nLa innovaci\u00f3n de Multiverse Computing se basa en su tecnolog\u00eda CompactifAI, un m\u00e9todo de compresi\u00f3n que toma prestados conceptos matem\u00e1ticos de la f\u00edsica cu\u00e1ntica para reducir los modelos de IA al tama\u00f1o de un smartphone.\nLa empresa de San Sebasti\u00e1n dice que su mod..."
                                 }
                             ]
                         }
@@ -13289,6 +13289,22 @@
                             "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/26104310/EuropaPress_6822204_nueva_funcion_resumen_mensajes_whatsapp-1280x720.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Google lanza app para que veas c\u00f3mo te queda la ropa que ves en internet",
+                                "url": "https://www.elnacional.com/2025/06/app-de-google-para-probarte-ropa/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/28081851/App-de-Google--640x410.jpg",
+                                "meta": "App",
+                                "fecha": "junio 28, 2025",
+                                "extra": "La nueva aplicaci\u00f3n experimental de Google Labs utiliza la tecnolog\u00eda de prueba virtual que la compa\u00f1\u00eda tecnol\u00f3gica present\u00f3 en mayo,\u2026"
+                            },
+                            {
+                                "titulo": "Privacidad digital en el periodismo: Por qu\u00e9 las VPN son m\u00e1s importantes que nunca en el panorama informativo actual",
+                                "url": "https://www.elnacional.com/2025/06/privacidad-digital-en-el-periodismo-por-que-las-vpn-son-mas-importantes-que-nunca-en-el-panorama-informativo-actual/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/27172426/IMAGEN-AJUSTADA-640x360.png",
+                                "meta": "Empresas y Productos",
+                                "fecha": "junio 27, 2025",
+                                "extra": "En pa\u00edses donde la libertad de prensa est\u00e1 amenazada, las VPN se han convertido en salvavidas. Los periodistas pueden utilizar\u2026"
+                            },
                             {
                                 "titulo": "WhatsApp es considerada un \u201criesgo\u201d por la C\u00e1mara de Representantes de Estados Unidos y proh\u00edbe la app entre sus empleados",
                                 "url": "https://www.elnacional.com/2025/06/whatsapp-es-considerada-un-riesgo-por-la-camara-de-representantes-de-estados-unidos-y-prohibe-la-app-entre-sus-empleados/",
@@ -13308,7 +13324,7 @@
                             {
                                 "titulo": "El Palacio de Versalles cobra vida gracias a la IA",
                                 "url": "https://www.elnacional.com/2025/06/la-historia-de-versalles-cobra-vida-gracias-a-la-ia/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/25114139/Captura-de-pantalla-2025-06-25-113604-640x356.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFkAQAAAACYi7eHAAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8GBwpAABLL/psAAAAABJRU5ErkJggg==",
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "junio 25, 2025",
                                 "extra": "El Palacio de Versalles ahora permite a sus estatuas \"hablar\" con los visitantes gracias a una innovadora alianza con OpenAI\u2026"
@@ -13316,7 +13332,7 @@
                             {
                                 "titulo": "Juez de EE UU respalda entrenar robot de IA con libros sin permiso de autores",
                                 "url": "https://www.elnacional.com/2025/06/juez-de-eeuu-respalda-entrenar-robot-de-ia-con-libros/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/24183015/images-5.jpeg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAACqAQAAAADZsYTtAAAAAnRSTlMAAHaTzTgAAAAdSURBVFjD7cEBDQAAAMKg909tDjegAAAAAAAA+DMZ5gAB+IBvXQAAAABJRU5ErkJggg==",
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "junio 24, 2025",
                                 "extra": "Un juez en Estados Unidos (EE UU) desestim\u00f3 que la empresa Anthropic haya infrigido la ley de derechos de autor\u2026"
@@ -13352,22 +13368,6 @@
                                 "meta": "Noticias",
                                 "fecha": "junio 19, 2025",
                                 "extra": "Enrique Criado, CEO de Ovoclone y embri\u00f3logo, asegur\u00f3 que la compa\u00f1\u00eda espera poder anunciar pr\u00f3ximamente m\u00e1s nacimientos de mascotas clonadas\u2026"
-                            },
-                            {
-                                "titulo": "Gemini ahora entiende los videos",
-                                "url": "https://www.elnacional.com/2025/06/gemini-ahora-entiende-los-videos/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQAAAADvSXf8AAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg90/t7AEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADdx6AABMM5UuwAAAABJRU5ErkJggg==",
-                                "meta": "Inteligencia Artificial",
-                                "fecha": "junio 18, 2025",
-                                "extra": "Grabar un video, por ejemplo, de un electrodom\u00e9stico que no funciona, y pedirle a Gemini que diagnostique el problema bas\u00e1ndose\u2026"
-                            },
-                            {
-                                "titulo": "Facebook convertir\u00e1 todos sus videos en reels",
-                                "url": "https://www.elnacional.com/2025/06/facebook-convertira-todos-sus-videos-en-reels/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGqAQAAAACzachDAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+DaGygABYQdEywAAAABJRU5ErkJggg==",
-                                "meta": "App",
-                                "fecha": "junio 18, 2025",
-                                "extra": "El cambio responde a la intenci\u00f3n de Meta de \"simplificar la creaci\u00f3n y publicaci\u00f3n de videos\", y por ello, todos\u2026"
                             }
                         ]
                     }
