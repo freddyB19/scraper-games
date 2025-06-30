@@ -12474,6 +12474,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Tony Hawk revela el dineral que gan\u00f3 por la famosa saga de videojuegos con su nombre: \"Me cambi\u00f3 la vida\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/30/tony-hawk-revela-dineral-gano-famosa-saga-videojuegos-nombre-me-cambio-vida.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/30/YfcQI1eOe54bpisHb.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Neymar 'volver\u00e1' a FC 26 si se confirma esta filtraci\u00f3n tras desaparecer del juego de EA Sports durante medio a\u00f1o",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/30/neymar-volvera-fc-26-confirma-filtracion-desaparecer-juego-ea-sports-durante-medio-ano.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/30/6862593726b7b.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
                             "titulo": "EA Sports FC 26 Ultimate y Est\u00e1ndar: Beneficios y qu\u00e9 edici\u00f3n deber\u00edas comprar",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/28/ea-sports-fc-26-ultimate-estandar-beneficios-edicion-deberias-comprar.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/28/686032b814997.jpeg",
@@ -12808,20 +12822,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aed6195263.jpeg",
                             "meta": "Juegos",
                             "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Tiene un 96% de cr\u00edticas positivas, lo tienes 'gratis' en PC y llegar\u00e1 este mes a PlayStation y Switch. As\u00ed es Against the Storm",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/96-criticas-positivas-tienes-gratis-pc-llegara-mes-playstation-switch-asi-against-the-storm.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/Ya4PY1eIhXakDWHlj.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Repasito al Bar\u00e7a y Champions. He simulado a Alexander-Arnold en su primera temporada con el Real Madrid y...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/repasito-barca-champions-he-simulado-alexander-arnold-primera-temporada-real-madrid.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aba95863a1.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -12829,9 +12829,16 @@
                     "nombre": "lanacion",
                     "pagina": [
                         {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 29 de junio",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-junio-nid30062025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "30 de junio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-junio-nid30062025/"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos gratis de la semana del 26 de junio en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-26-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid26062025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "26 de junio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-26-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid26062025/"
                         },
@@ -13063,16 +13070,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "26 de mayo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-25-de-mayo-nid26052025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Despu\u00e9s de 5 a\u00f1os de destierro. </span>",
-                                "Fortnite vuelve a estar disponible para el iPhone"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/fortnite-vuelve-al-iphone-despues-de-5-anos-de-destierro-nid22052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/epic-games-ha-anunciado-el-regreso-oficial-de-su-2VWSNR3Y3NFI7HR33H2HH6AOIY.jpg?auth=5ee5dc2481ffdec6ddcc4b1855cb27877ff3f4b20f2df61c2ee82f442fcb1402&width=300&height=200&quality=70&smart=true",
-                            "fecha": "22 de mayo de 2025",
-                            "url_link": "/tecnologia/fortnite-vuelve-al-iphone-despues-de-5-anos-de-destierro-nid22052025/"
                         }
                     ]
                 },
