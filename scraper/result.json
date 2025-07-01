@@ -12474,6 +12474,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "\"EA podr\u00eda destrozar Ultimate Team si no implementa bien este cambio a Fut Champions en FC 26\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/07/01/ea-podria-destrozar-ultimate-team-implementa-bien-cambio-fut-champions-fc-26.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/01/6863bd93577f9.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
                             "titulo": "Tony Hawk revela el dineral que gan\u00f3 por la famosa saga de videojuegos con su nombre: \"Me cambi\u00f3 la vida\"",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/06/30/tony-hawk-revela-dineral-gano-famosa-saga-videojuegos-nombre-me-cambio-vida.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/30/YfcQI1eOe54bpisHb.jpeg",
@@ -12815,13 +12822,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/960_ejRT.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "El drama de PC F\u00fatbol llega a Consumo de Andaluc\u00eda y una inspecci\u00f3n podr\u00eda complicar a\u00fan m\u00e1s las cosas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/12/drama-pc-futbol-llega-consumo-andalucia-inspeccion-podria-complicar-aun-cosas.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684aed6195263.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -13178,15 +13178,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Administraci\u00f3n Trump Planea Abrir Tierras Federales para Megacentros de IA: Reuters",
-                            "url": "https://decrypt.co/es/327551/administracion-trump-planea-abrir-tierras-federales-para-megacentros-de-ia-reuters",
+                            "titulo": "Los 6 Escenarios Apocal\u00edpticos Que Mantienen Despiertos a los Expertos en IA",
+                            "url": "https://decrypt.co/es/327769/los-6-escenarios-apocalipticos-que-mantienen-despiertos-a-los-expertos-en-ia",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-05-scaled-gID_7.jpeg@webp",
-                            "descripcion": "La administraci\u00f3n Trump est\u00e1 considerando una serie de \u00f3rdenes ejecutivas destinadas a expandir la infraestructura necesaria para apoyar el crecimiento de la inteligencia artificial, seg\u00fan un informe de Reuters publicado el viernes.\nLas acciones propuestas, a\u00fan no confirmadas por la Casa Blanca, incluir\u00edan supuestamente medidas para facilitar el acceso a la red el\u00e9ctrica, agilizar los procesos de permisos y abrir tierras federales para la construcci\u00f3n de centros de datos a gran escala.\nReuters,...",
-                            "fecha": "Jun 28, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-02-gID_7.png@webp",
+                            "descripcion": "En alg\u00fan momento en el futuro, la mayor\u00eda de los expertos afirman que la inteligencia artificial no solo mejorar\u00e1, sino que se volver\u00e1 superinteligente. Eso significa que ser\u00e1 exponencialmente m\u00e1s inteligente que los humanos, adem\u00e1s de estrat\u00e9gica, capaz y manipuladora.\nLo que suceda en ese momento ha dividido a la comunidad de IA. Por un lado est\u00e1n los optimistas, tambi\u00e9n conocidos como Aceleracionistas, que creen que la IA superinteligente puede coexistir pac\u00edficamente e incluso ayudar a la hu...",
+                            "fecha": "Jun 30, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Administraci\u00f3n Trump Planea Abrir Tierras Federales para Megacentros de IA: Reuters",
+                                    "url": "https://decrypt.co/es/327551/administracion-trump-planea-abrir-tierras-federales-para-megacentros-de-ia-reuters",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 28, 2025",
+                                    "meta": "3 min lectura"
+                                },
                                 {
                                     "titulo": "MrBeast Retira Herramienta de IA Tras Pol\u00e9mica por Copiar Miniaturas de Creadores de Contenido",
                                     "url": "https://decrypt.co/es/327541/mrbeast-retira-herramienta-de-ia-tras-polemica-por-copiar-miniaturas-de-creadores-de-contenido",
@@ -13221,16 +13228,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 21, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Firma de Infraestructura de IA Gradient, Obtiene $10 Millones Para Desarrollar Protocolos en Solana",
                                     "url": "https://decrypt.co/es/326166/firma-de-infraestructura-de-ia-gradient-obtiene-10-millones-para-desarrollar-protocolos-en-solana",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 20, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Gradient Network cerr\u00f3 una ronda de financiaci\u00f3n semilla de $10 millones para construir lo que denomina una pila de infraestructura de IA descentralizada, con las firmas de capital de riesgo Pantera Capital y Multicoin Capital liderando la inversi\u00f3n junto a HSG (anteriormente Sequoia Capital China).\nLa startup con sede en Singapur planea usar los fondos para desarrollar dos protocolos centrales\u2014Lattica y Parallax\u2014que permitir\u00edan que los modelos de inteligencia artificial funcionen a trav\u00e9s de un..."
+                                },
                                 {
                                     "titulo": "La IA Puede Ayudar a la Industria Cripto, Pero Tambi\u00e9n Aumentar el Fraude: Comisionada de la CFTC",
                                     "url": "https://decrypt.co/es/325852/la-ia-puede-ayudar-a-la-industria-cripto-pero-tambien-aumentar-el-fraude-comisionada-de-la-cftc",
@@ -13262,14 +13270,6 @@
                                     "fecha": "Jun 16, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "Las herramientas de vigilancia de IA que antes estaban confinadas a los campos de batalla ahora est\u00e1n siendo utilizadas por las autoridades de inmigraci\u00f3n de Estados Unidos para monitorear calles, protestas y comunidades en todo el pa\u00eds.\nEl Servicio de Inmigraci\u00f3n y Control de Aduanas de Estados Unidos (ICE) y otras agencias federales est\u00e1n intensificando su uso de reconocimiento facial, IA predictiva y drones de grado militar.\nEsto ha generado alarma entre los defensores de las libertades civil..."
-                                },
-                                {
-                                    "titulo": "5 Razones Por Las Que Claude AI de Anthropic es Mejor Que un Analista de Criptomonedas, Corredor o Doctor",
-                                    "url": "https://decrypt.co/es/325298/5-razones-por-las-que-claude-ai-de-anthropic-es-mejor-que-un-analista-de-criptomonedas-corredor-o-doctor",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 16, 2025",
-                                    "meta": "8 min lectura",
-                                    "descripcion": "Cuando Anthropic lanz\u00f3 Opus 4 recientemente, la actualizaci\u00f3n lleg\u00f3 sin mucha expectativa pero con mucho valor: una IA que no solo responde preguntas, sino que se adentra en ellas y puede ser s\u00faper \u00fatil como un verdadero Asistente de IA. En nuestras pruebas, Claude super\u00f3 incluso a ChatGPT en tareas de investigaci\u00f3n usando la funci\u00f3n de b\u00fasqueda web, sin siquiera activar el modelo de investigaci\u00f3n profunda.\nPor eso lo elegimos para un desaf\u00edo: ver qu\u00e9 tan lejos llega su razonamiento cuando se le..."
                                 }
                             ]
                         }
@@ -13286,6 +13286,14 @@
                             "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/26104310/EuropaPress_6822204_nueva_funcion_resumen_mensajes_whatsapp-1280x720.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Las redes sociales: \u00bfpara qu\u00e9 las usamos?",
+                                "url": "https://www.elnacional.com/2025/06/las-redes-sociales-para-que-las-usamos/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/30122538/gemini-redes-sociales-640x640.jpg",
+                                "meta": "Tecnolog\u00eda",
+                                "fecha": "junio 30, 2025",
+                                "extra": "Hoy, D\u00eda Mundial de las Redes Sociales, el informe \"Digital 2025\" revela su uso global. Con 5,31 mil millones de\u2026"
+                            },
                             {
                                 "titulo": "Google lanza app para que veas c\u00f3mo te queda la ropa que ves en internet",
                                 "url": "https://www.elnacional.com/2025/06/app-de-google-para-probarte-ropa/",
@@ -13313,7 +13321,7 @@
                             {
                                 "titulo": "Veo 3, la IA de Google que genera \u201cvideos realistas\u201d",
                                 "url": "https://www.elnacional.com/2025/06/veo-3-la-ia-de-google-que-genera-videos-realistas/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/25115257/Captura-de-pantalla-2025-06-25-114806-640x423.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGnAQAAAAAP99udAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAlQGF1wABnjW3MQAAAABJRU5ErkJggg==",
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "junio 25, 2025",
                                 "extra": "La plataforma crea contenidos audiovisuales de primera calidad a partir de descripciones detalladas y un editor que facilita el trabajo\u2026"
@@ -13357,14 +13365,6 @@
                                 "meta": "Noticias",
                                 "fecha": "junio 20, 2025",
                                 "extra": "El D\u00eda Mundial del Wi-Fi celebra la conectividad global, pero contrasta con la realidad en Venezuela, marcada por bajas velocidades,\u2026"
-                            },
-                            {
-                                "titulo": "Nace el primer clon de perro de 2025",
-                                "url": "https://www.elnacional.com/2025/06/nace-el-primer-clon-de-perro-de-2025/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGZAQAAAAAxh71AAAAAAnRSTlMAAHaTzTgAAAA3SURBVHja7cExAQAAAMKg9U9tCy+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOBoFpAAFYBJpTAAAAAElFTkSuQmCC",
-                                "meta": "Noticias",
-                                "fecha": "junio 19, 2025",
-                                "extra": "Enrique Criado, CEO de Ovoclone y embri\u00f3logo, asegur\u00f3 que la compa\u00f1\u00eda espera poder anunciar pr\u00f3ximamente m\u00e1s nacimientos de mascotas clonadas\u2026"
                             }
                         ]
                     }
