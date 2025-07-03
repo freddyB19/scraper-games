@@ -11273,6 +11273,22 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Ciudad Cibern\u00e9tica: Tactician's Crown",
+                        "url": "https://www.youtube.com/watch?v=LNm5lW5q0A0",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-07-02T13:00:00.000Z",
+                        "detalle": "40 contendientes. Una corona. \u00bfQui\u00e9n gobernar\u00e1 Ciudad Cibern\u00e9tica?"
+                    },
+                    {
+                        "titulo": "Ciudad Cibern\u00e9tica: Tactician's Crown - Gu\u00eda",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/esports/cyber-city-tacticians-crown-primer/",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-07-02T13:00:00.000Z",
+                        "detalle": "Esta es la informaci\u00f3n sobre la Tactician\u2019s Crown de Ciudad Cibern\u00e9tica."
+                    },
+                    {
                         "titulo": "Chaqueta del MSI 2025",
                         "url": "https://merch.riotgames.com/product/msi-2025-coach-jacket/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11351,22 +11367,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-06-24T17:00:00.000Z",
                         "detalle": "La Fe Inquebrantable llegar\u00e1 con la versi\u00f3n 25.14."
-                    },
-                    {
-                        "titulo": "Expositor de la campeona: Yunara",
-                        "url": "https://www.youtube.com/watch?v=V91RpT6JmAo",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-24T16:00:00.000Z",
-                        "detalle": "Desatad todo el potencial de vuestro esp\u00edritu con Yunara, la Fe Inquebrantable."
-                    },
-                    {
-                        "titulo": "Merchandising del MSI 2025",
-                        "url": "https://merch.riotgames.com/collection/MSI-2025/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Merchandising",
-                        "fecha": "2025-06-20T21:00:00.000Z",
-                        "detalle": "\u00a1Preparaos para rivalidades, redenciones y jugadones con el merchandising oficial del MSI 2025!"
                     }
                 ],
                 "notas": [
@@ -12474,6 +12474,41 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Lo siento, Hideo Kojima, pero Death Stranding 2 se te ha ido de las manos...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/siento-hideo-kojima-death-stranding-2-te-ido-manos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/YgYoY1ePcSKfSg1IZ.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni Baldur's Gate 3, ni Sonic. He descubierto que hay vida m\u00e1s all\u00e1 de sus videojuegos, y es todo gracias a Secret Lair",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/baldur-s-gate-3-sonic-he-descubierto-hay-vida-alla-videojuegos-gracias-secret-lair.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/6866599e2ed52.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "EA Sports y 2K vuelven a competir por el mejor juego de baloncesto... pero dejan de lado la NBA",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/ea-sports-2k-vuelven-competir-mejor-juego-baloncesto-dejan-lado-nba.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/68664dec1bd06.png",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "La 'Ley Pel\u00e9' amenaza a FC 26: la gran sorpresa del Mundial de Clubes puede rechazar estar en el juego",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/ley-pele-amenaza-fc-26-gran-sorpresa-mundial-clubes-rechazar-juego.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/68663e6776d84.png",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Tu leyenda como entrenador empieza hoy: Gu\u00eda para dar tus primeros pasos en Striker Manager 3",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/02/leyenda-entrenador-empieza-hoy-guia-dar-tus-primeros-pasos-striker-manager-3.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/YgIYo1ePKdWFn3Xiu.jpeg",
+                            "meta": "Striker Manager 3",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Evitemos que los juegos digitales desaparezcan: esta iniciativa de la Uni\u00f3n Europea puede salvar el mundo de los videojuegos",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/02/evitemos-juegos-digitales-desaparezcan-iniciativa-union-europea-salvar-mundo-videojuegos.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/68651b9e1d2d5.jpeg",
@@ -12787,47 +12822,19 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/684fd52314d6d.jpeg",
                             "meta": "Juegos",
                             "autor": "M. J."
-                        },
-                        {
-                            "titulo": "\"GTA 6 y Rockstar nos van a traicionar\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/06/16/gta-6-rockstar-traicionar.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/684ffd619b3ab.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Como Genshin Impact, pero con f\u00fatbol y mucho m\u00e1s fanservice. Este gacha deportivo fue el rey de los juegos de m\u00f3vil, pero...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/genshin-impact-futbol-fanservice-gacha-deportivo-rey-juegos-movil.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/YaQHK1eJ0jMuvHVjV.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni Lamine Yamal ni Demb\u00e9l\u00e9: Este ser\u00e1 el pr\u00f3ximo ganador del Bal\u00f3n de Oro seg\u00fan EA Sports FC 25",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/14/lamine-yamal-dembele-sera-proximo-ganador-balon-oro-ea-sports-fc-25.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/11/6849aca01618f.jpeg",
-                            "meta": "FC 25",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "No hay mejor juego gratis en PS Plus que este para pasar un fin de semana 'm\u00e1gico'",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/14/hay-mejor-juego-gratis-ps-plus-pasar-semana-magico.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/12/684b0c574f705.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Ni Baldur's Gate 3, ni Resident Evil 4. Las Vtubers tienen el mejor juego de 2023, y no lo digo, lo dice Steam",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/14/baldur-s-gate-3-resident-evil-4-vtubers-mejor-juego-2023-digo-dice-steam.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/13/YaQ421eJ06khI7fVX.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
                 {
                     "nombre": "lanacion",
                     "pagina": [
+                        {
+                            "titulo": "Justicia francesa condena a tres exdirectivos de Ubisoft por acoso",
+                            "url": "https://www.lanacion.com.ar/agencias/justicia-francesa-condena-a-tres-exdirectivos-de-ubisoft-por-acoso-nid02072025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/justicia-francesa-condena-a-tres-exdirectivos-de-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
+                            "fecha": "2 de julio de 2025",
+                            "url_link": "/agencias/justicia-francesa-condena-a-tres-exdirectivos-de-ubisoft-por-acoso-nid02072025/"
+                        },
                         {
                             "titulo": "Lanzamientos de videojuegos en Julio de 2025 en Steam: esta es la lista",
                             "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-julio-de-2025-en-steam-esta-es-la-lista-nid01072025/",
@@ -12838,7 +12845,7 @@
                         {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 29 de junio",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-junio-nid30062025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "30 de junio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-junio-nid30062025/"
                         },
@@ -13060,16 +13067,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "29 de mayo de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-29-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid29052025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Jugar sin competir. </span>",
-                                "El boom de los videojuegos sin metas ni recompensas"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/jugar-sin-competir-el-boom-de-los-videojuegos-sin-metas-ni-recompensas-nid28052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/una-vista-del-stardew-VA4376BQXBFXBI6JSBP4ITCSKA.jpg?auth=608d8bbb35460ba657cf5b279aa3da63c7cd4809888deb8a6c0e855f981d5ef4&width=300&height=200&quality=70&smart=true",
-                            "fecha": "28 de mayo de 2025",
-                            "url_link": "/tecnologia/jugar-sin-competir-el-boom-de-los-videojuegos-sin-metas-ni-recompensas-nid28052025/"
                         }
                     ]
                 },
@@ -13178,15 +13175,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Los 6 Escenarios Apocal\u00edpticos Que Mantienen Despiertos a los Expertos en IA",
-                            "url": "https://decrypt.co/es/327769/los-6-escenarios-apocalipticos-que-mantienen-despiertos-a-los-expertos-en-ia",
+                            "titulo": "Mark Zuckerberg Revela Nuevo Laboratorio de IA de Meta Tras Reclutar Talento de OpenAI",
+                            "url": "https://decrypt.co/es/328091/mark-zuckerberg-revela-nuevo-laboratorio-de-ia-de-meta-tras-reclutar-talento-de-openai",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-02-gID_7.png@webp",
-                            "descripcion": "En alg\u00fan momento en el futuro, la mayor\u00eda de los expertos afirman que la inteligencia artificial no solo mejorar\u00e1, sino que se volver\u00e1 superinteligente. Eso significa que ser\u00e1 exponencialmente m\u00e1s inteligente que los humanos, adem\u00e1s de estrat\u00e9gica, capaz y manipuladora.\nLo que suceda en ese momento ha dividido a la comunidad de IA. Por un lado est\u00e1n los optimistas, tambi\u00e9n conocidos como Aceleracionistas, que creen que la IA superinteligente puede coexistir pac\u00edficamente e incluso ayudar a la hu...",
-                            "fecha": "Jun 30, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Meta-AI-Ray-Ban-Stories-scaled-gID_7.jpg@webp",
+                            "descripcion": "La guerra por la supremac\u00eda en inteligencia artificial ya no se libra solo en c\u00f3digo; ahora es una lucha por el talento, y el CEO de Meta, Mark Zuckerberg, acaba de ejecutar un gran golpe, arrebatando talento de sus rivales OpenAI y Google.\nZuckerberg revel\u00f3 hoy el nuevo equipo de ensue\u00f1o de investigadores de IA, al que llam\u00f3 Meta Superintelligence Labs.\nMuchos de los nuevos miembros del equipo fueron atra\u00eddos desde empresas rivales, incluyendo OpenAI, Anthropic y Google DeepMind, seg\u00fan un memor...",
+                            "fecha": "Jul 2, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Los 6 Escenarios Apocal\u00edpticos Que Mantienen Despiertos a los Expertos en IA",
+                                    "url": "https://decrypt.co/es/327769/los-6-escenarios-apocalipticos-que-mantienen-despiertos-a-los-expertos-en-ia",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jun 30, 2025",
+                                    "meta": "16 min lectura"
+                                },
                                 {
                                     "titulo": "Administraci\u00f3n Trump Planea Abrir Tierras Federales para Megacentros de IA: Reuters",
                                     "url": "https://decrypt.co/es/327551/administracion-trump-planea-abrir-tierras-federales-para-megacentros-de-ia-reuters",
@@ -13221,16 +13225,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 26, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "China Restaurar\u00e1 Pel\u00edculas Cl\u00e1sicas de Bruce Lee, Jackie Chan y Jet Li Mediante IA",
                                     "url": "https://decrypt.co/es/326332/china-restaurara-peliculas-clasicas-de-bruce-lee-jackie-chan-y-jet-li-mediante-ia",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 21, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "China ha lanzado una iniciativa de inteligencia artificial, o IA, de $14 millones para restaurar digitalmente 100 pel\u00edculas cl\u00e1sicas de artes marciales, incluidas las favoritas de los fan\u00e1ticos protagonizadas por Bruce Lee, Jackie Chan y Jet Li.\nLa Fundaci\u00f3n de Cine de China anunci\u00f3 el Proyecto de Patrimonio de Cine de Kung Fu en el 27\u00ba Festival Internacional de Cine de Shanghai, centr\u00e1ndose en t\u00edtulos cl\u00e1sicos como \"Fist of Fury,\" \"The Big Boss,\" \"Once Upon a Time in China\" y \"Drunken Master\" p..."
+                                },
                                 {
                                     "titulo": "Firma de Infraestructura de IA Gradient, Obtiene $10 Millones Para Desarrollar Protocolos en Solana",
                                     "url": "https://decrypt.co/es/326166/firma-de-infraestructura-de-ia-gradient-obtiene-10-millones-para-desarrollar-protocolos-en-solana",
@@ -13262,14 +13267,6 @@
                                     "fecha": "Jun 18, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "La startup de inteligencia artificial de Elon Musk, xAI, est\u00e1 buscando $4.300 millones en nueva financiaci\u00f3n de capital, seg\u00fan report\u00f3 Bloomberg, lo que indica un fuerte impulso de expansi\u00f3n para la empresa.\nLa \u00faltima financiaci\u00f3n se suma a un plan separado de $5.000 millones en financiamiento de deuda anunciado a principios de este mes. Las recaudaciones subrayan el renovado enfoque de Musk en desarrollar sus empresas de inteligencia artificial despu\u00e9s de abandonar en mayo la administraci\u00f3n Tru..."
-                                },
-                                {
-                                    "titulo": "C\u00f3mo Los Inmigrantes y Manifestantes Est\u00e1n Siendo Atrapados Por la Red de IA Del ICE",
-                                    "url": "https://decrypt.co/es/325324/como-los-inmigrantes-y-manifestantes-estan-siendo-atrapados-por-la-red-de-ia-del-ice",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 16, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "Las herramientas de vigilancia de IA que antes estaban confinadas a los campos de batalla ahora est\u00e1n siendo utilizadas por las autoridades de inmigraci\u00f3n de Estados Unidos para monitorear calles, protestas y comunidades en todo el pa\u00eds.\nEl Servicio de Inmigraci\u00f3n y Control de Aduanas de Estados Unidos (ICE) y otras agencias federales est\u00e1n intensificando su uso de reconocimiento facial, IA predictiva y drones de grado militar.\nEsto ha generado alarma entre los defensores de las libertades civil..."
                                 }
                             ]
                         }
@@ -13279,13 +13276,37 @@
                     "nombre": "elnacional_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "WhatsApp: \u00bfc\u00f3mo es la nueva funci\u00f3n de la app que resume mensajes?",
-                            "url": "https://www.elnacional.com/2025/06/whatsapp-como-es-su-nueva-funcion-que-resume-mensajes/",
-                            "categoria": "App",
-                            "fecha": "junio 26, 2025",
-                            "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/26104310/EuropaPress_6822204_nueva_funcion_resumen_mensajes_whatsapp-1280x720.jpg"
+                            "titulo": "Meta apelar\u00e1 multa de 200 millones de euros de la UE",
+                            "url": "https://www.elnacional.com/2025/07/meta-apelara-multa-de-200-millones-de-euros-de-la-ue/",
+                            "categoria": "Tecnolog\u00eda",
+                            "fecha": "julio 3, 2025",
+                            "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/03070843/Meta-UE-Multa.webp"
                         },
                         "notas": [
+                            {
+                                "titulo": "WhatsApp: cinco funciones esperadas para 2025",
+                                "url": "https://www.elnacional.com/2025/07/whatsapp-cinco-funciones-esperadas-para-2025/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/03071921/Captura-de-pantalla-2025-07-03-071714-640x423.png",
+                                "meta": "App",
+                                "fecha": "julio 3, 2025",
+                                "extra": "Estas funciones no impactar\u00e1n de forma directa a todas sus cuentas. Al momento de introducir alguna herramienta nueva, esta se\u2026"
+                            },
+                            {
+                                "titulo": "Threads a\u00f1ade los mensajes directos",
+                                "url": "https://www.elnacional.com/2025/07/threads-anade-los-mensajes-directos/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/02101007/EuropaPress_6834938_mensajes_directos_threads-640x457.jpg",
+                                "meta": "App",
+                                "fecha": "julio 2, 2025",
+                                "extra": "Los mensajes directos mejorar\u00e1n \"pr\u00f3ximamente\" con la introducci\u00f3n de controles. Tambi\u00e9n se van a restringir las conversaciones grupales y los\u2026"
+                            },
+                            {
+                                "titulo": "Instagram: \u00bfc\u00f3mo a\u00f1adir canciones de Spotify en las stories?",
+                                "url": "https://www.elnacional.com/2025/07/instagram-como-anadir-canciones-de-spotify-en-las-stories/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/02102902/EuropaPress_6834376_imagen_recurso_red_social_instagram-640x406.jpg",
+                                "meta": "App",
+                                "fecha": "julio 2, 2025",
+                                "extra": "La integraci\u00f3n de ambas plataformas ahora permite que los usuarios reproduzcan los temas que deseen desde la app de fotograf\u00edas\u2026"
+                            },
                             {
                                 "titulo": "Paso a paso: c\u00f3mo habilitar el \"modo capibara\" en WhatsApp",
                                 "url": "https://www.elnacional.com/2025/07/whatsapp-como-habilitar-el-modo-capibara/",
@@ -13297,7 +13318,7 @@
                             {
                                 "titulo": "Las redes sociales: \u00bfpara qu\u00e9 las usamos?",
                                 "url": "https://www.elnacional.com/2025/06/las-redes-sociales-para-que-las-usamos/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/30122538/gemini-redes-sociales-640x640.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKAAQAAAAAktvSOAAAAAnRSTlMAAHaTzTgAAABISURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwZyoAAAWA8y4gAAAAASUVORK5CYII=",
                                 "meta": "Tecnolog\u00eda",
                                 "fecha": "junio 30, 2025",
                                 "extra": "Hoy, D\u00eda Mundial de las Redes Sociales, el informe \"Digital 2025\" revela su uso global. Con 5,31 mil millones de\u2026"
@@ -13305,7 +13326,7 @@
                             {
                                 "titulo": "Google lanza app para que veas c\u00f3mo te queda la ropa que ves en internet",
                                 "url": "https://www.elnacional.com/2025/06/app-de-google-para-probarte-ropa/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/28081851/App-de-Google--640x410.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGaAQAAAAC3E8/uAAAAAnRSTlMAAHaTzTgAAAA3SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeDYG6AAE+R7vWAAAAAElFTkSuQmCC",
                                 "meta": "App",
                                 "fecha": "junio 28, 2025",
                                 "extra": "La nueva aplicaci\u00f3n experimental de Google Labs utiliza la tecnolog\u00eda de prueba virtual que la compa\u00f1\u00eda tecnol\u00f3gica present\u00f3 en mayo,\u2026"
@@ -13313,7 +13334,7 @@
                             {
                                 "titulo": "Privacidad digital en el periodismo: Por qu\u00e9 las VPN son m\u00e1s importantes que nunca en el panorama informativo actual",
                                 "url": "https://www.elnacional.com/2025/06/privacidad-digital-en-el-periodismo-por-que-las-vpn-son-mas-importantes-que-nunca-en-el-panorama-informativo-actual/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/06/27172426/IMAGEN-AJUSTADA-640x360.png",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQAAAADvSXf8AAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg90/t7AEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADdx6AABMM5UuwAAAABJRU5ErkJggg==",
                                 "meta": "Empresas y Productos",
                                 "fecha": "junio 27, 2025",
                                 "extra": "En pa\u00edses donde la libertad de prensa est\u00e1 amenazada, las VPN se han convertido en salvavidas. Los periodistas pueden utilizar\u2026"
@@ -13325,6 +13346,14 @@
                                 "meta": "App",
                                 "fecha": "junio 26, 2025",
                                 "extra": "Como alternativa, el organismo recomend\u00f3 el uso de Microsoft Teams, Wickr, Signal, iMessage y FaceTime como \u201calternativas aceptables a WhatsApp\u201d"
+                            },
+                            {
+                                "titulo": "WhatsApp: \u00bfc\u00f3mo es la nueva funci\u00f3n de la app que resume mensajes?",
+                                "url": "https://www.elnacional.com/2025/06/whatsapp-como-es-su-nueva-funcion-que-resume-mensajes/",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQAAAADvSXf8AAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg90/t7AEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADdx6AABMM5UuwAAAABJRU5ErkJggg==",
+                                "meta": "App",
+                                "fecha": "junio 26, 2025",
+                                "extra": "Impulsada por Meta AI, la nueva opci\u00f3n permite mejorar la experiencia de los usuarios que no tienen tiempo de leer\u2026"
                             },
                             {
                                 "titulo": "Veo 3, la IA de Google que genera \u201cvideos realistas\u201d",
@@ -13365,6 +13394,14 @@
                                 "meta": "Noticias",
                                 "fecha": "junio 20, 2025",
                                 "extra": "La compa\u00f1\u00eda asegur\u00f3 que los mensajes, llamadas y estados seguir\u00e1n protegidos con cifrado de extremo a extremo, aunque utilizar\u00e1 datos\u2026"
+                            },
+                            {
+                                "titulo": "D\u00eda Mundial del Wi-Fi: el desaf\u00edo de la conectividad en Venezuela",
+                                "url": "https://www.elnacional.com/2025/06/dia-mundial-del-wi-fi-el-desafio-de-la-conectividad-en-venezuela/",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKAAQAAAAAktvSOAAAAAnRSTlMAAHaTzTgAAABISURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwZyoAAAWA8y4gAAAAASUVORK5CYII=",
+                                "meta": "Noticias",
+                                "fecha": "junio 20, 2025",
+                                "extra": "El D\u00eda Mundial del Wi-Fi celebra la conectividad global, pero contrasta con la realidad en Venezuela, marcada por bajas velocidades,\u2026"
                             }
                         ]
                     }
