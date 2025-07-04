@@ -11476,6 +11476,13 @@
             "info": {
                 "noticias": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/eacom-news-f1-25-movie-game-crossover-article-featured-image.jpg.adapt.crop16x9.431p.jpg",
+                        "titulo": "EA SPORTS F1\u00ae 25 x F1\u00ae La pel\u00edcula: la experiencia definitiva de F1",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "30-jun-2025",
+                        "descripcion": "F1\u00ae La pel\u00edcula y EA SPORTS F1\u00ae 25 se han asociado para crear la experiencia interactiva definitiva. Cons\u00edguelo hoy."
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/fc-futures-year-2-article-uefa-euros-berlin-16x9-featured-image.jpg.adapt.crop16x9.431p.jpg",
                         "titulo": "EA SPORTS FC FUTURES duplica su impacto en el f\u00fatbol base a\u00f1o tras a\u00f1o",
                         "etiqueta": "Electronic Arts Inc.",
@@ -11593,13 +11600,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "05-dic-2024",
                         "descripcion": "El compromiso continuo de EA con la accesibilidad y la tecnolog\u00eda de c\u00f3digo abierto contin\u00faa y a\u00f1ade 23 patentes a su compromiso de patentes de accesibilidad."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/dragon-age/dragon-age-the-veilguard/common/da-veilguard-buy-page-standard-edition-key-art-16x9.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "La accesibilidad de Dragon Age: The Veilguard abre el juego para todo el mu\u2026",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "21-nov-2024",
-                        "descripcion": "Las funciones de accesibilidad de Dragon Age: The Veilguard permiten a personas con distintas discapacidades de todo el mundo disfrutar del juego."
                     }
                 ],
                 "novedades": [
@@ -11961,6 +11961,16 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "EA SPORTS F1\u00ae 25 x F1\u00ae La pel\u00edcula: la experiencia definitiva de F1",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "30-jun-2025"
+                                        ],
+                                        "detalle": "F1\u00ae La pel\u00edcula y EA SPORTS F1\u00ae 25 se han asociado para crear la experiencia interactiva definitiva. Cons\u00edguelo hoy.",
+                                        "url": "https://www.ea.com/es-es/news/f1-25-movie-game-crossover",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/eacom-news-f1-25-movie-game-crossover-article-featured-image.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "EA SPORTS FC FUTURES duplica su impacto en el f\u00fatbol base a\u00f1o tras a\u00f1o",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -11991,16 +12001,6 @@
                                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/gavin-cooper-f1/f1-gavin-cooper-article-1.png.adapt.crop16x9.431p.png"
                                     },
                                     {
-                                        "titulo": "Luchando por la equidad: informe de progreso antitrampas",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "24-abr-2025"
-                                        ],
-                                        "detalle": "Informe de progreso de la tecnolog\u00eda antitrampas de EA.",
-                                        "url": "https://www.ea.com/es-es/security/news/anticheat-progress-report",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/anticheat-progress-report-article-featured-image.png.adapt.crop16x9.431p.png"
-                                    },
-                                    {
                                         "titulo": "Presentamos EA Javelin Anticheat",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -12011,14 +12011,14 @@
                                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/intro-to-ea-javelin-anticheat-article/intro-to-ea-javelin-article-thumbnail.png.adapt.crop16x9.431p.png"
                                     },
                                     {
-                                        "titulo": "John Madden Legacy Commitment to Education: actualizaci\u00f3n del a\u00f1o 3",
+                                        "titulo": "Luchando por la equidad: informe de progreso antitrampas",
                                         "informacion": [
                                             "Electronic Arts Inc.",
-                                            "04-abr-2025"
+                                            "24-abr-2025"
                                         ],
-                                        "detalle": "A trav\u00e9s del compromiso del John Madden Legacy Commitment to Education, EA reinvierte en las comunidades donde vivimos, trabajamos y jugamos.",
-                                        "url": "https://www.ea.com/es-es/news/madden-fund-2025",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/madden-fund-2025-article-thumbnail.jpg.adapt.crop16x9.431p.jpg"
+                                        "detalle": "Informe de progreso de la tecnolog\u00eda antitrampas de EA.",
+                                        "url": "https://www.ea.com/es-es/security/news/anticheat-progress-report",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/anticheat-progress-report-article-featured-image.png.adapt.crop16x9.431p.png"
                                     }
                                 ]
                             },
@@ -12474,6 +12474,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Ter Stegen se pasa al mundo de los videojuegos y aparecer\u00e1 en este popular t\u00edtulo de f\u00fatbol",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/04/ter-stegen-pasa-mundo-videojuegos-aparecera-popular-titulo-futbol.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/04/Bo1ePvqQ3e3ect.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Lo siento, Hideo Kojima, pero Death Stranding 2 se te ha ido de las manos...",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/siento-hideo-kojima-death-stranding-2-te-ido-manos.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/YgYoY1ePcSKfSg1IZ.jpeg",
@@ -12815,19 +12822,19 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/YbNQU1eJ_8i_CUYRh.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Me retaron a ligarme a mi lavadora, la enga\u00f1\u00e9 con el retrete y descubr\u00ed lo que era el amor verdadero",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/me-retaron-ligarme-mi-lavadora-engane-retrete-descubri-amor-verdadero.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/684fd52314d6d.jpeg",
-                            "meta": "Juegos",
-                            "autor": "M. J."
                         }
                     ]
                 },
                 {
                     "nombre": "lanacion",
                     "pagina": [
+                        {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 3 de julio en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-3-de-julio-en-epic-games-solo-hay-que-reclamarlos-nid03072025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "3 de julio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-3-de-julio-en-epic-games-solo-hay-que-reclamarlos-nid03072025/"
+                        },
                         {
                             "titulo": "Justicia francesa condena a tres exdirectivos de Ubisoft por acoso",
                             "url": "https://www.lanacion.com.ar/agencias/justicia-francesa-condena-a-tres-exdirectivos-de-ubisoft-por-acoso-nid02072025/",
@@ -12845,7 +12852,7 @@
                         {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 29 de junio",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-junio-nid30062025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "30 de junio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-29-de-junio-nid30062025/"
                         },
@@ -13060,13 +13067,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/franco-colapinto-en-el-juego-f1-YWNJLSO7IBGJRGYS5D4T5XKUEU.jpg?auth=fbb5a1ea38f826fbbf6d2cc9fe7f496393252fd8f83a483f0b0b4d39cce27332&width=300&height=200&quality=70&smart=false&focal=406,163",
                             "fecha": "30 de mayo de 2025",
                             "url_link": "/tecnologia/f1-25-el-juego-que-te-permite-vivir-la-carrera-de-franco-colapinto-nid30052025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 29 de mayo en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-29-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid29052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "29 de mayo de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-29-de-mayo-en-epic-games-solo-hay-que-reclamarlos-nid29052025/"
                         }
                     ]
                 },
