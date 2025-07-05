@@ -12474,6 +12474,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Es uno de los mejores ARPG de los \u00faltimos a\u00f1os y ahora est\u00e1 disponible de forma gratuita en PS Plus",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/05/mejores-arpg-ultimos-anos-disponible-forma-gratuita-ps-plus.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/6865815337ad3.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Todo lo que tienes que saber sobre las academias en Striker Manage 3: Localizaci\u00f3n, consejos...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/05/tienes-sobre-academias-striker-manage-3-localizacion-consejos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/04/6867b089391e8.jpeg",
+                            "meta": "Striker Manager 3",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Ter Stegen se pasa al mundo de los videojuegos y aparecer\u00e1 en este popular t\u00edtulo de f\u00fatbol",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/04/ter-stegen-pasa-mundo-videojuegos-aparecera-popular-titulo-futbol.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/04/Bo1ePvqQ3e3ect.jpeg",
@@ -12808,20 +12822,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/685044b128252.jpeg",
                             "meta": "Juegos",
                             "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Si FC 26 es como dicen las filtraciones, puede ser el mejor de la historia: FIFA Street, comprar tu propia casa, coche...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/fc-26-dicen-filtraciones-mejor-historia-fifa-street-comprar-propia-casa-coche.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/685004145ac96.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "REMATCH es justo lo que necesitaba este verano: regates, patadas a las canillas y volver al f\u00fatbol de barrio",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/rematch-justo-necesitaba-verano-regates-patadas-canillas-volver-futbol-barrio.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/YbNQU1eJ_8i_CUYRh.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -13074,15 +13074,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Bitcoin Obtiene Capacidades de Contratos Inteligentes Gracias a \"Alkanes\"",
-                            "url": "https://decrypt.co/es/327771/bitcoin-obtiene-capacidades-de-contratos-inteligentes-gracias-a-alkanes",
+                            "titulo": "Banco Digital de Jap\u00f3n Prueba Stablecoins en Solana Para Pagos Transfronterizos",
+                            "url": "https://decrypt.co/es/328645/banco-digital-de-japon-prueba-stablecoins-en-solana-para-pagos-transfronterizos",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@webp",
-                            "descripcion": "Si sigues las \u00faltimas novedades sobre Bitcoin, es posible que hayas visto el nombre \"Alkanes\" aparecer en tu timeline a trav\u00e9s de los entusiastas de Ordinals y Runes. Pero, \u00bfqu\u00e9 es exactamente?\nAlkanes introduce funcionalidad de contratos inteligentes sin confianza a la capa base, sin depender de puentes o capas de ejecuci\u00f3n externas. Permite a los desarrolladores construir aplicaciones y lanzar tokens de forma nativa en Bitcoin, expandiendo la funcionalidad de la blockchain original.\nDesarrolla...",
-                            "fecha": "Jul 1, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/japan-decrypt-style-scaled-gID_7.jpg@webp",
+                            "descripcion": "Minna Bank, el primer banco completamente digital de Jap\u00f3n y una subsidiaria del Fukuoka Financial Group, anunci\u00f3 el jueves que est\u00e1 explorando el uso de stablecoins y billeteras digitales para apoyar los servicios financieros y pagos cotidianos en el pa\u00eds.\nLa iniciativa es parte de un estudio conjunto en colaboraci\u00f3n con Fireblocks, Solana Japan y la empresa tecnol\u00f3gica japonesa TIS, con el objetivo de evaluar las aplicaciones pr\u00e1cticas de stablecoins y billeteras descentralizadas en la banca d...",
+                            "fecha": "Jul 4, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Bitcoin Obtiene Capacidades de Contratos Inteligentes Gracias a \"Alkanes\"",
+                                    "url": "https://decrypt.co/es/327771/bitcoin-obtiene-capacidades-de-contratos-inteligentes-gracias-a-alkanes",
+                                    "categoria": "Technology",
+                                    "fecha": "Jul 1, 2025",
+                                    "meta": "6 min lectura"
+                                },
                                 {
                                     "titulo": "C\u00f3mo el Troyano \u2018SparkKitty\u2019 Est\u00e1 Robando Datos de Billeteras Cripto de Tel\u00e9fonos",
                                     "url": "https://decrypt.co/es/327019/como-el-troyano-sparkkitty-esta-robando-datos-de-billeteras-cripto-de-telefonos",
@@ -13117,16 +13124,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Jun 20, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "La Desregulaci\u00f3n de Drones de Trump Aumenta Temores de Ataques Terroristas Dom\u00e9sticos",
                                     "url": "https://decrypt.co/es/325326/la-desregulacion-de-drones-de-trump-aumenta-temores-de-ataques-terroristas-domesticos",
                                     "categoria": "Technology",
                                     "fecha": "Jun 16, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "A principios de este mes, el presidente Donald Trump firm\u00f3 un amplio conjunto de \u00f3rdenes ejecutivas destinadas a desregular los drones comerciales, autos voladores y jets supers\u00f3nicos, con la promesa de \"restaurar la soberan\u00eda del espacio a\u00e9reo estadounidense\".\nPero mientras los cielos se abren a la innovaci\u00f3n, los expertos en seguridad nacional est\u00e1n haciendo sonar las alarmas: la revoluci\u00f3n de los drones ya est\u00e1 siendo militarizada.\nDesde zonas de guerra en Ir\u00e1n y Ucrania hasta ataques insurge..."
+                                },
                                 {
                                     "titulo": "Conoce a Olto: La Scooter El\u00e9ctrica de $3.500 Que Aspira Ser el iPhone de la Micromovilidad",
                                     "url": "https://decrypt.co/es/325306/conoce-a-olto-la-scooter-electrica-de-3-500-que-aspira-ser-el-iphone-de-la-micromovilidad",
@@ -13158,14 +13166,6 @@
                                     "fecha": "Jun 11, 2025",
                                     "meta": "2 min lectura",
                                     "descripcion": "Varios taxis aut\u00f3nomos de Waymo fueron vandalizados e incendiados el domingo durante una protesta contra las redadas de la Oficina de Inmigraci\u00f3n y Control de Aduanas de EE. UU. en Los \u00c1ngeles y el despliegue de la Guardia Nacional por parte de la administraci\u00f3n Trump.\nLo que los veh\u00edculos estaban haciendo all\u00ed, qui\u00e9n los envi\u00f3 y por qu\u00e9, hasta ahora es desconocido. Videos virales publicados en redes sociales muestran a manifestantes subi\u00e9ndose a los taxis aut\u00f3nomos, rompiendo ventanas y pintand..."
-                                },
-                                {
-                                    "titulo": "Se Dispara el Uso de VPN en Francia Tras Bloqueo de Pornhub Por Restricciones de Edad",
-                                    "url": "https://decrypt.co/es/323993/se-dispara-el-uso-de-vpn-en-francia-tras-bloqueo-de-pornhub-por-restricciones-de-edad",
-                                    "categoria": "Technology",
-                                    "fecha": "Jun 6, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Los usuarios franceses de Pornhub se dirigieron masivamente a ProtonVPN esta semana despu\u00e9s de que el sitio para adultos bloqueara el acceso desde Francia en protesta por las nuevas reglas de verificaci\u00f3n de edad impuestas por el gobierno, seg\u00fan inform\u00f3 la empresa, afirmando que los registros para el servicio aumentaron 1.000% en solo 30 minutos.\nProtonVPN forma parte de un conjunto de herramientas de privacidad desarrolladas por Proton AG, una empresa con sede en Suiza m\u00e1s conocida por su servi..."
                                 }
                             ]
                         }
@@ -13175,15 +13175,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Mark Zuckerberg Revela Nuevo Laboratorio de IA de Meta Tras Reclutar Talento de OpenAI",
-                            "url": "https://decrypt.co/es/328091/mark-zuckerberg-revela-nuevo-laboratorio-de-ia-de-meta-tras-reclutar-talento-de-openai",
+                            "titulo": "GPT-5 Llega Este Verano: \u00bfSer\u00e1 la Pr\u00f3xima Revoluci\u00f3n de la IA o Solo M\u00e1s Publicidad?",
+                            "url": "https://decrypt.co/es/328665/gpt-5-llega-este-verano-sera-la-proxima-revolucion-de-la-ia-o-solo-mas-publicidad",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Meta-AI-Ray-Ban-Stories-scaled-gID_7.jpg@webp",
-                            "descripcion": "La guerra por la supremac\u00eda en inteligencia artificial ya no se libra solo en c\u00f3digo; ahora es una lucha por el talento, y el CEO de Meta, Mark Zuckerberg, acaba de ejecutar un gran golpe, arrebatando talento de sus rivales OpenAI y Google.\nZuckerberg revel\u00f3 hoy el nuevo equipo de ensue\u00f1o de investigadores de IA, al que llam\u00f3 Meta Superintelligence Labs.\nMuchos de los nuevos miembros del equipo fueron atra\u00eddos desde empresas rivales, incluyendo OpenAI, Anthropic y Google DeepMind, seg\u00fan un memor...",
-                            "fecha": "Jul 2, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@webp",
+                            "descripcion": "Cuidado: se espera que GPT-5 de OpenAI se lance este verano. \u00bfSer\u00e1 un \u00e9xito de inteligencia artificial?\nSam Altman confirm\u00f3 el plan en junio durante el primer episodio de podcast de la compa\u00f1\u00eda, mencionando casualmente que el modelo, el cual, seg\u00fan ha dicho, fusionar\u00e1 las capacidades de sus modelos anteriores, llegar\u00eda \"probablemente en alg\u00fan momento de este verano\".\nAlgunos observadores de OpenAI predicen que llegar\u00e1 en las pr\u00f3ximas semanas. Un an\u00e1lisis del historial de lanzamientos de modelos...",
+                            "fecha": "Jul 5, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "La Lucha Entre el Arte Humano y la IA: Por Qu\u00e9 Los Algoritmos no Pueden Replicar la Creatividad Aut\u00e9ntica",
+                                    "url": "https://decrypt.co/es/328451/la-lucha-entre-el-arte-humano-y-la-ia-por-que-los-algoritmos-no-pueden-replicar-la-creatividad-autentica",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 4, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "Investigadores Utilizan IA Para Reconstruir Himno Babil\u00f3nico de 3.000 A\u00f1os de Antig\u00fcedad",
+                                    "url": "https://decrypt.co/es/328344/investigadores-utilizan-ia-para-reconstruir-himno-babilonico-de-3-000-anos-de-antiguedad",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 4, 2025",
+                                    "meta": "3 min lectura"
+                                },
+                                {
+                                    "titulo": "Mark Zuckerberg Revela Nuevo Laboratorio de IA de Meta Tras Reclutar Talento de OpenAI",
+                                    "url": "https://decrypt.co/es/328091/mark-zuckerberg-revela-nuevo-laboratorio-de-ia-de-meta-tras-reclutar-talento-de-openai",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 2, 2025",
+                                    "meta": "5 min lectura"
+                                },
                                 {
                                     "titulo": "Los 6 Escenarios Apocal\u00edpticos Que Mantienen Despiertos a los Expertos en IA",
                                     "url": "https://decrypt.co/es/327769/los-6-escenarios-apocalipticos-que-mantienen-despiertos-a-los-expertos-en-ia",
@@ -13204,30 +13225,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 28, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Juez Falla a Favor de Meta en Demanda Por Uso de Libros Con Derechos de Autor Para Entrenar IA",
                                     "url": "https://decrypt.co/es/327240/juez-falla-a-favor-de-meta-en-demanda-por-uso-de-libros-con-derechos-de-autor-para-entrenar-ia",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 27, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Un juez federal propin\u00f3 un golpe significativo a los autores que demandan a gigantes tecnol\u00f3gicos por el entrenamiento de IA esta semana. El juez dictamin\u00f3 que el uso de libros con derechos de autor por parte de Meta para entrenar sus modelos de inteligencia artificial constitu\u00eda un uso justo seg\u00fan la ley de derechos de autor.\nEl juez de distrito de EE. UU. Vince Chhabria en San Francisco se puso del lado de Meta Platforms el mi\u00e9rcoles en un caso presentado por 13 autores, incluidos la comediant..."
                                 },
                                 {
                                     "titulo": "Modelo de IA AlphaGenome de Google Permite Leer el ADN\u2014Y Est\u00e1 en GitHub",
                                     "url": "https://decrypt.co/es/327175/modelo-de-ia-alphagenome-de-google-permite-leer-el-adn-y-esta-en-github",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 27, 2025",
-                                    "meta": "7 min lectura"
+                                    "meta": "7 min lectura",
+                                    "descripcion": "AlphaGenome de Google DeepMind, que se anunci\u00f3 hoy, no es solo otra entrada en la carrera de la IA para la ciencia. Con acceso a la API disponible para investigaciones no comerciales, y una extensa documentaci\u00f3n y soporte de la comunidad alojado en GitHub, se\u00f1ala que la gen\u00f3mica, una vez confinada a laboratorios especializados y conjuntos de datos con acceso restringido, se est\u00e1 moviendo r\u00e1pidamente hacia la ciencia abierta.\nEsto es realmente importante.\nImagina que tu ADN es como un manual de i..."
                                 },
                                 {
                                     "titulo": "Baidu Patenta Sistema de IA para Traducir Maullidos de Gatos a Lenguaje Humano",
                                     "url": "https://decrypt.co/es/327037/baidu-patenta-sistema-de-ia-para-traducir-maullidos-de-gatos-a-lenguaje-humano",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jun 26, 2025",
-                                    "meta": "3 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "3 min lectura",
+                                    "descripcion": "Durante milenios, los humanos se han preguntado qu\u00e9 est\u00e1n tratando de decir sus gatos. Ahora, un gigante tecnol\u00f3gico chino afirma que podr\u00eda tener la respuesta, utilizando inteligencia artificial para traducir los maullidos en lenguaje sencillo.\nEl gigante tecnol\u00f3gico chino Baidu present\u00f3 una patente en diciembre pasado para un sistema dise\u00f1ado para traducir sonidos de animales, incluidos los maullidos felinos, al lenguaje humano, seg\u00fan un informe de Scientific American.\nLa empresa, a menudo ref..."
+                                },
                                 {
                                     "titulo": "China Restaurar\u00e1 Pel\u00edculas Cl\u00e1sicas de Bruce Lee, Jackie Chan y Jet Li Mediante IA",
                                     "url": "https://decrypt.co/es/326332/china-restaurara-peliculas-clasicas-de-bruce-lee-jackie-chan-y-jet-li-mediante-ia",
@@ -13243,30 +13267,6 @@
                                     "fecha": "Jun 20, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "Gradient Network cerr\u00f3 una ronda de financiaci\u00f3n semilla de $10 millones para construir lo que denomina una pila de infraestructura de IA descentralizada, con las firmas de capital de riesgo Pantera Capital y Multicoin Capital liderando la inversi\u00f3n junto a HSG (anteriormente Sequoia Capital China).\nLa startup con sede en Singapur planea usar los fondos para desarrollar dos protocolos centrales\u2014Lattica y Parallax\u2014que permitir\u00edan que los modelos de inteligencia artificial funcionen a trav\u00e9s de un..."
-                                },
-                                {
-                                    "titulo": "La IA Puede Ayudar a la Industria Cripto, Pero Tambi\u00e9n Aumentar el Fraude: Comisionada de la CFTC",
-                                    "url": "https://decrypt.co/es/325852/la-ia-puede-ayudar-a-la-industria-cripto-pero-tambien-aumentar-el-fraude-comisionada-de-la-cftc",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 19, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "La comisionada de la CFTC, Kristin Johnson, cree que la inteligencia artificial puede ofrecer enormes ventajas para el sector de las criptomonedas, pero tambi\u00e9n puede exacerbar el riesgo de fraude.\nHablando en DigiAssets 2025, Johnson dijo que el machine learning y las redes neuronales est\u00e1n analizando ahora vastas cantidades de datos en tiempo real, incluyendo la acci\u00f3n del precio y el sentimiento en las redes sociales.\nSi bien elogi\u00f3 el potencial de la IA para acelerar los tiempos de liquidaci..."
-                                },
-                                {
-                                    "titulo": "Meta Intenta Reclutar Personal de OpenAI Pagando Bonos de $100 Millones: Sam Altman",
-                                    "url": "https://decrypt.co/es/325841/meta-intenta-reclutar-personal-de-openai-pagando-bonos-de-100-millones-sam-altman",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 19, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "El gigante tecnol\u00f3gico multinacional Meta est\u00e1 ofreciendo bonos de firma de hasta $100 millones a los empleados de OpenAI junto con paquetes de compensaci\u00f3n anual que superan esa cantidad, aleg\u00f3 el CEO de OpenAI, Sam Altman, en el podcast \"Uncapped\" del lunes.\nMeta hab\u00eda estado haciendo \"ofertas gigantes a muchas personas de nuestro equipo\", dijo Altman en el podcast, que se emiti\u00f3 el martes y fue presentado por su hermano, Jack Altman.\nEn la conversaci\u00f3n, Altman dijo que ninguno de los \"mejores..."
-                                },
-                                {
-                                    "titulo": "xAI de Elon Musk Busca $4.300 Millones en Financiamiento Fresco: Bloomberg",
-                                    "url": "https://decrypt.co/es/325768/xai-de-elon-musk-busca-4-300-millones-en-financiamiento-fresco-bloomberg",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 18, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "La startup de inteligencia artificial de Elon Musk, xAI, est\u00e1 buscando $4.300 millones en nueva financiaci\u00f3n de capital, seg\u00fan report\u00f3 Bloomberg, lo que indica un fuerte impulso de expansi\u00f3n para la empresa.\nLa \u00faltima financiaci\u00f3n se suma a un plan separado de $5.000 millones en financiamiento de deuda anunciado a principios de este mes. Las recaudaciones subrayan el renovado enfoque de Musk en desarrollar sus empresas de inteligencia artificial despu\u00e9s de abandonar en mayo la administraci\u00f3n Tru..."
                                 }
                             ]
                         }
@@ -13284,6 +13284,30 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Contin\u00faan los miles de despidos en Microsoft: esta vez sufren sus divisiones de videojuegos",
+                                "url": "https://www.elnacional.com/2025/07/continuan-los-miles-de-despidos-en-microsoft-esta-vez-sufren-sus-divisiones-de-videojuegos/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/04151907/cxeuos20gec-640x427.jpg",
+                                "meta": "Tecnolog\u00eda",
+                                "fecha": "julio 5, 2025",
+                                "extra": "Solo en los \u00faltimos dos meses, ha anunciado tres rondas de despidos, incluyendo un recorte masivo de 6.000 empleados en\u2026"
+                            },
+                            {
+                                "titulo": "Lanzan Diagui, el primer asistente conversacional con IA para personas mayores de 45 a\u00f1os",
+                                "url": "https://www.elnacional.com/2025/07/lanzan-diagui-el-primer-asistente-conversacional-con-ia-para-personas-mayores-de-45-anos/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/04141501/diagui-633x640.jpg",
+                                "meta": "Tecnolog\u00eda",
+                                "fecha": "julio 5, 2025",
+                                "extra": "Desde Wingu se\u00f1alaron que Diagui busca ser un modelo replicable para otras iniciativas sociales que requieran asistencia tecnol\u00f3gica personalizada"
+                            },
+                            {
+                                "titulo": "454 pistas para detectar uso de IA en art\u00edculos cient\u00edficos",
+                                "url": "https://www.elnacional.com/2025/07/454-pistas-para-detectar-uso-de-ia-en-articulos-cientificos/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/04101853/Captura-de-pantalla-2025-07-04-101157-640x424.png",
+                                "meta": "Inteligencia Artificial",
+                                "fecha": "julio 4, 2025",
+                                "extra": "Desde el lanzamiento de ChatGPT, dicen algunos cient\u00edficos, se emplean m\u00e1s ciertas palabras en los res\u00famenes de estudios publicados"
+                            },
+                            {
                                 "titulo": "WhatsApp: cinco funciones esperadas para 2025",
                                 "url": "https://www.elnacional.com/2025/07/whatsapp-cinco-funciones-esperadas-para-2025/",
                                 "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/03071921/Captura-de-pantalla-2025-07-03-071714-640x423.png",
@@ -13294,7 +13318,7 @@
                             {
                                 "titulo": "Threads a\u00f1ade los mensajes directos",
                                 "url": "https://www.elnacional.com/2025/07/threads-anade-los-mensajes-directos/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/02101007/EuropaPress_6834938_mensajes_directos_threads-640x457.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHJAQAAAAA9CbW3AAAAAnRSTlMAAHaTzTgAAAA7SURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAmwGQmQAB6gCEYgAAAABJRU5ErkJggg==",
                                 "meta": "App",
                                 "fecha": "julio 2, 2025",
                                 "extra": "Los mensajes directos mejorar\u00e1n \"pr\u00f3ximamente\" con la introducci\u00f3n de controles. Tambi\u00e9n se van a restringir las conversaciones grupales y los\u2026"
@@ -13302,7 +13326,7 @@
                             {
                                 "titulo": "Instagram: \u00bfc\u00f3mo a\u00f1adir canciones de Spotify en las stories?",
                                 "url": "https://www.elnacional.com/2025/07/instagram-como-anadir-canciones-de-spotify-en-las-stories/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/02102902/EuropaPress_6834376_imagen_recurso_red_social_instagram-640x406.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGWAQAAAADA0Q+VAAAAAnRSTlMAAHaTzTgAAAA2SURBVBgZ7cExAQAAAMIg+6deDB9gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBJgHYAAYwv28MAAAAASUVORK5CYII=",
                                 "meta": "App",
                                 "fecha": "julio 2, 2025",
                                 "extra": "La integraci\u00f3n de ambas plataformas ahora permite que los usuarios reproduzcan los temas que deseen desde la app de fotograf\u00edas\u2026"
@@ -13310,7 +13334,7 @@
                             {
                                 "titulo": "Paso a paso: c\u00f3mo habilitar el \"modo capibara\" en WhatsApp",
                                 "url": "https://www.elnacional.com/2025/07/whatsapp-como-habilitar-el-modo-capibara/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/01114311/Captura-de-pantalla-2025-07-01-114208-640x422.png",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGmAQAAAADEqwg4AAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAngaFhgAB769flAAAAABJRU5ErkJggg==",
                                 "meta": "App",
                                 "fecha": "julio 1, 2025",
                                 "extra": "Es posible cambiar la apariencia del logo de la aplicaci\u00f3n de mensajer\u00eda por una imagen alusiva a este animal que\u2026"
@@ -13330,14 +13354,6 @@
                                 "meta": "App",
                                 "fecha": "junio 28, 2025",
                                 "extra": "La nueva aplicaci\u00f3n experimental de Google Labs utiliza la tecnolog\u00eda de prueba virtual que la compa\u00f1\u00eda tecnol\u00f3gica present\u00f3 en mayo,\u2026"
-                            },
-                            {
-                                "titulo": "Privacidad digital en el periodismo: Por qu\u00e9 las VPN son m\u00e1s importantes que nunca en el panorama informativo actual",
-                                "url": "https://www.elnacional.com/2025/06/privacidad-digital-en-el-periodismo-por-que-las-vpn-son-mas-importantes-que-nunca-en-el-panorama-informativo-actual/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQAAAADvSXf8AAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg90/t7AEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADdx6AABMM5UuwAAAABJRU5ErkJggg==",
-                                "meta": "Empresas y Productos",
-                                "fecha": "junio 27, 2025",
-                                "extra": "En pa\u00edses donde la libertad de prensa est\u00e1 amenazada, las VPN se han convertido en salvavidas. Los periodistas pueden utilizar\u2026"
                             },
                             {
                                 "titulo": "WhatsApp es considerada un \u201criesgo\u201d por la C\u00e1mara de Representantes de Estados Unidos y proh\u00edbe la app entre sus empleados",
@@ -13386,22 +13402,6 @@
                                 "meta": "App",
                                 "fecha": "junio 24, 2025",
                                 "extra": "Esta decisi\u00f3n impactar\u00e1 a usuarios de diferentes marcas cuyos dispositivos funcionen con versiones anteriores a Android 5 o iOS 15.1"
-                            },
-                            {
-                                "titulo": "Llega la publicidad paga a WhatsApp: \u00bfc\u00f3mo sacarle provecho al sistema de monetizaci\u00f3n?",
-                                "url": "https://www.elnacional.com/2025/06/llega-la-publicidad-paga-a-whatsapp-como-sacarle-provecho-al-sistema-de-monetizacion/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGiAQAAAABfOkouAAAAAnRSTlMAAHaTzTgAAAA3SURBVBgZ7cExAQAAAMIg+6deCF9gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAIYRCAAEqqfTIAAAAAElFTkSuQmCC",
-                                "meta": "Noticias",
-                                "fecha": "junio 20, 2025",
-                                "extra": "La compa\u00f1\u00eda asegur\u00f3 que los mensajes, llamadas y estados seguir\u00e1n protegidos con cifrado de extremo a extremo, aunque utilizar\u00e1 datos\u2026"
-                            },
-                            {
-                                "titulo": "D\u00eda Mundial del Wi-Fi: el desaf\u00edo de la conectividad en Venezuela",
-                                "url": "https://www.elnacional.com/2025/06/dia-mundial-del-wi-fi-el-desafio-de-la-conectividad-en-venezuela/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKAAQAAAAAktvSOAAAAAnRSTlMAAHaTzTgAAABISURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwZyoAAAWA8y4gAAAAASUVORK5CYII=",
-                                "meta": "Noticias",
-                                "fecha": "junio 20, 2025",
-                                "extra": "El D\u00eda Mundial del Wi-Fi celebra la conectividad global, pero contrasta con la realidad en Venezuela, marcada por bajas velocidades,\u2026"
                             }
                         ]
                     }
