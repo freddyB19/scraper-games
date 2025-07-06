@@ -13284,6 +13284,14 @@
                         },
                         "notas": [
                             {
+                                "titulo": "El 5G no est\u00e1 dise\u00f1ado para el ciudadano de a pie, sino para la\u00a0industria",
+                                "url": "https://www.elnacional.com/2025/07/el-5g-no-esta-disenado-para-el-ciudadano-de-a-pie-sino-para-la-industria/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/05163134/7702600-640x427.jpg",
+                                "meta": "Tecnolog\u00eda",
+                                "fecha": "julio 6, 2025",
+                                "extra": "No hace tanto tiempo, apenas cuatro o cinco a\u00f1os, la tecnolog\u00eda de redes m\u00f3viles\u00a05G era protagonista indiscutible en el mundo\u2026"
+                            },
+                            {
                                 "titulo": "Contin\u00faan los miles de despidos en Microsoft: esta vez sufren sus divisiones de videojuegos",
                                 "url": "https://www.elnacional.com/2025/07/continuan-los-miles-de-despidos-en-microsoft-esta-vez-sufren-sus-divisiones-de-videojuegos/",
                                 "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/04151907/cxeuos20gec-640x427.jpg",
@@ -13310,7 +13318,7 @@
                             {
                                 "titulo": "WhatsApp: cinco funciones esperadas para 2025",
                                 "url": "https://www.elnacional.com/2025/07/whatsapp-cinco-funciones-esperadas-para-2025/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/03071921/Captura-de-pantalla-2025-07-03-071714-640x423.png",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGnAQAAAAAP99udAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAlQGF1wABnjW3MQAAAABJRU5ErkJggg==",
                                 "meta": "App",
                                 "fecha": "julio 3, 2025",
                                 "extra": "Estas funciones no impactar\u00e1n de forma directa a todas sus cuentas. Al momento de introducir alguna herramienta nueva, esta se\u2026"
@@ -13394,14 +13402,6 @@
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "junio 24, 2025",
                                 "extra": "Un juez en Estados Unidos (EE UU) desestim\u00f3 que la empresa Anthropic haya infrigido la ley de derechos de autor\u2026"
-                            },
-                            {
-                                "titulo": "Los celulares que se quedar\u00e1n sin WhatsApp desde el 1 de julio de 2025",
-                                "url": "https://www.elnacional.com/2025/06/los-celulares-que-se-quedaran-sin-whatsapp-desde-el-1-de-julio-de-2025/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAEdAQAAAAC0puuOAAAAAnRSTlMAAHaTzTgAAAAtSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgZWi0AAR2JCT0AAAAASUVORK5CYII=",
-                                "meta": "App",
-                                "fecha": "junio 24, 2025",
-                                "extra": "Esta decisi\u00f3n impactar\u00e1 a usuarios de diferentes marcas cuyos dispositivos funcionen con versiones anteriores a Android 5 o iOS 15.1"
                             }
                         ]
                     }
