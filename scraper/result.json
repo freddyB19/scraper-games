@@ -12474,6 +12474,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Steam publica un nuevo juego gratis con un 95% de cr\u00edticas positivas y ya lo puedes descargar",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/07/steam-publica-nuevo-juego-gratis-95-criticas-positivas-puedes-descargar.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/07/Yhrk61eQwCEwRsVip.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Es uno de los mejores ARPG de los \u00faltimos a\u00f1os y ahora est\u00e1 disponible de forma gratuita en PS Plus",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/05/mejores-arpg-ultimos-anos-disponible-forma-gratuita-ps-plus.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/6865815337ad3.jpeg",
@@ -12815,19 +12822,19 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/17/685146da35c57.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "As\u00ed es Yunara, la nueva campeona ADC de League of Legends",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/16/asi-yunara-nueva-campeona-adc-league-of-legends.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/16/685044b128252.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
                         }
                     ]
                 },
                 {
                     "nombre": "lanacion",
                     "pagina": [
+                        {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 06 de julio",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-06-de-julio-nid07072025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "7 de julio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-06-de-julio-nid07072025/"
+                        },
                         {
                             "titulo": "Estos son los videojuegos gratis de la semana del 3 de julio en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-3-de-julio-en-epic-games-solo-hay-que-reclamarlos-nid03072025/",
@@ -12845,7 +12852,7 @@
                         {
                             "titulo": "Lanzamientos de videojuegos en Julio de 2025 en Steam: esta es la lista",
                             "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-julio-de-2025-en-steam-esta-es-la-lista-nid01072025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/lanzamientos-de-videojuegos-en-julio-de-2025-en-2WHXRJNBQNDE3ASHX2ZRQPKSIQ.jpg?auth=1961efa45d6bc0cfa3083c5116b4bdb28e5c3ae8b25d5f021a004d205f036fb0&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/lanzamientos-de-videojuegos-en-julio-de-2025-en-2WHXRJNBQNDE3ASHX2ZRQPKSIQ.jpg?auth=1961efa45d6bc0cfa3083c5116b4bdb28e5c3ae8b25d5f021a004d205f036fb0&width=300&height=200&quality=70&smart=true",
                             "fecha": "1 de julio de 2025",
                             "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-julio-de-2025-en-steam-esta-es-la-lista-nid01072025/"
                         },
@@ -13057,16 +13064,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "2 de junio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-01-de-junio-nid02062025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Muy realista. </span>",
-                                "As\u00ed es el juego de F\u00f3rmula 1 que te permite ser Colapinto por un rato"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/f1-25-el-juego-que-te-permite-vivir-la-carrera-de-franco-colapinto-nid30052025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/franco-colapinto-en-el-juego-f1-YWNJLSO7IBGJRGYS5D4T5XKUEU.jpg?auth=fbb5a1ea38f826fbbf6d2cc9fe7f496393252fd8f83a483f0b0b4d39cce27332&width=300&height=200&quality=70&smart=false&focal=406,163",
-                            "fecha": "30 de mayo de 2025",
-                            "url_link": "/tecnologia/f1-25-el-juego-que-te-permite-vivir-la-carrera-de-franco-colapinto-nid30052025/"
                         }
                     ]
                 },
@@ -13284,6 +13281,22 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Spotify investigada por Turqu\u00eda por acusaciones de \u201cofender valores religiosos\u201d",
+                                "url": "https://www.elnacional.com/2025/07/spotify-investigada-por-turquia-por-acusaciones-de-ofender-valores-religiosos/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/07081811/Spotify-640x360.jpg",
+                                "meta": "Tecnolog\u00eda",
+                                "fecha": "julio 7, 2025",
+                                "extra": "La plataforma de audio sueca fue acusada por las autoridades turcas de \"faltar el respeto a los valores religiosos y\u2026"
+                            },
+                            {
+                                "titulo": "ChatGPT puede analizar contenido en tiempo real a trav\u00e9s de la c\u00e1mara: conoce el truco",
+                                "url": "https://www.elnacional.com/2025/07/chatgpt-puede-analizar-contenido-en-tiempo-real-a-traves-de-la-camara-conoce-el-truco/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/06082925/La-nueva-funcion-de-ChatGPT-que-interactua-con-la-realidad-640x395.png",
+                                "meta": "Inteligencia Artificial",
+                                "fecha": "julio 6, 2025",
+                                "extra": "El chatbot de inteligencia artificial de OpenAI es ahora mucho m\u00e1s \u00fatil. La funci\u00f3n entiende el entorno en vivo para\u2026"
+                            },
+                            {
                                 "titulo": "El 5G no est\u00e1 dise\u00f1ado para el ciudadano de a pie, sino para la\u00a0industria",
                                 "url": "https://www.elnacional.com/2025/07/el-5g-no-esta-disenado-para-el-ciudadano-de-a-pie-sino-para-la-industria/",
                                 "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/05163134/7702600-640x427.jpg",
@@ -13302,7 +13315,7 @@
                             {
                                 "titulo": "Lanzan Diagui, el primer asistente conversacional con IA para personas mayores de 45 a\u00f1os",
                                 "url": "https://www.elnacional.com/2025/07/lanzan-diagui-el-primer-asistente-conversacional-con-ia-para-personas-mayores-de-45-anos/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/04141501/diagui-633x640.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnkAAAKAAQAAAADI71PdAAAAAnRSTlMAAHaTzTgAAABISURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwZyoAAAWA8y4gAAAAASUVORK5CYII=",
                                 "meta": "Tecnolog\u00eda",
                                 "fecha": "julio 5, 2025",
                                 "extra": "Desde Wingu se\u00f1alaron que Diagui busca ser un modelo replicable para otras iniciativas sociales que requieran asistencia tecnol\u00f3gica personalizada"
@@ -13310,7 +13323,7 @@
                             {
                                 "titulo": "454 pistas para detectar uso de IA en art\u00edculos cient\u00edficos",
                                 "url": "https://www.elnacional.com/2025/07/454-pistas-para-detectar-uso-de-ia-en-articulos-cientificos/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/04101853/Captura-de-pantalla-2025-07-04-101157-640x424.png",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGoAQAAAAD+oWlIAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cGBAAAAAMOg+VPf4ARVAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AyGKAABNS++XQAAAABJRU5ErkJggg==",
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "julio 4, 2025",
                                 "extra": "Desde el lanzamiento de ChatGPT, dicen algunos cient\u00edficos, se emplean m\u00e1s ciertas palabras en los res\u00famenes de estudios publicados"
@@ -13386,22 +13399,6 @@
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "junio 25, 2025",
                                 "extra": "La plataforma crea contenidos audiovisuales de primera calidad a partir de descripciones detalladas y un editor que facilita el trabajo\u2026"
-                            },
-                            {
-                                "titulo": "El Palacio de Versalles cobra vida gracias a la IA",
-                                "url": "https://www.elnacional.com/2025/06/la-historia-de-versalles-cobra-vida-gracias-a-la-ia/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFkAQAAAACYi7eHAAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8GBwpAABLL/psAAAAABJRU5ErkJggg==",
-                                "meta": "Inteligencia Artificial",
-                                "fecha": "junio 25, 2025",
-                                "extra": "El Palacio de Versalles ahora permite a sus estatuas \"hablar\" con los visitantes gracias a una innovadora alianza con OpenAI\u2026"
-                            },
-                            {
-                                "titulo": "Juez de EE UU respalda entrenar robot de IA con libros sin permiso de autores",
-                                "url": "https://www.elnacional.com/2025/06/juez-de-eeuu-respalda-entrenar-robot-de-ia-con-libros/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAACqAQAAAADZsYTtAAAAAnRSTlMAAHaTzTgAAAAdSURBVFjD7cEBDQAAAMKg909tDjegAAAAAAAA+DMZ5gAB+IBvXQAAAABJRU5ErkJggg==",
-                                "meta": "Inteligencia Artificial",
-                                "fecha": "junio 24, 2025",
-                                "extra": "Un juez en Estados Unidos (EE UU) desestim\u00f3 que la empresa Anthropic haya infrigido la ley de derechos de autor\u2026"
                             }
                         ]
                     }
