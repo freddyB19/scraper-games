@@ -11273,6 +11273,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Lecci\u00f3n de Ciudad Cibern\u00e9tica",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/dev/dev-tft-cyber-city-learnings/",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Desarrollo",
+                        "fecha": "2025-07-07T17:00:00.000Z",
+                        "detalle": "Reflexionamos sobre Ciudad Cibern\u00e9tica (y mucho m\u00e1s) con Riot Mort, Riot Xtna y otros compa\u00f1eros."
+                    },
+                    {
                         "titulo": "Ciudad Cibern\u00e9tica: Tactician's Crown",
                         "url": "https://www.youtube.com/watch?v=LNm5lW5q0A0",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11359,14 +11367,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-06-24T18:00:00.000Z",
                         "detalle": "La 14.7 es una versi\u00f3n de equilibrio para Ciudad Cibern\u00e9tica m\u00e1s ligera enfocada en la parte competitiva, puesto que se jugar\u00e1 en diversas competiciones, entre las que se incluye nuestra \u00faltima Tactician's Crown de Ciudad Cibern\u00e9tica (del 11 al 13 de julio). Aunque se trate de cambios de poco peso para Ciudad Cibern\u00e9tica, tambi\u00e9n hay ajustes sustanciales para Double Up que buscan reducir el n\u00famero de unidades de 3 estrellas de coste 4. Y nuestros otros modos tambi\u00e9n siguen despegando, \u00a1con actualizaciones de equilibrio tanto para Fiesta de Pingu como para Renacer: Remix r\u00fanico!"
-                    },
-                    {
-                        "titulo": "Resumen de las habilidades de Yunara",
-                        "url": "/es-es/news/game-updates/yunara-abilities-rundown",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-24T17:00:00.000Z",
-                        "detalle": "La Fe Inquebrantable llegar\u00e1 con la versi\u00f3n 25.14."
                     }
                 ],
                 "notas": [
@@ -12474,6 +12474,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Crearon uno de los mejores JRPG de todos los tiempos en 2019, pero quieren m\u00e1s y su nuevo remaster es una gozada",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/08/crearon-mejores-jrpg-todos-tiempos-2019-quieren-nuevo-remaster-gozada.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/08/YiFVw1eRFetJSnPEi.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "GTA 6 podr\u00eda tener su propia app m\u00f3vil, y ya se habla de una red social exclusiva de Rockstar",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/08/gta-6-podria-propia-app-movil-habla-red-social-exclusiva-rockstar.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/08/686cd319f0531.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Steam publica un nuevo juego gratis con un 95% de cr\u00edticas positivas y ya lo puedes descargar",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/07/steam-publica-nuevo-juego-gratis-95-criticas-positivas-puedes-descargar.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/07/Yhrk61eQwCEwRsVip.jpeg",
@@ -12808,20 +12822,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/qs1eKdtkS5ZT68.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Discord provoca que tus juegos y tu PC funcionen peor. Arreglarlo es as\u00ed de f\u00e1cil",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/18/discord-provoca-tus-juegos-pc-funcionen-peor-arreglarlo-asi-facil.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/18/68526dfc001fd.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "FC 26, a la vuelta de la esquina: esta ser\u00eda la fecha de salida del nuevo t\u00edtulo de EA Sports",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/17/fc-26-vuelta-esquina-seria-fecha-salida-nuevo-titulo-ea-sports.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/17/685146da35c57.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
                         }
                     ]
                 },
@@ -13281,6 +13281,14 @@
                         },
                         "notas": [
                             {
+                                "titulo": "Bitchat: mensajer\u00eda segura y sin servidores, el nuevo proyecto del cofundador de Twitter",
+                                "url": "https://www.elnacional.com/2025/07/bitchat-mensajeria-segura-y-sin-servidores-el-nuevo-proyecto-del-cofundador-de-twitter/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/07165031/Jack-Dorsey-Launches-Bitchat-640x480.jpeg",
+                                "meta": "App",
+                                "fecha": "julio 7, 2025",
+                                "extra": "Jack Dorsey, cofundador de Twitter y defensor del software libre, present\u00f3 Bitchat, una nueva aplicaci\u00f3n de mensajer\u00eda descentralizada, encriptada y\u2026"
+                            },
+                            {
                                 "titulo": "Spotify investigada por Turqu\u00eda por acusaciones de \u201cofender valores religiosos\u201d",
                                 "url": "https://www.elnacional.com/2025/07/spotify-investigada-por-turquia-por-acusaciones-de-ofender-valores-religiosos/",
                                 "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/07081811/Spotify-640x360.jpg",
@@ -13307,7 +13315,7 @@
                             {
                                 "titulo": "Contin\u00faan los miles de despidos en Microsoft: esta vez sufren sus divisiones de videojuegos",
                                 "url": "https://www.elnacional.com/2025/07/continuan-los-miles-de-despidos-en-microsoft-esta-vez-sufren-sus-divisiones-de-videojuegos/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/04151907/cxeuos20gec-640x427.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==",
                                 "meta": "Tecnolog\u00eda",
                                 "fecha": "julio 5, 2025",
                                 "extra": "Solo en los \u00faltimos dos meses, ha anunciado tres rondas de despidos, incluyendo un recorte masivo de 6.000 empleados en\u2026"
@@ -13351,54 +13359,6 @@
                                 "meta": "App",
                                 "fecha": "julio 2, 2025",
                                 "extra": "La integraci\u00f3n de ambas plataformas ahora permite que los usuarios reproduzcan los temas que deseen desde la app de fotograf\u00edas\u2026"
-                            },
-                            {
-                                "titulo": "Paso a paso: c\u00f3mo habilitar el \"modo capibara\" en WhatsApp",
-                                "url": "https://www.elnacional.com/2025/07/whatsapp-como-habilitar-el-modo-capibara/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGmAQAAAADEqwg4AAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAngaFhgAB769flAAAAABJRU5ErkJggg==",
-                                "meta": "App",
-                                "fecha": "julio 1, 2025",
-                                "extra": "Es posible cambiar la apariencia del logo de la aplicaci\u00f3n de mensajer\u00eda por una imagen alusiva a este animal que\u2026"
-                            },
-                            {
-                                "titulo": "Las redes sociales: \u00bfpara qu\u00e9 las usamos?",
-                                "url": "https://www.elnacional.com/2025/06/las-redes-sociales-para-que-las-usamos/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKAAQAAAAAktvSOAAAAAnRSTlMAAHaTzTgAAABISURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwZyoAAAWA8y4gAAAAASUVORK5CYII=",
-                                "meta": "Tecnolog\u00eda",
-                                "fecha": "junio 30, 2025",
-                                "extra": "Hoy, D\u00eda Mundial de las Redes Sociales, el informe \"Digital 2025\" revela su uso global. Con 5,31 mil millones de\u2026"
-                            },
-                            {
-                                "titulo": "Google lanza app para que veas c\u00f3mo te queda la ropa que ves en internet",
-                                "url": "https://www.elnacional.com/2025/06/app-de-google-para-probarte-ropa/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGaAQAAAAC3E8/uAAAAAnRSTlMAAHaTzTgAAAA3SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeDYG6AAE+R7vWAAAAAElFTkSuQmCC",
-                                "meta": "App",
-                                "fecha": "junio 28, 2025",
-                                "extra": "La nueva aplicaci\u00f3n experimental de Google Labs utiliza la tecnolog\u00eda de prueba virtual que la compa\u00f1\u00eda tecnol\u00f3gica present\u00f3 en mayo,\u2026"
-                            },
-                            {
-                                "titulo": "WhatsApp es considerada un \u201criesgo\u201d por la C\u00e1mara de Representantes de Estados Unidos y proh\u00edbe la app entre sus empleados",
-                                "url": "https://www.elnacional.com/2025/06/whatsapp-es-considerada-un-riesgo-por-la-camara-de-representantes-de-estados-unidos-y-prohibe-la-app-entre-sus-empleados/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAKAAQAAAAAktvSOAAAAAnRSTlMAAHaTzTgAAABISURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwZyoAAAWA8y4gAAAAASUVORK5CYII=",
-                                "meta": "App",
-                                "fecha": "junio 26, 2025",
-                                "extra": "Como alternativa, el organismo recomend\u00f3 el uso de Microsoft Teams, Wickr, Signal, iMessage y FaceTime como \u201calternativas aceptables a WhatsApp\u201d"
-                            },
-                            {
-                                "titulo": "WhatsApp: \u00bfc\u00f3mo es la nueva funci\u00f3n de la app que resume mensajes?",
-                                "url": "https://www.elnacional.com/2025/06/whatsapp-como-es-su-nueva-funcion-que-resume-mensajes/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQAAAADvSXf8AAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg90/t7AEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADdx6AABMM5UuwAAAABJRU5ErkJggg==",
-                                "meta": "App",
-                                "fecha": "junio 26, 2025",
-                                "extra": "Impulsada por Meta AI, la nueva opci\u00f3n permite mejorar la experiencia de los usuarios que no tienen tiempo de leer\u2026"
-                            },
-                            {
-                                "titulo": "Veo 3, la IA de Google que genera \u201cvideos realistas\u201d",
-                                "url": "https://www.elnacional.com/2025/06/veo-3-la-ia-de-google-que-genera-videos-realistas/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGnAQAAAAAP99udAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAlQGF1wABnjW3MQAAAABJRU5ErkJggg==",
-                                "meta": "Inteligencia Artificial",
-                                "fecha": "junio 25, 2025",
-                                "extra": "La plataforma crea contenidos audiovisuales de primera calidad a partir de descripciones detalladas y un editor que facilita el trabajo\u2026"
                             }
                         ]
                     }
