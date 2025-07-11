@@ -11273,6 +11273,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "TFT: Ciudad Cibern\u00e9tica - Momentos destacados de las regiones",
+                        "url": "https://www.youtube.com/watch?v=MUyIFUHXK-k",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-07-10T14:00:00.000Z",
+                        "detalle": "\u00a1Mirad las mejores jugadas de los capos de cada regi\u00f3n antes de que llegue el jefazo de la #TFTCrown!"
+                    },
+                    {
                         "titulo": "Lecci\u00f3n de Ciudad Cibern\u00e9tica",
                         "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/dev/dev-tft-cyber-city-learnings/",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11359,14 +11367,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-06-24T18:00:00.000Z",
                         "detalle": "Florescencia ind\u00f3mita ha entrado en el chat de la versi\u00f3n 25.13 \ud83e\udeb7"
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 14.7 de TFT (2025)",
-                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/teamfight-tactics-patch-14-7-notes-2025/",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-24T18:00:00.000Z",
-                        "detalle": "La 14.7 es una versi\u00f3n de equilibrio para Ciudad Cibern\u00e9tica m\u00e1s ligera enfocada en la parte competitiva, puesto que se jugar\u00e1 en diversas competiciones, entre las que se incluye nuestra \u00faltima Tactician's Crown de Ciudad Cibern\u00e9tica (del 11 al 13 de julio). Aunque se trate de cambios de poco peso para Ciudad Cibern\u00e9tica, tambi\u00e9n hay ajustes sustanciales para Double Up que buscan reducir el n\u00famero de unidades de 3 estrellas de coste 4. Y nuestros otros modos tambi\u00e9n siguen despegando, \u00a1con actualizaciones de equilibrio tanto para Fiesta de Pingu como para Renacer: Remix r\u00fanico!"
                     }
                 ],
                 "notas": [
@@ -11604,6 +11604,12 @@
                 ],
                 "novedades": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/04/cfb26-keyart.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "EA SPORTS\u2122 College Football 26",
+                        "url": "https://www.ea.com/es-es/games/ea-sports-college-football/college-football-26",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/college-football-26-logo.svg"
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/03/f1-25-iconic-gamebox-1x1.jpg.adapt.crop1x1.767p.jpg",
                         "titulo": "F1\u00ae 25",
                         "url": "https://www.ea.com/es-es/games/f1/f1-25",
@@ -11628,16 +11634,16 @@
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts1-retro-release-logo-rgb.svg"
                     },
                     {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/sims-birthday-bundle-game-box-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "The Sims\u2122: 25th Birthday Bundle",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-25th-birthday-bundle",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims-birthday-bundle-logo-rgb.svg"
-                    },
-                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/ts2-retro-release-game-box-art.jpg.adapt.crop1x1.767p.jpg",
                         "titulo": "The Sims\u2122 2: Legacy Collection",
                         "url": "https://www.ea.com/es-es/games/the-sims/the-sims-2-legacy-collection",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts2-retro-release-logo-rgb.svg"
+                    },
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/sims-birthday-bundle-game-box-art.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "The Sims\u2122: 25th Birthday Bundle",
+                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-25th-birthday-bundle",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims-birthday-bundle-logo-rgb.svg"
                     },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/03/dragon-age-key-art-16x9.jpg.adapt.crop1x1.767p.jpg",
@@ -11650,6 +11656,12 @@
                         "titulo": "The Sims\u2122 4 Life & Death Expansion Pack",
                         "url": "https://www.ea.com/es-es/games/the-sims/the-sims-4-life-and-death-expansion-pack",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims4-ep17-life-and-death-logo.svg"
+                    },
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/08/nhl25-keyart-1x1.jpg.adapt.crop1x1.767p.jpg",
+                        "titulo": "NHL 25",
+                        "url": "https://www.ea.com/es-es/games/nhl/nhl-25",
+                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/nhl25-light-logo.svg"
                     },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/09/fc-25-key-art.png.adapt.crop1x1.767p.png",
@@ -11706,12 +11718,6 @@
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ufc-5-logo.svg"
                     },
                     {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2023/08/nhl24-eacom-gin-asset-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "NHL 24",
-                        "url": "https://www.ea.com/es-es/games/nhl/nhl-24",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/eas-nhl24-gen5-primary-2color-stacked-white.png"
-                    },
-                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2023/07/fc24.jpeg.adapt.crop1x1.767p.jpeg",
                         "titulo": "FC 24",
                         "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-24",
@@ -11722,35 +11728,9 @@
                         "titulo": "FC Mobile",
                         "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-mobile",
                         "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/fc24m-gamebox-logo-white.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2022/12/immortals-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Immortals of Aveum",
-                        "url": "https://www.ea.com/es-es/games/immortals-of-aveum/immortals-of-aveum",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/immortals-logo-gin.svg"
                     }
                 ],
                 "proximamente": [
-                    {
-                        "titulo": "EA SPORTS\u2122 College Football 26",
-                        "fecha": "10 de julio de 2025",
-                        "plataformas": [
-                            {
-                                "url": "https://www.ea.com/es-es/games/library/playstation",
-                                "tipo": "PlayStation\u00ae"
-                            },
-                            {
-                                "url": "https://www.ea.com/es-es/games/library/xbox",
-                                "tipo": "Xbox"
-                            }
-                        ],
-                        "genero": [
-                            {
-                                "url": "https://www.ea.com/es-es/games/library/sports",
-                                "genero": "Deportes"
-                            }
-                        ]
-                    },
                     {
                         "titulo": "EA SPORTS\u2122 Madden NFL 26",
                         "fecha": "14 de agosto de 2025",
@@ -12474,6 +12454,20 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Superman, el inadaptado de los videojuegos: \u00bfPor qu\u00e9 es tan dif\u00edcil hacer uno bueno del h\u00e9roe americano?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/11/superman-inadaptado-videojuegos-dificil-bueno-heroe-americano.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/11/6870e08eefa8e.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Cristiano Ronaldo reparte leches a diestro siniestro y se convierte en la estrella veraniega del m\u00edtico Fatal Fury",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/11/cristiano-ronaldo-reparte-leches-diestro-siniestro-convierte-estrella-veraniega-mitico-fatal-fury.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/11/1eSCWBIjlAB5.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Es uno de los mejores JRPG de la historia y vale menos que un kebab, pero solo por tiempo limitado para Nintendo Switch",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/10/mejores-jrpg-historia-vale-kebab-limitado-nintendo-switch.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/10/Yj9mq1eRwR9jlx194.jpeg",
@@ -12808,26 +12802,19 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/23/685935aa0cabe.jpeg",
                             "meta": "Juegos",
                             "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Este hist\u00f3rico equipo espa\u00f1ol estar\u00e1 por primera vez en un juego de EA Sports tras su ascenso a Segunda Divisi\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/23/historico-equipo-espanol-estara-primera-vez-juego-ea-sports-ascenso-segunda-division.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/23/68592fb9a54a6.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "VALORANT revela su mapa m\u00e1s grande hasta la fecha: as\u00ed es Corrode, el nuevo escenario inspirado en un pueblo minero",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/23/valorant-revela-mapa-grande-fecha-asi-corrode-nuevo-escenario-inspirado-pueblo-minero.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/23/6859248655ec8.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
                         }
                     ]
                 },
                 {
                     "nombre": "lanacion",
                     "pagina": [
+                        {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 10 de julio en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-10-de-julio-en-epic-games-solo-hay-que-reclamarlos-nid10072025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
+                            "fecha": "10 de julio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-10-de-julio-en-epic-games-solo-hay-que-reclamarlos-nid10072025/"
+                        },
                         {
                             "titulo": "Actores de videojuegos acuerdan con los estudios nuevas protecciones contra la inteligencia artificial",
                             "url": "https://www.lanacion.com.ar/agencias/actores-de-videojuegos-acuerdan-con-los-estudios-nuevas-protecciones-contra-la-inteligencia-nid10072025/",
@@ -12848,7 +12835,7 @@
                         {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 06 de julio",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-06-de-julio-nid07072025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
                             "fecha": "7 de julio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-06-de-julio-nid07072025/"
                         },
@@ -13060,13 +13047,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/un-comprador-de-una-nintendo-switch-2-que-hizo-YEIW5EZ3OFGBDF7CMVDO5SAU7I.JPG?auth=6c93ce3530691b5828f51543014aecd74702bc64db737c447f7a6547cd099a1e&width=300&height=200&quality=70&smart=true",
                             "fecha": "5 de junio de 2025",
                             "url_link": "/tecnologia/colas-a-la-medianoche-y-un-precio-sin-aranceles-la-nintendo-switch-2-salio-a-la-venta-en-todo-el-nid05062025/"
-                        },
-                        {
-                            "titulo": "Jugadores de Nintendo se abalanzan sobre la esperada consola Switch 2",
-                            "url": "https://www.lanacion.com.ar/agencias/jugadores-de-nintendo-se-abalanzan-sobre-la-esperada-consola-switch-2-nid05062025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/jugadores-de-nintendo-se-abalanzan-sobre-la-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=300&height=200&quality=70&smart=true",
-                            "fecha": "5 de junio de 2025",
-                            "url_link": "/agencias/jugadores-de-nintendo-se-abalanzan-sobre-la-esperada-consola-switch-2-nid05062025/"
                         }
                     ]
                 },
@@ -13175,15 +13155,36 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Linda Yaccarino Abandona X de Elon Musk Tras Desastre de 'MechaHitler' de Grok",
-                            "url": "https://decrypt.co/es/329421/linda-yaccarino-abandona-x-de-elon-musk-tras-desastre-de-mechahitler-de-grok",
+                            "titulo": "Estudio Revela Que 13,5% Art\u00edculos Cient\u00edficos Usan ChatGPT, \u00bfEso es Malo?",
+                            "url": "https://decrypt.co/es/329551/estudio-revela-que-135-articulos-cientificos-usan-chatgpt-eso-es-malo",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Elon-Musk-decrypt-style-02-gID_7.png@webp",
-                            "descripcion": "La CEO de X, Linda Yaccarino, renunci\u00f3 a su cargo, un d\u00eda despu\u00e9s de que el chatbot de inteligencia artificial de la plataforma, Grok, adoptara una personalidad antisemita y comenzara a llamarse \"MechaHitler\".\nYaccarino ocup\u00f3 el cargo durante dos a\u00f1os despu\u00e9s de ser contratada por el propietario Elon Musk.\n\"Cuando Elon Musk y yo hablamos por primera vez de su visi\u00f3n para X, supe que ser\u00eda la oportunidad de toda una vida para llevar a cabo la extraordinaria misi\u00f3n de esta empresa\", public\u00f3 Yaccar...",
-                            "fecha": "Jul 9, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Ai2-gID_7.png@webp",
+                            "descripcion": "\u00bfQu\u00e9 palabras delatan a la IA? Un nuevo estudio de m\u00e1s de 15 millones de res\u00famenes biom\u00e9dicos en PubMed encontr\u00f3 que al menos el 13,5% de los art\u00edculos cient\u00edficos publicados en 2024 muestran signos de herramientas de escritura asistida por IA, especialmente ChatGPT de OpenAI.\nEl estudio realizado por investigadores de la Universidad Northwestern y el Instituto Hertie de IA en Salud Cerebral de la Universidad de T\u00fcbingen encontr\u00f3 un fuerte aumento en 2024 en patrones de palabras asociadas con la...",
+                            "fecha": "Jul 11, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "xAI de Elon Musk Lanza el 'Notable y Aterrador' Modelo de IA Grok 4",
+                                    "url": "https://decrypt.co/es/329550/xai-de-elon-musk-lanza-el-notable-y-aterrador-modelo-de-ia-grok-4",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 10, 2025",
+                                    "meta": "4 min lectura"
+                                },
+                                {
+                                    "titulo": "Adi\u00f3s 'MechaHitler': xAI de Elon Musk Arregl\u00f3 Silenciosamente a Grok Eliminando una L\u00ednea de C\u00f3digo",
+                                    "url": "https://decrypt.co/es/329436/adios-mechahitler-xai-de-elon-musk-arreglo-silenciosamente-a-grok-eliminando-una-linea-de-codigo",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 10, 2025",
+                                    "meta": "6 min lectura"
+                                },
+                                {
+                                    "titulo": "Linda Yaccarino Abandona X de Elon Musk Tras Desastre de 'MechaHitler' de Grok",
+                                    "url": "https://decrypt.co/es/329421/linda-yaccarino-abandona-x-de-elon-musk-tras-desastre-de-mechahitler-de-grok",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 9, 2025",
+                                    "meta": "3 min lectura"
+                                },
                                 {
                                     "titulo": "Conoce a 'MechaHitler:' La Nueva y Perturbadora Personalidad de Grok",
                                     "url": "https://decrypt.co/es/329211/conoce-a-mechahitler-la-nueva-y-perturbadora-personalidad-de-grok",
@@ -13204,30 +13205,33 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 8, 2025",
                                     "meta": "4 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Modelos de IA Toman Test del Sombrero de Harry Potter: 11 de 17 Son Asigandos a Ravenclaw",
                                     "url": "https://decrypt.co/es/329058/modelos-de-ia-toman-test-del-sombrero-de-harry-potter-11-de-17-son-asigandos-a-ravenclaw",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 8, 2025",
-                                    "meta": "4 min lectura"
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Un desarrollador de computaci\u00f3n conocido como Boris the Brave realiz\u00f3 un experimento que puso a 17 modelos de lenguaje principales a trav\u00e9s del cuestionario oficial de casas de Harry Potter, muestreando cada pregunta 20 veces y calculando la probabilidad de asignaci\u00f3n de cada casa.\n\"Quiz\u00e1s no sea sorprendente, la gran mayor\u00eda de modelos prefieren Ravenclaw, con alg\u00fan modelo ocasional diversific\u00e1ndose hacia Hufflepuff\", escribi\u00f3 Boris en una publicaci\u00f3n de blog compartiendo sus resultados.\n11 de..."
                                 },
                                 {
                                     "titulo": "GPT-5 Llega Este Verano: \u00bfSer\u00e1 la Pr\u00f3xima Revoluci\u00f3n de la IA o Solo M\u00e1s Publicidad?",
                                     "url": "https://decrypt.co/es/328665/gpt-5-llega-este-verano-sera-la-proxima-revolucion-de-la-ia-o-solo-mas-publicidad",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 5, 2025",
-                                    "meta": "9 min lectura"
+                                    "meta": "9 min lectura",
+                                    "descripcion": "Cuidado: se espera que GPT-5 de OpenAI se lance este verano. \u00bfSer\u00e1 un \u00e9xito de inteligencia artificial?\nSam Altman confirm\u00f3 el plan en junio durante el primer episodio de podcast de la compa\u00f1\u00eda, mencionando casualmente que el modelo, el cual, seg\u00fan ha dicho, fusionar\u00e1 las capacidades de sus modelos anteriores, llegar\u00eda \"probablemente en alg\u00fan momento de este verano\".\nAlgunos observadores de OpenAI predicen que llegar\u00e1 en las pr\u00f3ximas semanas. Un an\u00e1lisis del historial de lanzamientos de modelos..."
                                 },
                                 {
                                     "titulo": "La Lucha Entre el Arte Humano y la IA: Por Qu\u00e9 Los Algoritmos no Pueden Replicar la Creatividad Aut\u00e9ntica",
                                     "url": "https://decrypt.co/es/328451/la-lucha-entre-el-arte-humano-y-la-ia-por-que-los-algoritmos-no-pueden-replicar-la-creatividad-autentica",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 4, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Hace m\u00e1s de cuatro d\u00e9cadas, el fil\u00f3sofo franc\u00e9s Gilles Deleuze argument\u00f3 que el verdadero arte es inseparable de la lucha f\u00edsica y emocional de los seres humanos enfrentando el caos.\nDeleuze cre\u00eda que lo que hace posible el arte comienza desde el compromiso del artista y la experiencia directa con la incertidumbre, algo que un algoritmo no puede replicar.\n\"Si alguien pone toda su vida en la pintura y en la lucha contra el clich\u00e9, no es un ejercicio escolar\", dijo seg\u00fan una traducci\u00f3n aproximada..."
+                                },
                                 {
                                     "titulo": "Investigadores Utilizan IA Para Reconstruir Himno Babil\u00f3nico de 3.000 A\u00f1os de Antig\u00fcedad",
                                     "url": "https://decrypt.co/es/328344/investigadores-utilizan-ia-para-reconstruir-himno-babilonico-de-3-000-anos-de-antiguedad",
@@ -13243,30 +13247,6 @@
                                     "fecha": "Jul 2, 2025",
                                     "meta": "5 min lectura",
                                     "descripcion": "La guerra por la supremac\u00eda en inteligencia artificial ya no se libra solo en c\u00f3digo; ahora es una lucha por el talento, y el CEO de Meta, Mark Zuckerberg, acaba de ejecutar un gran golpe, arrebatando talento de sus rivales OpenAI y Google.\nZuckerberg revel\u00f3 hoy el nuevo equipo de ensue\u00f1o de investigadores de IA, al que llam\u00f3 Meta Superintelligence Labs.\nMuchos de los nuevos miembros del equipo fueron atra\u00eddos desde empresas rivales, incluyendo OpenAI, Anthropic y Google DeepMind, seg\u00fan un memor..."
-                                },
-                                {
-                                    "titulo": "Los 6 Escenarios Apocal\u00edpticos Que Mantienen Despiertos a los Expertos en IA",
-                                    "url": "https://decrypt.co/es/327769/los-6-escenarios-apocalipticos-que-mantienen-despiertos-a-los-expertos-en-ia",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 30, 2025",
-                                    "meta": "16 min lectura",
-                                    "descripcion": "En alg\u00fan momento en el futuro, la mayor\u00eda de los expertos afirman que la inteligencia artificial no solo mejorar\u00e1, sino que se volver\u00e1 superinteligente. Eso significa que ser\u00e1 exponencialmente m\u00e1s inteligente que los humanos, adem\u00e1s de estrat\u00e9gica, capaz y manipuladora.\nLo que suceda en ese momento ha dividido a la comunidad de IA. Por un lado est\u00e1n los optimistas, tambi\u00e9n conocidos como Aceleracionistas, que creen que la IA superinteligente puede coexistir pac\u00edficamente e incluso ayudar a la hu..."
-                                },
-                                {
-                                    "titulo": "Administraci\u00f3n Trump Planea Abrir Tierras Federales para Megacentros de IA: Reuters",
-                                    "url": "https://decrypt.co/es/327551/administracion-trump-planea-abrir-tierras-federales-para-megacentros-de-ia-reuters",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 28, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "La administraci\u00f3n Trump est\u00e1 considerando una serie de \u00f3rdenes ejecutivas destinadas a expandir la infraestructura necesaria para apoyar el crecimiento de la inteligencia artificial, seg\u00fan un informe de Reuters publicado el viernes.\nLas acciones propuestas, a\u00fan no confirmadas por la Casa Blanca, incluir\u00edan supuestamente medidas para facilitar el acceso a la red el\u00e9ctrica, agilizar los procesos de permisos y abrir tierras federales para la construcci\u00f3n de centros de datos a gran escala.\nReuters,..."
-                                },
-                                {
-                                    "titulo": "MrBeast Retira Herramienta de IA Tras Pol\u00e9mica por Copiar Miniaturas de Creadores de Contenido",
-                                    "url": "https://decrypt.co/es/327541/mrbeast-retira-herramienta-de-ia-tras-polemica-por-copiar-miniaturas-de-creadores-de-contenido",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jun 28, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "El creador individual m\u00e1s grande de YouTube, Jimmy Donaldson, conocido por su seud\u00f3nimo MrBeast, enfrent\u00f3 cr\u00edticas de la comunidad despu\u00e9s de lanzar un generador de miniaturas de inteligencia artificial que pod\u00eda replicar los estilos de otros creadores, lo que oblig\u00f3 a su equipo a hacer modificaciones en la controvertida herramienta en cuesti\u00f3n de d\u00edas.\nPromocionado en videos ahora eliminados, la herramienta alimentada por inteligencia artificial, con un costo de $80 al mes, permit\u00eda a los usuar..."
                                 }
                             ]
                         }
@@ -13283,6 +13263,14 @@
                             "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/10071728/002_Samsung_Galaxy_ZFold7_Raising_the_Bar_for_Smartphones_Newsbody-1280x928.jpg"
                         },
                         "notas": [
+                            {
+                                "titulo": "Los beneficios de usar equipos de laboratorio multifuncionales",
+                                "url": "https://www.elnacional.com/2025/07/los-beneficios-de-usar-equipos-de-laboratorio-multifuncionales/",
+                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/10144004/IMAGEN-PPL-AJUSTADA-640x360.png",
+                                "meta": "Empresas y Productos",
+                                "fecha": "julio 10, 2025",
+                                "extra": "La eficiencia, la precisi\u00f3n y la versatilidad son condiciones esenciales para el mundo cient\u00edfico actual. La apuesta por equipos de\u2026"
+                            },
                             {
                                 "titulo": "Google celebra con doodle el D\u00eda de la Independencia de Argentina",
                                 "url": "https://www.elnacional.com/2025/07/google-celebra-con-doodle-el-dia-de-la-independencia-de-argentina/",
@@ -13310,7 +13298,7 @@
                             {
                                 "titulo": "Purga en Grok: xAI elimina publicaciones \"inapropiadas\"",
                                 "url": "https://www.elnacional.com/2025/07/purga-en-grok-xai-elimina-publicaciones-inapropiadas/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/09073810/EuropaPress_5976820_chatbot_grok-640x434.jpg",
+                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGyAQAAAABc7Ei1AAAAAnRSTlMAAHaTzTgAAAA5SURBVHja7cExAQAAAMKg9U9tCF+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF4DiVIAAZajRgwAAAAASUVORK5CYII=",
                                 "meta": "Inteligencia Artificial",
                                 "fecha": "julio 9, 2025",
                                 "extra": "La compa\u00f1\u00eda detr\u00e1s del chatbot Grok elimin\u00f3 varias de sus publicaciones, calific\u00e1ndolas de \"inapropiadas\". Esta decisi\u00f3n se tom\u00f3 despu\u00e9s de\u2026"
@@ -13354,14 +13342,6 @@
                                 "meta": "Tecnolog\u00eda",
                                 "fecha": "julio 6, 2025",
                                 "extra": "No hace tanto tiempo, apenas cuatro o cinco a\u00f1os, la tecnolog\u00eda de redes m\u00f3viles\u00a05G era protagonista indiscutible en el mundo\u2026"
-                            },
-                            {
-                                "titulo": "Contin\u00faan los miles de despidos en Microsoft: esta vez sufren sus divisiones de videojuegos",
-                                "url": "https://www.elnacional.com/2025/07/continuan-los-miles-de-despidos-en-microsoft-esta-vez-sufren-sus-divisiones-de-videojuegos/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==",
-                                "meta": "Tecnolog\u00eda",
-                                "fecha": "julio 5, 2025",
-                                "extra": "Solo en los \u00faltimos dos meses, ha anunciado tres rondas de despidos, incluyendo un recorte masivo de 6.000 empleados en\u2026"
                             }
                         ]
                     }
