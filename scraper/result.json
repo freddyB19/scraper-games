@@ -11273,6 +11273,22 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "TFT Pro Circuit - Explicaci\u00f3n",
+                        "url": "https://www.youtube.com/watch?v=J-KAhxmAKRY",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-07-12T13:00:00.000Z",
+                        "detalle": "La competici\u00f3n sube de nivel. Aqu\u00ed ten\u00e9is toda la informaci\u00f3n sobre el Pro Circuit que llegar\u00e1 a TFT."
+                    },
+                    {
+                        "titulo": "Coliseo KO est\u00e1 OP | Cinem\u00e1tica del set",
+                        "url": "https://www.youtube.com/watch?v=Imhv4MVbPDo",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Multimedia",
+                        "fecha": "2025-07-11T13:00:00.000Z",
+                        "detalle": "Ya pod\u00e9is ver Fighter!!"
+                    },
+                    {
                         "titulo": "TFT: Ciudad Cibern\u00e9tica - Momentos destacados de las regiones",
                         "url": "https://www.youtube.com/watch?v=MUyIFUHXK-k",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11351,22 +11367,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-06-25T18:00:00.000Z",
                         "detalle": "Los reinos convergen, y los mitos, otrora ca\u00eddos en el olvido, cobran vida. Comienza el Acto 2."
-                    },
-                    {
-                        "titulo": "Camiseta de hockey del MSI 2025",
-                        "url": "https://merch.riotgames.com/product/msi-2025-hockey-jersey/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Merchandising",
-                        "fecha": "2025-06-24T21:00:00.000Z",
-                        "detalle": "\u00a1Luc\u00edos dentro y fuera de la pista de hielo con la camiseta de hockey oficial del MSI 2025!"
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 25.13",
-                        "url": "/es-es/news/game-updates/patch-25-13-notes",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-24T18:00:00.000Z",
-                        "detalle": "Florescencia ind\u00f3mita ha entrado en el chat de la versi\u00f3n 25.13 \ud83e\udeb7"
                     }
                 ],
                 "notas": [
@@ -11475,6 +11475,13 @@
             "nombre": "easport",
             "info": {
                 "noticias": [
+                    {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/college-football-26-is-back/ryan-williams-catch.jpg.adapt.crop16x9.431p.jpg",
+                        "titulo": "EA SPORTS College Football 26: de vuelta, mejor que nunca",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "10-jul-2025",
+                        "descripcion": "EA SPORTS College Football 26 ya est\u00e1 disponible con una jugabilidad nueva y mejorada que crea la experiencia m\u00e1s aut\u00e9ntica de f\u00fatbol americano universitario posible."
+                    },
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/eacom-news-f1-25-movie-game-crossover-article-featured-image.jpg.adapt.crop16x9.431p.jpg",
                         "titulo": "EA SPORTS F1\u00ae 25 x F1\u00ae La pel\u00edcula: la experiencia definitiva de F1",
@@ -11593,13 +11600,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "09-dic-2024",
                         "descripcion": "EA y Girls Who Code celebran una d\u00e9cada de colaboraci\u00f3n que ayuda a transformar STEAM para el futuro."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/images/2022/07/eacom-brand-featured-image-16x9.png.adapt.crop16x9.431p.png",
-                        "titulo": "EA compromete 23 patentes de accesibilidad m\u00e1s y libera m\u00e1s tecnolog\u00eda como\u2026",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "05-dic-2024",
-                        "descripcion": "El compromiso continuo de EA con la accesibilidad y la tecnolog\u00eda de c\u00f3digo abierto contin\u00faa y a\u00f1ade 23 patentes a su compromiso de patentes de accesibilidad."
                     }
                 ],
                 "novedades": [
@@ -11941,6 +11941,16 @@
                                 "etiqueta": "Noticias de EA",
                                 "info": [
                                     {
+                                        "titulo": "EA SPORTS College Football 26: de vuelta, mejor que nunca",
+                                        "informacion": [
+                                            "Electronic Arts Inc.",
+                                            "10-jul-2025"
+                                        ],
+                                        "detalle": "EA SPORTS College Football 26 ya est\u00e1 disponible con una jugabilidad nueva y mejorada que crea la experiencia m\u00e1s aut\u00e9ntica de f\u00fatbol americano universitario posible.",
+                                        "url": "https://www.ea.com/es-es/news/college-football-26-is-back",
+                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/college-football-26-is-back/ryan-williams-catch.jpg.adapt.crop16x9.431p.jpg"
+                                    },
+                                    {
                                         "titulo": "EA SPORTS F1\u00ae 25 x F1\u00ae La pel\u00edcula: la experiencia definitiva de F1",
                                         "informacion": [
                                             "Electronic Arts Inc.",
@@ -11979,16 +11989,6 @@
                                         "detalle": "El director creativo de F1, Gavin Cooper, habla con \u00abNoticias EA\u00bb sobre F1 25, sus v\u00ednculos con la superproducci\u00f3n cinematogr\u00e1fica, la tecnolog\u00eda de vanguardia y la creaci\u00f3n de su mayor juego hasta la fecha.",
                                         "url": "https://www.ea.com/es-es/news/f1-25-qa",
                                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/gavin-cooper-f1/f1-gavin-cooper-article-1.png.adapt.crop16x9.431p.png"
-                                    },
-                                    {
-                                        "titulo": "Presentamos EA Javelin Anticheat",
-                                        "informacion": [
-                                            "Electronic Arts Inc.",
-                                            "24-abr-2025"
-                                        ],
-                                        "detalle": "La tecnolog\u00eda antitrampas de EA se actualiza, ofreciendo a personas jugadoras y fans de todo el mundo la experiencia de juego m\u00e1s segura hasta la fecha.",
-                                        "url": "https://www.ea.com/es-es/news/introducing-ea-javelin-anticheat",
-                                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/intro-to-ea-javelin-anticheat-article/intro-to-ea-javelin-article-thumbnail.png.adapt.crop16x9.431p.png"
                                     },
                                     {
                                         "titulo": "Luchando por la equidad: informe de progreso antitrampas",
@@ -12454,6 +12454,34 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Si no sabes a que jugar gratis en PS Plus, la redacci\u00f3n de MARCA Gaming te hace estas recomendaciones",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/12/jugar-gratis-ps-plus-redaccion-marca-gaming-te-recomendaciones.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/09/686e9c6a3a75f.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "\u00bfC\u00f3mo juega el top 1 del mundo? Esta es la formaci\u00f3n del mejor jugador de Striker Manager 3",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/12/juega-top-1-mundo-formacion-mejor-jugador-striker-manager-3.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/11/68716151cad05.jpeg",
+                            "meta": "Striker Manager 3",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Morad, uno de los cantantes favoritos de Lamine Yamal... \u00bfy un crack jugando a EA Sports FC?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/11/morad-cantantes-favoritos-lamine-yamal-crack-jugando-ea-sports-fc.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/11/YjgCC1eSJIhipYMlm.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
+                            "titulo": "Este grande de Italia amenaz\u00f3 con romper con EA Sports... pero finalmente estar\u00e1 en FC 26",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/11/grande-italia-amenazo-romper-ea-sports-finalmente-estara-fc-26.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/11/687117656c322.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Superman, el inadaptado de los videojuegos: \u00bfPor qu\u00e9 es tan dif\u00edcil hacer uno bueno del h\u00e9roe americano?",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/11/superman-inadaptado-videojuegos-dificil-bueno-heroe-americano.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/11/6870e08eefa8e.jpeg",
@@ -12774,34 +12802,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/685bfb29700ae.jpeg",
                             "meta": "Juegos",
                             "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Iniesta, Kroos, Marcelo...: EA Sports FC 26 llenar\u00e1 Ultimate Team de leyendas con sus nuevos Iconos",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/24/iniesta-kroos-marcelo-ea-sports-fc-26-llenara-ultimate-team-leyendas-nuevos-iconos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/24/685ac93a0f16c.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Este es el actor de cine al que homenajear\u00e1 GTA VI en la fecha de su lanzamiento",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/24/actor-cine-homenajeara-gta-vi-fecha-lanzamiento.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/24/685a7ab42b580.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Este jugador fue uno de los mejores futbolistas del juego hace a\u00f1os y ahora est\u00e1 de vuelta en EA Sports FC 26",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/23/jugador-mejores-futbolistas-juego-anos-vuelta-ea-sports-fc-26.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/23/68599d6076cdb.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "\u00bfConseguir\u00e1 Oklahoma City Thunder repetir anillo el a\u00f1o que viene?: Lo hemos simulado en 2K25 y este ha sido el resultado",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/23/conseguira-oklahoma-city-thunder-repetir-anillo-ano-viene-hemos-simulado-2k25-sido-resultado.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/23/685935aa0cabe.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -13155,15 +13155,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Estudio Revela Que 13,5% Art\u00edculos Cient\u00edficos Usan ChatGPT, \u00bfEso es Malo?",
-                            "url": "https://decrypt.co/es/329551/estudio-revela-que-135-articulos-cientificos-usan-chatgpt-eso-es-malo",
+                            "titulo": "Grok 4 Predice Que Los Dodgers Ganar\u00e1n la Serie Mundial, Pero no Todas Las IAs Est\u00e1n de Acuerdo",
+                            "url": "https://decrypt.co/es/329849/grok-4-predice-que-los-dodgers-ganaran-la-serie-mundial-pero-no-todas-las-ias-estan-de-acuerdo",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Ai2-gID_7.png@webp",
-                            "descripcion": "\u00bfQu\u00e9 palabras delatan a la IA? Un nuevo estudio de m\u00e1s de 15 millones de res\u00famenes biom\u00e9dicos en PubMed encontr\u00f3 que al menos el 13,5% de los art\u00edculos cient\u00edficos publicados en 2024 muestran signos de herramientas de escritura asistida por IA, especialmente ChatGPT de OpenAI.\nEl estudio realizado por investigadores de la Universidad Northwestern y el Instituto Hertie de IA en Salud Cerebral de la Universidad de T\u00fcbingen encontr\u00f3 un fuerte aumento en 2024 en patrones de palabras asociadas con la...",
-                            "fecha": "Jul 11, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/74afd337-e950-4e95-8746-e474843f8cf7-gID_7.png@webp",
+                            "descripcion": "Entre las demostraciones que Elon Musk realiz\u00f3 durante el lanzamiento de Grok 4 el 9 de julio estaba una impresionante pregunta pidiendo a la IA que predijera qu\u00e9 equipo ganar\u00e1 la Serie Mundial de las Grandes Ligas de B\u00e9isbol m\u00e1s tarde este a\u00f1o.\nDespu\u00e9s de 4,5 minutos de procesamiento de datos analizando informaci\u00f3n de Polymarket, la plataforma de mercados de predicci\u00f3n basada en Ethereum, y usando lo que xAI llama sus capacidades de razonamiento \"Heavy\", Grok 4 entreg\u00f3 su veredicto: Los Angeles...",
+                            "fecha": "Jul 12, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Estudio Revela Que 13,5% Art\u00edculos Cient\u00edficos Usan ChatGPT, \u00bfEso es Malo?",
+                                    "url": "https://decrypt.co/es/329551/estudio-revela-que-135-articulos-cientificos-usan-chatgpt-eso-es-malo",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 11, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "xAI de Elon Musk Lanza el 'Notable y Aterrador' Modelo de IA Grok 4",
                                     "url": "https://decrypt.co/es/329550/xai-de-elon-musk-lanza-el-notable-y-aterrador-modelo-de-ia-grok-4",
@@ -13198,16 +13205,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 9, 2025",
                                     "meta": "6 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Jefe de IA de Apple se va a Meta en Medio de Una Agresiva Campa\u00f1a de Contrataci\u00f3n",
                                     "url": "https://decrypt.co/es/329084/jefe-de-ia-de-apple-se-va-a-meta-en-medio-de-una-agresiva-campana-de-contratacion",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 8, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Ruoming Pang, jefe de modelos fundacionales de Apple, supuestamente dej\u00f3 la empresa para unirse a Superintelligence Labs de Meta, sum\u00e1ndose a una lista creciente de nombres destacados que presuntamente fueron reclutados para reforzar las ambiciones de IA de Meta.\nMientras Meta anunci\u00f3 formalmente la creaci\u00f3n de sus Superintelligence Labs en un memo interno la semana pasada, el nombre de Pang no fue incluido en la lista. Su salida de Apple fue reportada por primera vez por Bloomberg el lunes, cit..."
+                                },
                                 {
                                     "titulo": "Modelos de IA Toman Test del Sombrero de Harry Potter: 11 de 17 Son Asigandos a Ravenclaw",
                                     "url": "https://decrypt.co/es/329058/modelos-de-ia-toman-test-del-sombrero-de-harry-potter-11-de-17-son-asigandos-a-ravenclaw",
@@ -13239,14 +13247,6 @@
                                     "fecha": "Jul 4, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Investigadores de la Universidad LMU Munich y la Universidad de Bagdad han utilizado la inteligencia artificial para reconstruir un poema babil\u00f3nico que se hab\u00eda perdido durante m\u00e1s de 2.000 a\u00f1os.\nNombrado como el Himno de Babilonia, el texto \u2014que elogia a Babilonia y al dios Marduk\u2014 fue escrito hace 3.000 a\u00f1os y fue estudiado por \u00faltima vez en el a\u00f1o 100 a.C.\nSeg\u00fan el equipo detr\u00e1s de su redescubrimiento, ha sido reconstruido a partir de 30 fragmentos de arcilla que han sido excavados a lo larg..."
-                                },
-                                {
-                                    "titulo": "Mark Zuckerberg Revela Nuevo Laboratorio de IA de Meta Tras Reclutar Talento de OpenAI",
-                                    "url": "https://decrypt.co/es/328091/mark-zuckerberg-revela-nuevo-laboratorio-de-ia-de-meta-tras-reclutar-talento-de-openai",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jul 2, 2025",
-                                    "meta": "5 min lectura",
-                                    "descripcion": "La guerra por la supremac\u00eda en inteligencia artificial ya no se libra solo en c\u00f3digo; ahora es una lucha por el talento, y el CEO de Meta, Mark Zuckerberg, acaba de ejecutar un gran golpe, arrebatando talento de sus rivales OpenAI y Google.\nZuckerberg revel\u00f3 hoy el nuevo equipo de ensue\u00f1o de investigadores de IA, al que llam\u00f3 Meta Superintelligence Labs.\nMuchos de los nuevos miembros del equipo fueron atra\u00eddos desde empresas rivales, incluyendo OpenAI, Anthropic y Google DeepMind, seg\u00fan un memor..."
                                 }
                             ]
                         }
@@ -13254,97 +13254,7 @@
                 },
                 {
                     "nombre": "elnacional_tecnologia",
-                    "pagina": {
-                        "principal": {
-                            "titulo": "Samsung lanz\u00f3 el Galaxy Z Fold7: la evoluci\u00f3n del smartphone plegable",
-                            "url": "https://www.elnacional.com/2025/07/samsung-galaxy-z-fold7-la-evolucion-del-smartphone-plegable/",
-                            "categoria": "Tecnolog\u00eda",
-                            "fecha": "julio 10, 2025",
-                            "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/10071728/002_Samsung_Galaxy_ZFold7_Raising_the_Bar_for_Smartphones_Newsbody-1280x928.jpg"
-                        },
-                        "notas": [
-                            {
-                                "titulo": "Los beneficios de usar equipos de laboratorio multifuncionales",
-                                "url": "https://www.elnacional.com/2025/07/los-beneficios-de-usar-equipos-de-laboratorio-multifuncionales/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/10144004/IMAGEN-PPL-AJUSTADA-640x360.png",
-                                "meta": "Empresas y Productos",
-                                "fecha": "julio 10, 2025",
-                                "extra": "La eficiencia, la precisi\u00f3n y la versatilidad son condiciones esenciales para el mundo cient\u00edfico actual. La apuesta por equipos de\u2026"
-                            },
-                            {
-                                "titulo": "Google celebra con doodle el D\u00eda de la Independencia de Argentina",
-                                "url": "https://www.elnacional.com/2025/07/google-celebra-con-doodle-el-dia-de-la-independencia-de-argentina/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/09105004/Argentina.--640x426.jpg",
-                                "meta": "Tecnolog\u00eda",
-                                "fecha": "julio 9, 2025",
-                                "extra": "Este mi\u00e9rcoles 9 de julio, el famoso buscador cambi\u00f3 su logo por una ilustraci\u00f3n en la que busca representar esta\u2026"
-                            },
-                            {
-                                "titulo": "C\u00f3mo las armas de fuego impresas en 3D se est\u00e1n propagando por internet y son usadas en cr\u00edmenes y conflictos armados",
-                                "url": "https://www.elnacional.com/2025/07/armas-de-fuego-impresas-en-3d-se-estan-propagando-por-internet/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/09081638/Armas-de-fuego-BBC-640x360.webp",
-                                "meta": "Tecnolog\u00eda",
-                                "fecha": "julio 9, 2025",
-                                "extra": "A menudo descritas como un tipo de arma \"fantasma\", son armas de fuego imposibles de rastrear que pueden montarse con\u2026"
-                            },
-                            {
-                                "titulo": "WhatsApp ordenar\u00e1 los chats con los hilos de respuestas",
-                                "url": "https://www.elnacional.com/2025/07/whatsapp-ordenara-los-chats-con-los-hilos-de-respuestas/",
-                                "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/09080451/telefono-whatsapp-640x360.webp",
-                                "meta": "App",
-                                "fecha": "julio 9, 2025",
-                                "extra": "Primero para Android y ahora para iOS, WhatsApp trabaja en una nueva caracter\u00edstica que permitir\u00e1 mantener las respuestas agrupadas con\u2026"
-                            },
-                            {
-                                "titulo": "Purga en Grok: xAI elimina publicaciones \"inapropiadas\"",
-                                "url": "https://www.elnacional.com/2025/07/purga-en-grok-xai-elimina-publicaciones-inapropiadas/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGyAQAAAABc7Ei1AAAAAnRSTlMAAHaTzTgAAAA5SURBVHja7cExAQAAAMKg9U9tCF+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF4DiVIAAZajRgwAAAAASUVORK5CYII=",
-                                "meta": "Inteligencia Artificial",
-                                "fecha": "julio 9, 2025",
-                                "extra": "La compa\u00f1\u00eda detr\u00e1s del chatbot Grok elimin\u00f3 varias de sus publicaciones, calific\u00e1ndolas de \"inapropiadas\". Esta decisi\u00f3n se tom\u00f3 despu\u00e9s de\u2026"
-                            },
-                            {
-                                "titulo": "Bitchat, la app de mensajer\u00eda encriptada que funciona sin Internet",
-                                "url": "https://www.elnacional.com/2025/07/bitchat-la-app-de-mensajeria-encriptada-que-funciona-sin-internet/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==",
-                                "meta": "Tecnolog\u00eda",
-                                "fecha": "julio 8, 2025",
-                                "extra": "La versi\u00f3n beta de la aplicaci\u00f3n, creada por Jack Dorsey, uno de los fundadores de Twitter, ha alcanzado un m\u00e1ximo\u2026"
-                            },
-                            {
-                                "titulo": "Bitchat: mensajer\u00eda segura y sin servidores, el nuevo proyecto del cofundador de Twitter",
-                                "url": "https://www.elnacional.com/2025/07/bitchat-mensajeria-segura-y-sin-servidores-el-nuevo-proyecto-del-cofundador-de-twitter/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgAQAAAAAdquFJAAAAAnRSTlMAAHaTzTgAAAA9SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODPAJfgAAFLzBtKAAAAAElFTkSuQmCC",
-                                "meta": "App",
-                                "fecha": "julio 7, 2025",
-                                "extra": "Jack Dorsey, cofundador de Twitter y defensor del software libre, present\u00f3 Bitchat, una nueva aplicaci\u00f3n de mensajer\u00eda descentralizada, encriptada y\u2026"
-                            },
-                            {
-                                "titulo": "Spotify investigada por Turqu\u00eda por acusaciones de \u201cofender valores religiosos\u201d",
-                                "url": "https://www.elnacional.com/2025/07/spotify-investigada-por-turquia-por-acusaciones-de-ofender-valores-religiosos/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQAAAADvSXf8AAAAAnRSTlMAAHaTzTgAAAAySURBVHja7cEBDQAAAMKg90/t7AEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADdx6AABMM5UuwAAAABJRU5ErkJggg==",
-                                "meta": "Tecnolog\u00eda",
-                                "fecha": "julio 7, 2025",
-                                "extra": "La plataforma de audio sueca fue acusada por las autoridades turcas de \"faltar el respeto a los valores religiosos y\u2026"
-                            },
-                            {
-                                "titulo": "ChatGPT puede analizar contenido en tiempo real a trav\u00e9s de la c\u00e1mara: conoce el truco",
-                                "url": "https://www.elnacional.com/2025/07/chatgpt-puede-analizar-contenido-en-tiempo-real-a-traves-de-la-camara-conoce-el-truco/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGLAQAAAAB/mR7QAAAAAnRSTlMAAHaTzTgAAAA0SURBVHja7cEBAQAAAICQ/q/uCAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAXz7AAGBJs57AAAAAElFTkSuQmCC",
-                                "meta": "Inteligencia Artificial",
-                                "fecha": "julio 6, 2025",
-                                "extra": "El chatbot de inteligencia artificial de OpenAI es ahora mucho m\u00e1s \u00fatil. La funci\u00f3n entiende el entorno en vivo para\u2026"
-                            },
-                            {
-                                "titulo": "El 5G no est\u00e1 dise\u00f1ado para el ciudadano de a pie, sino para la\u00a0industria",
-                                "url": "https://www.elnacional.com/2025/07/el-5g-no-esta-disenado-para-el-ciudadano-de-a-pie-sino-para-la-industria/",
-                                "imagen": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==",
-                                "meta": "Tecnolog\u00eda",
-                                "fecha": "julio 6, 2025",
-                                "extra": "No hace tanto tiempo, apenas cuatro o cinco a\u00f1os, la tecnolog\u00eda de redes m\u00f3viles\u00a05G era protagonista indiscutible en el mundo\u2026"
-                            }
-                        ]
-                    }
+                    "pagina": null
                 },
                 {
                     "nombre": "elnacional_ia",
