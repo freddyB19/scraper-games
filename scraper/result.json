@@ -11273,6 +11273,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Desarrollo de TFT: Coliseo KO",
+                        "url": "https://www.youtube.com/watch?v=-Isgo7wO3V0",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Desarrollo",
+                        "fecha": "2025-07-13T17:00:00.000Z",
+                        "detalle": "Reunid a vuestra pandilla, aplicaos mejoras y luchad por el Top 4 y la gloria."
+                    },
+                    {
                         "titulo": "TFT Pro Circuit - Explicaci\u00f3n",
                         "url": "https://www.youtube.com/watch?v=J-KAhxmAKRY",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11359,14 +11367,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-06-26T13:00:00.000Z",
                         "detalle": "Nadie manejar\u00e1 los hilos de Orianna florecer espiritual chibi."
-                    },
-                    {
-                        "titulo": "Tr\u00e1iler de lanzamiento del Acto 2",
-                        "url": "https://www.youtube.com/watch?v=oN-61wLFoa0",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-25T18:00:00.000Z",
-                        "detalle": "Los reinos convergen, y los mitos, otrora ca\u00eddos en el olvido, cobran vida. Comienza el Acto 2."
                     }
                 ],
                 "notas": [
@@ -12454,6 +12454,27 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Jam\u00e1s so\u00f1\u00e9 en volver a cazar demonios en Resident Evil, salvo por un detalle: en realidad se llama Onimusha, pero es casi lo mismo",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/14/jamas-sone-volver-cazar-demonios-resident-evil-salvo-detalle-realidad-llama-onimusha.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/YkZ6a1eTFfxpsRlem.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Adi\u00f3s a las 'tiradas de cable' en FC 26: EA penalizar\u00e1 a los jugadores que se salgan de muchos partidos seguidos",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/14/adios-tiradas-cable-fc-26-ea-penalizara-jugadores-salgan-partidos-seguidos.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/6874f5f327db1.png",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Ni Zelda, ni Mario. La nueva pel\u00edcula de Nintendo busca recuperar otro de sus grandes cl\u00e1sicos: Donkey Kong",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/14/zelda-mario-nueva-pelicula-nintendo-busca-recuperar-grandes-clasicos-donkey-kong.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/6874e7e5b87f1.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Si no sabes a que jugar gratis en PS Plus, la redacci\u00f3n de MARCA Gaming te hace estas recomendaciones",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/12/jugar-gratis-ps-plus-redaccion-marca-gaming-te-recomendaciones.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/09/686e9c6a3a75f.jpeg",
@@ -12781,33 +12802,19 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/685c468a20967.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Leyendas europeas de la carretera y los rallyes llegan a Gran Turismo 7 en su nueva actualizaci\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/25/leyendas-europeas-carretera-rallyes-llegan-gran-turismo-7-nueva-actualizacion.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/685c25af1ff4d.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Estos son los juegos gratuitos del PlayStation Plus en el mes de julio",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/25/son-juegos-gratuitos-playstation-plus-mes-julio.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/685c08a108a62.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "'Exploding Kittens: El juego de Tablero' llega este verano para 'perder amigos' y pasarlo en grande",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/25/popular-juego-cartas-expande-universo-exploding-kittens-juego-tablero.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/685bfb29700ae.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
                         }
                     ]
                 },
                 {
                     "nombre": "lanacion",
                     "pagina": [
+                        {
+                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 13 de julio",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-13-de-julio-nid14072025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=300&height=200&quality=70&smart=true",
+                            "fecha": "14 de julio de 2025",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-13-de-julio-nid14072025/"
+                        },
                         {
                             "titulo": "Estos son los videojuegos gratis de la semana del 10 de julio en Epic Games: solo hay que reclamarlos",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-10-de-julio-en-epic-games-solo-hay-que-reclamarlos-nid10072025/",
@@ -12828,7 +12835,7 @@
                                 "Suman 1,2 millones de firmas para frenar el cierre de juegos online"
                             ],
                             "url": "https://www.lanacion.com.ar/tecnologia/la-iniciativa-stop-destroying-videogames-supera-las-12-millones-de-firmas-nid08072025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/la-iniciativa-stop-destroying-videogames-busca-P5VWBCHROBE2JPUYMEGXG3LN7Y.jpg?auth=61d122c80a1b4d38f66cec87901ae41fe607b90b8f1ff777a716693f7ab6fd88&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/la-iniciativa-stop-destroying-videogames-busca-P5VWBCHROBE2JPUYMEGXG3LN7Y.jpg?auth=61d122c80a1b4d38f66cec87901ae41fe607b90b8f1ff777a716693f7ab6fd88&width=300&height=200&quality=70&smart=true",
                             "fecha": "8 de julio de 2025",
                             "url_link": "/tecnologia/la-iniciativa-stop-destroying-videogames-supera-las-12-millones-de-firmas-nid08072025/"
                         },
@@ -13037,16 +13044,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
                             "fecha": "5 de junio de 2025",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-5-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid05062025/"
-                        },
-                        {
-                            "titulo": [
-                                "<span class=\"com-lead\">Colas a la medianoche y un precio sin aranceles. </span>",
-                                "La Nintendo Switch 2 sali\u00f3 a la venta en todo el mundo"
-                            ],
-                            "url": "https://www.lanacion.com.ar/tecnologia/colas-a-la-medianoche-y-un-precio-sin-aranceles-la-nintendo-switch-2-salio-a-la-venta-en-todo-el-nid05062025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/un-comprador-de-una-nintendo-switch-2-que-hizo-YEIW5EZ3OFGBDF7CMVDO5SAU7I.JPG?auth=6c93ce3530691b5828f51543014aecd74702bc64db737c447f7a6547cd099a1e&width=300&height=200&quality=70&smart=true",
-                            "fecha": "5 de junio de 2025",
-                            "url_link": "/tecnologia/colas-a-la-medianoche-y-un-precio-sin-aranceles-la-nintendo-switch-2-salio-a-la-venta-en-todo-el-nid05062025/"
                         }
                     ]
                 },
