@@ -11273,6 +11273,14 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "TFT | Resumen de Coliseo KO",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/tft-ko-coliseum-overview",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-07-14T15:00:00.000Z",
+                        "detalle": "\u00a1Enteraos de todo lo relacionado con las batallas de anime m\u00e1s \u00e9picas del veranito!"
+                    },
+                    {
                         "titulo": "Desarrollo de TFT: Coliseo KO",
                         "url": "https://www.youtube.com/watch?v=-Isgo7wO3V0",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11359,14 +11367,6 @@
                         "categoria": "Esports",
                         "fecha": "2025-06-26T14:00:00.000Z",
                         "detalle": "Split de verano: formato, el debut de NAVI y la final que decidir\u00e1 qui\u00e9n va al Mundial en Madrid."
-                    },
-                    {
-                        "titulo": "Expositor de chibis: Orianna florecer espiritual",
-                        "url": "https://www.youtube.com/watch?v=CRxEM5CHVI4",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-06-26T13:00:00.000Z",
-                        "detalle": "Nadie manejar\u00e1 los hilos de Orianna florecer espiritual chibi."
                     }
                 ],
                 "notas": [
@@ -12454,6 +12454,41 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Son 7 juegazos de oferta por menos de 20 euros para viciar durante todo el verano sin parar",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/15/son-7-juegazos-oferta-20-euros-viciar-durante-verano-parar.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/15/68764a119a451.jpeg",
+                            "meta": "Juegos",
+                            "autor": "M. J."
+                        },
+                        {
+                            "titulo": "Travis Scott coquetea con GTA 6 y los jugadores pierden la cabeza",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/15/travis-scott-coquetea-gta-6-jugadores-pierden-cabeza.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/15/68763a3539b02.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni Zelda, ni Super Mario. El nuevo bombazo de Switch 2 es un third-party con el que muchos jugadores llevan a\u00f1os so\u00f1ando",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/15/zelda-super-mario-nuevo-bombazo-switch-2-third-party-jugadores-llevan-anos-sonando.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/15/687631068a137.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Rockstar mueve ficha y 'aparta' GTA 6 para trabajar en su remaster m\u00e1s esperado",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/15/rockstar-mueve-ficha-aparta-gta-6-trabajar-remaster-esperado.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/15/6876237444d06.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "La m\u00edtica imagen de Ibrahimovic que ha servido como inspiraci\u00f3n para la portada de EA Sports FC 26",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/14/mitica-imagen-ibrahimovic-servido-inspiracion-portada-ea-sports-fc-26.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/68751f16880aa.jpeg",
+                            "meta": "EA Sports FC 26",
+                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
+                        },
+                        {
                             "titulo": "Jam\u00e1s so\u00f1\u00e9 en volver a cazar demonios en Resident Evil, salvo por un detalle: en realidad se llama Onimusha, pero es casi lo mismo",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/14/jamas-sone-volver-cazar-demonios-resident-evil-salvo-detalle-realidad-llama-onimusha.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/YkZ6a1eTFfxpsRlem.jpeg",
@@ -12767,47 +12802,19 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/30/6862593726b7b.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "EA Sports FC 26 Ultimate y Est\u00e1ndar: Beneficios y qu\u00e9 edici\u00f3n deber\u00edas comprar",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/28/ea-sports-fc-26-ultimate-estandar-beneficios-edicion-deberias-comprar.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/28/686032b814997.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Ni Trivial, ni Risk. Es uno de los juegos de mesa m\u00e1s famosos de la historia y lo tienes gratis en PS Plus",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/28/trivial-risk-juegos-mesa-famosos-historia-tienes-gratis-ps-plus.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/wMxjHbu5.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "EA Sports se pone las pilas y confirma un gran cambio para FC 26 escuchando a la comunidad",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/27/ea-sports-pone-pilas-confirma-gran-cambio-fc-26-escuchando-comunidad.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/27/YepnC1eNfYGZgd5uX.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Fans del FC 26, est\u00e1is de enhorabuena: este m\u00edtico estadio podr\u00eda volver al juego seis a\u00f1os despu\u00e9s",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/26/fans-fc-26-estais-enhorabuena-mitico-estadio-podria-volver-juego-seis-anos-despues.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/24/685a92421d339.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "El Real Madrid repite y este jugador ser\u00e1 el protagonista de la portada de EA Sports FC 26",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/25/real-madrid-repite-jugador-sera-protagonista-portada-ea-sports-fc-26.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/25/685c468a20967.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
                         }
                     ]
                 },
                 {
                     "nombre": "lanacion",
                     "pagina": [
+                        {
+                            "titulo": "Lanzamientos de videojuegos en Julio de 2025 en Steam: esta es la lista",
+                            "url": "https://www.lanacion.com.ar/tecnologia/lanzamientos-de-videojuegos-en-julio-de-2025-en-steam-esta-es-la-lista-nid14072025/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/lanzamientos-de-videojuegos-en-julio-de-2025-en-2WHXRJNBQNDE3ASHX2ZRQPKSIQ.jpg?auth=1961efa45d6bc0cfa3083c5116b4bdb28e5c3ae8b25d5f021a004d205f036fb0&width=300&height=200&quality=70&smart=true",
+                            "fecha": "14 de julio de 2025",
+                            "url_link": "/tecnologia/lanzamientos-de-videojuegos-en-julio-de-2025-en-steam-esta-es-la-lista-nid14072025/"
+                        },
                         {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 13 de julio",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-13-de-julio-nid14072025/",
@@ -12825,7 +12832,7 @@
                         {
                             "titulo": "Actores de videojuegos acuerdan con los estudios nuevas protecciones contra la inteligencia artificial",
                             "url": "https://www.lanacion.com.ar/agencias/actores-de-videojuegos-acuerdan-con-los-estudios-nuevas-protecciones-contra-la-inteligencia-nid10072025/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/inteligencia-artificial-de-openai-chatgpt-google-4KQDE2TS4ZAHTGNREX5OZEOFNY.jpg?auth=642f10d360b3e9b00f28d6bcb237524567cdb06bd7ef59eceacb4acfa1f36841&width=300&height=200&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/inteligencia-artificial-de-openai-chatgpt-google-4KQDE2TS4ZAHTGNREX5OZEOFNY.jpg?auth=642f10d360b3e9b00f28d6bcb237524567cdb06bd7ef59eceacb4acfa1f36841&width=300&height=200&quality=70&smart=true",
                             "fecha": "10 de julio de 2025",
                             "url_link": "/agencias/actores-de-videojuegos-acuerdan-con-los-estudios-nuevas-protecciones-contra-la-inteligencia-nid10072025/"
                         },
@@ -13037,13 +13044,6 @@
                             "imagen": "https://resizer.glanacion.com/resizer/v2/sony-celebro-su-state-of-play-el-evento-donde-EKULT266ANDEBD2KYYZNF6MTDE.jpg?auth=a64b6d2c72f1d10309572bab1afb0d987c6856bb63e27c1b1f146b2b964f5143&width=300&height=200&quality=70&smart=true",
                             "fecha": "5 de junio de 2025",
                             "url_link": "/tecnologia/state-of-play-007-first-light-nioh-3-y-mas-novedades-de-playstation-para-este-ano-y-2026-nid05062025/"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos gratis de la semana del 5 de junio en Epic Games: solo hay que reclamarlos",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-5-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid05062025/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=300&height=200&quality=70&smart=true",
-                            "fecha": "5 de junio de 2025",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-5-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid05062025/"
                         }
                     ]
                 },
@@ -13051,15 +13051,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Autoridades Despliegan Drones de Rescate en Inundaciones de Texas y Carolina Norte",
-                            "url": "https://decrypt.co/es/329053/autoridades-despliegan-drones-de-rescate-en-inundaciones-de-texas-y-carolina-norte",
+                            "titulo": "Ingeniero Revela Fallas de Seguridad Cr\u00edticas en M\u00e1quinas de Votaci\u00f3n de EEUU",
+                            "url": "https://decrypt.co/es/330030/ingeniero-revela-fallas-de-seguridad-criticas-en-maquinas-de-votacion-de-eeuu",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/rescue-drones-gID_7.png@webp",
-                            "descripcion": "Mientras las catastr\u00f3ficas inundaciones azotan el centro de Texas y Carolina del Norte, los equipos de emergencia est\u00e1n utilizando drones profesionales y de grado militar con infrarrojos y video en tiempo real para mapear las zonas inundadas, localizar a las v\u00edctimas atrapadas y dirigir a los equipos de rescate.\nEn Texas, los MQ-9 Reapers que est\u00e1n volando a 18.000 pies sobre el \u00e1rea afectada ayudaron a los primeros rescatistas en responder a localizar a las v\u00edctimas desaparecidas de las inundac...",
-                            "fecha": "Jul 8, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@webp",
+                            "descripcion": "En 2006, el ingeniero de software Michal Pospieszalski descubri\u00f3 fallas peligrosas en las m\u00e1quinas de votaci\u00f3n de EE. UU., fallas que seg\u00fan \u00e9l todav\u00eda amenazan las elecciones estadounidenses hoy en d\u00eda.\nContratado por el Instituto de Ciencias Electorales, donde se desempe\u00f1aba como Director de Tecnolog\u00eda, Pospieszalski fue llevado a la sede del proveedor de elecciones Election Systems & Software (ES&S) en Omaha, Nebraska. Su tarea era analizar el sistema de votaci\u00f3n iVotronic de la empresa.\nDuran...",
+                            "fecha": "Jul 14, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Autoridades Despliegan Drones de Rescate en Inundaciones de Texas y Carolina Norte",
+                                    "url": "https://decrypt.co/es/329053/autoridades-despliegan-drones-de-rescate-en-inundaciones-de-texas-y-carolina-norte",
+                                    "categoria": "Technology",
+                                    "fecha": "Jul 8, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Banco Digital de Jap\u00f3n Prueba Stablecoins en Solana Para Pagos Transfronterizos",
                                     "url": "https://decrypt.co/es/328645/banco-digital-de-japon-prueba-stablecoins-en-solana-para-pagos-transfronterizos",
@@ -13094,16 +13101,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Jun 25, 2025",
                                     "meta": "5 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Corea del Norte Apunta a Profesionales Cripto con Nuevo Malware de Estafas de Contrataci\u00f3n",
                                     "url": "https://decrypt.co/es/326243/corea-del-norte-apunta-a-profesionales-cripto-con-nuevo-malware-de-estafas-de-contratacion",
                                     "categoria": "Technology",
                                     "fecha": "Jun 20, 2025",
-                                    "meta": "4 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "4 min lectura",
+                                    "descripcion": "Los hackers norcoreanos est\u00e1n atrayendo a profesionales de criptomonedas hacia elaboradas entrevistas de trabajo falsas dise\u00f1adas para robar sus datos e implementar malware sofisticado en sus dispositivos.\nUn nuevo troyano de acceso remoto basado en Python llamado \"PylangGhost\", vincula el malware a un colectivo de hackers afiliado a Corea del Norte llamado \"Famous Chollima\", tambi\u00e9n conocido como \"Wagemole\", seg\u00fan inform\u00f3 el mi\u00e9rcoles la firma de investigaci\u00f3n de inteligencia de amenazas Cisco..."
+                                },
                                 {
                                     "titulo": "Violaci\u00f3n Masiva de Datos Afecta a Miles de Inicios de Sesi\u00f3n en Google, Facebook y GitHub",
                                     "url": "https://decrypt.co/es/326238/violacion-masiva-de-datos-afecta-a-miles-de-inicios-de-sesion-en-google-facebook-y-github",
@@ -13135,14 +13143,6 @@
                                     "fecha": "Jun 14, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Los fabricantes de autom\u00f3viles japoneses han gastado miles de millones en el desarrollo de funciones de autom\u00f3viles conectados, sin embargo, la mayor\u00eda de los datos de los veh\u00edculos siguen bloqueados en silos corporativos. Ahora, una startup de blockchain con sede en EE. UU. quiere cambiar esa din\u00e1mica en uno de los mercados automotrices m\u00e1s avanzados del mundo.\nLa plataforma descentralizada de datos de veh\u00edculos DIMO anunci\u00f3 que se est\u00e1 expandiendo al mercado japon\u00e9s a trav\u00e9s de una empresa con..."
-                                },
-                                {
-                                    "titulo": "Shopify Implementar\u00e1 Pagos Con la Stablecoin USDC en Base en Colaboraci\u00f3n Con el Equipo de Coinbase",
-                                    "url": "https://decrypt.co/es/324970/shopify-implementara-pagos-con-la-stablecoin-usdc-en-base-en-colaboracion-con-el-equipo-de-coinbase",
-                                    "categoria": "Technology",
-                                    "fecha": "Jun 13, 2025",
-                                    "meta": "4 min lectura",
-                                    "descripcion": "Los consumidores pronto tendr\u00e1n la opci\u00f3n de comprar cualquier cosa de los comerciantes impulsados por Shopify con la stablecoin USDC de Circle en la red de capa-2 de Coinbase Base, gracias a una nueva colaboraci\u00f3n entre Shopify y Coinbase.\nLa funci\u00f3n comenzar\u00e1 hoy en acceso temprano y se implementar\u00e1 para todos los comerciantes a lo largo del a\u00f1o, seg\u00fan el CEO de Shopify, Tobi Lutke.\n\"Creemos que las stablecoins son una forma natural de realizar transacciones en internet y trabajamos con Coinba..."
                                 }
                             ]
                         }
@@ -13152,15 +13152,22 @@
                     "nombre": "decrypt_ia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Grok 4 Predice Que Los Dodgers Ganar\u00e1n la Serie Mundial, Pero no Todas Las IAs Est\u00e1n de Acuerdo",
-                            "url": "https://decrypt.co/es/329849/grok-4-predice-que-los-dodgers-ganaran-la-serie-mundial-pero-no-todas-las-ias-estan-de-acuerdo",
+                            "titulo": "\"Inteligencia Gozona Artificial\": xAI de Musk Lanza Waifus de IA Para Adultos",
+                            "url": "https://decrypt.co/es/330131/inteligencia-gozona-artificial-xai-de-musk-lanza-waifus-de-ia-para-adultos",
                             "categoria": "Artificial Intelligence",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/74afd337-e950-4e95-8746-e474843f8cf7-gID_7.png@webp",
-                            "descripcion": "Entre las demostraciones que Elon Musk realiz\u00f3 durante el lanzamiento de Grok 4 el 9 de julio estaba una impresionante pregunta pidiendo a la IA que predijera qu\u00e9 equipo ganar\u00e1 la Serie Mundial de las Grandes Ligas de B\u00e9isbol m\u00e1s tarde este a\u00f1o.\nDespu\u00e9s de 4,5 minutos de procesamiento de datos analizando informaci\u00f3n de Polymarket, la plataforma de mercados de predicci\u00f3n basada en Ethereum, y usando lo que xAI llama sus capacidades de razonamiento \"Heavy\", Grok 4 entreg\u00f3 su veredicto: Los Angeles...",
-                            "fecha": "Jul 12, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/download-4-gID_7.png@webp",
+                            "descripcion": "xAI lanz\u00f3 compa\u00f1eras de IA animadas en 3D para Grok este lunes, presentando a los usuarios a Ani, una chica anime g\u00f3tica que saluda a los suscriptores con \"\u00a1Hola cari\u00f1o!\" y quiere hablar sobre todo, desde tel\u00e9fonos Samsung hasta teor\u00edas filos\u00f3ficas, todo mientras corazones flotan alrededor de su forma animada.\nLa funci\u00f3n Companions, exclusiva para suscriptores de SuperGrok que pagan $30 mensuales (y solo en iOS por ahora), se lanz\u00f3 con tres personajes. Ani, es una waifu de anime rubia con estilo...",
+                            "fecha": "Jul 15, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Grok 4 Predice Que Los Dodgers Ganar\u00e1n la Serie Mundial, Pero no Todas Las IAs Est\u00e1n de Acuerdo",
+                                    "url": "https://decrypt.co/es/329849/grok-4-predice-que-los-dodgers-ganaran-la-serie-mundial-pero-no-todas-las-ias-estan-de-acuerdo",
+                                    "categoria": "Artificial Intelligence",
+                                    "fecha": "Jul 12, 2025",
+                                    "meta": "4 min lectura"
+                                },
                                 {
                                     "titulo": "Estudio Revela Que 13,5% Art\u00edculos Cient\u00edficos Usan ChatGPT, \u00bfEso es Malo?",
                                     "url": "https://decrypt.co/es/329551/estudio-revela-que-135-articulos-cientificos-usan-chatgpt-eso-es-malo",
@@ -13195,16 +13202,17 @@
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 9, 2025",
                                     "meta": "6 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "Grok 4 Llega Ma\u00f1ana, Aqu\u00ed te Contamos C\u00f3mo la IA de Musk Podr\u00eda Robarle el Protagonismo a GPT-5",
                                     "url": "https://decrypt.co/es/329209/grok-4-llega-manana-aqui-te-contamos-como-la-ia-de-musk-podria-robarle-el-protagonismo-a-gpt-5",
                                     "categoria": "Artificial Intelligence",
                                     "fecha": "Jul 9, 2025",
-                                    "meta": "6 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "6 min lectura",
+                                    "descripcion": "Se espera que el CEO de Tesla y xAI Elon Musk presente Grok 4 el mi\u00e9rcoles en una transmisi\u00f3n en vivo que podr\u00eda impulsar notablemente el sector de la inteligencia artificial.\nLa nueva versi\u00f3n, que se mostrar\u00e1 aproximadamente a las 8 PM PT, promete ser el modelo m\u00e1s ambicioso de la plataforma hasta ahora, uno que salta directamente sobre el prometido Grok 3.5 para desafiar la dominancia de OpenAI.\nEl creador de ChatGPT contin\u00faa manteniendo en secreto su pr\u00f3xima versi\u00f3n, GPT-5, con el CEO Sam Alt..."
+                                },
                                 {
                                     "titulo": "Jefe de IA de Apple se va a Meta en Medio de Una Agresiva Campa\u00f1a de Contrataci\u00f3n",
                                     "url": "https://decrypt.co/es/329084/jefe-de-ia-de-apple-se-va-a-meta-en-medio-de-una-agresiva-campana-de-contratacion",
@@ -13236,14 +13244,6 @@
                                     "fecha": "Jul 4, 2025",
                                     "meta": "4 min lectura",
                                     "descripcion": "Hace m\u00e1s de cuatro d\u00e9cadas, el fil\u00f3sofo franc\u00e9s Gilles Deleuze argument\u00f3 que el verdadero arte es inseparable de la lucha f\u00edsica y emocional de los seres humanos enfrentando el caos.\nDeleuze cre\u00eda que lo que hace posible el arte comienza desde el compromiso del artista y la experiencia directa con la incertidumbre, algo que un algoritmo no puede replicar.\n\"Si alguien pone toda su vida en la pintura y en la lucha contra el clich\u00e9, no es un ejercicio escolar\", dijo seg\u00fan una traducci\u00f3n aproximada..."
-                                },
-                                {
-                                    "titulo": "Investigadores Utilizan IA Para Reconstruir Himno Babil\u00f3nico de 3.000 A\u00f1os de Antig\u00fcedad",
-                                    "url": "https://decrypt.co/es/328344/investigadores-utilizan-ia-para-reconstruir-himno-babilonico-de-3-000-anos-de-antiguedad",
-                                    "categoria": "Artificial Intelligence",
-                                    "fecha": "Jul 4, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Investigadores de la Universidad LMU Munich y la Universidad de Bagdad han utilizado la inteligencia artificial para reconstruir un poema babil\u00f3nico que se hab\u00eda perdido durante m\u00e1s de 2.000 a\u00f1os.\nNombrado como el Himno de Babilonia, el texto \u2014que elogia a Babilonia y al dios Marduk\u2014 fue escrito hace 3.000 a\u00f1os y fue estudiado por \u00faltima vez en el a\u00f1o 100 a.C.\nSeg\u00fan el equipo detr\u00e1s de su redescubrimiento, ha sido reconstruido a partir de 30 fragmentos de arcilla que han sido excavados a lo larg..."
                                 }
                             ]
                         }
