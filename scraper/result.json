@@ -11273,6 +11273,38 @@
                 ],
                 "noticias": [
                     {
+                        "titulo": "Notas de la versi\u00f3n 14.8 de TFT (2025)",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/teamfight-tactics-patch-14-8-notes-2025/",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-07-15T18:00:00.000Z",
+                        "detalle": "\u00a1Cambios a Ciudad Cibern\u00e9tica, Remix r\u00fanico y una versi\u00f3n del Tesoro de Choncc! \u00a1Vamos all\u00e1!"
+                    },
+                    {
+                        "titulo": "Notas de la versi\u00f3n 25.14",
+                        "url": "/es-es/news/game-updates/patch-25-14-notes",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-07-15T18:00:00.000Z",
+                        "detalle": "\u00a1Poned a prueba vuestra resoluci\u00f3n con Yunara, la Fe Inquebrantable, en la versi\u00f3n 25.14!"
+                    },
+                    {
+                        "titulo": "Renovaci\u00f3n de los roles y cambios a los objetos",
+                        "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/roles-revamped-and-item-changes/",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-07-15T15:00:00.000Z",
+                        "detalle": "\u00a1Vamos a renovar los roles de TFT! Y tambi\u00e9n implementaremos cambios para algunos objetos."
+                    },
+                    {
+                        "titulo": "MSI 2025: Fase de cuadros, momentos destacados: Parte 2",
+                        "url": "https://www.youtube.com/watch?v=g7CTg4U9y34",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Esports",
+                        "fecha": "2025-07-14T18:00:00.000Z",
+                        "detalle": "Ver ahora"
+                    },
+                    {
                         "titulo": "TFT | Resumen de Coliseo KO",
                         "url": "https://teamfighttactics.leagueoflegends.com/es-es/news/game-updates/tft-ko-coliseum-overview",
                         "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
@@ -11335,41 +11367,17 @@
                         "categoria": "Esports",
                         "fecha": "2025-07-02T13:00:00.000Z",
                         "detalle": "Esta es la informaci\u00f3n sobre la Tactician\u2019s Crown de Ciudad Cibern\u00e9tica."
-                    },
-                    {
-                        "titulo": "Chaqueta del MSI 2025",
-                        "url": "https://merch.riotgames.com/product/msi-2025-coach-jacket/?utm_source=leagueoflegends.com&utm_medium=referral&utm_campaign=lol-newsfeed-msi25",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Merchandising",
-                        "fecha": "2025-06-28T21:00:00.000Z",
-                        "detalle": "\u00a1Animad a vuestra regi\u00f3n en su lucha por la gloria con la chaqueta de entrenador del MSI 2025!"
-                    },
-                    {
-                        "titulo": "Blossom & Blade - Desaf\u00edo de ARAM",
-                        "url": "/es-es/news/community/blossom-blade-aram-challenge",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Comunidad",
-                        "fecha": "2025-06-27T13:00:00.000Z",
-                        "detalle": "Disfrutad de la amistad y la comunidad en pleno caos con los desaf\u00edos de ARAM de FTW."
-                    },
-                    {
-                        "titulo": "Morgana florecer espiritual",
-                        "url": "https://www.youtube.com/watch?v=ozv9KijoYrk",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Multimedia",
-                        "fecha": "2025-06-26T15:00:00.000Z",
-                        "detalle": "La arboleda cobra vida cuando su madre despierta."
-                    },
-                    {
-                        "titulo": "Gu\u00eda - Verano de la LEC: \u00a1La final es en Madrid!",
-                        "url": "https://lolesports.com/es-es/news/lec-summer-primer-finals-in-madrid-await",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Esports",
-                        "fecha": "2025-06-26T14:00:00.000Z",
-                        "detalle": "Split de verano: formato, el debut de NAVI y la final que decidir\u00e1 qui\u00e9n va al Mundial en Madrid."
                     }
                 ],
                 "notas": [
+                    {
+                        "titulo": "Notas de la versi\u00f3n 25.14",
+                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-14-notes",
+                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2025-07-15T18:00:00.000Z",
+                        "detalle": "\u00a1Poned a prueba vuestra resoluci\u00f3n con Yunara, la Fe Inquebrantable, en la versi\u00f3n 25.14!"
+                    },
                     {
                         "titulo": "Notas de la versi\u00f3n 25.13",
                         "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-13-notes",
@@ -11457,14 +11465,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-02-04T19:00:00.000Z",
                         "detalle": "Daos un fest\u00edn con la versi\u00f3n 25.S1.3."
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 25.S1.2",
-                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-s1-2-notes",
-                        "imagen": "data:image/svg+xml,<svg%20xmlns=\"http://www.w3.org/2000/svg\"/>",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-01-22T19:00:00.000Z",
-                        "detalle": "\u00a1Arrodillaos ante la versi\u00f3n 25.S1.2! \ud83d\udc51"
                     }
                 ]
             }
@@ -12454,6 +12454,34 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Minecraft ha salvado mi verano y todo gracias al mejor pack de mods que jam\u00e1s he probado",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/16/minecraft-salvado-mi-verano-gracias-mejor-pack-mods-jamas-he-probado.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/16/687780803c528.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\u00a1De oferta! 26 juegazos por menos de 10 euros para PS4 y PS5, pero solo por tiempo limitado",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/16/oferta-26-juegazos-10-euros-ps4-ps5-limitado.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/16/68777514f11d3.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Donkey Kong Bananza brilla en Nintendo Switch 2 y rivaliza con Super Mario Odyssey en sus primeros an\u00e1lisis",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/16/donkey-kong-bananza-brilla-nintendo-switch-2-rivaliza-super-mario-odyssey-primeros-analisis.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/16/687766cae031e.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "\"A\u00fan no ha ganado nada\". Cristiano Ronaldo Junior compara a CR7 con Lamine Yamal, pero... \u00bfQu\u00e9 dicen FIFA y FC?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/16/aun-ganado-cristiano-ronaldo-junior-compara-cr7-lamine-yamal-dicen-fifa-fc.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/16/687760dfdc0b3.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Son 7 juegazos de oferta por menos de 20 euros para viciar durante todo el verano sin parar",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/15/son-7-juegazos-oferta-20-euros-viciar-durante-verano-parar.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/15/68764a119a451.jpeg",
@@ -12494,6 +12522,20 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/YkZ6a1eTFfxpsRlem.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Tr\u00e1iler de anuncio de Onimusha: Warlords",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/14/trailer-de-anuncio-de-onimusha-warlords-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/YkZ601eTFiIPekXAu.jpeg",
+                            "meta": "Juegos",
+                            "autor": "2:31 min."
+                        },
+                        {
+                            "titulo": "Tr\u00e1iler de lanzamiento de Onimusha: Warlords remaster.",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/14/trailer-de-lanzamiento-de-onimusha-warlords-remaster-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/14/YkZ6a1eTFfxpsRlem.jpeg",
+                            "meta": "Juegos",
+                            "autor": "1:07 min."
                         },
                         {
                             "titulo": "Adi\u00f3s a las 'tiradas de cable' en FC 26: EA penalizar\u00e1 a los jugadores que se salgan de muchos partidos seguidos",
@@ -12557,6 +12599,13 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/10/Yj9mq1eRwR9jlx194.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Tr\u00e1iler de Final Fantasy IX tras su relanzamiento en Nintendo Switch",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/10/trailer-de-final-fantasy-ix-tras-su-relanzamiento-en-nintendo-switch-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/10/Yj9mq1eRwR9jlx194.jpeg",
+                            "meta": "Juegos",
+                            "autor": "1:13 min."
                         },
                         {
                             "titulo": "\"Fortnite est\u00e1 destruyendo los videojuegos\"",
@@ -12629,6 +12678,13 @@
                             "autor": "MARCOS WAGIH"
                         },
                         {
+                            "titulo": "Tr\u00e1iler de EA Sports College Football 26.",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/09/trailer-de-ea-sports-college-football-26-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/09/Yifp21eRZlKs_2ckr.jpeg",
+                            "meta": "Juegos",
+                            "autor": "1:52 min."
+                        },
+                        {
                             "titulo": "Gran Canaria hace historia: el festival \u2018Gaming Experience\u2019 recibe m\u00e1s de 87.000 visitantes en su primera edici\u00f3n",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/09/gran-canaria-historia-festival-gaming-experience-recibe-87-000-visitantes-primera-edicion.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/09/686e2f73f1de8.jpeg",
@@ -12685,6 +12741,20 @@
                             "autor": "MARCOS WAGIH"
                         },
                         {
+                            "titulo": "As\u00ed es el combate de RAIDOU Remastered: The Mystery of the Soulless Army",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/08/asi-es-el-combate-de-raidou-remastered-the-mystery-of-the-soulless-army-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/08/YiFb61eRFqsa3tHO7.jpeg",
+                            "meta": "Juegos",
+                            "autor": "5:01 min."
+                        },
+                        {
+                            "titulo": "Tr\u00e1iler de lanzamiento RAIDOU Remastered: The Mystery of the Soulless Army",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/08/trailer-de-lanzamiento-raidou-remastered-the-mystery-of-the-soulless-army-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/08/YiFVw1eRFetJSnPEi.jpeg",
+                            "meta": "Juegos",
+                            "autor": "2:35 min."
+                        },
+                        {
                             "titulo": "GTA 6 podr\u00eda tener su propia app m\u00f3vil, y ya se habla de una red social exclusiva de Rockstar",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/08/gta-6-podria-propia-app-movil-habla-red-social-exclusiva-rockstar.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/08/686cd319f0531.jpeg",
@@ -12692,11 +12762,25 @@
                             "autor": "MARCOS WAGIH"
                         },
                         {
+                            "titulo": "Todo lo que tienes que saber sobre la econom\u00eda en Striker Manager 3",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/07/todo-lo-que-tienes-que-saber-sobre-la-economia-en-striker-manager-3-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/07/x21eR1YqMJkqvi.jpeg",
+                            "meta": "Juegos",
+                            "autor": "3:45 min."
+                        },
+                        {
                             "titulo": "Steam publica un nuevo juego gratis con un 95% de cr\u00edticas positivas y ya lo puedes descargar",
                             "url": "https://www.marca.com/videojuegos/juegos/2025/07/07/steam-publica-nuevo-juego-gratis-95-criticas-positivas-puedes-descargar.html",
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/07/Yhrk61eQwCEwRsVip.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "V\u00eddeo sobre la jugabilidad de Umamusume: Pretty Derby",
+                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/07/video-sobre-la-jugabilidad-de-umamusume-pretty-derby-video.html",
+                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/07/Yhrk61eQwCEwRsVip.jpeg",
+                            "meta": "Juegos",
+                            "autor": "2:37 min."
                         },
                         {
                             "titulo": "Es uno de los mejores ARPG de los \u00faltimos a\u00f1os y ahora est\u00e1 disponible de forma gratuita en PS Plus",
@@ -12718,90 +12802,6 @@
                             "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/04/Bo1ePvqQ3e3ect.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Lo siento, Hideo Kojima, pero Death Stranding 2 se te ha ido de las manos...",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/siento-hideo-kojima-death-stranding-2-te-ido-manos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/YgYoY1ePcSKfSg1IZ.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Ni Baldur's Gate 3, ni Sonic. He descubierto que hay vida m\u00e1s all\u00e1 de sus videojuegos, y es todo gracias a Secret Lair",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/baldur-s-gate-3-sonic-he-descubierto-hay-vida-alla-videojuegos-gracias-secret-lair.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/6866599e2ed52.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "EA Sports y 2K vuelven a competir por el mejor juego de baloncesto... pero dejan de lado la NBA",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/ea-sports-2k-vuelven-competir-mejor-juego-baloncesto-dejan-lado-nba.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/68664dec1bd06.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "La 'Ley Pel\u00e9' amenaza a FC 26: la gran sorpresa del Mundial de Clubes puede rechazar estar en el juego",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/03/ley-pele-amenaza-fc-26-gran-sorpresa-mundial-clubes-rechazar-juego.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/03/68663e6776d84.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Tu leyenda como entrenador empieza hoy: Gu\u00eda para dar tus primeros pasos en Striker Manager 3",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/02/leyenda-entrenador-empieza-hoy-guia-dar-tus-primeros-pasos-striker-manager-3.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/YgIYo1ePKdWFn3Xiu.jpeg",
-                            "meta": "Striker Manager 3",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Evitemos que los juegos digitales desaparezcan: esta iniciativa de la Uni\u00f3n Europea puede salvar el mundo de los videojuegos",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/02/evitemos-juegos-digitales-desaparezcan-iniciativa-union-europea-salvar-mundo-videojuegos.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/68651b9e1d2d5.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Nintendo publica las 5 millones de ventas de la Switch 2 antes de tiempo y elimina la publicaci\u00f3n",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/02/nintendo-publica-5-millones-ventas-switch-2-elimina-publicacion.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/686502bb36eff.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Gonzalo Garc\u00eda, la estrella del Real Madrid que 'pone en un aprieto' a EA Sports para el FC 26",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/02/gonzalo-garcia-estrella-real-madrid-pone-aprieto-ea-sports-fc-26.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/02/6864ec80af04a.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "El nuevo rumor de GTA VI: una aplicaci\u00f3n m\u00f3vil que podr\u00eda cambiar el juego",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/07/01/nuevo-rumor-gta-vi-aplicacion-movil-podria-cambiar-juego.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/01/6864172324758.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "\"EA podr\u00eda destrozar Ultimate Team si no implementa bien este cambio a Fut Champions en FC 26\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2025/07/01/ea-podria-destrozar-ultimate-team-implementa-bien-cambio-fut-champions-fc-26.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/07/01/6863bd93577f9.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Tony Hawk revela el dineral que gan\u00f3 por la famosa saga de videojuegos con su nombre: \"Me cambi\u00f3 la vida\"",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/30/tony-hawk-revela-dineral-gano-famosa-saga-videojuegos-nombre-me-cambio-vida.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/30/YfcQI1eOe54bpisHb.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Neymar 'volver\u00e1' a FC 26 si se confirma esta filtraci\u00f3n tras desaparecer del juego de EA Sports durante medio a\u00f1o",
-                            "url": "https://www.marca.com/videojuegos/juegos/2025/06/30/neymar-volvera-fc-26-confirma-filtracion-desaparecer-juego-ea-sports-durante-medio-ano.html",
-                            "imagen": "https://e00-xlk-ue-marca.uecdn.es/uploads/2025/06/30/6862593726b7b.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
                         }
                     ]
                 },
@@ -13051,15 +13051,22 @@
                     "nombre": "decrypt_tecnologia",
                     "pagina": {
                         "principal": {
-                            "titulo": "Ingeniero Revela Fallas de Seguridad Cr\u00edticas en M\u00e1quinas de Votaci\u00f3n de EEUU",
-                            "url": "https://decrypt.co/es/330030/ingeniero-revela-fallas-de-seguridad-criticas-en-maquinas-de-votacion-de-eeuu",
+                            "titulo": "Hackers Comprometen Cuenta Oficial de Elmo en X y Difunden \"Mensajes Repugnantes y Racistas\"",
+                            "url": "https://decrypt.co/es/330232/hackers-comprometen-cuenta-oficial-de-elmo-en-x-y-difunden-mensajes-repugnantes-y-racistas",
                             "categoria": "Technology",
-                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@webp",
-                            "descripcion": "En 2006, el ingeniero de software Michal Pospieszalski descubri\u00f3 fallas peligrosas en las m\u00e1quinas de votaci\u00f3n de EE. UU., fallas que seg\u00fan \u00e9l todav\u00eda amenazan las elecciones estadounidenses hoy en d\u00eda.\nContratado por el Instituto de Ciencias Electorales, donde se desempe\u00f1aba como Director de Tecnolog\u00eda, Pospieszalski fue llevado a la sede del proveedor de elecciones Election Systems & Software (ES&S) en Omaha, Nebraska. Su tarea era analizar el sistema de votaci\u00f3n iVotronic de la empresa.\nDuran...",
-                            "fecha": "Jul 14, 2025"
+                            "imagen": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/X-gID_7.jpg@webp",
+                            "descripcion": "La plataforma de redes sociales X recibi\u00f3 m\u00e1s cr\u00edticas el domingo por la forma en que modera el discurso de odio despu\u00e9s de que una cuenta oficial perteneciente a Elmo de Sesame emitiera mensajes antisemitas y violentos.\nSesame Workshop, la compa\u00f1\u00eda detr\u00e1s de Sesame Street, atribuy\u00f3 el arrebato a un \"hacker desconocido\".\n\"La cuenta de X de Elmo fue comprometida por un hacker desconocido que public\u00f3 mensajes repugnantes, incluidas publicaciones antisemitas y racistas\", dijo un portavoz a CNN el l...",
+                            "fecha": "Jul 15, 2025"
                         },
                         "notas": {
                             "cortas": [
+                                {
+                                    "titulo": "Ingeniero Revela Fallas de Seguridad Cr\u00edticas en M\u00e1quinas de Votaci\u00f3n de EEUU",
+                                    "url": "https://decrypt.co/es/330030/ingeniero-revela-fallas-de-seguridad-criticas-en-maquinas-de-votacion-de-eeuu",
+                                    "categoria": "Technology",
+                                    "fecha": "Jul 14, 2025",
+                                    "meta": "6 min lectura"
+                                },
                                 {
                                     "titulo": "Autoridades Despliegan Drones de Rescate en Inundaciones de Texas y Carolina Norte",
                                     "url": "https://decrypt.co/es/329053/autoridades-despliegan-drones-de-rescate-en-inundaciones-de-texas-y-carolina-norte",
@@ -13094,16 +13101,17 @@
                                     "categoria": "Technology",
                                     "fecha": "Jun 25, 2025",
                                     "meta": "3 min lectura"
-                                },
+                                }
+                            ],
+                            "extensas": [
                                 {
                                     "titulo": "C\u00f3mo la Tecnolog\u00eda Podr\u00eda Demostrar si el Uranio de Ir\u00e1n Fue Destruido",
                                     "url": "https://decrypt.co/es/326772/como-la-tecnologia-podria-demostrar-si-el-uranio-de-iran-fue-destruido",
                                     "categoria": "Technology",
                                     "fecha": "Jun 25, 2025",
-                                    "meta": "5 min lectura"
-                                }
-                            ],
-                            "extensas": [
+                                    "meta": "5 min lectura",
+                                    "descripcion": "Mientras el presidente Donald Trump ha proclamado el ataque del fin de semana contra tres sitios nucleares iran\u00edes como un \u00e9xito, verificar la destrucci\u00f3n de las reservas de uranio en Ir\u00e1n representa un desaf\u00edo para las agencias de inteligencia estadounidenses e internacionales.\nLa Agencia Internacional de Energ\u00eda At\u00f3mica no ha podido inspeccionar los da\u00f1os en el objetivo principal del ej\u00e9rcito estadounidense, la instalaci\u00f3n de enriquecimiento de uranio de Fordow, que est\u00e1 construida en las prof..."
+                                },
                                 {
                                     "titulo": "Corea del Norte Apunta a Profesionales Cripto con Nuevo Malware de Estafas de Contrataci\u00f3n",
                                     "url": "https://decrypt.co/es/326243/corea-del-norte-apunta-a-profesionales-cripto-con-nuevo-malware-de-estafas-de-contratacion",
@@ -13135,14 +13143,6 @@
                                     "fecha": "Jun 16, 2025",
                                     "meta": "3 min lectura",
                                     "descripcion": "Despu\u00e9s de lanzar una motocicleta el\u00e9ctrica de alta gama con estilo ciberpunk que cuesta m\u00e1s que algunos autom\u00f3viles usados, la startup de Brooklyn financiada por Andreessen Horowitz, Infinite Machine, finalmente est\u00e1 siendo pr\u00e1ctica.\nAcaba de presentar el Olto: una scooter el\u00e9ctrica de $3.495 que parece haber escapado del tablero de inspiraci\u00f3n de un dise\u00f1ador industrial. (Eso no es sorprendente ya que la empresa fue fundada por los hermanos Joseph y Eddie Cohen, ambos antiguos empleados de App..."
-                                },
-                                {
-                                    "titulo": "Startup DIMO Lanza Empresa DePIN en Jap\u00f3n Para Ayudar a Fabricantes de Autos a Monetizar Datos de Veh\u00edculos",
-                                    "url": "https://decrypt.co/es/324992/startup-dimo-lanza-empresa-depin-en-japon-para-ayudar-a-fabricantes-de-autos-a-monetizar-datos-de-vehiculos",
-                                    "categoria": "Technology",
-                                    "fecha": "Jun 14, 2025",
-                                    "meta": "3 min lectura",
-                                    "descripcion": "Los fabricantes de autom\u00f3viles japoneses han gastado miles de millones en el desarrollo de funciones de autom\u00f3viles conectados, sin embargo, la mayor\u00eda de los datos de los veh\u00edculos siguen bloqueados en silos corporativos. Ahora, una startup de blockchain con sede en EE. UU. quiere cambiar esa din\u00e1mica en uno de los mercados automotrices m\u00e1s avanzados del mundo.\nLa plataforma descentralizada de datos de veh\u00edculos DIMO anunci\u00f3 que se est\u00e1 expandiendo al mercado japon\u00e9s a trav\u00e9s de una empresa con..."
                                 }
                             ]
                         }
