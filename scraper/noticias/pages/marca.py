@@ -22,8 +22,8 @@ def get_author(author: Tag | None) -> str | None:
 	if not isinstance(author, Tag):
 		return None
 
-	name = author.next_sibling.strip()
-	return name if name else None
+	name = author.next_sibling
+	return name.strip() if name else None
 
 class MarcaNoticias:
 
