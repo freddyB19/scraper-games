@@ -1,40 +1,47 @@
-from typing import Union
-from typing import NewType
-from typing import Dict
-from typing import Any
+import logging
 
-from lxml import html
+from typing import Union, TypeVar, Dict, Any
 
-from httpx import Client
+from lxml import html, etree
+
+from httpx import Client, ConnectError
 
 from bs4 import BeautifulSoup
 
 
-Request = NewType("Request", Client)
-Parsed = NewType("Parsed", html)
-HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
+Request = TypeVar("Request", bound=Client)
+Parsed = TypeVar("Parsed", bound=etree.Element)
+HTMLParsed = TypeVar("HTMLParsed", bound=BeautifulSoup)
 
-STATUS_CODE:Dict[str, int] = {
+STATUS_CODE = {
 	"OK": 200
 }
+
+FORMAT = "%(asctime)s %(error)s %(url)s %(message)s"
+
+logging.getLogger(__name__)
+logging.basicConfig(format = FORMAT)
 
 class ReadFromWeb:
 	
 	@classmethod
 	def read(cls, url:str) -> HTMLParsed | None:
-		with Client() as client:
+		try:
+			with Client() as client:
 		
-			response:Request = client.get(url)
+				response:Request = client.get(url)
 
-			if response.status_code == STATUS_CODE['OK']:
-				data:Parsed = html.fromstring(response.text)
+				if response.status_code == STATUS_CODE['OK']:
+					data:Parsed = html.fromstring(response.text)
 
-				html_parsed:HTMLParsed = BeautifulSoup( html.tostring(data), 'lxml')
+					html_parsed:HTMLParsed = BeautifulSoup( html.tostring(data), 'lxml')
+					
+					return html_parsed
 				
-				return html_parsed
-			
+				return None
+		except ConnectError as e:
+			logging.error("Error en la extracción", extra = {"error": str(e), "url": url})
 			return None
-
 
 
 class ReadFromFile:
