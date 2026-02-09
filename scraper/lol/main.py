@@ -1,14 +1,4 @@
-import os
-import sys
-import pprint
-import json
-
-
-from typing import Dict
-from typing import Union
-from typing import List
-from typing import TypeAlias
-
+import os, sys, pprint
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
@@ -20,9 +10,7 @@ from lol.pages.lolfandom import LOLFandomPage
 from lol.pages.news_and_notes import LOLNewsNotesPage
 
 
-ResultScraper:TypeAlias = List[Dict[str, str]]
-
-URLS:Dict[str, str] = {
+URLS = {
 	'lolchampions': 'https://www.leagueoflegends.com/es-es/champions/',
 	'lolnews': 'https://www.leagueoflegends.com/es-es/news/',
 	'lolnotas': 'https://www.leagueoflegends.com/es-es/news/tags/patch-notes/',
@@ -32,15 +20,15 @@ URLS:Dict[str, str] = {
 class ScraperLOL:
 
 	@classmethod
-	def scraper(cls) -> Dict[str, str]:
+	def scraper(cls) -> dict[str, list[dict[str, str]] | None]:
 		
-		champions:Union[str, ResultScraper] = LOLChampionsPage.scrap(
+		champions = LOLChampionsPage.scrap(
 			html_data = ReadFromWeb.read(URLS['lolchampions']),
 			url_root = "https://www.leagueoflegends.com"
 		)
 
-		noticias:Union[str, ResultScraper] = LOLNewsNotesPage.scrap(html_data = ReadFromWeb.read(URLS['lolnews']))
-		notas:Union[str, ResultScraper] = LOLNewsNotesPage.scrap(
+		noticias = LOLNewsNotesPage.scrap(html_data = ReadFromWeb.read(URLS['lolnews']))
+		notas = LOLNewsNotesPage.scrap(
 			html_data = ReadFromWeb.read(URLS['lolnotas']),
 			url_root = "https://www.leagueoflegends.com"
 		)
@@ -53,7 +41,7 @@ class ScraperLOL:
 
 
 def main() -> None:
-	pprint.pp(ScraperLOL.scraper(), indent=4)
+	pprint.pprint(ScraperLOL.scraper(), indent=4)
 
 	
 if __name__ == '__main__':
