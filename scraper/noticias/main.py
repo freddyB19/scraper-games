@@ -47,7 +47,7 @@ class ScraperNoticias:
 		]
 
 def main():
-	pprint.pprint(ScraperNoticias.scrap(), indent = 4)
+	pprint.pprint(ScraperNoticias.scraper(), indent = 4)
 	
 
 if __name__ == '__main__':
