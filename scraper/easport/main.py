@@ -1,13 +1,9 @@
-import os
-import sys
-import json
-from typing import Dict
+import os, sys, json, pprint
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
 
-from utils.main import ReadFromFile
-from utils.main import ReadFromWeb
+from utils.main import ReadFromFile, ReadFromWeb
 
 from easport.pages.noticias import NoticiasEASport
 from easport.pages.novedades import NovedadesEASport
@@ -16,7 +12,7 @@ from easport.pages.proximamente import ProximamenteEASport
 from easport.pages.actualizaciones import ActualizacionesEASport
 
 
-URL:Dict[str, str] = {
+URL = {
 	'easport': 'https://www.ea.com/es-es',
 	'noticias': 'https://www.ea.com/es-es/news',
 	'novedades': 'https://www.ea.com/es-es/games',
@@ -57,7 +53,7 @@ class ScraperEASport:
 		}
 
 def main():
-	ScraperEASport.scraper()
+	pprint.pprint(ScraperEASport.scraper(), indent = 4)
 
 if __name__ == '__main__':
 	main()
