@@ -1,18 +1,17 @@
-from typing import List
-from typing import Dict
-from typing import NewType
+
+from typing import TypeVar
 
 from collections import defaultdict
 
 from bs4 import BeautifulSoup
 
-HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
+HTMLParsed = TypeVar("HTMLParsed", bound=BeautifulSoup)
 
 class LOLChampionsPage:
 	@classmethod
-	def scrap(cls, html_data:HTMLParsed | None = None, champions_imagen:dict = {}, url_root: str = "") -> str | List[Dict[str, str]]:
+	def scrap(cls, html_data:HTMLParsed | None = None, champions_imagen:dict = {}, url_root: str = "") -> None | list[dict[str, str]]:
 
-		players = defaultdict(lambda: 'null', champions_imagen)
+		players = defaultdict(lambda: None, champions_imagen)
 
 		if html_data is None:
 			return None
@@ -37,4 +36,3 @@ class LOLChampionsPage:
 			})
 		
 		return champions
-
