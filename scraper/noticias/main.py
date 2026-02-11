@@ -39,16 +39,20 @@ class ScraperNoticias:
 		)
 
 		wired_robots = get_robots_news(
-			html_parsed = ReadFromWeb.read(URL["wired_robots"], url_root = URL["wired_robots"])
+			html_parsed = ReadFromWeb.read(URL["wired_robots"]),
+			url_root = URL["wired_robots"]
 		)
 		wired_neurociencia = get_news(
-			html_parsed = ReadFromWeb.read(URL["wired_neurociencia"], url_root = URL["wired_neurociencia"])
+			html_parsed = ReadFromWeb.read(URL["wired_neurociencia"]), 
+			url_root = URL["wired_neurociencia"]
 			)
 		wired_biotecnologia = get_news(
-			html_parsed = ReadFromWeb.read(URL["wired_biotecnologia"], url_root = URL["wired_biotecnologia"])
+			html_parsed = ReadFromWeb.read(URL["wired_biotecnologia"]), 
+			url_root = URL["wired_biotecnologia"]
 		)
 		wired_espacio = get_news(
-			html_parsed = ReadFromWeb.read(URL["wired_espacio"], url_root = URL["wired_espacio"])
+			html_parsed = ReadFromWeb.read(URL["wired_espacio"]), 
+			url_root = URL["wired_espacio"]
 		)
 
 		return [

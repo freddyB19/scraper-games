@@ -35,7 +35,7 @@ def get_robots_news(html_parsed: HTMLParsed, url_root:str = "") -> list[dict[str
 		url_root = url_root
 	)
 
-def get_news(html_parsed: HTMLParsed) -> list[dict[str, str]]:
+def get_news(html_parsed: HTMLParsed, url_root: str = "") -> list[dict[str, str]]:
 	if not html_parsed:
 		return None
 	
