@@ -1,17 +1,15 @@
-from typing import List
-from typing import Dict
-from typing import NewType
 
+from typing import TypeVar
 
 from bs4 import BeautifulSoup
 
-HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
+HTMLParsed = TypeVar("HTMLParsed", bound=BeautifulSoup)
 
 class NovedadesEASport:
 
 	@classmethod
-	def scrap(cls, html_data: HTMLParsed | None = None) -> str | List[Dict[str, str]]:
-		if html_data is None:
+	def scrap(cls, html_data: HTMLParsed | None, url_root: str) -> list[dict[str, str | None]] | None:
+		if not html_data:
 			return None
 
 		container = html_data.find('ea-box-set')
@@ -25,7 +23,7 @@ class NovedadesEASport:
 			juegos_destacados.append({
 				'imagen': novedad.get('background-image'),
 				'titulo': novedad.get('main-link-title'),
-				'url': f"{'https://www.ea.com'}{novedad.get('main-link-url')}",
+				'url': f"{url_root}{novedad.get('main-link-url')}",
 				'logo': novedad.get('logo-url')
 			})
 

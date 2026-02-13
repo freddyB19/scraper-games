@@ -1,44 +1,75 @@
-from typing import List
-from typing import Dict
-from typing import NewType
 
+from typing import TypeVar
+
+from bs4.element import Tag
 from bs4 import BeautifulSoup
 
+HTMLParsed = TypeVar("HTMLParsed", bound=BeautifulSoup)
 
-HTMLParsed = NewType("HTMLParsed", BeautifulSoup)
+
+def get_description(description: Tag | None) -> str | None:
+	if not isinstance(description, Tag):
+		return None
+
+	return description.get_text().strip().replace("\n", "")
+
+def get_data_from_element(element: Tag, tag_name: str, tag_property: str) -> str:	
+	tag = element.find(tag_name)
+	
+	return tag.get(tag_property) if tag else None
+
 
 class ActualizacionesEASport:
 	@classmethod
-	def scrap(cls, html_data: HTMLParsed | None = None) -> str | List[Dict[str, str]]:
-		if html_data is None:
+	def scrap(cls, html_data: HTMLParsed | None) -> list[dict[str, str | None]] | None:
+		if not html_data:
 			return None
 
-		container = html_data.find('template')
+		container = html_data.find('ea-subheading', attrs={
+			"title-text":"Últimas actualizaciones" ,
+		})
 
 		if not container:
 			return None
 
-		tabs = container.find_all('ea-tab')
-		post_atc = container.find_all('ea-section', attrs={'spacing-top': "medium"})
+		container = container.parent
 
-		lista_actualizaciones = []
-		
-		etiquetas = []
-		
-		for post_tag, post_info in zip(tabs, post_atc):
-
-			data = []
-			for nota in  post_info.find_all('ea-container', slot="container"):
-				data.append({
-					'titulo': nota.find('h3').string.strip() if nota.find('h3') else 'null',
-					'informacion': [info.string.strip() for info in nota.find_all('div')],
-					'detalle': nota.find('ea-tile-copy', slot='copy').string.strip(),
-					'url': nota.find('ea-cta', intent="news").get('link-url'),
-					'imagen': nota.find('ea-tile').get('media')
-				})
-
-			etiquetas += [{'etiqueta': post_tag.string.strip(), 'info': data}]
-
-		lista_actualizaciones.append({ 'etiqueta': etiquetas})
+		actualizaciones = []
+		for nota in container.find_all('ea-container', attrs={'slot': "container"}):
+			imagen = get_data_from_element(
+				element = nota,
+				tag_name = "ea-tile", 
+				tag_property = "media"
+			)
+			titulo = get_data_from_element(
+				element = nota,
+				tag_name = "ea-tile", 
+				tag_property = "title-text"
+			)
+			informacion = get_data_from_element(
+				element = nota,
+				tag_name = "ea-tile", 
+				tag_property = "tooltip"
+			)
+			fecha = get_data_from_element(
+				element = nota,
+				tag_name = "ea-tile", 
+				tag_property = "eyebrow-secondary-text"
+			)
+			url = get_data_from_element(
+				element = nota,
+				tag_name = "ea-cta", 
+				tag_property = "link-url"
+			)
+			detalle = get_description(nota.find("ea-tile-copy", attrs={"slot":"copy"}))
 			
-		return lista_actualizaciones
+			actualizaciones.append({
+				"imagen": imagen,
+				"titulo": titulo,
+				"informacion": informacion,
+				"fecha": fecha,
+				"detalle": detalle,
+				"url": url
+			})
+			
+		return actualizaciones
