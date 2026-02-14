@@ -77,6 +77,33 @@ class AsyncReadFromWeb:
 				logging.error("Error en la extracción", extra = {"error": str(e), "url": url})
 				return None
 
+ASYNC_CLIENT_CONFIG = {
+	"_SEMAPHORE" : asyncio.Semaphore(MAX_CONCURRENT_REQUEST),
+	"_LIMITS" : httpx.Limits(
+		max_keepalive_connections = MAX_CONCURRENT_REQUEST, # límite de conexiones "activas" permitidas 
+		max_connections = MAX_REQUEST # límite de conexiones permitidas
+	),
+	"_TIMEOUT" : 10.0,
+	"_HEADERS" : {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36  (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
+}
+
+async def async_read_from_web(client, url):
+	async with ASYNC_CLIENT_CONFIG["_SEMAPHORE"]:
+		try:
+			response = await client.get(url, timeout=ASYNC_CLIENT_CONFIG["_TIMEOUT"])
+
+			if response.status_code == STATUS_CODE['OK']:
+				data = html.fromstring(response.text)
+
+				html_parsed = BeautifulSoup( html.tostring(data), 'lxml')
+				
+				return html_parsed
+			
+			return None
+		except ConnectError as e:
+			logging.error("Error en la extracción", extra = {"error": str(e), "url": url})
+			return None
+
 
 class ReadFromFile:
 
