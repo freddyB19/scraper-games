@@ -1,9 +1,19 @@
-import os, sys, json, pprint
+import os, sys, json, pprint, asyncio, time
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
 
-from utils.main import ReadFromFile, ReadFromWeb, DownloadFile
+import httpx
+
+from utils.main import (
+	run_task,
+	ReadFromWeb,
+	ReadFromFile,
+	AsyncReadFromFile,
+
+	async_read_from_web,
+	ASYNC_CLIENT_CONFIG
+)
 
 from easport.pages.noticias import NoticiasEASport
 from easport.pages.novedades import NovedadesEASport
@@ -20,56 +30,83 @@ URL = {
 	'gratuitos': 'https://www.ea.com/es-es/games/library/freetoplay'
 }
 
-def easport_news() -> list[dict[str, str | None]] | None:
-	noticias = NoticiasEASport.scrap(
-		html_data = ReadFromFile.read("./scraper/easport/noticias.html")
+def sync_easport_news():
+	return NoticiasEASport.scrap(
+		html_data = ReadFromWeb.read(URL["noticias"])
 	)
 
-	return noticias
-
-def easport_novelties():
-	ROOT = 'https://www.ea.com'
-	novedades = NovedadesEASport.scrap(
-		html_data = ReadFromFile.read("./scraper/easport/novedades.html"),
-		url_root = ROOT
+def sync_easport_novelties(url_root:str = "https://www.ea.com"):
+	return NovedadesEASport.scrap(
+		html_data = ReadFromWeb.read(URL["novedades"]),
+		url_root = url_root
 	)
 
-	return novedades
-
-def easport_soon():
-	proximamente = ProximamenteEASport.scrap(
-		html_data = ReadFromFile.read("./scraper/easport/proximamente.html")
+def sync_easport_soon():
+	return ProximamenteEASport.scrap(
+		html_data = ReadFromWeb.read(URL["proximamente"])
 	)
 
-	return proximamente
-
-def easport_free():
-	ROOT = 'https://www.ea.com'
-
-	gratuitos = JuegoGratuitosEASport.scrap(
-		html_data = ReadFromFile.read("./scraper/easport/gratuitos.html"),
-		url_root = ROOT
+def sync_easport_free(url_root:str = "https://www.ea.com"):
+	return JuegoGratuitosEASport.scrap(
+		html_data = ReadFromWeb.read(URL["gratuitos"]),
+		url_root = url_root
 	)
 
-	return gratuitos
-
-def easport_updates():
-	actualizaciones = ActualizacionesEASport.scrap(
-		html_data = ReadFromFile.read("./scraper/easport/actualizaciones.html")
+def sync_easport_updates():
+	return ActualizacionesEASport.scrap(
+		html_data = ReadFromWeb.read(URL["easport"])
 	)
 
-	return actualizaciones
+async def easport_news(client) -> list[dict[str, str | None]] | None:
+	content_html = await async_read_from_web(client, URL["noticias"])
+	return await run_task(NoticiasEASport.scrap, content_html)
 
+async def easport_novelties(client, url_root = "https://www.ea.com"):
+	content_html = await async_read_from_web(client, URL["novedades"])
+	return await run_task(NovedadesEASport.scrap, content_html, url_root)
+
+async def easport_soon(client):
+	content_html = await async_read_from_web(client, URL["proximamente"])
+	return  await run_task(ProximamenteEASport.scrap, content_html)
+
+async def easport_free(client, url_root = "https://www.ea.com"):
+	content_html = await async_read_from_web(client, URL["gratuitos"])
+	return await run_task(JuegoGratuitosEASport.scrap, content_html, url_root)
+
+async def easport_updates(client):
+	content_html = await async_read_from_web(client, URL["easport"])
+	return await run_task(ActualizacionesEASport.scrap, content_html)
 
 class ScraperEASport:
 
 	@classmethod
+	async def async_scraper(cls):
+		async with httpx.AsyncClient(limits = ASYNC_CLIENT_CONFIG["_LIMITS"], headers = ASYNC_CLIENT_CONFIG["_HEADERS"]) as client:
+			tasks = [
+				easport_news(client = client),
+				easport_novelties(client = client),
+				easport_soon(client = client),
+				easport_free(client = client),
+				easport_updates(client = client)
+			]
+
+			news, novelties, soon, free, updates = await asyncio.gather(*tasks, return_exceptions = True)
+
+		return {
+			'noticias': news if isinstance(news, list) else None,
+			'novedades': novelties if isinstance(novelties, list) else None,
+			'proximamente': soon if isinstance(soon, list) else None,
+			'gratuitos': free if isinstance(free, list) else None,
+			'actualizaciones': updates if isinstance(updates, list) else None
+		}
+
+	@classmethod
 	def scraper(cls):
-		data_news = easport_news()
-		data_novelties = easport_novelties()
-		data_soon = easport_soon()
-		data_free = easport_free()
-		data_updates = easport_updates()
+		data_news = sync_easport_news()
+		data_novelties = sync_easport_novelties()
+		data_soon = sync_easport_soon()
+		data_free = sync_easport_free()
+		data_updates = sync_easport_updates()
 		
 		return {
 			'noticias': data_news,
@@ -79,9 +116,12 @@ class ScraperEASport:
 			'actualizaciones': data_updates,
 		}
 
-def main():
-	pprint.pprint(ScraperEASport.scraper(), indent = 4)
+async def main():
+	# Time: 1.87
+	start = time.perf_counter()
+	pprint.pprint(await ScraperEASport.async_scraper(), indent = 4)
+	print(f"Time: {time.perf_counter() - start}")
 
 
 if __name__ == '__main__':
-	main()
+	asyncio.run(main())
