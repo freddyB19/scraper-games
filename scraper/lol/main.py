@@ -1,8 +1,10 @@
 import os, sys, pprint, asyncio, json
-from enum import Enum
 from typing import TypeVar
 
+import httpx
+
 from bs4 import BeautifulSoup
+
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
@@ -12,11 +14,15 @@ from utils.main import (
 	DownloadFile, 
 	AsyncReadFromWeb,
 	AsyncReadFromFile,
+	async_read_from_web,
+	ASYNC_CLIENT_CONFIG
+
 )
 from lol.pages.lolchampions import LOLChampionsPage 
 from lol.pages.news_and_notes import LOLNewsNotesPage
 
 HTMLParsed = TypeVar("HTMLParsed", bound=BeautifulSoup)
+AsyncClient = TypeVar("AsyncClient", bound=httpx.AsyncClient)
 
 URLS = {
 	'lol': 'https://www.leagueoflegends.com',
@@ -26,20 +32,20 @@ URLS = {
 }
 
 
-async def champions() -> list[ dict[str, list[dict[str , str | None]]] ]: 
-	content_html = await AsyncReadFromWeb.read(URLS['lolchampions'])
+async def champions(client: AsyncClient) -> list[ dict[str, list[dict[str , str | None]]] ]:
+	content_html = await async_read_from_web(client = client, url = URLS["lolchampions"])
 	return await LOLChampionsPage.scrap(
 		html_data = content_html,
 		url_root = URLS['lol']
 	)
 
-async def news() -> list[ dict[str, list[dict[str , str | None]]]]:
-	content_html = await AsyncReadFromWeb.read(URLS["lolnews"])
+async def news(client: AsyncClient) -> list[ dict[str, list[dict[str , str | None]]]]:
+	content_html = await async_read_from_web(client = client, url = URLS["lolnews"])
 	return await run_task(LOLNewsNotesPage.scrap, content_html)
 
 
-async def notes() -> list[dict[str, list[dict[str , str | None]]]]:
-	content_html = await AsyncReadFromWeb.read(URLS["lolnotas"])
+async def notes(client: AsyncClient) -> list[dict[str, list[dict[str , str | None]]]]:
+	content_html = await async_read_from_web(client = client, url = URLS["lolnotas"])
 	return await run_task(LOLNewsNotesPage.scrap, content_html, URLS['lol'])
 
 
@@ -47,9 +53,10 @@ class ScraperLOL:
 
 	@classmethod
 	async def async_scraper(cls) -> dict[str, list[dict[str, str | list[str] | None]]]:
-		tasks = [news(), notes(), champions()]
+		async with httpx.AsyncClient(limits = ASYNC_CLIENT_CONFIG["_LIMITS"], headers = ASYNC_CLIENT_CONFIG["_HEADERS"]) as client:
+			tasks = [news(client), notes(client), champions(client)]
 
-		noticias, notas, campeones = await asyncio.gather(*tasks, return_exceptions = True)
+			noticias, notas, campeones = await asyncio.gather(*tasks, return_exceptions = True)
 
 		return {
 			'champions': campeones if isinstance(campeones, list) else None,
