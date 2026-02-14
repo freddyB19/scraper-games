@@ -1,139 +1,91 @@
-import os
-import sys
-from typing import Dict
+import os, sys, json, asyncio, pprint
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
 
-from utils.main import ReadFromWeb
-from utils.main import ReadFromFile
+from typing import TypeVar
 
-PATH = os.path.join(BASE, "data", "iracing")
-FILENAME = "irancing_cars.html"
+import httpx
 
-URL: Dict[str, str] = {
+from utils.main import (
+	AsyncReadFromFile,
+	async_read_from_web,
+	ASYNC_CLIENT_CONFIG,
+	DownloadFile,
+	run_task
+)
+
+from iracing.pages.cars import get_cars
+from iracing.pages.news import get_news
+from iracing.pages.seasons import get_season
+from iracing.pages.series import get_series
+from iracing.pages.tracks import get_tracks
+from iracing.pages.news import get_news
+
+
+AsyncClient = TypeVar("AsyncClient", bound=httpx.AsyncClient)
+MainScraperResult = dict[str, list[dict[str , str | None]]  | str | None  ]
+ScraperResult = list[ dict[str, list[dict[str , str | None]]  | str | None  ]]
+
+
+URL = {
 	"cars": "https://www.iracing.com/cars/",
 	"tracks": "https://www.iracing.com/tracks/",
 	"series": "https://www.iracing.com/series/",
-	"seasons": "https://www.iracing.com/seasons/"
+	"seasons": "https://www.iracing.com/seasons/",
+	"news": "https://www.iracing.com/category/news/sim-racing-news/"
 }
 
-def get_news(filename: str):
-	html = ReadFromFile.read(path_file = os.path.join(PATH, filename))
+async def scraper_cars(client: AsyncClient) -> ScraperResult:
+	content = await async_read_from_web(client = client, url = URL["cars"])
+	return await run_task(get_cars, content)
 
-	container = html.find("div", id="page")
+async def scraper_tracks(client: AsyncClient) -> ScraperResult:
+	content = await async_read_from_web(client = client, url = URL["tracks"])
+	return await run_task(get_tracks, content)
 
-	for new in container.find_all("div", class_="clearfix"):
-		tag_h2 = new.find("h2")
-		if tag_h2:
-			title = tag_h2.find("a").get("title")
-			title_url = tag_h2.find("a").get("href")
+async def scraper_series(client: AsyncClient) -> ScraperResult:
+	content = await async_read_from_web(client = client, url = URL["series"])
+	return await run_task(get_series, content)
 
+async def scraper_seasons(client: AsyncClient) -> ScraperResult:
+	content = await async_read_from_web(client = client, url = URL["seasons"])
+	return await run_task(get_season, content)
 
-def get_cars(filename: str):
-	html = ReadFromFile.read(path_file = os.path.join(PATH, filename))
+async def scraper_news(client: AsyncClient) -> ScraperResult:
+	content = await async_read_from_web(client = client, url = URL["news"])
+	return await run_task(get_news, content)
 
-	container = html.find("div", id="page")
+async def scraper() -> MainScraperResult:
+	limits = ASYNC_CLIENT_CONFIG["_LIMITS"]
+	headers = ASYNC_CLIENT_CONFIG["_HEADERS"]
+	async with httpx.AsyncClient(limits = limits, headers = headers) as client:
+		tasks = [
+			scraper_cars(client),
+			scraper_tracks(client),
+			scraper_series(client),
+			scraper_seasons(client),
+			scraper_news(client)
+		]
 
-	for type_car in container.find_all("div", class_="grid-item-search"):
+		cars, tracks, series, seasons, news = await asyncio.gather(
+			*tasks, 
+			return_exceptions = True
+		)
 
-		for car in type_car.find("div", class_="clearfix grid-item-list").css.select("div[data-name]"):
-			type = car.get("data-name")
-		
-			# Otra manera de obtener la Imagen, Url y si es nuevo.
-			# container_info_img = car.find("div", class_="grid-item-content-back")
-			# container_img = container_info_img.find_all("div")[0]
-			# is_new = container_info_img.find_all("div")[1]
-
-			container_img = car.find("div", class_="grid-item-img-container")
-			is_new = car.find("div", class_="stick-top-left label-overlay")
-			url = container_img.find("a").get("href")
-			img = container_img.find("img").get("src")
-			is_new_car = True if is_new.find("span") else False
-			
-			print({"type": type, "url": url, "img": img, "is_new": is_new_car})
-
-		print("---------------------------")
-
-
-def get_tracks(filename: str):
-	html = ReadFromFile.read(path_file = os.path.join(PATH, filename))
-
-	container = html.find("div", id="page")
-
-	list_tracks = container.find("div", class_="row grid-item-list")
-
-	for track in list_tracks.css.select("div[data-name]"):
-		track_name = track.get("data-name")
-		container_img = track.find("div", class_="grid-item-img-container")
-		is_new = True if track.find(
-			"div", 
-			class_="stick-top-left label-overlay"
-		).css.select("span[class*='label-info']") else False
-		included = True if track.find(
-			"div", 
-			class_="stick-top-left label-overlay"
-		).css.select("span[class*='label-success']") else False
-		url = container_img.find("a").get("href")
-		img = container_img.find("img").get("src")
-
-		print({"track": track_name, "url": url, "img": img, "is_new": is_new, "included": included})
+	return {
+		"cars": cars, 
+		"tracks": tracks, 
+		"series": series, 
+		"seasons": seasons, 
+		"news": news
+	}
 
 
-def get_series(filename: str):
-	html = ReadFromFile.read(path_file = os.path.join(PATH, filename))
+async def main():
+	result = await scraper()
 
-	container = html.find("div", id="page")
-
-	for serie in container.css.select("div[class='clearfix']:not(div[id])"):
-		name_type_serie = serie.find("h2").get_text().strip()
-
-		print(name_type_serie)
-
-		for type in serie.css.select("div[class='clearfix']:not(div[id]) > div"):
-			container = type.find("div", class_="grid-item-content-container")
-			container_img = container.find("div", class_="grid-item-img-container")
-			url = container_img.find("a").get("href")
-			img = container_img.find("a").find("img").get("src")
-
-			container_name_serie = type.find("div", class_="grid-item-content")
-			name_serie = container_name_serie.find("span").find("a").string.strip()
-
-			print({"url": url, "img": img, "name_serie": name_serie})
-
-		print("---------------------------")
-
-def get_season(filename: str):
-	html = ReadFromFile.read(path_file = os.path.join(PATH, filename))
-
-	container = html.find("div", class_="wp-block-group is-layout-constrained wp-container-core-group-is-layout-2 wp-block-group-is-layout-constrained")
-
-	for season in container.find_all("div", recursive=False):
-		img = season.find("img").get("src")
-		container_info = season.find("div")
-
-		tags_p = container_info.find_all("p")
-		is_latest = True if len(tags_p) == 2 else False
-
-		season = container_info.find("div").find("a").string.strip()
-		season_url = container_info.find("div").find("a").get("href")
-		season_date = container_info.find('p').find('strong')
-
-		if not season_date:
-			season_date = f"{tags_p[1].find('strong').string.strip()}{tags_p[1].get_text().strip()[-1]}"
-		else:
-			date = container_info.find('p').get_text().strip().replace("\n", "")
-
-			date_format_month_year = tuple(date.split(","))
-			month, year = date_format_month_year
-
-			season_date = f"{month}, {year.replace(' ', '')}"
-		print({"season": season, "season_url": season_url, "season_date": season_date, "is_latest": is_latest, "img": img})
-
-
-def main():
-	get_season(filename = "iracing_seasons.html")
-	
+	pprint.pprint(result, indent = 4)
 	
 if __name__ == '__main__':
-	main()
+	asyncio.run(main())
