@@ -4,13 +4,13 @@ Este scraper que está diseñado en python con BeautifulSoup, permite obtener in
 ```
 1. Webs de Noticias:
   - Marca
-  - La Nación
-  - Decrypt
+  - Wired
   - El Nacional
 
 2. Webs sobre videojuegos (por ahora):
   - Easport
   - League of Legends
+  - Iracing
 ```
 ## Configuración, instalación y prueba del scraper
 
