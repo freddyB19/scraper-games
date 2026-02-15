@@ -118,14 +118,22 @@ class ScraperNoticias:
 			]
 
 			results = await asyncio.gather(*tasks, return_exceptions = True)
+			INDEX_MARCA = 0
+			INDEX_LANACION = 1
+			INDEX_TECNOLOGIA = 2
+			INDEX_WIRED_ESPACIO = 3
+			INDEX_WIRED_BIOTECNOLOGIA = 4
+			INDEX_WIRED_NEUROCIENCIA = 5
+			INDEX_WIRED_ROBOTS = 6
 
-			marca = results[0] if isinstance(results[0], list) else None
-			lanacion = results[1] if isinstance(results[1], list) else None
-			lanacion_tecnologia = results[2] if isinstance(results[2], list) else None
-			wired_espacio = results[3] if isinstance(results[3], list) else None
-			wired_biotecnologia = results[4] if isinstance(results[4], list) else None
-			wired_neurociencia = results[5] if isinstance(results[5], list) else None
-			wired_robots = results[6] if isinstance(results[6], list) else None
+
+			marca = results[INDEX_MARCA] if isinstance(results[INDEX_MARCA], list) else None
+			lanacion = results[INDEX_LANACION] if isinstance(results[INDEX_LANACION], list) else None
+			lanacion_tecnologia = results[INDEX_TECNOLOGIA] if isinstance(results[INDEX_TECNOLOGIA], list) else None
+			wired_espacio = results[INDEX_WIRED_ESPACIO] if isinstance(results[INDEX_WIRED_ESPACIO], list) else None
+			wired_biotecnologia = results[INDEX_WIRED_BIOTECNOLOGIA] if isinstance(results[INDEX_WIRED_BIOTECNOLOGIA], list) else None
+			wired_neurociencia = results[INDEX_WIRED_NEUROCIENCIA] if isinstance(results[INDEX_WIRED_NEUROCIENCIA], list) else None
+			wired_robots = results[INDEX_WIRED_ROBOTS] if isinstance(results[INDEX_WIRED_ROBOTS], list) else None
 
 		return [
 			{'nombre': 'marca', 'pagina':  marca},
