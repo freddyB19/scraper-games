@@ -185,6 +185,13 @@
             "data": {
                 "noticias": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/madden-bowl-recap-thumbnail.png.adapt.crop16x9.431p.png",
+                        "titulo": "Drini gana la Madden Bowl de 2026 en San Francisco",
+                        "etiqueta": "Electronic Arts Inc.",
+                        "fecha": "11-feb-2026",
+                        "descripcion": "La Madden Championship Series concluy\u00f3 en la sede de EA, donde Drini gan\u00f3 el t\u00edtulo de la Madden Bowl y un premio de 250\u00a0000 $."
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/en-us/common/m25-maddencast-img-1.jpg.adapt.crop16x9.431p.jpg",
                         "titulo": "Reimaginando la narrativa del f\u00fatbol americano",
                         "etiqueta": "Electronic Arts Inc.",
@@ -302,13 +309,6 @@
                         "etiqueta": "Electronic Arts Inc.",
                         "fecha": "03-oct-2025",
                         "descripcion": "Battlefield Labs transforma el desarrollo de juegos gracias a la comunidad, para crear Battlefield 6, la entrega m\u00e1s explosiva y aut\u00e9ntica hasta la fecha."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/eacom-news-fc26-key-art-16x9.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Juega a tu manera en EA SPORTS FC\u2122 26, ya disponible en todo el mundo",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "26-sep-2025",
-                        "descripcion": "EA SPORTS FC ofrece las experiencias de f\u00fatbol m\u00e1s orientadas a la comunidad hasta la fecha con el lanzamiento de FC 26 y la actualizaci\u00f3n de EA SPORTS FC\u2122 Mobile 26."
                     }
                 ],
                 "novedades": [
@@ -577,6 +577,14 @@
                 ],
                 "actualizaciones": [
                     {
+                        "imagen": "https://media.contentapi.ea.com/content/dam/madden-bowl-recap-thumbnail.png.adapt.crop16x9.431p.png",
+                        "titulo": "Drini gana la Madden Bowl de 2026 en San Francisco",
+                        "informacion": "Drini gana la Madden Bowl de 2026 en San Francisco",
+                        "fecha": "11-feb-2026",
+                        "detalle": "La Madden Championship Series concluy\u00f3 en la sede de EA, donde Drini gan\u00f3 el t\u00edtulo de la Madden Bowl y un premio de 250\u00a0000 $.",
+                        "url": "https://www.ea.com/es-es/news/mcs-madden-bowl-2026"
+                    },
+                    {
                         "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/en-us/common/m25-maddencast-img-1.jpg.adapt.crop16x9.431p.jpg",
                         "titulo": "Reimaginando la narrativa del f\u00fatbol americano",
                         "informacion": "Reimaginando la narrativa del f\u00fatbol americano",
@@ -615,14 +623,6 @@
                         "fecha": "05-dic-2025",
                         "detalle": "Descubre c\u00f3mo la m\u00fasica, la tecnolog\u00eda y la colaboraci\u00f3n creativa est\u00e1n redefiniendo las experiencias de juego y dando forma al futuro del entretenimiento en EA.",
                         "url": "https://www.ea.com/es-es/news/ea-and-music"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/ufc/ufc-5/common/ufc5-social-screenshots-zhuangweili-1920x1080.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "EA a\u00f1ade ocho nuevas patentes a su compromiso de patentes de accesibilidad \u2026",
-                        "informacion": "EA a\u00f1ade ocho nuevas patentes a su compromiso de patentes de accesibilidad l\u00edder de la industria.",
-                        "fecha": "03-dic-2025",
-                        "detalle": "Electronic Arts celebra cinco a\u00f1os de su compromiso de patentes de accesibilidad l\u00edder de la industria a\u00f1adiendo ocho patentes m\u00e1s y reforzando su compromiso con los juegos accesibles.",
-                        "url": "https://www.ea.com/es-es/news/accessibility-patent-pledge-2025"
                     }
                 ]
             }
@@ -635,6 +635,27 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "Parec\u00eda imposible, pero alguien ha unido el cine slasher con las recreativas de los 90 en un \u00fanico videojuego",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2026/02/18/parecia-imposible-alguien-unido-cine-slasher-recreativas-90-unico-videojuego.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/18/6995a477cb3ee.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "El mayor \"error\" de la historia de Zelda lleg\u00f3 tan lejos que ahora es una de las mayores leyendas de Nintendo",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/02/18/mayor-error-historia-zelda-llego-lejos-mayores-leyendas-nintendo.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/18/699592c2e91cd.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ahora puedes jugar 'gratis' a dos de los mejores RPG de la historia, pero solo si est\u00e1s suscrito a Xbox Game Pass",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/02/18/puedes-jugar-gratis-dos-mejores-rpg-historia-suscrito-xbox-game-pass.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/18/6995827858e18.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
                         {
                             "titulo": "Este videojuego es tan bueno que hasta su m\u00fasica es un \u00e9xito: ya supera a Bad Bunny en ventas",
                             "url": "https://www.marca.com/videojuegos/juegos/2026/02/17/videojuego-bueno-musica-exito-supera-bad-bunny-ventas.html",
@@ -963,27 +984,6 @@
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/27/69789eb41db99.jpeg",
                             "meta": "Juegos",
                             "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Adi\u00f3s al formato f\u00edsico: GTA 6 tomar\u00eda una dr\u00e1stica medida para evitar m\u00e1s filtraciones",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/27/comprar-gta-6-tienda-sera-posible-apunta-drastica-medida-evitar-filtraciones.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/27/697875376da80.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "La ca\u00edda del rey de la NBA: LeBron James a un paso de quedarse fuera de los 20 mejores de 2K26",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/25/caida-rey-nba-lebron-james-paso-quedarse-fuera-20-mejores-2k26.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/22/69726f5a4131a.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "La imparable subida de Aldama y Hugo Gonz\u00e1lez en 2K26: Los espa\u00f1oles siguen creciendo",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/25/imparable-subida-aldama-hugo-gonzalez-2k26-espanoles-siguen-creciendo.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/22/69725a36f4211.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -991,10 +991,17 @@
                     "nombre": "la naci\u00f3n",
                     "pagina": [
                         {
+                            "titulo": "B\u00e9lgica: Hazard propone jugar m\u00e1s en las calles y menos con las consolas",
+                            "url": "https://www.lanacion.com.ar/agencias/belgica-hazard-propone-jugar-mas-en-las-calles-y-menos-con-las-consolas-nid17022026/",
+                            "url_link": "/agencias/belgica-hazard-propone-jugar-mas-en-las-calles-y-menos-con-las-consolas-nid17022026/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/belgica-hazard-propone-jugar-mas-en-las-calles-y-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=320&height=213&quality=70&smart=true",
+                            "fecha": "17 de febrero de 2026"
+                        },
+                        {
                             "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 15 de febrero",
                             "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-15-de-febrero-nid16022026/",
                             "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-15-de-febrero-nid16022026/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=320&height=213&quality=70&smart=true",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=320&height=213&quality=70&smart=true",
                             "fecha": "16 de febrero de 2026"
                         },
                         {
@@ -1159,17 +1166,17 @@
                             "fecha": "22 de enero de 2026"
                         },
                         {
-                            "titulo": "Ubisoft cancela el desarrollo de seis videojuegos, incluida una nueva versi\u00f3n de 'Prince of Persia'",
-                            "url": "https://www.lanacion.com.ar/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
-                            "url_link": "/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=320&height=213&quality=70&smart=true",
-                            "fecha": "21 de enero de 2026"
-                        },
-                        {
                             "titulo": "El New York Times lanza Crossplay, su primer juego multijugador",
                             "url": "https://www.lanacion.com.ar/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
                             "url_link": "/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
                             "imagen": "https://resizer.glanacion.com/resizer/v2/el-new-york-times-lanza-crossplay-su-primer-juego-GL6AW6W6GFC43JYZQBFAUUNVMY.jpg?auth=794cbb5f9e31c25df11b98a26e4cfe9a374242cd7f2d89d094ce7d082f5ac51d&width=320&height=213&quality=70&smart=true",
+                            "fecha": "21 de enero de 2026"
+                        },
+                        {
+                            "titulo": "Ubisoft cancela el desarrollo de seis videojuegos, incluida una nueva versi\u00f3n de 'Prince of Persia'",
+                            "url": "https://www.lanacion.com.ar/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
+                            "url_link": "/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=320&height=213&quality=70&smart=true",
                             "fecha": "21 de enero de 2026"
                         },
                         {
@@ -1192,13 +1199,6 @@
                             "url_link": "/lifestyle/en-las-redes/despues-de-20-anos-volvio-kito-pizzas-el-exito-de-magic-kids-como-y-donde-se-puede-jugar-nid16012026/",
                             "imagen": "https://resizer.glanacion.com/resizer/v2/kito-pizzas-volvio-a-la-vida-luego-de-20-anos-de-3JLVKDLDBVDYDFRFXXS2KIIXRM.jpg?auth=0a742e5de9b0714a588d26f45462203f3e53758a1d966653dcaac30d7177dbf9&width=320&height=213&quality=70&smart=true",
                             "fecha": "17 de enero de 2026"
-                        },
-                        {
-                            "titulo": "Italia investiga las pr\u00e1cticas de venta de Microsoft de los videojuegos \"Call of Duty\" y \"Diablo\"",
-                            "url": "https://www.lanacion.com.ar/agencias/italia-investiga-las-practicas-de-venta-de-microsoft-de-los-videojuegos-call-of-duty-y-diablo-nid16012026/",
-                            "url_link": "/agencias/italia-investiga-las-practicas-de-venta-de-microsoft-de-los-videojuegos-call-of-duty-y-diablo-nid16012026/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/italia-investiga-las-practicas-de-venta-de-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=320&height=213&quality=70&smart=true",
-                            "fecha": "16 de enero de 2026"
                         }
                     ],
                     "subs": [
@@ -1206,17 +1206,45 @@
                             "nombre": "la naci\u00f3n tecnolog\u00eda",
                             "pagina": [
                                 {
+                                    "titulo": "Paso a paso. C\u00f3mo cambiar de VPN",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/como-cambiar-de-vpn-nid11022026/",
+                                    "url_link": "/tecnologia/como-cambiar-de-vpn-nid11022026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/en-que-afecta-el-cambio-de-la-U5YD5RXSUVDEHJD57ZGHWUFJLQ.jpg?auth=ff308821f027f13107d07800fe761142e2c5d758027b18d2b67d31b3dd729d13&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "18 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "Verano. La mejor playa de Chile es esta, seg\u00fan el veredicto de la IA",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/la-mejor-playa-de-chile-es-esta-la-ia-dio-su-veredicto-nid17022026/",
+                                    "url_link": "/tecnologia/la-mejor-playa-de-chile-es-esta-la-ia-dio-su-veredicto-nid17022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/bahia-inglesa-es-una-de-las-playas-mas-destacadas-53MSTLDVQZD55IOF5VOB4CW324.png?auth=8cffefa3345c86b2a5c8c28f4cfb59edf6846eaf169a73067e03ada051866e20&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "18 de febrero de 2026"
+                                },
+                                {
                                     "titulo": "A\u00f1o Nuevo Chino. C\u00f3mo activar el \u201cmodo Caballo de Fuego\u201d en WhatsApp",
                                     "url": "https://www.lanacion.com.ar/tecnologia/ano-nuevo-chino-como-activar-el-modo-caballo-de-fuego-en-whatsapp-nid17022026/",
                                     "url_link": "/tecnologia/ano-nuevo-chino-como-activar-el-modo-caballo-de-fuego-en-whatsapp-nid17022026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/asi-se-configura-el-modo-caballo-de-fuego-de-IW5GAPV43NC5NJNPQ4LAF6GQFE.png?auth=04f2198fd41fb42d4736780627e59f0152502fc1d9f13945c664f00977102037&width=320&height=213&quality=70&smart=true",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/asi-se-configura-el-modo-caballo-de-fuego-de-IW5GAPV43NC5NJNPQ4LAF6GQFE.png?auth=04f2198fd41fb42d4736780627e59f0152502fc1d9f13945c664f00977102037&width=320&height=213&quality=70&smart=true",
                                     "fecha": "17 de febrero de 2026"
                                 },
                                 {
-                                    "titulo": "As\u00ed es el festivo doodle con el que Google celebra este evento astron\u00f3mico A\u00f1o Nuevo lunar.",
+                                    "titulo": "\"Obsesionado con la educaci\u00f3n\". El ingeniero (y m\u00fasico) argentino que fue pionero en IA en el pa\u00eds",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/el-ingeniero-y-musico-argentino-que-fue-pionero-en-ia-en-el-pais-nid17022026/",
+                                    "url_link": "/tecnologia/el-ingeniero-y-musico-argentino-que-fue-pionero-en-ia-en-el-pais-nid17022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/carlos-arana-pionero-en-inteligencia-artificial-WFXLBWF27VFCPDGY2D7OIDDTUY.jpg?auth=87a3be35dc42f8fa108f300bf79ad3d7d757dab66e0619f850aa9e0043e09ca0&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "17 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "A\u00f1o Nuevo Lunar. As\u00ed es el festivo doodle con el que Google celebra este evento astron\u00f3mico",
                                     "url": "https://www.lanacion.com.ar/tecnologia/ano-nuevo-lunar-este-es-el-doodle-de-google-que-celebra-el-ano-nuevo-chino-2026-nid17022026/",
                                     "url_link": "/tecnologia/ano-nuevo-lunar-este-es-el-doodle-de-google-que-celebra-el-ano-nuevo-chino-2026-nid17022026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/el-nuevo-doodle-de-KMPGBLLCNZBBBIBSVUYSHOVYD4.png?auth=6f934605e9c7fa5d77604fb22cc782158695f4cb79d6481f5acae893e6a1eadf&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "17 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "Verano. La mejor playa de la Argentina es esta, seg\u00fan el veredicto de la IA",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/la-mejor-playa-de-la-argentina-es-esta-la-ia-dio-su-veredicto-nid16022026/",
+                                    "url_link": "/tecnologia/la-mejor-playa-de-la-argentina-es-esta-la-ia-dio-su-veredicto-nid16022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/las-grutas-rio-AIMGMPEU6VAJPOXRBDUOIN7ODE.JPG?auth=3c1a3e3d7324095c963db22aeadddb7cd62aee7d5d27cc16b4c43b192cfc7b27&width=320&height=213&quality=70&smart=true",
                                     "fecha": "17 de febrero de 2026"
                                 },
                                 {
@@ -1224,13 +1252,6 @@
                                     "url": "https://www.lanacion.com.ar/tecnologia/la-ia-que-permite-conocer-la-huella-digital-que-influye-en-empleos-alquileres-y-tramites-migratorios-nid16022026/",
                                     "url_link": "/tecnologia/la-ia-que-permite-conocer-la-huella-digital-que-influye-en-empleos-alquileres-y-tramites-migratorios-nid16022026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/el-rastro-que-dejamos-construye-nuestro-destino-TDEAE5GOXFG3PCGP3CR7XN4SL4.jpg?auth=c72524c59aefa8775f157e6e44c578190a067a63f0c088a55a2af5ac1c152a12&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "16 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "Verano. La mejor playa de la Argentina es esta, seg\u00fan el veredicto de la IA",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/la-mejor-playa-de-la-argentina-es-esta-la-ia-dio-su-veredicto-nid16022026/",
-                                    "url_link": "/tecnologia/la-mejor-playa-de-la-argentina-es-esta-la-ia-dio-su-veredicto-nid16022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/las-grutas-rio-AIMGMPEU6VAJPOXRBDUOIN7ODE.JPG?auth=3c1a3e3d7324095c963db22aeadddb7cd62aee7d5d27cc16b4c43b192cfc7b27&width=320&height=213&quality=70&smart=true",
                                     "fecha": "16 de febrero de 2026"
                                 },
                                 {
@@ -1252,13 +1273,6 @@
                                     "url": "https://www.lanacion.com.ar/tecnologia/como-activar-el-modo-corazon-violeta-de-whatsapp-nid12022026/",
                                     "url_link": "/tecnologia/como-activar-el-modo-corazon-violeta-de-whatsapp-nid12022026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/como-activar-el-modo-corazon-violeta-de-3ROBMRNUXVEZLPAAYJH7URTTZA.jpg?auth=6caa170d046d446e9c93a101ccb7773158a80db74e520b5a2e09bceeaaa8411c&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "15 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "Paso a paso. C\u00f3mo cambiar de VPN",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/como-cambiar-de-vpn-nid11022026/",
-                                    "url_link": "/tecnologia/como-cambiar-de-vpn-nid11022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/en-que-afecta-el-cambio-de-la-U5YD5RXSUVDEHJD57ZGHWUFJLQ.jpg?auth=ff308821f027f13107d07800fe761142e2c5d758027b18d2b67d31b3dd729d13&width=320&height=213&quality=70&smart=true",
                                     "fecha": "15 de febrero de 2026"
                                 },
                                 {
@@ -1399,20 +1413,6 @@
                                     "url": "https://www.lanacion.com.ar/tecnologia/el-samsung-galaxy-s26-ya-tiene-fecha-de-debut-nid11022026/",
                                     "url_link": "/tecnologia/el-samsung-galaxy-s26-ya-tiene-fecha-de-debut-nid11022026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/el-sucesor-del-galaxy-s25-ultra-sera-develado-el-NYLN34L5OFBGJLKL7DQAHIPK2Y.jpg?auth=ad5d383921cdfffc59754d193c2047b6fc9f5656f369bb4666ac0f2de213f1af&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "11 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "Impacto sin l\u00edmites. La ins\u00f3lita relaci\u00f3n entre Jeffrey Epstein, Fortnite y Pok\u00e9mon Go",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/la-insolita-relacion-entre-jeffrey-epstein-fortnite-y-pokemon-go-nid11022026/",
-                                    "url_link": "/tecnologia/la-insolita-relacion-entre-jeffrey-epstein-fortnite-y-pokemon-go-nid11022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/una-cuenta-de-fortnite-atribuida-a-epstein-y-que-QAP4HWW6QJCJBIAH7LBIKXNRTQ.jpg?auth=f4f9e16b338872ee49e0b6eb82d17b84db732eebad2bc227b3f2ed3b9af64e02&width=320&height=213&quality=70&smart=false&focal=616,753",
-                                    "fecha": "11 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "Diagn\u00f3sticos err\u00f3neos. Un estudio de Oxford advierte sobre los riesgos de usar ChatGPT para buscar consejos m\u00e9dicos",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/un-estudio-de-oxford-advierte-sobre-los-riesgos-de-usar-chatgpt-para-buscar-consejos-medicos-nid10022026/",
-                                    "url_link": "/tecnologia/un-estudio-de-oxford-advierte-sobre-los-riesgos-de-usar-chatgpt-para-buscar-consejos-medicos-nid10022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/un-estudio-de-oxford-advierte-sobre-los-riesgos-CE7ATCKL3BD7ZMW2EGKJOA3XRY.jpg?auth=33c8bb1a2db8635a8c6ac97b083b84306f01eb46154a8eab0e27f1d1bb56dd58&width=320&height=213&quality=70&smart=true",
                                     "fecha": "11 de febrero de 2026"
                                 }
                             ]
@@ -1575,6 +1575,18 @@
                             "nombre": "wired neurociencia",
                             "pagina": [
                                 {
+                                    "titulo": "Ser juguet\u00f3n, espont\u00e1neo y social har\u00e1 que tu cerebro envejezca mejor",
+                                    "imagen": "https://media.es.wired.com/photos/6994cb7db714a93db82e8e00/3:2/pass/GettyImages-6524-000800.jpg",
+                                    "resum": "Por a\u00f1os los m\u00e9dicos han recomendado divertirse con amigos de forma espont\u00e1nea para reducir el envejecimiento del cerebro. Un nuevo estudio respalda esta pr\u00e1ctica de alegr\u00eda social.",
+                                    "url": "https://es.wired.com/ciencia/neurocienciaarticulos/ser-jugueton-espontaneo-y-social-hara-que-tu-cerebro-envejezca-mejor"
+                                },
+                                {
+                                    "titulo": "La evoluci\u00f3n de las redes cerebrales podr\u00eda explicar por qu\u00e9 las mujeres son m\u00e1s propensas que los hombres a padecer depresi\u00f3n",
+                                    "imagen": "https://media.es.wired.com/photos/6994c9d6ece79df4a4369625/3:2/pass/conexiones%2520cerebrales%2520hombres%2520mujeres%2520depresi%25C3%25B3n%25201363273390.jpg",
+                                    "resum": "El sexo se reconoce cada vez m\u00e1s como una variable clave para entender las trayectorias del desarrollo y del envejecimiento cerebrales, as\u00ed como el riesgo de padecer enfermedades neurol\u00f3gicas y neuropsiqui\u00e1tricas.",
+                                    "url": "https://es.wired.com/ciencia/neurocienciaarticulos/la-evolucion-de-las-redes-cerebrales-podria-explicar-por-que-las-mujeres-son-mas-propensas-que-los-hombres-a-padecer-depresion"
+                                },
+                                {
                                     "titulo": "Un estudio con monjes budistas descubre que la meditaci\u00f3n altera la actividad cerebral",
                                     "imagen": "https://media.es.wired.com/photos/698916e19d24bb89c96257af/3:2/pass/monje.jpg",
                                     "resum": "La meditaci\u00f3n no \u201crelaja\u201d el cerebro, lo vuelve m\u00e1s activo, complejo y flexible. Adem\u00e1s, cada tipo de meditaci\u00f3n genera din\u00e1micas neuronales distintas que acercan la mente a un equilibrio \u00f3ptimo para la atenci\u00f3n, el aprendizaje y el bienestar.",
@@ -1657,145 +1669,12 @@
                                     "imagen": "https://media.es.wired.com/photos/692729adddeeab166bd8aba4/3:2/pass/GettyImages-2164334976.jpg",
                                     "resum": "Seg\u00fan los cient\u00edficos, estas \u201c\u00e9pocas\u201d cerebrales pueden aportar informaci\u00f3n valiosa sobre los momentos en los que el cerebro podr\u00eda ser m\u00e1s o menos vulnerable a diversos trastornos.",
                                     "url": "https://es.wired.com/ciencia/neurocienciaarticulos/tu-cerebro-cambia-mas-de-lo-que-crees-investigadores-descubren-cinco-etapas-que-definen-tu-forma-de-pensar"
-                                },
-                                {
-                                    "titulo": "\u00c9l es Jos\u00e9 Luis Contreras Vidal, el neurocient\u00edfico mexicano que lidera investigaciones en implantes cerebrales",
-                                    "imagen": "https://media.es.wired.com/photos/6923922346537f50aa16f0ac/3:2/pass/_0771_WIRED_SUMMIT_2025.jpg",
-                                    "resum": "El neurocient\u00edfico Jos\u00e9 Luis Contreras Vidal estuvo presente en el WIRED Summit 2025 para hablar sobre los m\u00e1s recientes avances en las interfaces cerebro-m\u00e1quina (BCI), el potencial m\u00e9dico de esta tecnolog\u00eda y su implementaci\u00f3n en el terreno de las artes.",
-                                    "url": "https://es.wired.com/ciencia/neurocienciaarticulos/hablamos-con-el-neurocientifico-mexicano-que-lidera-la-investigacion-en-implantes-cerebrales"
-                                },
-                                {
-                                    "titulo": "As\u00ed es la copia virtual del cerebro m\u00e1s detallada que ayudar\u00e1 a estudiar enfermedades neurodegenerativas",
-                                    "imagen": "https://media.es.wired.com/photos/691cb959364348cf948a6494/3:2/pass/cerebro%2520humano%2520simulaicon.jpg",
-                                    "resum": "Neurocient\u00edficos simulan millones de neuronas para explorar c\u00f3mo se propaga el Alzheimer antes de que aparezcan los primeros s\u00edntomas.",
-                                    "url": "https://es.wired.com/ciencia/neurocienciaarticulos/asi-es-la-copia-virtual-del-cerebro-mas-detallada-que-ayudara-a-estudiar-enfermedades-neurodegenerativas"
                                 }
                             ]
                         },
                         {
                             "nombre": "wired biotecnolog\u00eda",
-                            "pagina": [
-                                {
-                                    "titulo": "As\u00ed programan neuronas humanas en la primera biocomputadora de Europa",
-                                    "imagen": "https://media.es.wired.com/photos/6989f6cb195dab4443ed7f43/3:2/pass/1707741411",
-                                    "resum": "Reply y la Universidad de Mil\u00e1n adquirieron la computadora biol\u00f3gica CL1, desarrollada por Cortical Labs. Luego de ponerla a prueba con una partida de Pong, el equipo trabaja ahora en la programaci\u00f3n de neuronas con vistas a futuras aplicaciones cl\u00ednicas.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/asi-programan-neuronas-humanas-en-la-primera-biocomputadora-de-europa"
-                                },
-                                {
-                                    "titulo": "Esta startup china quiere competir con Neuralink sin abrir tu cerebro",
-                                    "imagen": "https://media.es.wired.com/photos/697b7c8a94e19bd3b94d9287/3:2/pass/ScienceSourceImages_2524088_WebRes.jpg",
-                                    "resum": "Gestala es la m\u00e1s reciente empresa surgida de la floreciente industria china de interfaces cerebro-computadora. Su objetivo es acceder al cerebro mediante ultrasonidos no invasivos.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/esta-startup-china-quiere-competir-con-neuralink-sin-abrir-tu-cerebro"
-                                },
-                                {
-                                    "titulo": "Esta nueva IA de Google ayuda a cient\u00edficos a entender mejor el origen gen\u00e9tico de enfermedades raras",
-                                    "imagen": "https://media.es.wired.com/photos/697a8bfebafe241f9cb86627/3:2/pass/genoma%2520IA%2520Google%2520deepmind%25201337413749.jpg",
-                                    "resum": "AlphaGenome es un modelo de aprendizaje profundo desarrollado por Google DeepMind que puede interpretar secuencias del genoma no codificante y anticipar m\u00faltiples efectos biol\u00f3gicos de manera simult\u00e1nea.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/esta-nueva-ia-de-google-abre-nuevas-vias-para-entender-el-origen-genetico-de-enfermedades-raras"
-                                },
-                                {
-                                    "titulo": "Fue a prisi\u00f3n por editar los genes de tres beb\u00e9s. Ahora quiere hacerlo con 300",
-                                    "imagen": "https://media.es.wired.com/photos/696f95e39c1b79ebe8fe08bb/3:2/pass/WIRED-He-Jiankui-1.jpg",
-                                    "resum": "El cient\u00edfico chino He Jiankui quiere acabar con el Alzheimer y cree que Silicon Valley est\u00e1 llevando a cabo un \"experimento eugen\u00e9sico nazi\".",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/fue-a-prision-por-editar-los-genes-de-tres-bebes-ahora-quiere-hacerlo-con-300"
-                                },
-                                {
-                                    "titulo": "La pionera de CRISPR busca hacer realidad terapias gen\u00e9ticas personalizadas",
-                                    "imagen": "https://media.es.wired.com/photos/6967ce9fe4f100db27b4a22b/3:2/pass/GettyImages-975892188.jpg",
-                                    "resum": "Aurora Therapeutics, cofundada por la ganadora del Premio Nobel de Qu\u00edmica 2020 Jennifer Doudna, planea utilizar la edici\u00f3n gen\u00e9tica y una nueva v\u00eda regulatoria de la FDA para llevar al mercado tratamientos contra enfermedades raras.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/la-pionera-de-crispr-busca-hacer-realidad-terapias-geneticas-personalizadas"
-                                },
-                                {
-                                    "titulo": "Investigadores de la UNAM desarrollan el primer h\u00edgado en chip de Am\u00e9rica Latina",
-                                    "imagen": "https://media.es.wired.com/photos/69603da9ef947cadf603d28a/3:2/pass/Higado%2520en%2520chip%2520UNAM-1307404657.jpg",
-                                    "resum": "Seg\u00fan los investigadores de la UNAM, el protocolo utilizado para crear el h\u00edgado en chip puede ser replicado por cualquier laboratorio con conocimientos en biomedicina.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/investigadores-de-la-unam-desarrollan-el-primer-higado-en-chip-de-america-latina"
-                                },
-                                {
-                                    "titulo": "Los hongos podr\u00edan convertirse en la memoria de las computadoras del futuro",
-                                    "imagen": "https://media.es.wired.com/photos/691de44019264efb2b712eb5/3:2/pass/1210040655",
-                                    "resum": "Estos hongos tienen un gran potencial como memoria inform\u00e1tica. La tecnolog\u00eda en estudio es econ\u00f3mica, ecol\u00f3gica y tiene potencial para aplicarse en una amplia gama de campos.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/los-hongos-podrian-convertirse-en-la-memoria-de-las-computadoras-del-futuro"
-                                },
-                                {
-                                    "titulo": "Crece la apuesta de AstraZeneca por el talento mexicano, inaugurando la expansi\u00f3n de su GITC en Guadalajara",
-                                    "imagen": "https://media.es.wired.com/photos/68facf87a4decfdbdad53277/3:2/pass/DSC07343.jpg",
-                                    "resum": "AstraZeneca invirti\u00f3 600 millones de pesos para ampliar su GITC en Guadalajara, el cual ya suma 1,116 empleados y 16,970 metros cuadrados. Desde Jalisco, la biofarmac\u00e9utica impulsa proyectos en IA, nube y anal\u00edtica de datos para todo el mundo.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/crece-la-apuesta-de-astrazeneca-por-el-talento-mexicano-inaugurando-la-expansion-de-su-gitc-en-guadalajara"
-                                },
-                                {
-                                    "titulo": "La empresa que va por el negocio de la edici\u00f3n gen\u00e9tica de embriones",
-                                    "imagen": "https://media.es.wired.com/photos/6904e3d965bc073d6b1acc7f/3:2/pass/102225_CRISPR-Babies.jpg",
-                                    "resum": "Siete a\u00f1os despu\u00e9s de que se dieran a conocer los primeros beb\u00e9s editados gen\u00e9ticamente, la empresa biotecnol\u00f3gica Manhattan Genomics recupera la idea de editar embriones humanos para crear ni\u00f1os libres de enfermedades.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/la-empresa-que-va-por-el-negocio-de-la-edicion-genetica-de-embriones"
-                                },
-                                {
-                                    "titulo": "Un nuevo tratamiento a base de luz elimina c\u00e9lulas cancerosas sin da\u00f1ar las sanas",
-                                    "imagen": "https://media.es.wired.com/photos/68fea6763e274464a6df1117/3:2/pass/celula.jpg",
-                                    "resum": "Un futuro sin quimio: a trav\u00e9s de una combinaci\u00f3n de tecnolog\u00eda LED y nanol\u00e1minas de \u00f3xido de esta\u00f1o, investigadores crearon una terapia fotot\u00e9rmica que elimina c\u00e9lulas cancerosas con calor localizado y sin da\u00f1ar el tejido sano.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/un-nuevo-tratamiento-a-base-de-luz-elimina-celulas-cancerosas-sin-danar-las-sanas"
-                                },
-                                {
-                                    "titulo": "Un chip insertado en el ojo ha devuelto la vista a\u00a032\u00a0personas",
-                                    "imagen": "https://media.es.wired.com/photos/68f66f3a72bf749861880bc6/3:2/pass/d41586-025-03420-x_51595842.jpg",
-                                    "resum": "Gracias a PRIMA, un microimplante retiniano fotovoltaico del grosor de una tarjeta SIM, m\u00e1s de 30 personas recuperaron parcialmente la vista. Es el primer chip que restaura visi\u00f3n funcional.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/un-chip-insertado-en-el-ojo-ha-devuelto-la-vista-a-30-personas"
-                                },
-                                {
-                                    "titulo": "Esta peque\u00f1a p\u00edldora inteligente es en realidad una impresora que funciona con\u00a0tinta\u00a0curativa",
-                                    "imagen": "https://media.es.wired.com/photos/68f169a287553af25b400c70/3:2/pass/4082x2402.jpg",
-                                    "resum": "Investigadores crearon MEDS, una c\u00e1psula bioimpresora que puede \u201cimprimir\u201d biotinta curativa dentro del cuerpo para tratar lesiones internas sin cirug\u00eda. Ya se prob\u00f3 por primera vez en conejos.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/esta-pequena-pildora-inteligente-es-en-realidad-una-impresora-que-funciona-con-tinta-curativa"
-                                },
-                                {
-                                    "titulo": "Este modelo celular imita en laboratorio la formaci\u00f3n de sangre y ofrece esperanza contra la leucemia",
-                                    "imagen": "https://media.es.wired.com/photos/68eeda6143bcf291c47e1fbf/3:2/pass/sangre%2520embriones%25202185437871.jpg",
-                                    "resum": "Los investigadores desarrollaron en laboratorio estructuras tridimensionales denominadas \u201chematoides\u201d, capaces de autoorganizarse y que, tras dos semanas de desarrollo in vitro, lograron producir sangre.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/este-modelo-celular-imita-en-laboratorio-la-formacion-de-sangre-y-ofrece-esperanza-contra-la-leucemia"
-                                },
-                                {
-                                    "titulo": "Cient\u00edficos logran revertir el Alzheimer en ratones al restaurar la funci\u00f3n vascular del cerebro",
-                                    "imagen": "https://media.es.wired.com/photos/68e54c520c9eded64e5214f3/3:2/pass/revertir%2520Alzheimer%2520ratones%25202194020595.jpg",
-                                    "resum": "Los investigadores han demostrado en modelos animales la eficacia de una terapia basada en nanotecnolog\u00eda enfocada en restaurar las funciones vasculares del cerebro, da\u00f1adas en cuadros de Alzheimer.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/cientificos-logran-revertir-el-alzheimer-en-ratones-al-restaurar-la-funcion-vascular-del-cerebro"
-                                },
-                                {
-                                    "titulo": "Estudio de Microsoft alerta que la creaci\u00f3n de prote\u00ednas con IA abre la puerta a las armas biol\u00f3gicas",
-                                    "imagen": "https://media.es.wired.com/photos/68e2b95400335614f55301d1/3:2/pass/proteinas.jpg",
-                                    "resum": "Investigadores usaron IA para dise\u00f1ar versiones digitales de toxinas como la ricina, con el fin de probar los filtros de seguridad de empresas que sintetizan ADN. Los programas fallaron en detectar muchas secuencias peligrosas.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/estudio-de-microsoft-alerta-que-la-creacion-de-proteinas-con-ia-abre-la-puerta-a-las-armas-biologicas"
-                                },
-                                {
-                                    "titulo": "La lucha mexicana contra el ma\u00edz transg\u00e9nico no ha concluido",
-                                    "imagen": "https://media.es.wired.com/photos/68db018765906d29a09d34bf/3:2/pass/maiztransgenico.jpg",
-                                    "resum": "Cuando el ma\u00edz se convirti\u00f3 en un negocio industrial, las pr\u00e1cticas tradicionales fueron sustituidas por maquinaria, agrot\u00f3xicos e ingenier\u00eda gen\u00e9tica. Ahora, tras los devastadores impactos ambientales y sociales que ha ocasionado este modelo, en M\u00e9xico se han emprendido acciones para defender un sistema sostenible, como el agroecol\u00f3gico.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/la-lucha-mexicana-contra-el-maiz-transgenico-no-ha-concluido"
-                                },
-                                {
-                                    "titulo": "Cient\u00edficos descubren que los hongos alucin\u00f3genos generan psilocibina mediante dos rutas bioqu\u00edmicas distintas",
-                                    "imagen": "https://media.es.wired.com/photos/68d4872e31605e22bc83ee5b/3:2/pass/hongos%2520alucin%25C3%25B3genos%2520Inocybe-170537615.jpg",
-                                    "resum": "Un estudio revela que dos g\u00e9neros de hongos producen psilocibina por rutas enzim\u00e1ticas distintas. Se trata de un caso de evoluci\u00f3n convergente que abre nuevas v\u00edas para su uso terap\u00e9utico y farmac\u00e9utico.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/cientificos-descubren-que-los-hongos-alucinogenos-generan-psilocibina-mediante-dos-rutas-bioquimicas-distintas"
-                                },
-                                {
-                                    "titulo": "\u00bfNo m\u00e1s inyecciones? CRISPR ofrece nueva esperanza para tratar la diabetes",
-                                    "imagen": "https://media.es.wired.com/photos/68bdf98ee2ed9474d5034e47/3:2/pass/diabetes.jpg",
-                                    "resum": "Por primera vez trasplantan c\u00e9lulas pancre\u00e1ticas editadas con CRISPR a un paciente con diabetes tipo 1. Produjeron insulina por meses sin inmunosupresores. A\u00fan es experimental, pero abre un nuevo horizonte en medicina regenerativa.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/no-mas-inyecciones-crispr-ofrece-nueva-esperanza-para-tratar-la-diabetes"
-                                },
-                                {
-                                    "titulo": "La promesa de CRISPR para la agricultura mexicana frena ante un vac\u00edo legal",
-                                    "imagen": "https://media.es.wired.com/photos/68b9d5ac3ad27da726cc1835/3:2/pass/1371969680",
-                                    "resum": "El Dr. Edgar Demesa-Arevalo del CINVESTAV lidera la investigaci\u00f3n con edici\u00f3n gen\u00f3mica, una tecnolog\u00eda capaz de adaptar cultivos como el ma\u00edz y la cebada a la crisis clim\u00e1tica. Sin embargo, la ausencia de un marco regulatorio en M\u00e9xico mantiene estos avances cruciales confinados al laboratorio, mientras el campo espera soluciones.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/la-promesa-de-crispr-para-la-agricultura-mexicana-frena-ante-un-vacio-legal"
-                                },
-                                {
-                                    "titulo": "\u00bfPor qu\u00e9 est\u00e1 prohibido el ma\u00edz transg\u00e9nico?",
-                                    "imagen": "https://media.es.wired.com/photos/68a885829a34972531499cba/3:2/pass/MaizT.jpg",
-                                    "resum": "M\u00e9xico es cuna mundial del ma\u00edz y se distingue por ser el pa\u00eds con la mayor diversidad gen\u00e9tica de este grano. A pesar de ello, una tercera parte del ma\u00edz que se consume en M\u00e9xico es importado de Estados Unidos, donde la producci\u00f3n es transg\u00e9nica.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologiaarticulos/por-que-esta-prohibido-el-maiz-transgenico"
-                                }
-                            ]
+                            "pagina": null
                         },
                         {
                             "nombre": "wired espacio",
@@ -1935,7 +1814,7 @@
                     {
                         "type": "Next Gen NASCAR Cup Series Chevrolet Camaro ZL1",
                         "url": "https://www.iracing.com/cars/next-gen-nascar-cup-series-chevrolet-camaro/",
-                        "image": "https://s100.iracing.com/wp-content/uploads/2021/04/NASCAR-NEXT-GEN-Chevrolet-Camaro-ZL1-1024x576.jpg",
+                        "image": "https://s100.iracing.com/wp-content/uploads/2021/05/Nascar-NextGen-Camaro-2026-feature-1024x576.jpg",
                         "is_new": false
                     },
                     {
@@ -4983,6 +4862,28 @@
                 ],
                 "news": [
                     {
+                        "title": "iRacing Arcade\u00a0Releases on Steam March 3!",
+                        "url": "https://www.iracing.com/iracing-arcade-releases-on-steam-march-3/",
+                        "image": null,
+                        "author": {
+                            "name": "Chris Leone",
+                            "url": "https://www.iracing.com/author/cleone/"
+                        },
+                        "detail": "Steam release priced at $24.99; console releases due in summer 2026 iRacing Arcade, the all-new arcade-style racing title from iRacing Studios and Original Fire Games, will receive its long-awaited release on Steam on Tuesday, March 3. Priced at $24.99, iRacing Arcade will serve as a fun, inexpensive entry point for gamers of all ages to \u2026 ",
+                        "date": "February 17th, 2026"
+                    },
+                    {
+                        "title": "2026 eNASCAR Coca-Cola iRacing Qualifying Series | Race Preview | Round 2 at Las Vegas",
+                        "url": "https://www.iracing.com/2026-enascar-coca-cola-iracing-qualifying-series-race-preview-round-2-at-las-vegas/",
+                        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/eNCCiQS_R2_LVMS_2_feat-400x200.jpg",
+                        "author": {
+                            "name": "Justin Melillo",
+                            "url": "https://www.iracing.com/author/jmelillo/"
+                        },
+                        "detail": "The 2026 eNASCAR Coca-Cola iRacing Series continues its Qualifying Series section of the schedule with the second round of the season at Las Vegas Motor Speedway on Tuesday night. Last week, over 1,300 drivers took part in 37 splits, the Top Split won by Daniel Faulkingham. Other notable drivers hanging in the top-30 after the \u2026 ",
+                        "date": "February 17th, 2026"
+                    },
+                    {
                         "title": "This Week in iRacing | February 17th to February 23rd, 2026",
                         "url": "https://www.iracing.com/this-week-in-iracing-february-17th-to-february-23rd-2026/",
                         "image": "https://s100.iracing.com/wp-content/uploads/2023/10/ThisWeek_Thumbnail-copy-400x200.jpg",
@@ -5069,28 +4970,6 @@
                         },
                         "detail": "On Tuesday night, the eNASCAR Coca-Cola iRacing Series returned for its 17th season, once again kicking everything off at Daytona International Speedway. What was different from previous years is that there were 37 different winners of the opening round, this being because at the start of the year, in the eNASCAR Coca-Cola iRacing Qualifying Series \u2026 ",
                         "date": "February 11th, 2026"
-                    },
-                    {
-                        "title": "2025-26 eNASCAR College iRacing Series | Great Lakes Gauntlet | Week 1 Tournament Preview",
-                        "url": "https://www.iracing.com/2025-26-enascar-college-iracing-series-great-lakes-gauntlet-week-1-tournament-preview/",
-                        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/eCollege-T4W1-400x200.jpg",
-                        "author": {
-                            "name": "Justin Melillo",
-                            "url": "https://www.iracing.com/author/jmelillo/"
-                        },
-                        "detail": "The fourth eNASCAR College iRacing Series Tournament, powered by the PlayVS College League, kicks off on Wednesday night on the virtual Irish Hills of Michigan International Speedway. Titled the Great Lakes Gauntlet, 120 collegiate competitors are set to run the aforementioned gauntlet, with the First and Second rounds of the Tournament showcasing all 120 drivers \u2026 ",
-                        "date": "February 11th, 2026"
-                    },
-                    {
-                        "title": "2026 eNASCAR Coca-Cola iRacing Qualifying Series | Race Preview | Round 1 at Daytona",
-                        "url": "https://www.iracing.com/2026-enascar-coca-cola-iracing-qualifying-series-race-preview-round-1-at-daytona/",
-                        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/CokeQ_R1feat-400x200.jpg",
-                        "author": {
-                            "name": "Justin Melillo",
-                            "url": "https://www.iracing.com/author/jmelillo/"
-                        },
-                        "detail": "The eNASCAR Coca-Cola iRacing Series is back for Year 17 in 2026, and this year, everything kicks off at Daytona International Speedway on February 10th, but with the new Qualifying Series section of the schedule on display, and as a part of the entire Coca-Cola Series season. In the new eNASCAR Coca-Cola iRacing Series season \u2026 ",
-                        "date": "February 10th, 2026"
                     }
                 ]
             }
