@@ -6,6 +6,13 @@
                 "champions": null,
                 "noticias": [
                     {
+                        "titulo": "League of Legends Patch 26.4 Notes",
+                        "url": "/es-es/news/game-updates/league-of-legends-patch-26-4-notes",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2026-02-18T19:00:00.000Z",
+                        "detalle": "Happy Lunar Revel, welcome to patch 26.4!"
+                    },
+                    {
                         "titulo": "EP3: Vuelo de la fortuna | Deleite lunar 2026",
                         "url": "https://www.youtube.com/watch?v=-CfkUPRzNKA",
                         "categoria": "Multimedia",
@@ -81,16 +88,16 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2026-01-21T19:00:00.000Z",
                         "detalle": "\u00a1La versi\u00f3n 26.2 est\u00e1 lista para el despliegue!"
-                    },
-                    {
-                        "titulo": "Movember se convierte en el socio oficial de salud mental de la LEC",
-                        "url": "https://lolesports.com/es-es/news/movember-becomes-the-official-mental-health-partner-of-the-lec",
-                        "categoria": "Esports",
-                        "fecha": "2026-01-20T10:00:00.000Z",
-                        "detalle": "Una colaboraci\u00f3n plurianual para apoyar mejor a los jugadores, el personal y la comunidad de la LEC."
                     }
                 ],
                 "notas": [
+                    {
+                        "titulo": "League of Legends Patch 26.4 Notes",
+                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/league-of-legends-patch-26-4-notes",
+                        "categoria": "Actualizaciones del juego",
+                        "fecha": "2026-02-18T19:00:00.000Z",
+                        "detalle": "Happy Lunar Revel, welcome to patch 26.4!"
+                    },
                     {
                         "titulo": "Notas de la versi\u00f3n 26.3",
                         "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-26-3-notes",
@@ -167,13 +174,6 @@
                         "categoria": "Actualizaciones del juego",
                         "fecha": "2025-08-26T18:00:00.000Z",
                         "detalle": "La fortuna os sonreir\u00e1 durante la versi\u00f3n 25.17 \ud83d\udd2e"
-                    },
-                    {
-                        "titulo": "Notas de la versi\u00f3n 25.16",
-                        "url": "https://www.leagueoflegends.com/es-es/news/game-updates/patch-25-16-notes",
-                        "categoria": "Actualizaciones del juego",
-                        "fecha": "2025-08-12T18:00:00.000Z",
-                        "detalle": "\u00a1Versi\u00f3n 25.16 lista para el despegue!"
                     }
                 ]
             }
@@ -636,6 +636,34 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "Desvelados nuevos detalles de 'The Grounds', el mundo abierto de FC27: peluquer\u00edas, gimnasios...",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/02/19/desvelados-nuevos-detalles-the-grounds-mundo-abierto-fc27-peluquerias-gimnasios.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/19/6996ec914722b.png",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
+                        {
+                            "titulo": "Llega el chat de voz a League of Legends, \u00bfUna mejora necesaria o m\u00e1s toxicidad para el videojuego?",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/02/19/llega-chat-voz-league-of-legends-mejora-necesaria-toxicidad-videojuego.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/19/6996da80ea6ab.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "Casi 30 a\u00f1os despu\u00e9s, Pok\u00e9mon est\u00e1 a punto de lanzar uno de los mejores juegos de su historia",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/02/19/30-anos-despues-pokemon-punto-lanzar-mejores-juegos-historia.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/19/6996ceaa9d442.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
+                            "titulo": "Ni Elden Ring, ni The Witcher 3. Sin Zelda, los mundos abiertos que conoces jam\u00e1s habr\u00edan existido",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/02/19/elden-ring-the-witcher-3-zelda-mundos-abiertos-conoces-jamas-habrian-existido.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/19/6996c3cb390c7.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Parec\u00eda imposible, pero alguien ha unido el cine slasher con las recreativas de los 90 en un \u00fanico videojuego",
                             "url": "https://www.marca.com/videojuegos/juegos/opinion/2026/02/18/parecia-imposible-alguien-unido-cine-slasher-recreativas-90-unico-videojuego.html",
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/18/6995a477cb3ee.jpeg",
@@ -664,7 +692,7 @@
                             "autor": "MARIO MART\u00cdN"
                         },
                         {
-                            "titulo": "The Legend of Zelda nos enamor\u00f3 hace 40 a\u00f1os, pero estuvo a punto un juego completamente diferente",
+                            "titulo": "The Legend of Zelda nos enamor\u00f3 hace 40 a\u00f1os, pero estuvo a punto de ser un juego completamente diferente",
                             "url": "https://www.marca.com/videojuegos/juegos/2026/02/17/the-legend-of-zelda-enamoro-40-anos-estuvo-punto-juego-completamente-diferente.html",
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/17/6994338975daa.jpeg",
                             "meta": "Juegos",
@@ -956,34 +984,6 @@
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/28/697a34260bf91.jpeg",
                             "meta": "Juegos",
                             "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "Estos ser\u00edan todos los suplentes del All-Star 2026 de la NBA si 2K26 fuera el 'juez' del partido de las estrellas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/28/serian-todos-suplentes-all-star-2026-nba-2k26-fuera-juez-partido-estrellas.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/28/697a1be7a8d5e.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "La plantilla m\u00e1s barata de EA Sports FC 26 con solo futbolistas TOTY\u2026 y varias sorpresas inesperadas",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/27/plantilla-barata-ea-sports-fc-26-futbolistas-toty-sorpresas-inesperadas.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/27/6978ec8ec3a9c.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARIO BL\u00c1ZQUEZ GIL"
-                        },
-                        {
-                            "titulo": "\u00a1Parkour! As\u00ed son las skins de The Office que ya est\u00e1n disponibles en Fortnite",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/27/parkour-asi-son-skins-the-office-estan-disponibles-fortnite.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com//uploads/2026/01/27/MvoABJk.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
-                        },
-                        {
-                            "titulo": "Steam le ha 'quitado' 200.000 euros a este jugador por hacer una tonter\u00eda tan grande que hasta se lo merece",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/27/tiro-200-000-euros-basura-skins-counter-strike-tramposo.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/27/69789eb41db99.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -1166,17 +1166,17 @@
                             "fecha": "22 de enero de 2026"
                         },
                         {
-                            "titulo": "El New York Times lanza Crossplay, su primer juego multijugador",
-                            "url": "https://www.lanacion.com.ar/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
-                            "url_link": "/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/el-new-york-times-lanza-crossplay-su-primer-juego-GL6AW6W6GFC43JYZQBFAUUNVMY.jpg?auth=794cbb5f9e31c25df11b98a26e4cfe9a374242cd7f2d89d094ce7d082f5ac51d&width=320&height=213&quality=70&smart=true",
-                            "fecha": "21 de enero de 2026"
-                        },
-                        {
                             "titulo": "Ubisoft cancela el desarrollo de seis videojuegos, incluida una nueva versi\u00f3n de 'Prince of Persia'",
                             "url": "https://www.lanacion.com.ar/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
                             "url_link": "/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
                             "imagen": "https://resizer.glanacion.com/resizer/v2/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=320&height=213&quality=70&smart=true",
+                            "fecha": "21 de enero de 2026"
+                        },
+                        {
+                            "titulo": "El New York Times lanza Crossplay, su primer juego multijugador",
+                            "url": "https://www.lanacion.com.ar/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
+                            "url_link": "/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/el-new-york-times-lanza-crossplay-su-primer-juego-GL6AW6W6GFC43JYZQBFAUUNVMY.jpg?auth=794cbb5f9e31c25df11b98a26e4cfe9a374242cd7f2d89d094ce7d082f5ac51d&width=320&height=213&quality=70&smart=true",
                             "fecha": "21 de enero de 2026"
                         },
                         {
@@ -1206,17 +1206,59 @@
                             "nombre": "la naci\u00f3n tecnolog\u00eda",
                             "pagina": [
                                 {
-                                    "titulo": "Paso a paso. C\u00f3mo cambiar de VPN",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/como-cambiar-de-vpn-nid11022026/",
-                                    "url_link": "/tecnologia/como-cambiar-de-vpn-nid11022026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/en-que-afecta-el-cambio-de-la-U5YD5RXSUVDEHJD57ZGHWUFJLQ.jpg?auth=ff308821f027f13107d07800fe761142e2c5d758027b18d2b67d31b3dd729d13&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "18 de febrero de 2026"
-                                },
-                                {
                                     "titulo": "Verano. La mejor playa de Chile es esta, seg\u00fan el veredicto de la IA",
                                     "url": "https://www.lanacion.com.ar/tecnologia/la-mejor-playa-de-chile-es-esta-la-ia-dio-su-veredicto-nid17022026/",
                                     "url_link": "/tecnologia/la-mejor-playa-de-chile-es-esta-la-ia-dio-su-veredicto-nid17022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/bahia-inglesa-es-una-de-las-playas-mas-destacadas-53MSTLDVQZD55IOF5VOB4CW324.png?auth=8cffefa3345c86b2a5c8c28f4cfb59edf6846eaf169a73067e03ada051866e20&width=320&height=213&quality=70&smart=true",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/bahia-inglesa-es-una-de-las-playas-mas-destacadas-53MSTLDVQZD55IOF5VOB4CW324.png?auth=8cffefa3345c86b2a5c8c28f4cfb59edf6846eaf169a73067e03ada051866e20&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "19 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "Paso a paso. C\u00f3mo cambiar de VPN",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/como-cambiar-de-vpn-nid11022026/",
+                                    "url_link": "/tecnologia/como-cambiar-de-vpn-nid11022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/en-que-afecta-el-cambio-de-la-U5YD5RXSUVDEHJD57ZGHWUFJLQ.jpg?auth=ff308821f027f13107d07800fe761142e2c5d758027b18d2b67d31b3dd729d13&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "19 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "Fantas\u00eda. C\u00f3mo activar el \u201cmodo hada azul\u201d de WhatsApp",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/como-activar-el-modo-hada-azul-de-whatsapp-nid18022026/",
+                                    "url_link": "/tecnologia/como-activar-el-modo-hada-azul-de-whatsapp-nid18022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/como-activar-el-modo-hada-azul-de-SQS76Z7DGNEYTDUKRAJA7SBBFU.png?auth=1150c35f1798436539c912291c9e635ccba0a67cd69b00cb1c77857f22e2d9e8&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "19 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "Verano. La mejor playa de Uruguay es esta: la IA dio su veredicto",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/la-mejor-playa-de-uruguay-es-esta-la-ia-dio-su-veredicto-nid18022026/",
+                                    "url_link": "/tecnologia/la-mejor-playa-de-uruguay-es-esta-la-ia-dio-su-veredicto-nid18022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/cual-es-la-mejor-playa-de-uruguay-esta-en-punta-EI4TG7WX4JGP7NF2C6N5WBBCWE.jpg?auth=63a90fc96435d0dc3c030ebc7a6faa4e26b72e890ca3e27a9fb4bfb670c007a1&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "18 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "\u201cGaitana\u201d. La candidata creada con IA que se presenta en las elecciones legislativas de Colombia",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/quien-es-gaitana-la-candidata-creada-con-ia-que-estara-en-las-elecciones-legislativas-de-colombia-nid18022026/",
+                                    "url_link": "/tecnologia/quien-es-gaitana-la-candidata-creada-con-ia-que-estara-en-las-elecciones-legislativas-de-colombia-nid18022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/gaitana-la-candidata-colombiana-generada-por-GBWPXSWH5NHIVNFGJMUTRFBDJY.png?auth=95b696ed21e165b04e24a3cd8a5cbffd5d322f4029db63c6c5ea2d2a47c32304&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "18 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "Redes sociales inmortales. Meta ide\u00f3 una IA que simula la actividad de usuarios en Instagram y Facebook tras fallecer",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/redes-sociales-inmortales-meta-ideo-una-ia-que-simula-la-actividad-de-usuarios-en-instagram-y-nid18022026/",
+                                    "url_link": "/tecnologia/redes-sociales-inmortales-meta-ideo-una-ia-que-simula-la-actividad-de-usuarios-en-instagram-y-nid18022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/el-puesto-de-meta-en-una-feria-tecnologica-en-san-IESSIRZAAFF4RF47BHKCL4D3B4.jpg?auth=59df4de5db09ec0d0a6bb4adab4d7ecf3fdd9063d6216f8157fb59d2dc8ac8a9&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "18 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "\"Pirater\u00eda de alta velocidad\". Netflix amenaz\u00f3 a la empresa que gener\u00f3 el video de la pelea entre Tom Cruise y Brad Pitt",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/netflix-amenaza-a-bytedance-con-litigios-inmediatos-si-no-cesa-la-infraccion-de-propiedad-nid18022026/",
+                                    "url_link": "/tecnologia/netflix-amenaza-a-bytedance-con-litigios-inmediatos-si-no-cesa-la-infraccion-de-propiedad-nid18022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/netflix-continua-siendo-el-lider-de-su-LU4NV2EZEFC5BOJ4IBRZDVSBBE.webp?auth=f01c13f8a2ab3d747fa6e08d40b7702a863c053bd1378636fe3d1e621be4207a&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "18 de febrero de 2026"
+                                },
+                                {
+                                    "titulo": "\"Obsesionado con la educaci\u00f3n\". El ingeniero (y m\u00fasico) argentino que fue pionero en IA en el pa\u00eds",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/el-ingeniero-y-musico-argentino-que-fue-pionero-en-ia-en-el-pais-nid17022026/",
+                                    "url_link": "/tecnologia/el-ingeniero-y-musico-argentino-que-fue-pionero-en-ia-en-el-pais-nid17022026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/carlos-arana-pionero-en-inteligencia-artificial-WFXLBWF27VFCPDGY2D7OIDDTUY.jpg?auth=87a3be35dc42f8fa108f300bf79ad3d7d757dab66e0619f850aa9e0043e09ca0&width=320&height=213&quality=70&smart=true",
                                     "fecha": "18 de febrero de 2026"
                                 },
                                 {
@@ -1224,13 +1266,6 @@
                                     "url": "https://www.lanacion.com.ar/tecnologia/ano-nuevo-chino-como-activar-el-modo-caballo-de-fuego-en-whatsapp-nid17022026/",
                                     "url_link": "/tecnologia/ano-nuevo-chino-como-activar-el-modo-caballo-de-fuego-en-whatsapp-nid17022026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/asi-se-configura-el-modo-caballo-de-fuego-de-IW5GAPV43NC5NJNPQ4LAF6GQFE.png?auth=04f2198fd41fb42d4736780627e59f0152502fc1d9f13945c664f00977102037&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "17 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "\"Obsesionado con la educaci\u00f3n\". El ingeniero (y m\u00fasico) argentino que fue pionero en IA en el pa\u00eds",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/el-ingeniero-y-musico-argentino-que-fue-pionero-en-ia-en-el-pais-nid17022026/",
-                                    "url_link": "/tecnologia/el-ingeniero-y-musico-argentino-que-fue-pionero-en-ia-en-el-pais-nid17022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/carlos-arana-pionero-en-inteligencia-artificial-WFXLBWF27VFCPDGY2D7OIDDTUY.jpg?auth=87a3be35dc42f8fa108f300bf79ad3d7d757dab66e0619f850aa9e0043e09ca0&width=320&height=213&quality=70&smart=true",
                                     "fecha": "17 de febrero de 2026"
                                 },
                                 {
@@ -1379,41 +1414,6 @@
                                     "url_link": "/tecnologia/como-activar-el-modo-hamnet-de-whatsapp-nid11022026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/como-activar-el-modo-hamnet-de-TN7EIESHUZDCRDMC56I7MDC5V4.jpg?auth=9f5cd389071935f3df3eac6def4d4bed9c7fb270b3b8425268c43de52a67d870&width=320&height=213&quality=70&smart=true",
                                     "fecha": "12 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "Curiosidad. Para qu\u00e9 sirven los agujeros que tienen los enchufes tipo A",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/para-que-sirven-los-agujeros-que-tienen-los-enchufes-tipo-a-nid12062024/",
-                                    "url_link": "/tecnologia/para-que-sirven-los-agujeros-que-tienen-los-enchufes-tipo-a-nid12062024/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/la-seguridad-de-los-dispositivos-es-una-de-las-X3BRFT72AFH6RN5ZPX6ZARRMRQ.jpg?auth=d2d2bdf6c9720cc27fcc1c8759660322472486a899c125a9834ab8d36e9fbd4e&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "11 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "Para no ser maleducado. Una especialista en protocolo revel\u00f3 cu\u00e1l es el horario correcto para mandar un mensaje de WhatsApp",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/una-especialista-en-protocolo-revelo-cual-es-el-horario-correcto-para-mandar-un-mensaje-de-whatsapp-nid10022026/",
-                                    "url_link": "/tecnologia/una-especialista-en-protocolo-revelo-cual-es-el-horario-correcto-para-mandar-un-mensaje-de-whatsapp-nid10022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/con-el-avance-de-la-tecnologia-enviar-mensajes-a-FTNJGNF5BFAUDH743KE53SK5N4.jpg?auth=2509a9c3be98100e4ac41ecc7c56ba595ddbdbc38f4b12045e4ecb893af9591d&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "11 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "\u00bfLa \u00fanica soluci\u00f3n? Cada vez m\u00e1s escuelas proh\u00edben los tel\u00e9fonos para que los estudiantes puedan concentrarse",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/la-unica-solucion-cada-vez-mas-escuelas-prohiben-los-telefonos-para-que-los-estudiantes-puedan-nid11022026/",
-                                    "url_link": "/tecnologia/la-unica-solucion-cada-vez-mas-escuelas-prohiben-los-telefonos-para-que-los-estudiantes-puedan-nid11022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/cada-vez-mas-escuelas-prohiben-los-telefonos-para-3TZRSZEUANDGJH4HJS35GQIFHI.JPG?auth=7dc1288dcbe87da0888c8bb2a103f9a2ec6068386c8b4711ffb324cbf3965bb2&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "11 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "El primero de una tecnol\u00f3gica desde 1997. Google vende un bono a 100 a\u00f1os para financiar su expansi\u00f3n en IA",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/google-vende-un-bono-a-100-anos-para-financiar-su-expansion-en-ia-nid11022026/",
-                                    "url_link": "/tecnologia/google-vende-un-bono-a-100-anos-para-financiar-su-expansion-en-ia-nid11022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/google-vende-un-bono-a-100-anos-para-financiar-su-FFP4HZ43BVBVDP3BW75OFDWU7I.jpg?auth=0d2b1a919b78d960c2d26906576252b8a6df9cc775495e55bc6012cdc91e69a2&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "11 de febrero de 2026"
-                                },
-                                {
-                                    "titulo": "Nuevo smartphone de Samsung. El Galaxy S26 ya tiene fecha de debut",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/el-samsung-galaxy-s26-ya-tiene-fecha-de-debut-nid11022026/",
-                                    "url_link": "/tecnologia/el-samsung-galaxy-s26-ya-tiene-fecha-de-debut-nid11022026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/el-sucesor-del-galaxy-s25-ultra-sera-develado-el-NYLN34L5OFBGJLKL7DQAHIPK2Y.jpg?auth=ad5d383921cdfffc59754d193c2047b6fc9f5656f369bb4666ac0f2de213f1af&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "11 de febrero de 2026"
                                 }
                             ]
                         }
@@ -4862,6 +4862,39 @@
                 ],
                 "news": [
                     {
+                        "title": "iRacing Weekly Tune-in | eSports & Community Events | February 19th to February 25th, 2026",
+                        "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-february-19th-to-february-25th-2026/",
+                        "image": "https://s100.iracing.com/wp-content/uploads/2025/06/iR_WeeklyTuneIn_Thumbnail-400x200.jpg",
+                        "author": {
+                            "name": "Justin Melillo",
+                            "url": "https://www.iracing.com/author/jmelillo/"
+                        },
+                        "detail": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some special events to watch around the iRacing community. From official iRacing eSports to select community events, there\u2019s plenty to tune in for and enjoy. Here\u2019s what on the schedule, \u2026 ",
+                        "date": "February 18th, 2026"
+                    },
+                    {
+                        "title": "Sebastian Marin among 23 eNASCAR Coca-Cola iRacing Qualifying Series split winners at Las Vegas",
+                        "url": "https://www.iracing.com/sebastian-marin-among-23-enascar-coca-cola-iracing-qualifying-series-split-winners-at-las-vegas/",
+                        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/eCCiQS_LasVegas_Race_22_021726-copy-400x200.jpg",
+                        "author": {
+                            "name": "Justin Melillo",
+                            "url": "https://www.iracing.com/author/jmelillo/"
+                        },
+                        "detail": "It\u2019s too early to call in the case for who will make the 2026 eNASCAR Coca-Cola iRacing Qualifying Series top-30, but a number of drivers have already stated their claims for it, including this week\u2019s Top Split winner, Sebastian Marin. While it wasn\u2019t on the level of Daytona, Las Vegas Motor Speedway still brought 822 \u2026 ",
+                        "date": "February 18th, 2026"
+                    },
+                    {
+                        "title": "2025-26 eNASCAR College iRacing Series | Great Lakes Gauntlet | Week 2 Tournament Preview",
+                        "url": "https://www.iracing.com/2025-26-enascar-college-iracing-series-great-lakes-gauntlet-week-2-tournament-preview/",
+                        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/eNCiS_W2Feature_GLG-400x200.jpg",
+                        "author": {
+                            "name": "Justin Melillo",
+                            "url": "https://www.iracing.com/author/jmelillo/"
+                        },
+                        "detail": "The Great Lakes Gauntlet, the fourth eNASCAR College iRacing Series Tournament powered by the PlayVS College League, will conclude on Wednesday night at Michigan International Speedway. Week 2 of the Tournament includes the Semifinals, Semifinal Last Chance Qualifier, and the Final Round. $7,000 in scholarship prizes are on the line, with the winner in the \u2026 ",
+                        "date": "February 18th, 2026"
+                    },
+                    {
                         "title": "iRacing Arcade\u00a0Releases on Steam March 3!",
                         "url": "https://www.iracing.com/iracing-arcade-releases-on-steam-march-3/",
                         "image": null,
@@ -4937,39 +4970,6 @@
                         },
                         "detail": "The Great Lakes Gauntlet at Michigan International Speedway, the fourth Tournament of the 2025-26 eNASCAR College iRacing Series powered by PlayVS College League season, saw 120 students enter, but only 39 survive and advance after the first week\u2019s activities in the virtual Irish Hills on Wednesday night. 120 entries were snake split into three groups \u2026 ",
                         "date": "February 12th, 2026"
-                    },
-                    {
-                        "title": "2026 INDYCAR Thrustmaster iRacing Pro Series | Race Preview | Race 6 at Nashville Superspeedway",
-                        "url": "https://www.iracing.com/2026-indycar-thrustmaster-iracing-pro-series-race-preview-race-6-at-nashville-superspeedway/",
-                        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/nashvilleSS_2026_ICS-feat-400x200.jpg",
-                        "author": {
-                            "name": "Justin Melillo",
-                            "url": "https://www.iracing.com/author/jmelillo/"
-                        },
-                        "detail": "The sixth round of the INDYCAR Thrustmaster iRacing Pro Series stays oval racing once again with the 33 top-ranked virtual INDYCAR iRacers on Thursday night. Nashville Superspeedway will be the third and final oval race of the season, with two more road races to follow. Team VRS\u2019s Michele Costantini now leads the standings, just a \u2026 ",
-                        "date": "February 12th, 2026"
-                    },
-                    {
-                        "title": "iRacing Weekly Tune-in | eSports & Community Events | February 12th to February 18th, 2026",
-                        "url": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-february-12th-to-february-18th-2026/",
-                        "image": "https://s100.iracing.com/wp-content/uploads/2025/06/iR_WeeklyTuneIn_Thumbnail-400x200.jpg",
-                        "author": {
-                            "name": "Justin Melillo",
-                            "url": "https://www.iracing.com/author/jmelillo/"
-                        },
-                        "detail": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some special events to watch around the iRacing community. From official iRacing eSports to select community events, there\u2019s plenty to tune in for and enjoy. Here\u2019s what on the schedule, \u2026 ",
-                        "date": "February 11th, 2026"
-                    },
-                    {
-                        "title": "Daniel Faulkingham tops 37 eNASCAR Coca-Cola iRacing Qualifying Series split winners at Daytona",
-                        "url": "https://www.iracing.com/daniel-faulkingham-tops-37-enascar-coca-cola-iracing-qualifying-series-split-winners-at-daytona/",
-                        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/eCCiQS_Daytona_S1_Race_13_021026-copy-400x200.jpg",
-                        "author": {
-                            "name": "Justin Melillo",
-                            "url": "https://www.iracing.com/author/jmelillo/"
-                        },
-                        "detail": "On Tuesday night, the eNASCAR Coca-Cola iRacing Series returned for its 17th season, once again kicking everything off at Daytona International Speedway. What was different from previous years is that there were 37 different winners of the opening round, this being because at the start of the year, in the eNASCAR Coca-Cola iRacing Qualifying Series \u2026 ",
-                        "date": "February 11th, 2026"
                     }
                 ]
             }
