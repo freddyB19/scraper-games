@@ -2,12 +2,21 @@ import pprint, asyncio, random
 from typing import TypeVar
 from dataclasses import dataclass
 
+import httpx
+
 from bs4.element import Tag
 from bs4 import BeautifulSoup
 
-from utils.main import AsyncReadFromWeb, run_task
+from utils.main import (
+	run_task, 
+	AsyncReadFromWeb, 
+	ASYNC_CLIENT_CONFIG,
+	async_read_from_web
+)
 
 HTMLParsed = TypeVar("HTMLParsed", bound=BeautifulSoup)
+AsyncClient = TypeVar("AsyncClient", bound=httpx.AsyncClient)
+
 
 SEMAPHORE_LIMIT = 5
 peticiones_sem = asyncio.Semaphore(SEMAPHORE_LIMIT)
@@ -38,10 +47,10 @@ def get_champion(champion: Tag | None) -> str:
 	return champion.get_text().strip() if isinstance(champion, Tag) else None
 
 
-async def get_images(champion: ChampionBase) -> dict[str, str | list[str] | None]:
-	async with peticiones_sem:
-		content = await AsyncReadFromWeb.read(champion.url)
+async def get_images(champion: ChampionBase, client: AsyncClient) -> dict[str, str | list[str] | None]:
 	
+	content = await async_read_from_web(client = client, url = champion.url)
+
 	images = await run_task(get_img_champions, content)
 
 	await asyncio.sleep(random.uniform(0.1, 0.5))
@@ -77,8 +86,9 @@ class LOLChampionsPage:
 					url = f"{url_root}{url}"
 				)
 			)
+		async with httpx.AsyncClient(limits = ASYNC_CLIENT_CONFIG["_LIMITS"], headers = ASYNC_CLIENT_CONFIG["_HEADERS"]) as client:
 
-		tasks = [get_images(champion) for champion in champions_base]
-		champions = await asyncio.gather(*tasks)
+			tasks = [get_images(champion, client = client) for champion in champions_base]
+			champions = await asyncio.gather(*tasks)
 
 		return champions
