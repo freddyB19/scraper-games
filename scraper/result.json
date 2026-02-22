@@ -3,7 +3,1875 @@
         "page": {
             "name": "lol",
             "data": {
-                "champions": null,
+                "champions": [
+                    {
+                        "champion": "Aatrox",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/aatrox/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_7.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ahri",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ahri/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Akali",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/akali/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Akshan",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/akshan/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_20.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Alistar",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/alistar/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ambessa",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ambessa/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Amumu",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/amumu/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Anivia",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/anivia/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Annie",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/annie/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Aphelios",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/aphelios/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_18.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_9.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ashe",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ashe/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Aurelion Sol",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/aurelionsol/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_21.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Aurora",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/aurora/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Azir",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/azir/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Bardo",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/bard/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_8.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_5.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_6.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Bel'Veth",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/belveth/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_19.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Blitzcrank",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/blitzcrank/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Brand",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/brand/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Braum",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/braum/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_10.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Briar",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/briar/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Caitlyn",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/caitlyn/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Camille",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/camille/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_11.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Cassiopeia",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/cassiopeia/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Cho'Gath",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/chogath/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Corki",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/corki/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Darius",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/darius/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Diana",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/diana/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Dr. Mundo",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/drmundo/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Draven",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/draven/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ekko",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ekko/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Elise",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/elise/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Evelynn",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/evelynn/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ezreal",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ezreal/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Fiddlesticks",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/fiddlesticks/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Fiora",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/fiora/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Fizz",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/fizz/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Galio",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/galio/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Gangplank",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/gangplank/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Garen",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/garen/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Gnar",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/gnar/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Gragas",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/gragas/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Graves",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/graves/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Gwen",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/gwen/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_30.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Hecarim",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/hecarim/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Heimerdinger",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/heimerdinger/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Hwei",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/hwei/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_11.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Illaoi",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/illaoi/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_18.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Irelia",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/irelia/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ivern",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ivern/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Janna",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/janna/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Jarvan IV",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/jarvaniv/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Jax",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/jax/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Jayce",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/jayce/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Jhin",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/jhin/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Jinx",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/jinx/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "K'Sante",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ksante/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_8.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kai'Sa",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kaisa/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_15.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_16.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_14.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kalista",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kalista/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_5.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Karma",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/karma/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Karthus",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/karthus/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kassadin",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kassadin/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Katarina",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/katarina/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kayle",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kayle/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kayn",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kayn/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_8.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_9.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kennen",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kennen/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kha'Zix",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/khazix/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kindred",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kindred/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_12.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kled",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kled/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_9.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_18.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Kog'Maw",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/kogmaw/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "LeBlanc",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/leblanc/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Lee Sin",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/leesin/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Leona",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/leona/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Lillia",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/lillia/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_28.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_19.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Lissandra",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/lissandra/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Lucian",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/lucian/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_6.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_7.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Lulu",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/lulu/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Lux",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/lux/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Maestro Yi",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/masteryi/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Malphite",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/malphite/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Malzahar",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/malzahar/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Maokai",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/maokai/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Mel",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/mel/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Milio",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/milio/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_20.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Miss Fortune",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/missfortune/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Mordekaiser",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/mordekaiser/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Morgana",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/morgana/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Naafiri",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/naafiri/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_20.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Nami",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/nami/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_7.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Nasus",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/nasus/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Nautilus",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/nautilus/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Neeko",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/neeko/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_12.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Nidalee",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/nidalee/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Nilah",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/nilah/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_21.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Nocturne",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/nocturne/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Nunu y Willump",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/nunu/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Olaf",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/olaf/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Orianna",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/orianna/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ornn",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ornn/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Pantheon",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/pantheon/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Poppy",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/poppy/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Pyke",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/pyke/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_25.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_16.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_9.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Qiyana",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/qiyana/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Quinn",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/quinn/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Rakan",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/rakan/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Rammus",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/rammus/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Rek'Sai",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/reksai/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_17.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_9.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Rell",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/rell/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_30.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_20.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Renata Glasc",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/renata/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_21.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Renekton",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/renekton/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Rengar",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/rengar/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_8.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Riven",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/riven/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Rumble",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/rumble/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ryze",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ryze/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Samira",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/samira/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_30.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Sejuani",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/sejuani/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Senna",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/senna/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_9.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_16.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Seraphine",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/seraphine/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Sett",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/sett/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_8.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_9.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_10.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Shaco",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/shaco/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Shen",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/shen/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Shyvana",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/shyvana/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Singed",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/singed/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Sion",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/sion/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Sivir",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/sivir/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Skarner",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/skarner/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Smolder",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/smolder/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_11.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Sona",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/sona/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Soraka",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/soraka/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Swain",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/swain/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Sylas",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/sylas/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_13.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_14.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_8.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Syndra",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/syndra/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Tahm Kench",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/tahmkench/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_11.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Taliyah",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/taliyah/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Talon",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/talon/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Taric",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/taric/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Teemo",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/teemo/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_4.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Thresh",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/thresh/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Tristana",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/tristana/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Trundle",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/trundle/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Tryndamere",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/tryndamere/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Twisted Fate",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/twistedfate/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Twitch",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/twitch/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Udyr",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/udyr/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Urgot",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/urgot/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_9.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Varus",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/varus/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Vayne",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/vayne/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Veigar",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/veigar/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Vel'Koz",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/velkoz/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Vex",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/vex/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_20.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_10.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Vi",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/vi/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Viego",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/viego/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_21.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_19.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Viktor",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/viktor/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Vladimir",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/vladimir/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Volibear",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/volibear/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Warwick",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/warwick/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Wukong",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/monkeyking/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_3.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Xayah",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/xayah/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Xerath",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/xerath/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Xin Zhao",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/xinzhao/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Yasuo",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/yasuo/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_9.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Yone",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/yone/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_26.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_19.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_10.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Yorick",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/yorick/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Yunara",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/yunara/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Yuumi",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/yuumi/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_19.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_11.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_28.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Zaahen",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/zaahen/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zaahen_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zaahen_1.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Zac",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/zac/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_6.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_7.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Zed",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/zed/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_10.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Zeri",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/zeri/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_28.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_19.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_10.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Ziggs",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/ziggs/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Zilean",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/zilean/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_2.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Zoe",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/zoe/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_2.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_18.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_9.jpg"
+                        ]
+                    },
+                    {
+                        "champion": "Zyra",
+                        "url": "https://www.leagueoflegends.com/es-es/champions/zyra/",
+                        "images": [
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_1.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_3.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_4.jpg",
+                            "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_2.jpg"
+                        ]
+                    }
+                ],
                 "noticias": [
                     {
                         "titulo": "League of Legends Patch 26.4 Notes",
@@ -183,262 +2051,8 @@
         "page": {
             "name": "easport",
             "data": {
-                "noticias": [
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/madden-bowl-recap-thumbnail.png.adapt.crop16x9.431p.png",
-                        "titulo": "Drini gana la Madden Bowl de 2026 en San Francisco",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "11-feb-2026",
-                        "descripcion": "La Madden Championship Series concluy\u00f3 en la sede de EA, donde Drini gan\u00f3 el t\u00edtulo de la Madden Bowl y un premio de 250\u00a0000 $."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/en-us/common/m25-maddencast-img-1.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Reimaginando la narrativa del f\u00fatbol americano",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "06-feb-2026",
-                        "descripcion": "EA SPORTS est\u00e1 reimaginando la narrativa del f\u00fatbol americano a trav\u00e9s de varias innovaciones y plataformas para la comunidad global."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/ea/madden-nfl/madden-nfl-26/news/common/madden-bowl-1920x1080.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "EA SPORTS\u2122 Madden Bowl protagoniza la semana de la Super Bowl LX",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "08-ene-2026",
-                        "descripcion": "EA SPORTS Madden Bowl ser\u00e1 el evento principal de la semana de la Super Bowl LX con Luke Combs, Teddy Swims, Stephen Wilson Jr., Gavin Adcock y LaRussell."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eap-activation-eapholidaypicks-grid-social-1920x1080.png.adapt.crop16x9.431p.png",
-                        "titulo": "Es la \u00e9poca de las selecciones festivas de EA Play",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "15-dic-2025",
-                        "descripcion": "Celebra esta \u00e9poca del a\u00f1o con las selecciones festivas de EA Play, mostrando todas las ventajas de tu membres\u00eda con ideas festivas, desaf\u00edos y mucho m\u00e1s."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/bf6-screen-5.png.adapt.crop16x9.431p.png",
-                        "titulo": "Celebramos a nuestros equipos en The Game Awards",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "12-dic-2025",
-                        "descripcion": "EA celebra Battlefield 6, Split Fiction, EA SPORTS FC 26 y F1 25 en The Game Awards 2025."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eas-m26-cover-art-16x9.png.adapt.crop16x9.431p.png",
-                        "titulo": "La importancia de la m\u00fasica en nuestras experiencias interactivas.",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "05-dic-2025",
-                        "descripcion": "Descubre c\u00f3mo la m\u00fasica, la tecnolog\u00eda y la colaboraci\u00f3n creativa est\u00e1n redefiniendo las experiencias de juego y dando forma al futuro del entretenimiento en EA."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/ufc/ufc-5/common/ufc5-social-screenshots-zhuangweili-1920x1080.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "EA a\u00f1ade ocho nuevas patentes a su compromiso de patentes de accesibilidad \u2026",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "03-dic-2025",
-                        "descripcion": "Electronic Arts celebra cinco a\u00f1os de su compromiso de patentes de accesibilidad l\u00edder de la industria a\u00f1adiendo ocho patentes m\u00e1s y reforzando su compromiso con los juegos accesibles."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/cropped-ea-v-2-4.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Celebrando SEED: Una d\u00e9cada de descubrimiento e innovaci\u00f3n en EA",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "18-nov-2025",
-                        "descripcion": "Celebramos el 10.\u00ba aniversario de SEED y los principales avances tecnol\u00f3gicos del grupo de investigaci\u00f3n aplicada e innovaci\u00f3n de EA."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/eacom-news-ukie-ea-steam-partnership-featured-image.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "EA x Ukie Digital Schoolhouse: Dando vida a las habilidades CTIAM",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "13-nov-2025",
-                        "descripcion": "EA ha colaborado con Ukie Digital Schoolhouse para dar vida a las habilidades CTIAM a trav\u00e9s del aprendizaje basado en el juego."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/bf6-destruction-blog/bf6-screen-1.png.adapt.crop16x9.431p.png",
-                        "titulo": "Trazando nuevos caminos: c\u00f3mo Battlefield 6 reinventa la destrucci\u00f3n",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "07-nov-2025",
-                        "descripcion": "Con Battlefield 6, varios equipos de EA se unieron para crear el sistema de destrucci\u00f3n m\u00e1s robusto y tecnol\u00f3gicamente avanzado hasta la fecha para ofrecer una experiencia t\u00e1ctica inigualable."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/bf-redsec-keyart-16x9.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Battlefield REDSEC se lanza junto con la primera temporada de Battlefield 6",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "28-oct-2025",
-                        "descripcion": "La temporada 1 trae nuevos mapas, modos, veh\u00edculos y armas, mientras que REDSEC se lanza con Battle Royale y m\u00e1s."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/news/www-ea/common/eacom-news-ea-partners-with-stability-ai-featured-image.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "EA y Stability AI se asocian para empoderar a equipos de arte, dise\u00f1o y des\u2026",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "23-oct-2025",
-                        "descripcion": "Esta colaboraci\u00f3n ayudar\u00e1 a agilizar la iteraci\u00f3n, acelerar los flujos de trabajo y ampliar las posibilidades creativas."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/ea-nfl-pr-logolockup-1920x1080.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "EA SPORTS y la NFL ampl\u00edan su asociaci\u00f3n para impulsar el futuro del f\u00fatbol\u2026",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "22-oct-2025",
-                        "descripcion": "Nuevo acuerdo plurianual con la NFL que se extiende por todo el ecosistema del f\u00fatbol americano de EA SPORTS."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/battlefield-6-reveal-trailer-thumbnail.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Hoy se lanza Battlefield 6",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "10-oct-2025",
-                        "descripcion": "Battlefield 6 - La experiencia definitiva de la guerra total se lanza el 10 de octubre de 2025."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/bf6-screen-13.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Battlefield Studios: cuatro equipos, un juego innovador",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "10-oct-2025",
-                        "descripcion": "En EA, vamos a ir con todo en Battlefield 6. La formaci\u00f3n de Battlefield Studios ha permitido a personas expertas de todo el mundo crear el mejor Battlefield hasta la fecha."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/skate/common/skate-key-art-16x9.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Vuelve skate.: Full Circle, Flick-It y el nuevo mundo de San Vansterdam",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "08-oct-2025",
-                        "descripcion": "skate. vuelve con un nuevo mundo vivo online tras 15 a\u00f1os. Este nuevo cap\u00edtulo celebra la creatividad y el cambio impulsado por la comunidad."
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/eacom/common/battlefield-labs-community/bf6-screen-11.png.adapt.crop16x9.431p.png",
-                        "titulo": "Preguntas y respuestas con Thomas Andersson, el director creativo de Battle\u2026",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "07-oct-2025",
-                        "descripcion": "Con motivo del lanzamiento de Battlefield 6 el 10 de octubre, obt\u00e9n informaci\u00f3n exclusiva del director creativo Thomas Andersson, sobre el desarrollo, la emoci\u00f3n y lo que est\u00e1 por venir en la emblem\u00e1tica franquicia de shooter\u2026"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/bf6-screen-6.jpg.adapt.crop16x9.431p.jpg",
-                        "titulo": "Battlefield Labs est\u00e1 ayudando a crear el mejor Battlefield 6 posible",
-                        "etiqueta": "Electronic Arts Inc.",
-                        "fecha": "03-oct-2025",
-                        "descripcion": "Battlefield Labs transforma el desarrollo de juegos gracias a la comunidad, para crear Battlefield 6, la entrega m\u00e1s explosiva y aut\u00e9ntica hasta la fecha."
-                    }
-                ],
-                "novedades": [
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/08/mysims-cozy-bundle-gin-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "MySims\u2122: Cozy Bundle",
-                        "url": "https://www.ea.com/es-es/games/the-sims/mysims-cozy-bundle",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/mysims-cozy-bundle-gin-logo-1x1.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/07/pvzr-key-art.png.adapt.crop1x1.767p.png",
-                        "titulo": "Plants vs. Zombies\u2122: Replanted",
-                        "url": "https://www.ea.com/es-es/games/plants-vs-zombies/pvz1-reloaded",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/pvzreplanted-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/08/bf6-box-art-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Battlefield 6",
-                        "url": "https://www.ea.com/es-es/games/battlefield/battlefield-6",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/bf6-logo-white.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/07/fc-26-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "FC 26",
-                        "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-26",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/fc26-white-logo.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/08/nhl26-keyart-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "NHL 26",
-                        "url": "https://www.ea.com/es-es/games/nhl/nhl-26",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/nhl26-logo.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/04/madden-26-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Madden NFL 26",
-                        "url": "https://www.ea.com/es-es/games/madden-nfl/madden-nfl-26",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/madden-26-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-mobile-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Madden NFL Mobile",
-                        "url": "https://www.ea.com/es-es/games/madden-nfl/madden-nfl-mobile",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/madden-mobile-logo.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/04/cfb26-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "EA SPORTS\u2122 College Football 26",
-                        "url": "https://www.ea.com/es-es/games/ea-sports-college-football/college-football-26",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/college-football-26-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/03/f1-25-iconic-gamebox-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "F1\u00ae 25",
-                        "url": "https://www.ea.com/es-es/games/f1/f1-25",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/eas-f125-primary-horizontal-white-rgb.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/12/splitkeyart1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Split Fiction",
-                        "url": "https://www.ea.com/es-es/games/split-fiction",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/split-fiction-logotype-stacked-frost-white-1080.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/02/ts4-ep-18-game-box-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "The Sims\u2122 4 Businesses & Hobbies Expansion Pack",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-4-businesses-and-hobbies-expansion-pack",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims4-ep18-businesses-and-hobbies-logo-rgb.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/ts2-retro-release-game-box-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "The Sims\u2122 2: Legacy Collection",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-2-legacy-collection",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts2-retro-release-logo-rgb.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/sims-birthday-bundle-game-box-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "The Sims\u2122: 25th Birthday Bundle",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-25th-birthday-bundle",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims-birthday-bundle-logo-rgb.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/01/ts1-retro-release-game-box-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "The Sims\u2122: Legacy Collection",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-legacy-collection",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/ts1-retro-release-logo-rgb.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/03/dragon-age-key-art-16x9.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Dragon Age\u2122: The Veilguard",
-                        "url": "https://www.ea.com/es-es/games/dragon-age/dragon-age-the-veilguard",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/dragon-age-dreadwolf-logo-png.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/10/ts4-ep-17-game-box-art.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "The Sims\u2122 4 Life & Death Expansion Pack",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-4-life-and-death-expansion-pack",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/sims4-ep17-life-and-death-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/08/nhl25-keyart-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "NHL 25",
-                        "url": "https://www.ea.com/es-es/games/nhl/nhl-25",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/nhl25-light-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/09/fc-25-key-art.png.adapt.crop1x1.767p.png",
-                        "titulo": "FC-25",
-                        "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-25",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/fc-25-logo.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/06/m25-gametile-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Madden NFL 25",
-                        "url": "https://www.ea.com/es-es/games/madden-nfl/madden-nfl-25",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/m25-gametile-logo.svg"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2024/05/cfb25-gametile-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "EA SPORTS\u2122 College Football 25",
-                        "url": "https://www.ea.com/es-es/games/ea-sports-college-football/college-football-25",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/cfb25-mono-logo-horizontal-light.png"
-                    },
-                    {
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2023/12/talesofkenzera-eacom-gamebox-1x1.jpg.adapt.crop1x1.767p.jpg",
-                        "titulo": "Tales of Kenzera\u2122: ZAU",
-                        "url": "https://www.ea.com/es-es/games/tales-of-kenzera/zau",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/talesofkenzera-gamebox-logo-white-1x1.png"
-                    }
-                ],
+                "noticias": null,
+                "novedades": null,
                 "proximamente": [
                     {
                         "titulo": "Star Wars Zero Company\u2122",
@@ -465,116 +2079,7 @@
                         ]
                     }
                 ],
-                "gratuitos": [
-                    {
-                        "titulo": "Madden NFL Mobile",
-                        "url": "https://www.ea.com/es-es/games/madden-nfl/madden-nfl-mobile",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/madden-mobile-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/madden-mobile-logo.png"
-                    },
-                    {
-                        "titulo": "FC Mobile",
-                        "url": "https://www.ea.com/es-es/games/ea-sports-fc/fc-mobile",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2023/08/fc-mobile-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/fc24m-gamebox-logo-white.png"
-                    },
-                    {
-                        "titulo": "Los Sims 4",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-4",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-4-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/the-sims-4-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Apex Legends",
-                        "url": "https://www.ea.com/es-es/games/apex-legends",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2019/01/apex-legends-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/apex-legends-mono-logo.svg"
-                    },
-                    {
-                        "titulo": "Command & Conquer: Rivals",
-                        "url": "https://www.ea.com/es-es/games/command-and-conquer/command-and-conquer-rivals",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2018/06/command-and-conquer-rivals-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-rivals-mono-logo.png"
-                    },
-                    {
-                        "titulo": "NBA LIVE Mobile",
-                        "url": "https://www.ea.com/es-es/games/nba-live/nba-live-mobile",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/09/nba-live-mobile-keyart-2025.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/nba-live-mobile-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Los Sims M\u00f3vil",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-mobile",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-mobile-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/the-sims-mobile-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Plants vs. Zombies Heroes",
-                        "url": "https://www.ea.com/es-es/games/plants-vs-zombies/plants-vs-zombies-heroes",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/plants-vs-zombies-heroes-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-heroes-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Bejeweled Stars",
-                        "url": "https://www.ea.com/es-es/games/bejeweled/bejeweled-stars",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/bejeweled-stars-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/bejeweled-stars-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Star Wars\u2122 Galaxy of Heroes",
-                        "url": "https://www.ea.com/es-es/games/starwars/star-wars-galaxy-of-heroes",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2025/11/swgoh-10anniversary-featureart-1x1-102725.png.adapt.crop1x1.767p.png",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/swgoh-logo-gold-flat.png"
-                    },
-                    {
-                        "titulo": "Need for Speed No Limits",
-                        "url": "https://www.ea.com/es-es/games/need-for-speed/need-for-speed-no-limits",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/nfs-no-limits-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/nfs-no-limits-mono-logo.png"
-                    },
-                    {
-                        "titulo": "SimCity\u2122 BuildIt",
-                        "url": "https://www.ea.com/es-es/games/simcity/simcity-buildit",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/simcity-buildit-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/simcity-buildit-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Peggle\u2122 Blast",
-                        "url": "https://www.ea.com/es-es/games/peggle/peggle-blast",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/peggle-blast-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/peggle-blast-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Plants vs. Zombies 2",
-                        "url": "https://www.ea.com/es-es/games/plants-vs-zombies/plants-vs-zombies-2",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/plants-vs-zombies-2-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/plants-vs-zombies-2-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Real Racing 3",
-                        "url": "https://www.ea.com/es-es/games/real-racing/real-racing-3",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/real-racing-3-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/real-racing-3-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Command & Conquer Tiberium Alliances",
-                        "url": "https://www.ea.com/es-es/games/command-and-conquer/command-and-conquer-tiberium-alliances",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/command-and-conquer-tiberium-alliances-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/command-and-conquer-tiberium-alliances-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Los Sims FreePlay",
-                        "url": "https://www.ea.com/es-es/games/the-sims/the-sims-freeplay",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/the-sims-freeplay-keyart.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/the-sims-freeplay-mono-logo.png"
-                    },
-                    {
-                        "titulo": "Star Wars\u2122: The Old Republic\u2122",
-                        "url": "https://www.ea.com/es-es/games/starwars/star-wars-the-old-republic",
-                        "imagen": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/star-wars-the-old-republic-key-art.jpg.adapt.crop1x1.767p.jpg",
-                        "logo": "https://media.contentapi.ea.com/content/dam/gin/common/logos/star-wars-the-old-republic-mono-logo.png"
-                    }
-                ],
+                "gratuitos": null,
                 "actualizaciones": [
                     {
                         "imagen": "https://media.contentapi.ea.com/content/dam/madden-bowl-recap-thumbnail.png.adapt.crop16x9.431p.png",
@@ -635,6 +2140,20 @@
                 {
                     "nombre": "marca",
                     "pagina": [
+                        {
+                            "titulo": "La revancha de los internacionales tras el All Star en NBA 2K26: El 'olimpo' del videojuego se queda sin estadounidenses",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/02/22/revancha-internacionales-all-star-nba-2k26-olimpo-videojuego-queda-estadounidenses.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/17/6994b7b3d9069.jpeg",
+                            "meta": "Juegos",
+                            "autor": "DANIEL CALVO"
+                        },
+                        {
+                            "titulo": "\"El mundo abierto de 'The Grounds', una medida insuficiente para salvar FC27\"",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2026/02/21/mundo-abierto-the-grounds-medida-insuficiente-salvar-fc27.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/20/6998570c3f390.png",
+                            "meta": "Juegos",
+                            "autor": "MARIO MART\u00cdN"
+                        },
                         {
                             "titulo": "Si el creador de Zelda no hubiese sido casi pobre, la saga no estar\u00eda de 40 aniversario",
                             "url": "https://www.marca.com/videojuegos/juegos/2026/02/21/creador-zelda-hubiese-sido-pobre-saga-estaria-40-aniversario.html",
@@ -970,20 +2489,6 @@
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/30/697c998176d48.png",
                             "meta": "Juegos",
                             "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "\u00bfUn Pok\u00e9Park en Espa\u00f1a? Nintendo registr\u00f3 en Europa tres nombres de parques tem\u00e1ticos en 2023 y da pie a so\u00f1ar",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/30/pokepark-espana-nintendo-registro-europa-tres-nombres-parques-tematicos-2023-da-pie-sonar.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/30/697c8f5348b1a.png",
-                            "meta": "Juegos",
-                            "autor": "MARIO MART\u00cdN"
-                        },
-                        {
-                            "titulo": "Estos son los 'Future Stars' de FC26: \u00bfpor qu\u00e9 no est\u00e1 Lamine Yamal?",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/01/29/ea-sports-vuelve-olvidar-lamine-yamal-son-future-stars-fc-26.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/01/29/697b400c2edf3.jpeg",
-                            "meta": "Juegos",
-                            "autor": "DANIEL CALVO"
                         }
                     ]
                 },
@@ -1180,17 +2685,17 @@
                             "fecha": "22 de enero de 2026"
                         },
                         {
-                            "titulo": "El New York Times lanza Crossplay, su primer juego multijugador",
-                            "url": "https://www.lanacion.com.ar/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
-                            "url_link": "/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
-                            "imagen": "https://resizer.glanacion.com/resizer/v2/el-new-york-times-lanza-crossplay-su-primer-juego-GL6AW6W6GFC43JYZQBFAUUNVMY.jpg?auth=794cbb5f9e31c25df11b98a26e4cfe9a374242cd7f2d89d094ce7d082f5ac51d&width=320&height=213&quality=70&smart=true",
-                            "fecha": "21 de enero de 2026"
-                        },
-                        {
                             "titulo": "Ubisoft cancela el desarrollo de seis videojuegos, incluida una nueva versi\u00f3n de 'Prince of Persia'",
                             "url": "https://www.lanacion.com.ar/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
                             "url_link": "/agencias/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-incluida-una-nueva-version-de-prince-of-persia-nid21012026/",
                             "imagen": "https://resizer.glanacion.com/resizer/v2/ubisoft-cancela-el-desarrollo-de-seis-videojuegos-C4DZYPM2UNGU3DALOAAO6LNTWQ.jpg?auth=fc6b28e5e2300c522eaa917feedb078c9006c0037eab4e0b768a17e3c8c5f5e8&width=320&height=213&quality=70&smart=true",
+                            "fecha": "21 de enero de 2026"
+                        },
+                        {
+                            "titulo": "El New York Times lanza Crossplay, su primer juego multijugador",
+                            "url": "https://www.lanacion.com.ar/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
+                            "url_link": "/agencias/el-new-york-times-lanza-crossplay-su-primer-juego-multijugador-nid21012026/",
+                            "imagen": "https://resizer.glanacion.com/resizer/v2/el-new-york-times-lanza-crossplay-su-primer-juego-GL6AW6W6GFC43JYZQBFAUUNVMY.jpg?auth=794cbb5f9e31c25df11b98a26e4cfe9a374242cd7f2d89d094ce7d082f5ac51d&width=320&height=213&quality=70&smart=true",
                             "fecha": "21 de enero de 2026"
                         },
                         {
