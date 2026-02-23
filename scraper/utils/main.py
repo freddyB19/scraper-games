@@ -22,8 +22,12 @@ STATUS_CODE = {
 
 FORMAT = "%(asctime)s %(error)s %(url)s %(message)s"
 
-logging.getLogger(__name__)
-logging.basicConfig(format = FORMAT)
+logging_client = logging.getLogger("client.error")
+handler = logging.StreamHandler()
+formatter = logging.Formatter(FORMAT)
+handler.setFormatter(formatter)
+logging_client.addHandler(handler)
+
 
 class ReadFromWeb:
 	
@@ -43,7 +47,7 @@ class ReadFromWeb:
 				
 				return None
 		except ConnectError as e:
-			logging.error("Error en la extracción", extra = {"error": str(e), "url": url})
+			logging_client.error("Error en la extracción", extra = {"error": str(e), "url": url})
 			return None
 
 
@@ -74,7 +78,7 @@ class AsyncReadFromWeb:
 				
 				return None
 			except ConnectError as e:
-				logging.error("Error en la extracción", extra = {"error": str(e), "url": url})
+				logging_client.error("Error en la extracción", extra = {"error": str(e), "url": url})
 				return None
 
 ASYNC_CLIENT_CONFIG = {
@@ -101,7 +105,7 @@ async def async_read_from_web(client, url):
 			
 			return None
 		except ConnectError as e:
-			logging.error("Error en la extracción", extra = {"error": str(e), "url": url})
+			logging_client.error("Error en la extracción", extra = {"error": str(e), "url": url})
 			return None
 
 
