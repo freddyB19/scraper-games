@@ -8,19 +8,51 @@ from bs4 import BeautifulSoup
 HTMLParsed = TypeVar("HTMLParsed", bound = BeautifulSoup)
 
 
+def get_data_from_element(list_tag: list[Tag], tag_property: str) -> str | None:
+	if not list_tag:
+		return None
+
+	if not isinstance(list_tag[0], Tag):
+		return None
+
+	element = list_tag[0]
+
+	return element.get(tag_property)
+
+def get_text_from_element(list_tag: list[Tag]):
+	if not list_tag:
+		return None
+
+	if not isinstance(list_tag[0], Tag):
+		return None
+
+	element = list_tag[0]
+	return element.get_text().strip().replace("\n", "").replace("  ", "")
+
+
 def extrac_news(list_news: list[Tag], url_root: str = "") -> list[dict[str, str]]:
 	notas = []
 	for articulo in list_news:
-		titulo =  articulo.css.select('a[class*="SummaryItemHedLink-cxRzVg"] h3[class*="SummaryItemHedBase-hnYOxl"]')[0].get_text().strip().replace("\n", "")
-		imagen = articulo.css.select('picture[class*="ResponsiveImagePicture-cGZhnX"] img[class*="ResponsiveImageContainer-eNxvmU"]')[0].get("src")
-		resum = articulo.css.select('div[class*="BaseText-eqOrNE"]')[0].get_text().strip().replace("\n", "")
-		url = articulo.css.select('a[class*="SummaryItemHedLink-cxRzVg"]')[0].get("href")
+		title =  get_text_from_element(
+			articulo.css.select('a[class*="SummaryItemHedLink-cxRzVg"] h3[class*="SummaryItemHedBase-hnYOxl"]')
+		)
+		summary = get_text_from_element(
+			articulo.css.select('div[class*="BaseText-eqOrNE"]')
+		)
+		image = get_data_from_element(
+			articulo.css.select('picture[class*="ResponsiveImagePicture-cGZhnX"] img[class*="ResponsiveImageContainer-eNxvmU"]'), 
+			tag_property = "src"
+		)
+		url = get_data_from_element(
+			articulo.css.select('a[class*="SummaryItemHedLink-cxRzVg"]'), 
+			tag_property = "href"
+		)
 		
 		notas.append({
-			"titulo": titulo,
-			"imagen": imagen,
-			"resum": resum,
-			"url": f"{url_root}{url[1:]}"
+			"title": title,
+			"image": image,
+			"summary": summary,
+			"url": f"{url_root}{url}"
 		})
 	return notas
 

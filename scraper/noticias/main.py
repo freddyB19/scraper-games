@@ -8,8 +8,7 @@ import httpx
 
 from utils import check_result
 from utils.main import (
-	ReadFromWeb, 
-	ReadFromFile, 
+	AsyncReadFromFile, 
 	DownloadFile, 
 	run_task,
 	async_read_from_web,
@@ -129,7 +128,8 @@ class ScraperNoticias:
 
 async def main():
 	result = await ScraperNoticias.async_scraper()
-	#pprint.pprint(result, indent = 4)
+	pprint.pprint(result, indent = 4)
+
 
 if __name__ == '__main__':
 	asyncio.run(main())
