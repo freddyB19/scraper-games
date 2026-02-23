@@ -74,11 +74,11 @@ async def scraper() -> MainScraperResult:
 		)
 
 	return {
-		"cars": check_result(cars, scraper = "cars"), 
-		"tracks": check_result(tracks, scraper = "tracks"), 
-		"series": check_result(series, scraper = "series"), 
-		"seasons": check_result(seasons, scraper = "seasons"), 
-		"news": check_result(news, scraper = "news")
+		"cars": check_result(cars, scraper = "iracing.cars"), 
+		"tracks": check_result(tracks, scraper = "iracing.tracks"), 
+		"series": check_result(series, scraper = "iracing.series"), 
+		"seasons": check_result(seasons, scraper = "iracing.seasons"), 
+		"news": check_result(news, scraper = "iracing.news")
 	}
 
 

@@ -61,9 +61,9 @@ class ScraperLOL:
 			noticias, notas, campeones = await asyncio.gather(*tasks, return_exceptions = True)
 
 		return {
-			'champions': check_result(campeones, scraper = "campeones"), # if isinstance(campeones, list) else None,
-			'noticias': check_result(noticias, scraper = "noticias"), # if isinstance(noticias, list) else None,
-			'notas': check_result(notas, scraper = "notas"), #if isinstance(notas, list) else None
+			'champions': check_result(campeones, scraper = "lol.campeones"),
+			'noticias': check_result(noticias, scraper = "lol.noticias"),
+			'notas': check_result(notas, scraper = "lol.notas"),
 		}
 
 async def main() -> None:

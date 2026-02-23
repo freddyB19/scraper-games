@@ -81,13 +81,13 @@ class ScraperNoticias:
 				return_exceptions = True
 			)
 
-			marca = check_result(page_marca, "marca") #page_marca if isinstance(page_marca, list) else None
-			lanacion = check_result(page_lanacion, "lanacion") #page_lanacion if isinstance(page_lanacion, list) else None
-			lanacion_tecnologia = check_result(lanacion_tec, "lanacion-tec") #lanacion_tec if isinstance(lanacion_tec, list) else None
-			wired_espacio = check_result(wired_es, "wired-espacio") #wired_es if isinstance(wired_es, list) else None
-			wired_biotecnologia = check_result(wired_bio, "wired-biotec") #wired_bio if isinstance(wired_bio, list) else None
-			wired_neurociencia = check_result(wired_neuro, "wired-neuroc") #wired_neuro if isinstance(wired_neuro, list) else None
-			wired_robots = check_result(wired_rb, "wired-robots") #wired_rb if isinstance(wired_rb, list) else None
+			marca = check_result(page_marca, "news.marca") 
+			lanacion = check_result(page_lanacion, "news.lanacion")
+			lanacion_tecnologia = check_result(lanacion_tec, "news.lanacion-tec")
+			wired_espacio = check_result(wired_es, "news.wired-espacio")
+			wired_biotecnologia = check_result(wired_bio, "news.wired-biotec")
+			wired_neurociencia = check_result(wired_neuro, "news.wired-neuroc")
+			wired_robots = check_result(wired_rb, "news.wired-robots")
 
 		return [
 			{'nombre': 'marca', 'pagina':  marca},

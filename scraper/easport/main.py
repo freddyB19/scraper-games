@@ -93,11 +93,11 @@ class ScraperEASport:
 			news, novelties, soon, free, updates = await asyncio.gather(*tasks, return_exceptions = True)
 
 		return {
-			'noticias': check_result(news, scraper="news"), #if isinstance(news, list) else None,
-			'novedades': check_result(novelties, scraper="novelties"), #if isinstance(novelties, list) else None,
-			'proximamente': check_result(soon, scraper="soon"), #if isinstance(soon, list) else None,
-			'gratuitos': check_result(free, scraper="free"), #if isinstance(free, list) else None,
-			'actualizaciones': check_result(updates, scraper="updates") #if isinstance(updates, list) else None
+			'noticias': check_result(news, scraper="easport.news"), 
+			'novedades': check_result(novelties, scraper="easport.novelties"),
+			'proximamente': check_result(soon, scraper="easport.soon"),
+			'gratuitos': check_result(free, scraper="easport.free"),
+			'actualizaciones': check_result(updates, scraper="easport.updates")
 		}
 
 	@classmethod
