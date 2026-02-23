@@ -7,6 +7,7 @@ from typing import TypeVar
 
 import httpx
 
+from utils import check_result
 from utils.main import (
 	AsyncReadFromFile,
 	async_read_from_web,
@@ -17,10 +18,9 @@ from utils.main import (
 
 from iracing.pages.cars import get_cars
 from iracing.pages.news import get_news
-from iracing.pages.seasons import get_season
 from iracing.pages.series import get_series
 from iracing.pages.tracks import get_tracks
-from iracing.pages.news import get_news
+from iracing.pages.seasons import get_season
 
 
 AsyncClient = TypeVar("AsyncClient", bound=httpx.AsyncClient)
@@ -74,11 +74,11 @@ async def scraper() -> MainScraperResult:
 		)
 
 	return {
-		"cars": cars, 
-		"tracks": tracks, 
-		"series": series, 
-		"seasons": seasons, 
-		"news": news
+		"cars": check_result(cars, scraper = "cars"), 
+		"tracks": check_result(tracks, scraper = "tracks"), 
+		"series": check_result(series, scraper = "series"), 
+		"seasons": check_result(seasons, scraper = "seasons"), 
+		"news": check_result(news, scraper = "news")
 	}
 
 

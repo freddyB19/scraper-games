@@ -6,6 +6,7 @@ sys.path.append(BASE)
 
 import httpx
 
+from utils import check_result
 from utils.main import (
 	ReadFromWeb, 
 	ReadFromFile, 
@@ -18,7 +19,6 @@ from utils.main import (
 from noticias.pages.marca import MarcaNoticias
 from noticias.pages.lanacion import LaNacionNoticias
 from noticias.pages.wired import get_news, get_robots_news
-
 
 AsyncClient = TypeVar("AsyncClient", bound=httpx.AsyncClient)
 ScraperResult = list[ dict[str, list[dict[str , str | None]]] ]
@@ -77,23 +77,18 @@ class ScraperNoticias:
 				async_wired_robots(client)
 			]
 
-			results = await asyncio.gather(*tasks, return_exceptions = True)
-			INDEX_MARCA = 0
-			INDEX_LANACION = 1
-			INDEX_TECNOLOGIA = 2
-			INDEX_WIRED_ESPACIO = 3
-			INDEX_WIRED_BIOTECNOLOGIA = 4
-			INDEX_WIRED_NEUROCIENCIA = 5
-			INDEX_WIRED_ROBOTS = 6
+			page_marca, page_lanacion, lanacion_tec, wired_es, wired_bio, wired_neuro, wired_rb= await asyncio.gather(
+				*tasks, 
+				return_exceptions = True
+			)
 
-
-			marca = results[INDEX_MARCA] if isinstance(results[INDEX_MARCA], list) else None
-			lanacion = results[INDEX_LANACION] if isinstance(results[INDEX_LANACION], list) else None
-			lanacion_tecnologia = results[INDEX_TECNOLOGIA] if isinstance(results[INDEX_TECNOLOGIA], list) else None
-			wired_espacio = results[INDEX_WIRED_ESPACIO] if isinstance(results[INDEX_WIRED_ESPACIO], list) else None
-			wired_biotecnologia = results[INDEX_WIRED_BIOTECNOLOGIA] if isinstance(results[INDEX_WIRED_BIOTECNOLOGIA], list) else None
-			wired_neurociencia = results[INDEX_WIRED_NEUROCIENCIA] if isinstance(results[INDEX_WIRED_NEUROCIENCIA], list) else None
-			wired_robots = results[INDEX_WIRED_ROBOTS] if isinstance(results[INDEX_WIRED_ROBOTS], list) else None
+			marca = check_result(page_marca, "marca") #page_marca if isinstance(page_marca, list) else None
+			lanacion = check_result(page_lanacion, "lanacion") #page_lanacion if isinstance(page_lanacion, list) else None
+			lanacion_tecnologia = check_result(lanacion_tec, "lanacion-tec") #lanacion_tec if isinstance(lanacion_tec, list) else None
+			wired_espacio = check_result(wired_es, "wired-espacio") #wired_es if isinstance(wired_es, list) else None
+			wired_biotecnologia = check_result(wired_bio, "wired-biotec") #wired_bio if isinstance(wired_bio, list) else None
+			wired_neurociencia = check_result(wired_neuro, "wired-neuroc") #wired_neuro if isinstance(wired_neuro, list) else None
+			wired_robots = check_result(wired_rb, "wired-robots") #wired_rb if isinstance(wired_rb, list) else None
 
 		return [
 			{'nombre': 'marca', 'pagina':  marca},
@@ -133,7 +128,8 @@ class ScraperNoticias:
 
 
 async def main():
-	pprint.pprint(await ScraperNoticias.async_scraper(), indent = 4)
+	result = await ScraperNoticias.async_scraper()
+	#pprint.pprint(result, indent = 4)
 
 if __name__ == '__main__':
 	asyncio.run(main())

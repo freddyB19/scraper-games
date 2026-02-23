@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE)
 
+from utils import check_result
 from utils.main import (
 	run_task,
 	DownloadFile, 
@@ -18,6 +19,7 @@ from utils.main import (
 	ASYNC_CLIENT_CONFIG
 
 )
+
 from lol.pages.lolchampions import LOLChampionsPage 
 from lol.pages.news_and_notes import LOLNewsNotesPage
 
@@ -59,9 +61,9 @@ class ScraperLOL:
 			noticias, notas, campeones = await asyncio.gather(*tasks, return_exceptions = True)
 
 		return {
-			'champions': campeones if isinstance(campeones, list) else None,
-			'noticias': noticias if isinstance(noticias, list) else None,
-			'notas': notas if isinstance(notas, list) else None
+			'champions': check_result(campeones, scraper = "campeones"), # if isinstance(campeones, list) else None,
+			'noticias': check_result(noticias, scraper = "noticias"), # if isinstance(noticias, list) else None,
+			'notas': check_result(notas, scraper = "notas"), #if isinstance(notas, list) else None
 		}
 
 async def main() -> None:

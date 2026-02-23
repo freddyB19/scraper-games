@@ -5,6 +5,7 @@ sys.path.append(BASE)
 
 import httpx
 
+from utils import check_result
 from utils.main import (
 	run_task,
 	ReadFromWeb,
@@ -20,7 +21,6 @@ from easport.pages.novedades import NovedadesEASport
 from easport.pages.gratuitos import JuegoGratuitosEASport
 from easport.pages.proximamente import ProximamenteEASport
 from easport.pages.actualizaciones import ActualizacionesEASport
-
 
 URL = {
 	'easport': 'https://www.ea.com/es-es',
@@ -93,11 +93,11 @@ class ScraperEASport:
 			news, novelties, soon, free, updates = await asyncio.gather(*tasks, return_exceptions = True)
 
 		return {
-			'noticias': news if isinstance(news, list) else None,
-			'novedades': novelties if isinstance(novelties, list) else None,
-			'proximamente': soon if isinstance(soon, list) else None,
-			'gratuitos': free if isinstance(free, list) else None,
-			'actualizaciones': updates if isinstance(updates, list) else None
+			'noticias': check_result(news, scraper="news"), #if isinstance(news, list) else None,
+			'novedades': check_result(novelties, scraper="novelties"), #if isinstance(novelties, list) else None,
+			'proximamente': check_result(soon, scraper="soon"), #if isinstance(soon, list) else None,
+			'gratuitos': check_result(free, scraper="free"), #if isinstance(free, list) else None,
+			'actualizaciones': check_result(updates, scraper="updates") #if isinstance(updates, list) else None
 		}
 
 	@classmethod

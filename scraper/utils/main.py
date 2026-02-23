@@ -1,6 +1,5 @@
 import logging, asyncio
-
-from typing import Union, TypeVar, Dict, Any
+from typing import TypeVar, Any
 
 from lxml import html, etree
 
@@ -13,6 +12,7 @@ from bs4 import BeautifulSoup
 
 
 Request = TypeVar("Request", bound=Client)
+AsyncClient = TypeVar("AsyncClient", bound=httpx.AsyncClient)
 Parsed = TypeVar("Parsed", bound=etree.Element)
 HTMLParsed = TypeVar("HTMLParsed", bound=BeautifulSoup)
 
@@ -20,14 +20,7 @@ STATUS_CODE = {
 	"OK": 200
 }
 
-FORMAT = "%(asctime)s %(error)s %(url)s %(message)s"
-
-logging_client = logging.getLogger("client.error")
-handler = logging.StreamHandler()
-formatter = logging.Formatter(FORMAT)
-handler.setFormatter(formatter)
-logging_client.addHandler(handler)
-
+logger = logging.getLogger("client")
 
 class ReadFromWeb:
 	
@@ -47,7 +40,7 @@ class ReadFromWeb:
 				
 				return None
 		except ConnectError as e:
-			logging_client.error("Error en la extracción", extra = {"error": str(e), "url": url})
+			logger.error("Error en la extracción", extra = {"error": str(e), "url": url})
 			return None
 
 
@@ -78,7 +71,7 @@ class AsyncReadFromWeb:
 				
 				return None
 			except ConnectError as e:
-				logging_client.error("Error en la extracción", extra = {"error": str(e), "url": url})
+				logger.error("Error en la extracción", extra = {"error": str(e), "url": url})
 				return None
 
 ASYNC_CLIENT_CONFIG = {
@@ -91,7 +84,7 @@ ASYNC_CLIENT_CONFIG = {
 	"_HEADERS" : {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36  (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
 }
 
-async def async_read_from_web(client, url):
+async def async_read_from_web(client: AsyncClient, url: str) -> HTMLParsed | None:
 	async with ASYNC_CLIENT_CONFIG["_SEMAPHORE"]:
 		try:
 			response = await client.get(url, timeout=ASYNC_CLIENT_CONFIG["_TIMEOUT"])
@@ -105,7 +98,7 @@ async def async_read_from_web(client, url):
 			
 			return None
 		except ConnectError as e:
-			logging_client.error("Error en la extracción", extra = {"error": str(e), "url": url})
+			logger.error("Error en la extracción", extra = {"error": str(e), "url": url})
 			return None
 
 
@@ -134,7 +127,7 @@ class AsyncReadFromFile:
 class DownloadFile:
 
 	@classmethod
-	def init(cls, url: str, path_for_save: str) -> Dict[str, bool | Any ]:
+	def init(cls, url: str, path_for_save: str) -> dict[str, bool | Any ]:
 		html = ReadFromWeb.read(url = url)
 		if not html:
 			return {"state": False, "data": html}
