@@ -1,20 +1,20 @@
-2026-02-27 12:40:15,215 client.scraper True Scraper easport.news ejecutado correctamente
-2026-02-27 12:40:15,215 client.scraper True Scraper easport.novelties ejecutado correctamente
-2026-02-27 12:40:15,216 client.scraper True Scraper easport.soon ejecutado correctamente
-2026-02-27 12:40:15,216 client.scraper True Scraper easport.free ejecutado correctamente
-2026-02-27 12:40:15,216 client.scraper True Scraper easport.updates ejecutado correctamente
-2026-02-27 12:40:18,004 client.scraper True Scraper iracing.cars ejecutado correctamente
-2026-02-27 12:40:18,005 client.scraper True Scraper iracing.tracks ejecutado correctamente
-2026-02-27 12:40:18,005 client.scraper True Scraper iracing.series ejecutado correctamente
-2026-02-27 12:40:18,005 client.scraper True Scraper iracing.seasons ejecutado correctamente
-2026-02-27 12:40:18,005 client.scraper True Scraper iracing.news ejecutado correctamente
-2026-02-27 12:40:25,086 client.scraper  Scraper news.marca ha fallado
-2026-02-27 12:40:25,087 client.scraper True Scraper news.lanacion ejecutado correctamente
-2026-02-27 12:40:25,087 client.scraper True Scraper news.lanacion-tec ejecutado correctamente
-2026-02-27 12:40:25,087 client.scraper None Scraper news.wired-espacio ha fallado
-2026-02-27 12:40:25,087 client.scraper None Scraper news.wired-biotec ha fallado
-2026-02-27 12:40:25,087 client.scraper None Scraper news.wired-neuroc ha fallado
-2026-02-27 12:40:25,087 client.scraper 'NoneType' object has no attribute 'css' Scraper news.wired-robots ha fallado
-2026-02-27 12:40:34,534 client.scraper True Scraper lol.campeones ejecutado correctamente
-2026-02-27 12:40:34,535 client.scraper True Scraper lol.noticias ejecutado correctamente
-2026-02-27 12:40:34,535 client.scraper True Scraper lol.notas ejecutado correctamente
+2026-02-28 12:30:09,327 client.scraper True Scraper easport.news ejecutado correctamente
+2026-02-28 12:30:09,327 client.scraper True Scraper easport.novelties ejecutado correctamente
+2026-02-28 12:30:09,327 client.scraper True Scraper easport.soon ejecutado correctamente
+2026-02-28 12:30:09,327 client.scraper True Scraper easport.free ejecutado correctamente
+2026-02-28 12:30:09,327 client.scraper True Scraper easport.updates ejecutado correctamente
+2026-02-28 12:30:11,910 client.scraper True Scraper news.marca ejecutado correctamente
+2026-02-28 12:30:11,910 client.scraper True Scraper news.lanacion ejecutado correctamente
+2026-02-28 12:30:11,911 client.scraper True Scraper news.lanacion-tec ejecutado correctamente
+2026-02-28 12:30:11,911 client.scraper None Scraper news.wired-espacio ha fallado
+2026-02-28 12:30:11,911 client.scraper None Scraper news.wired-biotec ha fallado
+2026-02-28 12:30:11,911 client.scraper None Scraper news.wired-neuroc ha fallado
+2026-02-28 12:30:11,911 client.scraper 'NoneType' object has no attribute 'css' Scraper news.wired-robots ha fallado
+2026-02-28 12:30:13,160 client.scraper True Scraper iracing.cars ejecutado correctamente
+2026-02-28 12:30:13,161 client.scraper True Scraper iracing.tracks ejecutado correctamente
+2026-02-28 12:30:13,161 client.scraper True Scraper iracing.series ejecutado correctamente
+2026-02-28 12:30:13,161 client.scraper True Scraper iracing.seasons ejecutado correctamente
+2026-02-28 12:30:13,161 client.scraper True Scraper iracing.news ejecutado correctamente
+2026-02-28 12:30:26,239 client.scraper True Scraper lol.campeones ejecutado correctamente
+2026-02-28 12:30:26,239 client.scraper True Scraper lol.noticias ejecutado correctamente
+2026-02-28 12:30:26,239 client.scraper True Scraper lol.notas ejecutado correctamente
