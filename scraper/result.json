@@ -656,6 +656,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "An\u00e1lisis de 007 First Light, un juego agitado, pero no mezclado",
+                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2026/05/26/analisis-007-first-light-juego-agitado-mezclado.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/05/26/6a158dfaee7ac.jpeg",
+                            "meta": "Juegos",
+                            "autor": "MARCOS WAGIH"
+                        },
+                        {
                             "titulo": "Poco f\u00fatbol y muchas risas: La Pachanga Domino's cerr\u00f3 su primera entrega por todo lo alto",
                             "url": "https://www.marca.com/videojuegos/juegos/2026/05/24/poco-futbol-muchas-risas-pachanga-domino-s-cerro-primera-entrega-alto.html",
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/05/23/6a11c42931286.jpeg",
@@ -997,13 +1004,6 @@
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/27/JsAl7y.jpeg",
                             "meta": "Juegos",
                             "autor": "DANIEL CALVO"
-                        },
-                        {
-                            "titulo": "Lo verdaderamente terror\u00edfico es que GTA 6 le vaya a quitar el GOTY. Resident Evil Requiem es tan bueno que asusta",
-                            "url": "https://www.marca.com/videojuegos/juegos/opinion/2026/02/25/verdaderamente-terrorifico-gta-6-le-vaya-quitar-goty-resident-evil-requiem-bueno-asusta.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/02/25/699ef5b1376d6.jpeg",
-                            "meta": "Juegos",
-                            "autor": "MARCOS WAGIH"
                         }
                     ]
                 },
@@ -1226,10 +1226,66 @@
                             "nombre": "la naci\u00f3n tecnolog\u00eda",
                             "pagina": [
                                 {
+                                    "titulo": "Atenci\u00f3n usuarios de smartphones Galaxy. Se termina la integraci\u00f3n de la Galer\u00eda de Samsung con OneDrive",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/se-termina-la-integracion-la-galeria-de-smartphones-samsung-con-onedrive-pero-igual-sera-posible-nid26052026/",
+                                    "url_link": "/tecnologia/se-termina-la-integracion-la-galeria-de-smartphones-samsung-con-onedrive-pero-igual-sera-posible-nid26052026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/el-30-de-septiembre-se-termina-la-vinculacion-L6BHFJBOING3LMRWHJFW5I3MWI.jpg?auth=113cef71755c8f542167bc92e4d260b66af6425d5f37d39d17d3bade4fedcee9&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "26 de mayo de 2026"
+                                },
+                                {
+                                    "titulo": "H\u00e1bitos de uso. Por qu\u00e9 se calienta el cargador del celular y cu\u00e1l es la mejor forma de solucionarlo",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/por-que-se-calienta-el-cargador-del-celular-y-cual-es-la-mejor-forma-de-solucionarlo-nid25052026/",
+                                    "url_link": "/tecnologia/por-que-se-calienta-el-cargador-del-celular-y-cual-es-la-mejor-forma-de-solucionarlo-nid25052026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/los-motivos-por-los-que-se-calienta-el-cargador-L4QS255CTRFXPHYA55L4WOZ3WQ.png?auth=7643089b92a034e014595f2c0fc0dd6dba9e9ff5d872a07f26b49133e81f7fab&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "26 de mayo de 2026"
+                                },
+                                {
+                                    "titulo": "Misterio resuelto. Para qu\u00e9 sirve la \u201crayita\u201d debajo de las teclas F y J del teclado",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/para-que-sirve-la-rayita-debajo-de-las-teclas-f-y-j-del-teclado-nid25052026/",
+                                    "url_link": "/tecnologia/para-que-sirve-la-rayita-debajo-de-las-teclas-f-y-j-del-teclado-nid25052026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/para-que-sirve-la-rayita-con-relive-de-las-teclas-4LT5GL3GFZGXLGI4T42JO5MWLU.png?auth=0d3ae496d4136d7f49b9c8f0ea861f76bc9d8501f2c5c4529f2b8b7e566b3780&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "26 de mayo de 2026"
+                                },
+                                {
+                                    "titulo": "Reconocimiento internacional. Una empresa argentina fue destacada por su uso de la IA para optimizar recursos",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/una-empresa-argentina-fue-destacada-por-su-uso-de-la-ia-para-optimizar-recursos-nid25052026/",
+                                    "url_link": "/tecnologia/una-empresa-argentina-fue-destacada-por-su-uso-de-la-ia-para-optimizar-recursos-nid25052026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/la-empresa-argentina-destacada-por-un-premio-L42ND643GVBUNGF4B7CNDVET7E.jpg?auth=4960ba8b21b97f3e15da91b1e44bfbf2245d082e6a9866da918f428e4542aab8&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de mayo de 2026"
+                                },
+                                {
+                                    "titulo": "AI Overviews. En su nuevo buscador con IA Google confunde palabras con instrucciones",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/un-fallo-en-la-nueva-version-de-ai-overviews-hace-que-google-confunda-palabras-con-instrucciones-nid25052026/",
+                                    "url_link": "/tecnologia/un-fallo-en-la-nueva-version-de-ai-overviews-hace-que-google-confunda-palabras-con-instrucciones-nid25052026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/un-fallo-en-ai-overviews-hace-que-el-buscador-de-WJUDJB6ERRAMLCJQ3MJY52HWGE.jpg?auth=01a7ea5c8ca02d73beb9ff0033bf0320eec04c2e3ca56402cccb40647e7abae3&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de mayo de 2026"
+                                },
+                                {
+                                    "titulo": "Reduce un 75% el precio. DeepSeek aplicar\u00e1 un descuento permanente a su IA m\u00e1s avanzada",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/la-china-deepseek-aplicara-un-descuento-permanente-del-75-al-precio-del-modelo-de-ia-v4-pro-nid25052026/",
+                                    "url_link": "/tecnologia/la-china-deepseek-aplicara-un-descuento-permanente-del-75-al-precio-del-modelo-de-ia-v4-pro-nid25052026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/la-china-deepseek-aplicara-un-descuento-DCSOWMRFAVAY7CP7PQNYOU5PSQ.JPG?auth=4340475e2bc8d4fed2a88e4d1e68048ce935f681fec738483c559d113b723d62&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de mayo de 2026"
+                                },
+                                {
+                                    "titulo": "Hechos con IA. Reclaman medidas a YouTube para que frene los audiolibros piratas",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/youtube-tiene-un-problema-con-la-pirateria-de-audiolibros-nid25052026/",
+                                    "url_link": "/tecnologia/youtube-tiene-un-problema-con-la-pirateria-de-audiolibros-nid25052026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/las-editoriales-reclaman-medidas-a-youtube-para-NVITNAZBWZHNRFZ24ZHYQT6K3I.jpg?auth=1c7bce8b419ebe9d4705a7e2026694df11f0d5138bc3e23db50288f04ecfdb47&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de mayo de 2026"
+                                },
+                                {
+                                    "titulo": "\u00bfLlegar\u00e1n a la Argentina? As\u00ed funcionan los autos que se manejan solos y que pod\u00e9s pedir como taxi en varias ciudades",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/asi-funcionan-los-autos-que-se-manejan-solos-y-que-podes-pedir-como-taxi-en-varias-ciudades-nid25052026/",
+                                    "url_link": "/tecnologia/asi-funcionan-los-autos-que-se-manejan-solos-y-que-podes-pedir-como-taxi-en-varias-ciudades-nid25052026/",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/asi-funcionan-los-autos-que-se-manejan-solos-y-KSQO4EO2K5HUNDARIMANJOJCXQ.jpg?auth=5db08c3ae0216e5d5d9066fa398ab0ff202824fc96db9de80b86fe0c6f5f5656&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de mayo de 2026"
+                                },
+                                {
                                     "titulo": "Seg\u00fan un estudio en 43 pa\u00edses. Los adolescentes de familias con menos recursos sufren m\u00e1s por el uso excesivo del celular",
                                     "url": "https://www.lanacion.com.ar/tecnologia/los-adolescentes-de-familias-con-menos-recursos-sufren-mas-problemas-por-el-uso-excesivo-de-las-nid25052026/",
                                     "url_link": "/tecnologia/los-adolescentes-de-familias-con-menos-recursos-sufren-mas-problemas-por-el-uso-excesivo-de-las-nid25052026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/un-grupo-de-adolescentes-conectados-a-sus-M7O6SZVL2VD3BFQNL46T3563MU.jpg?auth=ea7933d1cba6dd06a11db44b8dc90648a1ad72b6e1cb85a2dad2495e5f204554&width=320&height=213&quality=70&smart=true",
+                                    "imagen": "https://resizer.glanacion.com/resizer/v2/un-grupo-de-adolescentes-conectados-a-sus-M7O6SZVL2VD3BFQNL46T3563MU.jpg?auth=ea7933d1cba6dd06a11db44b8dc90648a1ad72b6e1cb85a2dad2495e5f204554&width=320&height=213&quality=70&smart=true",
                                     "fecha": "25 de mayo de 2026"
                                 },
                                 {
@@ -1237,13 +1293,6 @@
                                     "url": "https://www.lanacion.com.ar/tecnologia/huawei-dice-que-logro-un-diseno-de-chips-que-adelanta-a-la-industria-pese-a-las-sanciones-de-eeuu-nid25052026/",
                                     "url_link": "/tecnologia/huawei-dice-que-logro-un-diseno-de-chips-que-adelanta-a-la-industria-pese-a-las-sanciones-de-eeuu-nid25052026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/huawei-pura-x-max-es-un-smartphone-plegable-con-3O57COGNJZDGXN3PWEXTWSUYFY.jpg?auth=669a60aaf871e94fc155519fc3679249386b32da7bf95389de1f264e1a297d30&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "25 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "H\u00e1bitos de uso. Por qu\u00e9 se calienta el cargador del celular y cu\u00e1l es la mejor forma de solucionarlo",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/por-que-se-calienta-el-cargador-del-celular-y-cual-es-la-mejor-forma-de-solucionarlo-nid25052026/",
-                                    "url_link": "/tecnologia/por-que-se-calienta-el-cargador-del-celular-y-cual-es-la-mejor-forma-de-solucionarlo-nid25052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/los-motivos-por-los-que-se-calienta-el-cargador-L4QS255CTRFXPHYA55L4WOZ3WQ.png?auth=7643089b92a034e014595f2c0fc0dd6dba9e9ff5d872a07f26b49133e81f7fab&width=320&height=213&quality=70&smart=true",
                                     "fecha": "25 de mayo de 2026"
                                 },
                                 {
@@ -1385,55 +1434,6 @@
                                     "url_link": "/tecnologia/meta-despidio-a-8000-empleados-el-10-de-sus-empleados-a-medida-que-aumenta-el-uso-de-la-ia-nid21052026/",
                                     "imagen": "https://resizer.glanacion.com/resizer/v2/archivo-visitantes-toman-fotos-junto-a-un-letrero-RJOI33YVGRHP7MLU2W4RIFBLEQ.jpg?auth=e070eeaedb48e09a8a8fea4cfb1e70391be2f6c5aef2c1b34e721f9a4de83098&width=320&height=213&quality=70&smart=true",
                                     "fecha": "21 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "El mito de la moneda en el router. Por qu\u00e9 el truco m\u00e1s viral de la red podr\u00eda ser el peor enemigo de tu Wi-Fi",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/el-mito-de-la-moneda-en-el-router-por-que-el-truco-mas-viral-de-la-red-podria-ser-el-peor-enemigo-de-nid20052026/",
-                                    "url_link": "/tecnologia/el-mito-de-la-moneda-en-el-router-por-que-el-truco-mas-viral-de-la-red-podria-ser-el-peor-enemigo-de-nid20052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/en-las-redes-sociales-se-viralizo-el-truco-de-CXRQ33HWYBCLFDAY4OQBMRAHYE.png?auth=ce255335aa821665839abcbc984676b4a727beb62b6006be516fecb6e21e9b65&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "20 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "Despu\u00e9s de cinco a\u00f1os de ausencia. Fortnite vuelve a estar disponible en la tienda de Apple en todo el planeta",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/fortnite-vuelve-a-estar-disponible-en-la-tienda-de-apple-en-todo-el-planeta-nid20052026/",
-                                    "url_link": "/tecnologia/fortnite-vuelve-a-estar-disponible-en-la-tienda-de-apple-en-todo-el-planeta-nid20052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/junto-con-la-disponibilidad-a-nivel-global-de-WEKI2KXNVZBUNIGDEUFCKZ4KSM.jpg?auth=c2354304b89da8030533ed5788d25b8c4c11d9d6313feb6eb02f6d99a2b9250a&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "20 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "Marca el momento exacto donde explican lo que necesit\u00e1s. Google present\u00f3 Ask YouTube, un buscador de tutoriales en video",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/google-presento-ask-youtube-un-buscador-de-tutoriales-en-video-potenciado-por-ia-nid20052026/",
-                                    "url_link": "/tecnologia/google-presento-ask-youtube-un-buscador-de-tutoriales-en-video-potenciado-por-ia-nid20052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/ask-youtube-es-el-nuevo-buscador-de-tutoriales-en-2FOVMSI74JA3RA4MJR36BG7Q2U.webp?auth=07863230eb26248ebb559409de18285897128d9e5367d81a1afc5851d2c4984c&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "20 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "Tipo libro. Motorola trae su plegable Razr Fold al pa\u00eds para competir con Samsung y Huawei",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/motorola-trae-su-plegable-razr-fold-al-pais-para-competir-con-samsung-y-huawei-nid20052026/",
-                                    "url_link": "/tecnologia/motorola-trae-su-plegable-razr-fold-al-pais-para-competir-con-samsung-y-huawei-nid20052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/motorola-presento-en-el-pais-su-primer-plegable-ZTQNXYOJS5DZDL2NDTAN2EHK5Q.jpg?auth=f7ad734f92c97ff34c5ce5c6b67db0b7d6f999cff14922810d4582fc85e8bb1f&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "20 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "Desactivar Meta IA. El l\u00edmite que pocos conocen y por qu\u00e9 es importante hacerlo",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/como-se-desactiva-el-meta-ai-de-whatsapp-el-limite-que-pocos-conocen-y-por-que-es-importante-hacerlo-nid18052026/",
-                                    "url_link": "/tecnologia/como-se-desactiva-el-meta-ai-de-whatsapp-el-limite-que-pocos-conocen-y-por-que-es-importante-hacerlo-nid18052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/meta-ai-no-puede-eliminarse-por-4755DISBKNGWBEDPIZFREENTCE.jpg?auth=36591d24dde1a9dec8caf9437eaacbcb6bcf30d20d707a71d7d49c4f5d08971c&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "20 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "Con la IA Gemini integrada. Google present\u00f3 sus nuevos anteojos inteligentes creados con Samsung",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/google-presento-los-anteojos-inteligentes-hechos-con-samsung-para-asediar-el-imperio-de-meta-y-ray-nid20052026/",
-                                    "url_link": "/tecnologia/google-presento-los-anteojos-inteligentes-hechos-con-samsung-para-asediar-el-imperio-de-meta-y-ray-nid20052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/los-anteojos-inteligentes-de-google-y-samsung-2V4CFBWYGNEFFAD4WWWOXJFZ3Y.jpg?auth=8287e607f12ec01598eb38b2d9a5c46bb9c265d41bc00f2829871a5a0df288a2&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "20 de mayo de 2026"
-                                },
-                                {
-                                    "titulo": "Caputo celebr\u00f3 el crecimiento de ventas en el pa\u00eds. Cu\u00e1nto cuesta un iPhone en la Argentina, y c\u00f3mo se compara con EE.UU.",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/cuanto-cuesta-un-iphone-en-la-argentina-el-gobierno-explico-la-baja-de-precios-por-la-rebaja-de-nid20052026/",
-                                    "url_link": "/tecnologia/cuanto-cuesta-un-iphone-en-la-argentina-el-gobierno-explico-la-baja-de-precios-por-la-rebaja-de-nid20052026/",
-                                    "imagen": "https://resizer.glanacion.com/resizer/v2/el-iphone-17-pro-de-256-gb-tiene-un-precio-en-5JIIMDY6TVETBMNRXQOSL3XLUY.JPG?auth=001248acd4c6d416ca2adc6b968974bb7a6168a42fe451232985ed283df2c617&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "20 de mayo de 2026"
                                 }
                             ]
                         }
@@ -1595,6 +1595,12 @@
                             "nombre": "wired neurociencia",
                             "pagina": [
                                 {
+                                    "title": "El estr\u00e9s no solo afecta la memoria, tambi\u00e9n limita tu capacidad de deducci\u00f3n",
+                                    "image": "https://media.es.wired.com/photos/6a14db5aed845492ee999536/3:2/pass/memoria%2520estr%25C3%25A9s%2520aprendizaje%25202234190790.jpg",
+                                    "summary": "Seg\u00fan una nueva investigaci\u00f3n, el estr\u00e9s favorece la separaci\u00f3n de patrones de memoria en lugar de la integraci\u00f3n necesaria para construir conocimiento flexible y realizar deducciones complejas.",
+                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/el-estres-no-solo-afecta-la-memoria-tambien-limita-tu-capacidad-de-deduccion"
+                                },
+                                {
                                     "title": "Hallan el circuito cerebral que define si te apegas a un plan o no cuando las cosas no funcionan",
                                     "image": "https://media.es.wired.com/photos/6a0f76a319d732d9fbfbca8d/3:2/pass/GettyImages-2198323515.jpg",
                                     "summary": "El cerebro decide cu\u00e1ndo insistir y cu\u00e1ndo soltar. Un nuevo estudio revela el circuito que activa ese momento de cambio.",
@@ -1677,18 +1683,18 @@
                                     "image": "https://media.es.wired.com/photos/69d3c5a2679e2861519ec401/3:2/pass/2161269653",
                                     "summary": "Un estudio reciente revela que los signos de Alzheimer aparecen como otros s\u00edntomas m\u00e1s de una d\u00e9cada antes de que a los pacientes se les diagnostique la enfermedad.",
                                     "url": "https://es.wired.com/ciencia/neurociencia/articulos/el-alzheimer-presenta-signos-detectables-incluso-10-anos-antes-de-manifestarse"
-                                },
-                                {
-                                    "title": "Este hombre hace m\u00fasica solo con su mente y un implante cerebral",
-                                    "image": "https://media.es.wired.com/photos/69caa58ff56be8d26bf9ee7d/3:2/pass/This-Man-Is-Using-His-Brain-Implant-to-Make-Music-Galen_and_Deborah_Buckwalter.jpeg",
-                                    "summary": "Galen Buckwalter afirma que las interfaces cerebro-computadora tendr\u00e1n que ser agradables de usar para que la tecnolog\u00eda tenga \u00e9xito.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/este-hombre-hace-musica-solo-con-su-mente-y-un-implante-cerebral"
                                 }
                             ]
                         },
                         {
                             "nombre": "wired biotecnolog\u00eda",
                             "pagina": [
+                                {
+                                    "title": "China lanza embriones artificiales humanos al espacio para investigar si un beb\u00e9 puede desarrollarse en microgravedad",
+                                    "image": "https://media.es.wired.com/photos/6a14c7c420f5de16cd33278c/3:2/pass/GettyImages-1498384521.jpg",
+                                    "summary": "Los embriones no tienen la capacidad de convertirse en individuos, pero funcionan como modelos cient\u00edficos para investigar su desarrollo en el espacio.",
+                                    "url": "https://es.wired.com/ciencia/biotecnologia/articulos/china-lanza-embriones-artificiales-al-espacio-para-investigar-si-los-bebes-pueden-desarrollarse-en-microgravedad"
+                                },
                                 {
                                     "title": "La primera secuenciaci\u00f3n gen\u00e9tica del hantavirus en el MV Hondius confirma transmisi\u00f3n de persona a persona",
                                     "image": "https://media.es.wired.com/photos/6a02346717a6ff1a4cb2427b/3:2/pass/hantavirus%2520crucero%2520genoma%2520mutaciones%25202274698513.jpg",
@@ -1796,18 +1802,24 @@
                                     "image": "https://media.es.wired.com/photos/697b7c8a94e19bd3b94d9287/3:2/pass/ScienceSourceImages_2524088_WebRes.jpg",
                                     "summary": "Gestala es la m\u00e1s reciente empresa surgida de la floreciente industria china de interfaces cerebro-computadora. Su objetivo es acceder al cerebro mediante ultrasonidos no invasivos.",
                                     "url": "https://es.wired.com/ciencia/biotecnologia/articulos/esta-startup-china-quiere-competir-con-neuralink-sin-abrir-tu-cerebro"
-                                },
-                                {
-                                    "title": "Esta nueva IA de Google ayuda a cient\u00edficos a entender mejor el origen gen\u00e9tico de enfermedades raras",
-                                    "image": "https://media.es.wired.com/photos/697a8bfebafe241f9cb86627/3:2/pass/genoma%2520IA%2520Google%2520deepmind%25201337413749.jpg",
-                                    "summary": "AlphaGenome es un modelo de aprendizaje profundo desarrollado por Google DeepMind que puede interpretar secuencias del genoma no codificante y anticipar m\u00faltiples efectos biol\u00f3gicos de manera simult\u00e1nea.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologia/articulos/esta-nueva-ia-de-google-abre-nuevas-vias-para-entender-el-origen-genetico-de-enfermedades-raras"
                                 }
                             ]
                         },
                         {
                             "nombre": "wired espacio",
                             "pagina": [
+                                {
+                                    "title": "Qu\u00e9 son los vac\u00edos c\u00f3smicos y por qu\u00e9 \u201cla nada\u201d del espacio se ha vuelto tan \u00fatil",
+                                    "image": "https://media.es.wired.com/photos/6a149366ed845492ee9990f4/3:2/pass/GettyImages-90532973.jpg",
+                                    "summary": "Los vac\u00edos c\u00f3smicos, antes considerados extensiones vac\u00edas entre galaxias, se est\u00e1n convirtiendo en una de las herramientas m\u00e1s prometedoras para sondear los mayores misterios del universo.",
+                                    "url": "https://es.wired.com/ciencia/espacio/articulos/que-son-los-vacios-cosmicos-y-por-que-la-nada-del-espacio-se-ha-vuelto-tan-util"
+                                },
+                                {
+                                    "title": "China lanza embriones artificiales humanos al espacio para investigar si un beb\u00e9 puede desarrollarse en microgravedad",
+                                    "image": "https://media.es.wired.com/photos/6a14c7c420f5de16cd33278c/3:2/pass/GettyImages-1498384521.jpg",
+                                    "summary": "Los embriones no tienen la capacidad de convertirse en individuos, pero funcionan como modelos cient\u00edficos para investigar su desarrollo en el espacio.",
+                                    "url": "https://es.wired.com/ciencia/espacio/articulos/china-lanza-embriones-artificiales-al-espacio-para-investigar-si-los-bebes-pueden-desarrollarse-en-microgravedad"
+                                },
                                 {
                                     "title": "China lanza misi\u00f3n que pondr\u00e1 a un humano en \u00f3rbita por un a\u00f1o, un paso cr\u00edtico si quiere superar a EE UU en el espacio",
                                     "image": "https://media.es.wired.com/photos/6a1363aa6c24a6ae392426f3/3:2/pass/taikonautas.jpg",
@@ -1915,18 +1927,6 @@
                                     "image": "https://media.es.wired.com/photos/69fa318be9313cddedb52c7c/3:2/pass/20260505-prc-fig-full.jpg",
                                     "summary": "Los objetos transneptunianos abundan, pero este es uno de los primeros en mostrar una tenue atm\u00f3sfera siendo tan peque\u00f1o.",
                                     "url": "https://es.wired.com/ciencia/espacio/articulos/encuentran-un-objeto-imposible-en-los-confines-del-sistema-solar-un-cuerpo-congelado-compacto-y-con-atmosfera-propia"
-                                },
-                                {
-                                    "title": "Trump quiere que Plut\u00f3n vuelva a ser el noveno planeta del Sistema Solar",
-                                    "image": "https://media.es.wired.com/photos/69fa1c37e9313cddedb52c73/3:2/pass/GettyImages-648792438.jpg",
-                                    "summary": "Jared Isaacman, administrador de la NASA, anunci\u00f3 una campa\u00f1a para restablecer la clasificaci\u00f3n original.",
-                                    "url": "https://es.wired.com/ciencia/espacio/articulos/trump-quiere-que-pluton-vuelva-a-ser-el-noveno-planeta-del-sistema-solar"
-                                },
-                                {
-                                    "title": "Una extra\u00f1a estrella podr\u00eda estar escapando de nuestra galaxia a toda velocidad",
-                                    "image": "https://media.es.wired.com/photos/69f8ef8356d17330526cd297/3:2/pass/StarTrails.jpg",
-                                    "summary": "Cient\u00edficos han identificado una estrella muy antigua que viaja a m\u00e1s de 500 km/s desde el centro de la V\u00eda L\u00e1ctea.",
-                                    "url": "https://es.wired.com/ciencia/espacio/articulos/una-extrana-estrella-podria-estar-escapando-de-nuestra-galaxia-a-toda-velocidad"
                                 }
                             ]
                         }
@@ -4865,6 +4865,17 @@
                 "seasons": [],
                 "news": [
                     {
+                        "title": "This Week in iRacing | May 26th to June 1st, 2026",
+                        "url": "https://www.iracing.com/this-week-in-iracing-may-26th-to-june-1st-2026/",
+                        "image": "https://s100.iracing.com/wp-content/uploads/2023/10/ThisWeek_Thumbnail-copy-400x200.jpg",
+                        "author": {
+                            "name": "Justin Melillo",
+                            "url": "https://www.iracing.com/author/jmelillo/"
+                        },
+                        "detail": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at. There are also some special series that run at specific times that anyone can jump into, with the right credentials, that offer a more meaningful sim racing \u2026 ",
+                        "date": "May 25th, 2026"
+                    },
+                    {
                         "title": "THIS WEEK: iRacing 4 Hours at Thruxton Special Event",
                         "url": "https://www.iracing.com/this-week-iracing-4-hours-at-thruxton-special-event-2026/",
                         "image": "https://s100.iracing.com/wp-content/uploads/2026/05/iRSE_4-Hours-at-Thruxton-2-400x200.jpg",
@@ -4961,17 +4972,6 @@
                             "url": "https://www.iracing.com/author/cleone/"
                         },
                         "detail": "iRacing\u2019s Special Event calendar features a selection of the world\u2019s most compelling races across numerous disciplines. Whether you\u2019re interested in stock cars or sports cars, open-wheel formula cars or sprint cars, sticking to pavement or playing in the dirt, running solo or racing with a team of your closest friends, our Special Events have something \u2026 ",
-                        "date": "May 18th, 2026"
-                    },
-                    {
-                        "title": "THIS WEEK: iRacing DTM Series at Zandvoort",
-                        "url": "https://www.iracing.com/this-week-iracing-dtm-series-at-zandvoort-2026/",
-                        "image": "https://s100.iracing.com/wp-content/uploads/2026/04/iracing-dtm-series-feature-400x200.jpg",
-                        "author": {
-                            "name": "Chris Leone",
-                            "url": "https://www.iracing.com/author/cleone/"
-                        },
-                        "detail": "The iRacing DTM Series brings the excitement of one of Germany\u2019s premier road racing championships to iRacing. Races will be spread across Thursday evenings worldwide, with 8PM start times in the AEDT, CET, ET, and PT time zones that enable iRacing community members worldwide to find time to race. Races feature a simple structure designed \u2026 ",
                         "date": "May 18th, 2026"
                     }
                 ]
