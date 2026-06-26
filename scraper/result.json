@@ -708,6 +708,13 @@
                     "nombre": "marca",
                     "pagina": [
                         {
+                            "titulo": "El Circuito Tormenta alcanza su sexta parada y m\u00e1s de 12.000 jugadores registrados",
+                            "url": "https://www.marca.com/videojuegos/juegos/2026/06/25/circuito-tormenta-alcanza-sexta-parada-12-000-jugadores-registrados.html",
+                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/06/25/6a3d6dc30b40b.jpeg",
+                            "meta": "Juegos",
+                            "autor": "\u00c1LVARO P\u00c9REZ"
+                        },
+                        {
                             "titulo": "Nueva pol\u00e9mica con GTA 6: la edici\u00f3n con disco podr\u00eda salir... pero en diciembre",
                             "url": "https://www.marca.com/videojuegos/juegos/2026/06/25/nueva-polemica-gta-6-edicion-disco-podria-salir-diciembre.html",
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/06/25/6a3d0afe6e0c0.png",
@@ -1049,19 +1056,19 @@
                             "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/06/04/6a21357a75c0d.jpeg",
                             "meta": "Juegos",
                             "autor": "\u00c1LVARO P\u00c9REZ"
-                        },
-                        {
-                            "titulo": "Summer Game Fest 2026: fecha, horario y d\u00f3nde ver la conferencia",
-                            "url": "https://www.marca.com/videojuegos/juegos/2026/06/04/summer-game-fest-2026-fecha-horario-ver-conferencia.html",
-                            "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2026/06/02/6a1f1445e4867.jpeg",
-                            "meta": "Juegos",
-                            "autor": "\u00c1LVARO P\u00c9REZ"
                         }
                     ]
                 },
                 {
                     "nombre": "la naci\u00f3n",
                     "pagina": [
+                        {
+                            "titulo": "Estos son los videojuegos gratis de la semana del 25 de junio en Epic Games: solo hay que reclamarlos",
+                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-25-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid25062026/",
+                            "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-25-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid25062026/",
+                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=320&height=213&quality=70&smart=true",
+                            "fecha": "25 de junio de 2026"
+                        },
                         {
                             "titulo": "F1 2025: 2026 Season Pack. Probamos el parche que actualiza el juego de la F\u00f3rmula 1 de este a\u00f1o",
                             "url": "https://www.lanacion.com.ar/tecnologia/probamos-f1-2025-2026-season-pack-el-parche-que-actualiza-el-juego-de-la-formula-1-de-este-ano-nid24062026/",
@@ -1264,19 +1271,68 @@
                             "url_link": "/tecnologia/del-nuevo-god-of-war-al-trailer-de-kemuri-todo-lo-que-adelanto-sony-para-la-playstation-5-nid03062026/",
                             "imagen": "https://www.lanacion.com.ar/resizer/v2/god-of-war-laufey-es-la-nueva-entrega-de-la-saga-E4LQBNA5GRATVDZBV3M7TB4XMU.jpg?auth=26ca4c45fef621cb89400ed234b55cd9a7dbd118bd979a31c2f3a7f83f597f12&width=320&height=213&quality=70&smart=true",
                             "fecha": "3 de junio de 2026"
-                        },
-                        {
-                            "titulo": "Estos son los videojuegos m\u00e1s jugados en Steam al 25 de mayo",
-                            "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-25-de-mayo-nid01062026/",
-                            "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-25-de-mayo-nid01062026/",
-                            "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=320&height=213&quality=70&smart=true",
-                            "fecha": "1 de junio de 2026"
                         }
                     ],
                     "subs": [
                         {
                             "nombre": "la naci\u00f3n tecnolog\u00eda",
                             "pagina": [
+                                {
+                                    "titulo": "\u201cFue una ventana de 30 segundos\". C\u00f3mo Google detect\u00f3 el terremoto y logr\u00f3 alertar a millones de personas en Venezuela",
+                                    "url": "https://www.lanacion.com.ar/economia/IA/como-google-detecto-el-terremoto-y-logro-alertar-a-millones-de-personas-en-venezuela-fue-una-ventana-nid26062026/",
+                                    "url_link": "/economia/IA/como-google-detecto-el-terremoto-y-logro-alertar-a-millones-de-personas-en-venezuela-fue-una-ventana-nid26062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/terremotos-en-venezuela-ya-son-164-los-muertos-y-2JFKT3WOIVDXPH5EQZSXAWXL6I.JPG?auth=abf0a74d4163e8ce7d0dab7198ff9d16c079d99642b3ae6f18d310fb61b65c62&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "26 de junio de 2026"
+                                },
+                                {
+                                    "titulo": "Advertencia. El nuevo modo de seguridad de WhatsApp antes de hablar con un desconocido",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/el-nuevo-modo-de-seguridad-de-whatsapp-antes-de-hablar-con-un-desconocido-nid25062026/",
+                                    "url_link": "/tecnologia/el-nuevo-modo-de-seguridad-de-whatsapp-antes-de-hablar-con-un-desconocido-nid25062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/whatsapp-incorporo-una-nueva-funcion-para-evadir-I2CZOMEYUFA25LYEVWBOZ7NC24.png?auth=5f7853c434a9845bcda6c2d6d609947bb267806b3f4cf30f001f6cbef84f0974&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "26 de junio de 2026"
+                                },
+                                {
+                                    "titulo": "Sesgo del algoritmo. La IA decide qui\u00e9n avanza en una b\u00fasqueda laboral seg\u00fan qu\u00e9 app arm\u00f3 el CV",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/el-nuevo-sesgo-de-la-ia-decide-quien-avanza-en-una-busqueda-laboral-segun-que-app-armo-el-cv-nid25062026/",
+                                    "url_link": "/tecnologia/el-nuevo-sesgo-de-la-ia-decide-quien-avanza-en-una-busqueda-laboral-segun-que-app-armo-el-cv-nid25062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/un-estudio-encontro-que-las-plataformas-de-ia-que-Y7Q44MLTQBBXPDEVYUJ7KRT734.jpg?auth=3c48e0c205fe632e9571c8641fd413fde60a5762d0a96329f90d05083e285dc9&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de junio de 2026"
+                                },
+                                {
+                                    "titulo": "Estos son los videojuegos gratis de la semana del 25 de junio en Epic Games: solo hay que reclamarlos",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-25-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid25062026/",
+                                    "url_link": "/tecnologia/estos-son-los-videojuegos-gratis-de-la-semana-del-25-de-junio-en-epic-games-solo-hay-que-reclamarlos-nid25062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-gratis-de-la-semana-del-U5VZXK6I7ZGT7BITS5WUBTKBJ4.jpg?auth=04032452f057006d80cce47fd6923738179e0ebc5c21573c9542e54201e0e768&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de junio de 2026"
+                                },
+                                {
+                                    "titulo": "Casi un 20 por ciento.Apple aumenta los precios de las Mac y iPad en todo el mundo",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/por-escasez-de-memoria-impulsada-por-la-ia-apple-aumenta-los-precios-de-mac-y-ipad-en-todo-el-mundo-nid25062026/",
+                                    "url_link": "/tecnologia/por-escasez-de-memoria-impulsada-por-la-ia-apple-aumenta-los-precios-de-mac-y-ipad-en-todo-el-mundo-nid25062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/apple-aumento-el-precio-de-sus-computadoras-y-DRZWUMOLHFF6VBIJYW54KJNYGA.jpg?auth=a38bc84c89523e2b0310a4f712d1c6775fb95dc2df086c08e29d75f3444b32bf&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de junio de 2026"
+                                },
+                                {
+                                    "titulo": "\u201cEs posible que sientas temblores\u201d. C\u00f3mo Google alert\u00f3 sobre los terremotos en Venezuela segundos antes del desastre",
+                                    "url": "https://www.lanacion.com.ar/economia/IA/es-posible-que-sientas-temblores-como-google-alerto-sobre-los-terremotos-en-venezuela-segundos-antes-nid25062026/",
+                                    "url_link": "/economia/IA/es-posible-que-sientas-temblores-como-google-alerto-sobre-los-terremotos-en-venezuela-segundos-antes-nid25062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/terremotos-en-venezuela-ya-son-164-los-muertos-y-2JFKT3WOIVDXPH5EQZSXAWXL6I.JPG?auth=abf0a74d4163e8ce7d0dab7198ff9d16c079d99642b3ae6f18d310fb61b65c62&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de junio de 2026"
+                                },
+                                {
+                                    "titulo": "Con 100.000 millones de transistores. Presentan el primer chip con elementos de menos de 1 nan\u00f3metro de la industria",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/ibm-presenta-el-primer-chip-de-menos-de-1-nanometro-con-100000-millones-de-transistores-y-el-tamano-nid25062026/",
+                                    "url_link": "/tecnologia/ibm-presenta-el-primer-chip-de-menos-de-1-nanometro-con-100000-millones-de-transistores-y-el-tamano-nid25062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/ibm-presento-el-primer-chip-fabricado-con-H4RCQMCTNVHQDJ3A32ZSRT4UCQ.jpg?auth=81ec203c1bb1328d5f3d6a80bdcf80d253a0abdc5b087a803f76b9f1a09ca8e2&width=320&height=213&quality=70&smart=false&focal=2149,1491",
+                                    "fecha": "25 de junio de 2026"
+                                },
+                                {
+                                    "titulo": "\u201cEl c\u00edrculo VIP\u201d. Los l\u00edderes de las finanzas, los negocios y la tecnolog\u00eda que est\u00e1n cambiando las reglas de juego",
+                                    "url": "https://www.lanacion.com.ar/tecnologia/los-lideres-de-las-finanzas-los-negocios-y-la-tecnologia-destacados-por-estar-cambiando-las-reglas-nid25062026/",
+                                    "url_link": "/tecnologia/los-lideres-de-las-finanzas-los-negocios-y-la-tecnologia-destacados-por-estar-cambiando-las-reglas-nid25062026/",
+                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/sam-altman-el-ceo-de-openai-elon-musk-el-dueno-de-B7JYKM63P5HXJOEN6P2UOOTPQE.jpg?auth=b0da2236c2b6aa27ecb5b7c82d367e682f6ea9a949418ff20be0b3b696945a8e&width=320&height=213&quality=70&smart=true",
+                                    "fecha": "25 de junio de 2026"
+                                },
                                 {
                                     "titulo": "Recaudaron US$12 millones. La startup argentina que vio el gran problema de la IA y ya conquist\u00f3 a Google",
                                     "url": "https://www.lanacion.com.ar/tecnologia/la-startup-argentina-que-vio-el-gran-problema-de-la-ia-y-ya-conquisto-a-google-nid25062026/",
@@ -1430,62 +1486,6 @@
                                     "url_link": "/tecnologia/estos-son-los-videojuegos-mas-jugados-en-steam-al-21-de-junio-nid22062026/",
                                     "imagen": "https://www.lanacion.com.ar/resizer/v2/estos-son-los-videojuegos-mas-jugados-en-steam-al-6QV2L6ABPRA25D7BSZJ5223KTQ.jpg?auth=4c76c6ef3c6ffed3823b0bf045cb7c9015f82b432f3a9db9a67d7bb627b239ad&width=320&height=213&quality=70&smart=true",
                                     "fecha": "22 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "De qu\u00e9 se trata. El nuevo indicador visual de WhatsApp que revoluciona las conexiones de los usuarios",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/el-nuevo-aviso-visual-de-conexion-de-whatsapp-que-revoluciona-a-los-usuarios-nid20062026/",
-                                    "url_link": "/tecnologia/el-nuevo-aviso-visual-de-conexion-de-whatsapp-que-revoluciona-a-los-usuarios-nid20062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/whatsapp-no-deja-de-sorprender-con-sus-OSIT4ZL2EBDRHAM2YWTCQGUEQU.jpg?auth=fc2d1680f90497911eb2044903ba4f151d7c8288092f2de7d97e458d96252cb7&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "21 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "\u201cRobots cuidando ancianos\u201d. C\u00f3mo podr\u00eda cambiar el trabajo en la Argentina y qu\u00e9 empresas podr\u00edan llegar con la nueva ley que propone Sturzenegger",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/como-podria-cambiar-el-trabajo-en-la-argentina-y-que-empresas-podrian-llegar-con-la-nueva-ley-que-nid19062026/",
-                                    "url_link": "/tecnologia/como-podria-cambiar-el-trabajo-en-la-argentina-y-que-empresas-podrian-llegar-con-la-nueva-ley-que-nid19062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/como-podria-cambiar-el-trabajo-en-la-argentina-y-WT7ERKLT5ZEPPKADC6WOAHMR24.jpg?auth=79bf2fd4abde4edb12a2a02cf062d145387ca973116176058f1fabaacb304ae2&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "19 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "Fin del tokenmaxxing. Las empresas impulsaron el uso intensivo de la IA, pero les est\u00e1 resultando car\u00edsimo",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/las-empresas-impulsaron-el-tokenmaxxing-pero-les-resulto-carisimo-y-ahora-deben-cambiar-de-nid19062026/",
-                                    "url_link": "/tecnologia/las-empresas-impulsaron-el-tokenmaxxing-pero-les-resulto-carisimo-y-ahora-deben-cambiar-de-nid19062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/las-empresas-estan-pasando-del-tokenmaxxing-al-SQCGPHLXEJAHRCFG6XPQBS3XE4.jpg?auth=f64d3816b63fc84d15f1a57934c4a3d0fdccb4283c7fb33f5b38801e3bc785f6&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "19 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "Educaci\u00f3n e IA. Lo que el algoritmo construye en tu hijo mientras vos dorm\u00eds",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/lo-que-el-algoritmo-construye-en-tu-hijo-mientras-vos-dormis-nid19062026/",
-                                    "url_link": "/tecnologia/lo-que-el-algoritmo-construye-en-tu-hijo-mientras-vos-dormis-nid19062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/analizar-y-al-mismo-tiempo-aprovechar-el-impacto-7VKA4EPFOJGOHK7PN22NKN6VXM.jpg?auth=4399c5a8e7161e62dc37ff95b5bb547a3a493c101738681b9ea282b6252e8fe5&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "19 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "Como Reino Unido. Emiratos \u00c1rabes Unidos proh\u00edbe las redes sociales a menores de 15 a\u00f1os en su territorio",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/emiratos-arabes-unidos-prohibe-las-redes-sociales-a-menores-de-15-anos-en-su-territorio-nid19062026/",
-                                    "url_link": "/tecnologia/emiratos-arabes-unidos-prohibe-las-redes-sociales-a-menores-de-15-anos-en-su-territorio-nid19062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/emiratos-arabes-unidos-anuncio-el-jueves-la-LVTOTORDVVHVLDA3GS6JS7YX5Q.jpg?auth=5ea4e340edc027881cf836c05c9918229bf46e142c86dc3c1f0d66dc0214fbb9&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "19 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "Europa compite con Elon Musk. Una nueva red social busca ser la alternativa de X",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/europa-compite-con-elon-musk-una-red-social-busca-ser-la-alternativa-de-x-nid19062026/",
-                                    "url_link": "/tecnologia/europa-compite-con-elon-musk-una-red-social-busca-ser-la-alternativa-de-x-nid19062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/europa-compite-con-elon-musk-una-red-social-busca-YELRMBPQINCKTIYE7OZDLYKQEA.jpg?auth=0c0745d6c0a8042486c4ee415efab97d63690b95e26d954423e2e59658164c07&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "19 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "Accidentes en autopistas. Retiran del mercado cerca de 4000 robotaxis luego de incidentes en EE.UU.",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/retiran-del-mercado-cerca-de-4000-robotaxis-luego-de-incidentes-ocurridos-en-estados-unidos-nid19062026/",
-                                    "url_link": "/tecnologia/retiran-del-mercado-cerca-de-4000-robotaxis-luego-de-incidentes-ocurridos-en-estados-unidos-nid19062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/waymo-retira-del-mercado-cerca-de-4000-robotaxis-TBXIEKT53ZDRFB323B6YE3YDOA.jpg?auth=dd3af45ac5eff8bbf90e91be48c85e5d5a3df54b39fb6bcaa05c3b664c87671c&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "19 de junio de 2026"
-                                },
-                                {
-                                    "titulo": "Para que falle a su favor. Intentaron enga\u00f1ar a la IA que usa la Justicia en Brasil con comandos ocultos en una apelaci\u00f3n",
-                                    "url": "https://www.lanacion.com.ar/tecnologia/como-un-mensaje-oculto-en-una-demanda-intento-enganar-a-una-ia-en-un-tribunal-de-brasil-nid19062026/",
-                                    "url_link": "/tecnologia/como-un-mensaje-oculto-en-una-demanda-intento-enganar-a-una-ia-en-un-tribunal-de-brasil-nid19062026/",
-                                    "imagen": "https://www.lanacion.com.ar/resizer/v2/polemica-en-brasil-por-un-texto-presentado-ante-KR4DTCOMG5E47P335W6N635XME.jpg?auth=bc9d87b5a65c3dd97f53d9c3e8b2ab0a514c6a7ef829d3f6d7fa713e1220227b&width=320&height=213&quality=70&smart=true",
-                                    "fecha": "19 de junio de 2026"
                                 }
                             ]
                         }
@@ -1645,102 +1645,17 @@
                         },
                         {
                             "nombre": "wired neurociencia",
-                            "pagina": [
-                                {
-                                    "title": "Este implante cerebral capaz de detectar c\u00e1ncer ser\u00e1 probado por primera vez",
-                                    "image": "https://media.es.wired.com/photos/6a3a99e972a88b1009b6513e/3:2/pass/science_brain_GettyImages-1124668632.jpg",
-                                    "summary": "La empresa emergente Coherence Neuro est\u00e1 probando una interfaz cerebro-computadora que alg\u00fan d\u00eda podr\u00eda utilizar la estimulaci\u00f3n el\u00e9ctrica para prevenir el crecimiento de tumores.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/este-implante-cerebral-capaz-de-detectar-cancer-sera-probado-por-primera-vez"
-                                },
-                                {
-                                    "title": "Un antiguo circuito cerebral podr\u00eda abrir nuevas v\u00edas para tratar el TDAH y el autismo",
-                                    "image": "https://media.es.wired.com/photos/6a397646a3bbcb6a72827b38/3:2/pass/atenci%25C3%25B3n%2520TDAH%2520cerebro%2520neuronas%25202250746854.jpg",
-                                    "summary": "Una nueva investigaci\u00f3n sugiere que el tronco encef\u00e1lico, una de las estructuras cerebrales m\u00e1s antiguas, podr\u00eda desempe\u00f1ar un papel decisivo en los mecanismos de atenci\u00f3n involucrados en trastornos como el TDAH.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/un-antiguo-circuito-cerebral-podria-abrir-nuevas-vias-para-tratar-el-tdah-y-el-autismo"
-                                },
-                                {
-                                    "title": "El uso intensivo de Instagram podr\u00eda hacerte olvidar qui\u00e9n eres, seg\u00fan la ciencia",
-                                    "image": "https://media.es.wired.com/photos/6a3844f08ca6e3eeaa853d43/3:2/pass/instagrammascara.jpg",
-                                    "summary": "Quienes usan Instagram con mayor frecuencia son m\u00e1s propensos a experimentar ilusiones de autorreconocimiento. Los resultados no prueban que la red social altere la identidad, pero reaviva el debate sobre su influencia en la insatisfacci\u00f3n corporal.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/el-uso-intensivo-de-instagram-podria-hacerte-olvidar-quien-eres-segun-la-ciencia"
-                                },
-                                {
-                                    "title": "Identifican dos subtipos de autismo con diferentes bases biol\u00f3gicas en el cerebro",
-                                    "image": "https://media.es.wired.com/photos/6a3075234f6185a7ce52acac/3:2/pass/autismo%2520subtipos%2520conexiones%2520cerebrales%25202180039271.jpg",
-                                    "summary": "Los resultados de un nuevo estudio refuerzan la premisa de que el autismo no constituye una condici\u00f3n \u00fanica con una sola causa biol\u00f3gica. Varios subtipos del trastorno podr\u00edan estar involucrados.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/identifican-dos-subtipos-de-autismo-con-diferentes-bases-biologicas-en-el-cerebro"
-                                },
-                                {
-                                    "title": "C\u00f3mo lleg\u00f3 la ketamina a convertirse en la droga de nuestro tiempo",
-                                    "image": "https://media.es.wired.com/photos/6a14da86b0771f881cb21415/3:2/pass/WR-Drogas.jpg",
-                                    "summary": "Desde los laboratorios de la Guerra Fr\u00eda hasta los tech bros de Silicon Valley, la ketamina es la sustancia que mejor define nuestra era. Hablamos de ello con Carlo Mazza Galanti, autor de K-Hole: C\u00f3mo la ketamina invent\u00f3 el futuro.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/como-llego-la-ketamina-a-convertirse-en-la-droga-de-nuestro-tiempo"
-                                },
-                                {
-                                    "title": "Elaine Bearer en la UNAM, la cient\u00edfica que encontr\u00f3 una conexi\u00f3n entre m\u00fasica y neurociencia",
-                                    "image": "https://media.es.wired.com/photos/6a127591e1a759a8bf851a17/3:2/pass/ELAINE-BEARER-CONVERSANDO-CON-MU%25CC%2581SICOS_EL-ALEPH-_-UNAM_-FOTO-MAR-ZUNIGA_8-scaled.jpg",
-                                    "summary": "Durante su participaci\u00f3n en El Aleph. Festival de Arte y Ciencia, la compositora y neurocient\u00edfica Elaine Bearer habl\u00f3 sobre la necesidad de abrir caminos para que las disciplinas art\u00edsticas y cient\u00edficas no vivan en cuartos separados.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/elaine-bearer-en-la-unam-la-cientifica-que-encontro-una-conexion-entre-musica-y-neurociencia"
-                                },
-                                {
-                                    "title": "El estr\u00e9s no solo afecta la memoria, tambi\u00e9n limita tu capacidad de deducci\u00f3n",
-                                    "image": "https://media.es.wired.com/photos/6a14db5aed845492ee999536/3:2/pass/memoria%2520estr%25C3%25A9s%2520aprendizaje%25202234190790.jpg",
-                                    "summary": "Seg\u00fan una nueva investigaci\u00f3n, el estr\u00e9s favorece la separaci\u00f3n de patrones de memoria en lugar de la integraci\u00f3n necesaria para construir conocimiento flexible y realizar deducciones complejas.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/el-estres-no-solo-afecta-la-memoria-tambien-limita-tu-capacidad-de-deduccion"
-                                },
-                                {
-                                    "title": "Hallan el circuito cerebral que define si te apegas a un plan o no cuando las cosas no funcionan",
-                                    "image": "https://media.es.wired.com/photos/6a0f76a319d732d9fbfbca8d/3:2/pass/GettyImages-2198323515.jpg",
-                                    "summary": "El cerebro decide cu\u00e1ndo insistir y cu\u00e1ndo soltar. Un nuevo estudio revela el circuito que activa ese momento de cambio.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/hallan-el-circuito-cerebral-que-define-si-te-apegas-a-un-plan-o-no-cuando-las-cosas-no-funcionan"
-                                },
-                                {
-                                    "title": "Escribir a mano podr\u00eda convertirse en una prueba accesible contra el Alzheimer",
-                                    "image": "https://media.es.wired.com/photos/6a0e39e913943f9ea29b47c7/3:2/pass/escritura%2520a%2520mano%2520da%25C3%25B1o%2520cognitivo%25201927400729.jpg",
-                                    "summary": "Escribir a mano es una tarea motora que tambi\u00e9n implica procesos cerebrales relacionados con la memoria de trabajo y el control ejecutivo.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/escribir-a-mano-podria-convertirse-en-una-prueba-accesible-contra-el-alzheimer"
-                                },
-                                {
-                                    "title": "Hacer abdominales ayuda a limpiar tu cerebro, literalmente",
-                                    "image": "https://media.es.wired.com/photos/6a0b3a2e2be662fe19589949/3:2/pass/GettyImages-2213492299.jpg",
-                                    "summary": "Se ha descubierto que las contracciones abdominales pueden ayudar a la circulaci\u00f3n de los fluidos que llenan el cerebro y las \u00e1reas circundantes, lo que podr\u00eda contribuir a la eliminaci\u00f3n de los desechos metab\u00f3licos del cerebro.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/hacer-abdominales-ayuda-a-limpiar-tu-cerebro-literalmente"
-                                },
-                                {
-                                    "title": "El cerebro sigue analizando y anticipando informaci\u00f3n bajo anestesia general y nadie lo sab\u00eda",
-                                    "image": "https://media.es.wired.com/photos/69fd1eedd7c345f849c7d848/3:2/pass/cerebro%2520aprendizaje%2520anestesia%2520234634913%2520(1).jpg",
-                                    "summary": "En la pr\u00e1ctica cl\u00ednica, estos hallazgos podr\u00edan impulsar el desarrollo de nuevas terapias para pacientes en coma o en estado vegetativo a causa de traumatismos craneoencef\u00e1licos graves",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/cerebro-sigue-aprendiendo-y-procesando-informacion-aun-bajo-anestesia-general"
-                                },
-                                {
-                                    "title": "Una IA analiz\u00f3 miles de relatos de sue\u00f1os y encontr\u00f3 que no son aleatorios",
-                                    "image": "https://media.es.wired.com/photos/69fdf835fca74f4f50e1e5b7/3:2/pass/Sleep.jpg",
-                                    "summary": "Los investigadores utilizaron IA para analizar miles de reportes de sue\u00f1os y descubrieron patrones recurrentes relacionados con el estr\u00e9s, la personalidad y la vida de vigilia.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/una-ia-analizo-miles-de-relatos-de-suenos-y-encontro-que-no-son-aleatorios"
-                                },
-                                {
-                                    "title": "El pr\u00f3ximo gran avance contra el Alzheimer requerir\u00e1 algo m\u00e1s que ciencia",
-                                    "image": "https://media.es.wired.com/photos/69f8add385fdc67fc1692bca/3:2/pass/GettyImages-2216286452.jpg",
-                                    "summary": "En WIRED Health, John Hardy, investigador pionero en la enfermedad de Alzheimer, describi\u00f3 los retos, y los pr\u00f3ximos pasos, de la evoluci\u00f3n del tratamiento.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/el-proximo-gran-avance-contra-el-alzheimer-requerira-algo-mas-que-ciencia"
-                                },
-                                {
-                                    "title": "Prep\u00e1rate para una avalancha de dispositivos para escanear el cerebro",
-                                    "image": "https://media.es.wired.com/photos/69f3cdc87830ecdcc2fca7f1/3:2/pass/Brain-Scanning-Texh-Gear-Headset%2520Front%2520Angle%25201.jpg",
-                                    "summary": "Neurable, que fabrica interfaces cerebro-computadora no invasivas, est\u00e1 concediendo licencias de su tecnolog\u00eda y promete una \"avalancha\" de nuevo hardware de terceros este a\u00f1o y el pr\u00f3ximo.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/preparate-para-una-avalancha-de-dispositivos-para-escanear-el-cerebro"
-                                },
-                                {
-                                    "title": "El primer implante cerebral contra la depresi\u00f3n por fin se probar\u00e1 en humanos",
-                                    "image": "https://media.es.wired.com/photos/69efa1819e897c04299e8385/3:2/pass/treatment%2520brain%2520copy.jpg",
-                                    "summary": "Mientras que muchas empresas de interfaces cerebro-computadora se centran en ayudar a personas paral\u00edticas a comunicarse, Motif Neurotech tiene como objetivo los trastornos mentales.",
-                                    "url": "https://es.wired.com/ciencia/neurociencia/articulos/el-primer-implante-cerebral-contra-la-depresion-por-fin-se-probara-en-humanos"
-                                }
-                            ]
+                            "pagina": []
                         },
                         {
                             "nombre": "wired biotecnolog\u00eda",
                             "pagina": [
+                                {
+                                    "title": "EE UU quiere subirse al \u201carca de No\u00e9\u201d de Colossal para salvar especies en peligro",
+                                    "image": "https://media.es.wired.com/photos/6a3d604d1a5bc55e6957b8ff/3:2/pass/USFW_BioVault.png",
+                                    "summary": "Mientras la Administraci\u00f3n Trump intenta debilitar la ley que tiene por objeto proteger a las especies en peligro de extinci\u00f3n, Colossal y el gobierno est\u00e1n creando una \u201cb\u00f3veda biol\u00f3gica\u201d.",
+                                    "url": "https://es.wired.com/ciencia/biotecnologia/articulos/ee-uu-quiere-subirse-al-arca-de-noe-de-colossal-para-salvar-especies-en-peligro"
+                                },
                                 {
                                     "title": "Estas plantas modificadas brillan en la oscuridad y cambian de color cuando detectan un virus",
                                     "image": "https://media.es.wired.com/photos/6a35849661db35d99b1ad8ce/3:2/pass/GettyImages-453595438.jpg",
@@ -1854,18 +1769,18 @@
                                     "image": "https://media.es.wired.com/photos/699c7d55da5fd278776467d0/3:2/pass/864573868",
                                     "summary": "La sustituci\u00f3n de \u00f3rganos dejar\u00e1 de ser la \u00fanica alternativa. La investigaci\u00f3n cient\u00edfica avanza hacia su regeneraci\u00f3n, con el potencial de transformar la medicina de los trasplantes y optimizar la cadena de suministro que la sustenta.",
                                     "url": "https://es.wired.com/ciencia/biotecnologia/articulos/la-revolucion-de-los-organos-que-se-reparan-solos-ya-comenzo"
-                                },
-                                {
-                                    "title": "Una bacteria atrapada en el hielo por 5,000 a\u00f1os podr\u00eda ser la clave para acabar con la resistencia a los antibi\u00f3ticos",
-                                    "image": "https://media.es.wired.com/photos/6994f08507fd072e5e709bf1/3:2/pass/bacteria%2520congelada%2520resistencia%2520bacteriana%2520689745728.jpg",
-                                    "summary": "La cepa Psychrobacter SC65A.3 puede evadir los efectos de 10 antibi\u00f3ticos modernos y alberga m\u00e1s de 100 genes asociados con la resistencia bacteriana.",
-                                    "url": "https://es.wired.com/ciencia/biotecnologia/articulos/una-bacteria-atrapada-en-el-hielo-por-5000-anos-podria-ser-la-clave-para-acabar-con-la-resistencia-a-los-antibioticos"
                                 }
                             ]
                         },
                         {
                             "nombre": "wired espacio",
                             "pagina": [
+                                {
+                                    "title": "C\u00f3mo ver el asteroide gigante que pasar\u00e1 cerca de la Tierra este fin de semana, y que no volver\u00e1 en siglos",
+                                    "image": "https://media.es.wired.com/photos/6a3dac3095ffcb3c7418b2ff/3:2/pass/GettyImages-160936161.jpg",
+                                    "summary": "El asteroide podr\u00e1 observarse durante varias noches desde distintos puntos del mundo. Te contamos cu\u00e1ndo, d\u00f3nde mirar y qu\u00e9 equipo necesitas para encontrarlo.",
+                                    "url": "https://es.wired.com/ciencia/espacio/articulos/como-ver-el-asteroide-gigante-que-pasara-cerca-de-la-tierra-este-fin-de-semana-y-que-no-volvera-en-siglos"
+                                },
                                 {
                                     "title": "Por fin sabemos qu\u00e9 est\u00e1 produciendo estas misteriosas se\u00f1ales de radio provenientes del espacio exterior",
                                     "image": "https://media.es.wired.com/photos/6a3ad645e76029c3cf66aa94/3:2/pass/cq5dam.web.440.538.2x.jpeg",
@@ -1979,12 +1894,6 @@
                                     "image": "https://media.es.wired.com/photos/6a1de22d9f115adf2a161d52/3:2/pass/sistema%2520solar.jpg",
                                     "summary": "Nuevas simulaciones revelan que las lunas de Urano podr\u00edan conservar huellas de los planetas gigantes que el sistema solar habr\u00eda expulsado hace miles de millones de a\u00f1os.",
                                     "url": "https://es.wired.com/ciencia/espacio/articulos/al-sistema-solar-le-faltan-al-menos-dos-planetas-y-en-las-lunas-de-urano-podrian-estar-las-pistas-para-encontrarlos"
-                                },
-                                {
-                                    "title": "Quiz\u00e1 nadie necesite la energ\u00eda oscura despu\u00e9s de todo, sugiere una nueva investigaci\u00f3n",
-                                    "image": "https://media.es.wired.com/photos/6a19ee2767042c7944a48e9f/3:2/pass/WR-Energiaoscura.jpg",
-                                    "summary": "Seg\u00fan un nuevo art\u00edculo, la expansi\u00f3n acelerada del universo podr\u00eda producirse por una inestabilidad intr\u00ednseca del propio espacio-tiempo.",
-                                    "url": "https://es.wired.com/ciencia/espacio/articulos/quiza-nadie-necesite-la-energia-oscura"
                                 }
                             ]
                         }
